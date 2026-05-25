@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Barbara's Morning Page</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>emailjs.init('To5e32R6X29PvLHUN');</script>
+<script>
+// ── LOAD DAILY CONTENT FROM content.json ──────────────────────────────────
+async function loadDailyContent() {
+  try {
+    const res = await fetch('content.json?v=' + Date.now());
+    if (!res.ok) return; // fall back to hardcoded if file not found
+    const c = await res.json();
+
+    // Header
+    if (c.date_display) document.getElementById('date-display').textContent = c.date_display;
+
+    // Quote
+    if (c.quote) {
+      document.getElementById('quote-text').textContent = '\u201c' + c.quote.text + '\u201d';
+      document.getElementById('quote-attr').textContent = '\u2014 ' + c.quote.author;
+    }
+
+    // Fun fact
+    if (c.fun_fact) {
+      document.getElementById('fun-fact-text').textContent = c.fun_fact.text;
+      document.getElementById('fun-fact-tag').textContent = c.fun_fact.tag;
+    }
+
+    // Reads
+    if (c.short_read)  populateRead('short',  c.short_read);
+    if (c.medium_read) populateRead('medium', c.medium_read);
+    if (c.long_read)   populateRead('long',   c.long_read);
+
+    // Port Angeles
+    if (c.port_angeles) {
+      const pa = c.port_angeles;
+      document.getElementById('pa-icon').textContent = pa.icon;
+      document.getElementById('pa-title').textContent = pa.title;
+      document.getElementById('pa-desc').textContent = pa.description;
+      const paLink = document.getElementById('pa-link');
+      paLink.textContent = pa.link_text;
+      paLink.href = pa.link_url;
+    }
+
+    // Puzzles
+    if (c.puzzle_1) loadPuzzle1(c.puzzle_1);
+    if (c.puzzle_2) loadPuzzle2(c.puzzle_2);
+    if (c.puzzle_3) loadPuzzle3(c.puzzle_3);
+
+    // Game
+    if (c.game) {
+      document.getElementById('game-icon').textContent = c.game.icon;
+      document.getElementById('game-title').textContent = c.game.title;
+      document.getElementById('game-desc').textContent = c.game.description;
+      document.getElementById('game-btn').href = c.game.url;
+    }
+
+    // Laundry banner
+    if (c.is_laundry_day) {
+      document.getElementById('laundry-banner').style.display = 'flex';
+    }
+
+  } catch(e) {
+    console.log('Using hardcoded content (content.json not found):', e.message);
+  }
+}
+
+function populateRead(id, data) {
+  document.getElementById(id+'-meta').textContent = data.meta;
+  document.getElementById(id+'-title').textContent = data.title;
+  document.getElementById(id+'-teaser').textContent = data.teaser;
+  const btn = document.getElementById(id+'-readbtn');
+  if (btn) btn.onclick = () => window.open(data.url, '_blank');
+  // Store for save button
+  const saveBtn = document.getElementById(id+'-savebtn');
+  if (saveBtn) {
+    saveBtn.onclick = () => saveRead(saveBtn, data.meta, data.title, data.url);
+  }
+}
+
+// Dynamic puzzle state
+let p1Data = null, p2Data = null, p3Data = null;
+
+function loadPuzzle1(d) {
+  p1Data = d;
+  document.getElementById('p1-question').textContent = '1. ' + d.question;
+}
+function loadPuzzle2(d) {
+  p2Data = d;
+  document.getElementById('p2-question').textContent = '2. ' + d.question;
+  const grid = document.getElementById('p2-grid');
+  grid.innerHTML = '';
+  d.options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'mc-btn';
+    btn.textContent = opt;
+    btn.onclick = () => checkMcDynamic(btn, i === d.correct_index, d);
+    grid.appendChild(btn);
+  });
+}
+function loadPuzzle3(d) {
+  p3Data = d;
+  document.getElementById('p3-question').textContent = '3. ' + d.question;
+  const choices = document.getElementById('p3-choices');
+  choices.innerHTML = '';
+  d.options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'trivia-btn';
+    btn.textContent = opt;
+    btn.onclick = () => checkTriviaDynamic(btn, i === d.correct_index, d);
+    choices.appendChild(btn);
+  });
+}
+
+loadDailyContent();
+</script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Nunito:wght@400;500;600&display=swap');
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── PAGES ── */
+.page { display: none; font-family: 'Nunito', sans-serif; color: #3D2B1F; background: #FEF9F2; min-height: 100vh; }
+.page.active { display: block; }
+
+/* ── HEADER ── */
+.portal-header { background: #E8724A; padding: 24px 40px 22px; display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 24px; }
+.portal-header h1 { font-family: 'Lora', serif; font-size: 28px; font-weight: 400; color: #fff; margin: 0 0 10px; }
+.header-quote { font-family: 'Lora', serif; font-size: 15px; font-style: italic; color: rgba(255,255,255,0.88); margin: 0 0 3px; line-height: 1.5; }
+.header-quote-attr { font-size: 12px; color: rgba(255,255,255,0.62); margin: 0; }
+.weather-chip { background: rgba(255,255,255,0.18); border-radius: 24px; padding: 8px 16px; color: #fff; font-size: 14px; display: flex; align-items: center; gap: 6px; white-space: nowrap; margin-top: 4px; }
+
+/* ── LAUNDRY BANNER ── */
+.laundry-banner { background: #FFF3CD; border-bottom: 2px solid #F0C040; padding: 14px 40px; display: flex; align-items: center; gap: 14px; }
+.laundry-banner-text { font-size: 15px; font-weight: 600; color: #7A5000; }
+.laundry-banner-sub { font-size: 13px; color: #9A7020; margin-top: 2px; }
+
+/* ── BODY GRID ── */
+.portal-body { padding: 28px 32px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.card { background: #fff; border-radius: 18px; border: 1.5px solid #F2E8D8; padding: 22px 24px; }
+.card.full { grid-column: 1 / -1; }
+.section-label { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #B88B6A; margin: 0 0 14px; }
+
+/* ── READS ── */
+.read-item { background: #FEF4EC; border-radius: 12px; padding: 15px 17px; margin-bottom: 10px; }
+.read-item:last-child { margin-bottom: 0; }
+.read-meta { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C8895A; margin: 0 0 5px; }
+.read-title { font-family: 'Lora', serif; font-size: 15px; color: #3D2B1F; margin: 0 0 6px; line-height: 1.4; }
+.read-teaser { font-size: 13px; color: #7A5C44; line-height: 1.6; margin: 0 0 12px; }
+.read-actions { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.read-btn { background: #E8724A; color: #fff; border: none; border-radius: 9px; padding: 7px 15px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.read-btn:hover { background: #D4613B; }
+.save-btn { background: #fff; color: #B88B6A; border: 1.5px solid #E2D5C5; border-radius: 9px; padding: 7px 14px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 5px; transition: border-color 0.15s; }
+.save-btn:hover { border-color: #E8724A; color: #C8501A; }
+.save-btn.saved { border-color: #5DAA7A; color: #2A7250; background: #EDFAF2; cursor: default; }
+
+/* ── FUN FACT ── */
+.fun-fact-text { font-size: 15px; color: #5C4030; line-height: 1.7; margin: 0; }
+.fun-fact-tag { display: inline-block; margin-top: 12px; font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C8895A; background: #FEF4EC; border-radius: 20px; padding: 4px 12px; }
+
+/* ── PUZZLES ── */
+.puzzle-q { font-family: 'Lora', serif; font-size: 16px; color: #3D2B1F; margin: 0 0 14px; line-height: 1.5; }
+.puzzle-divider { border: none; border-top: 1.5px solid #F2E8D8; margin: 20px 0; }
+.fitb-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.fitb-input { font-family: 'Nunito', sans-serif; font-size: 17px; border: 2px solid #D4BFA8; border-radius: 10px; padding: 7px 12px; width: 100px; color: #3D2B1F; background: #FEF4EC; outline: none; text-align: center; }
+.fitb-input:focus { border-color: #E8724A; }
+.puzzle-submit { background: #E8724A; color: #fff; border: none; border-radius: 10px; padding: 8px 18px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.puzzle-submit:hover { background: #D4613B; }
+.fitb-feedback { font-size: 13px; margin: 10px 0 0; line-height: 1.5; min-height: 18px; }
+.fb-correct { color: #2A7250; font-weight: 600; }
+.fb-close { color: #B88B6A; }
+.fb-wrong { color: #7A5C44; }
+.mc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.mc-btn { background: #FEF4EC; border: 1.5px solid #D4BFA8; border-radius: 11px; padding: 11px 14px; font-size: 14px; font-family: 'Nunito', sans-serif; color: #3D2B1F; cursor: pointer; text-align: center; font-weight: 500; transition: border-color 0.15s; }
+.mc-btn:hover { border-color: #E8724A; background: #FEF0E6; }
+.mc-btn.correct { border-color: #5DAA7A; background: #EDFAF2; color: #2A7250; font-weight: 600; }
+.mc-btn.wrong { border-color: #D85A30; background: #FEF0EC; color: #99390F; }
+.mc-btn.revealed { border-color: #5DAA7A; background: #EDFAF2; color: #2A7250; }
+.trivia-choices { display: flex; flex-direction: column; gap: 7px; }
+.trivia-btn { background: #FEF4EC; border: 1.5px solid #D4BFA8; border-radius: 11px; padding: 10px 14px; font-size: 14px; font-family: 'Nunito', sans-serif; color: #3D2B1F; cursor: pointer; text-align: left; transition: border-color 0.15s; }
+.trivia-btn:hover { border-color: #E8724A; background: #FEF0E6; }
+.trivia-btn.correct { border-color: #5DAA7A; background: #EDFAF2; color: #2A7250; font-weight: 600; }
+.trivia-btn.wrong { border-color: #D85A30; background: #FEF0EC; color: #99390F; }
+.trivia-btn.revealed { border-color: #5DAA7A; background: #EDFAF2; color: #2A7250; }
+.result-box { display: none; margin: 12px 0 0; background: #FEF4EC; border-radius: 11px; padding: 12px 15px; }
+.result-box.visible { display: block; }
+.result-note { font-size: 13px; color: #5C4030; line-height: 1.6; margin: 0 0 9px; }
+.result-link { display: inline-flex; align-items: center; gap: 5px; background: #fff; border: 1.5px solid #E2CDB8; border-radius: 9px; padding: 7px 12px; font-size: 12px; font-weight: 600; color: #C8501A; text-decoration: none; }
+.result-link:hover { border-color: #E8724A; background: #FEF0E6; }
+
+/* ── MEMORY LANE ── */
+.memory-strip { display: flex; gap: 12px; }
+.memory-item { flex: 1; }
+.memory-photo { aspect-ratio: 4/3; border-radius: 10px; display: flex; align-items: center; justify-content: center; }
+.photo-placeholder { display: flex; flex-direction: column; align-items: center; gap: 4px; color: #B8A088; }
+.photo-placeholder i { font-size: 26px; }
+.photo-placeholder span { font-size: 10px; }
+.memory-caption { font-size: 12px; color: #8C6A50; margin: 7px 0 0; font-style: italic; }
+.photos-note { margin: 14px 0 0; font-size: 13px; color: #C8A882; font-style: italic; display: flex; align-items: center; gap: 6px; }
+
+/* ── PORT ANGELES ── */
+.pa-item { background: #F0F7F4; border-radius: 14px; padding: 18px 20px; display: flex; gap: 16px; align-items: flex-start; }
+.pa-icon { font-size: 28px; flex-shrink: 0; margin-top: 2px; }
+.pa-item-title { font-family: 'Lora', serif; font-size: 16px; font-weight: 500; color: #2A5C44; margin: 0 0 6px; line-height: 1.3; }
+.pa-item-desc { font-size: 14px; color: #4A7060; line-height: 1.6; margin: 0 0 10px; }
+.pa-link { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; font-weight: 600; color: #1D6E50; text-decoration: none; }
+.pa-link:hover { text-decoration: underline; }
+
+/* ── PARK VIEW ── */
+.pv-day-group { margin-bottom: 18px; }
+.pv-day-group:last-child { margin-bottom: 0; }
+.pv-day-label { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #4A6FA5; margin: 0 0 8px; padding-bottom: 5px; border-bottom: 1.5px solid #E8EEF8; }
+.pv-event { display: flex; align-items: flex-start; gap: 12px; padding: 9px 12px; background: #F0F4FA; border-radius: 10px; margin-bottom: 6px; }
+.pv-event:last-child { margin-bottom: 0; }
+.pv-event-icon { font-size: 18px; flex-shrink: 0; }
+.pv-event-time { font-size: 12px; font-weight: 600; color: #4A6FA5; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
+.pv-event-name { font-size: 14px; color: #3D2B1F; line-height: 1.4; }
+.pv-event-tag { display: inline-block; font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; border-radius: 6px; padding: 2px 7px; margin-left: 6px; vertical-align: middle; }
+.tag-outing { background: #E8F4EC; color: #2A7250; }
+.tag-music  { background: #F0EBF8; color: #6A3FA5; }
+.tag-event  { background: #E8EEF8; color: #2A4A8C; }
+.pv-footer { margin-top: 16px; padding-top: 14px; border-top: 1.5px solid #F2E8D8; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+.pv-note { font-size: 12px; color: #8C6A50; font-style: italic; }
+.pv-full-btn { display: inline-flex; align-items: center; gap: 5px; background: #4A6FA5; color: #fff; border: none; border-radius: 10px; padding: 8px 16px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.pv-full-btn:hover { background: #3A5A8C; }
+
+/* ── WATER & MEALS ── */
+.tracker-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.tracker-section { }
+.tracker-label { font-size: 13px; font-weight: 600; color: #7A5C44; margin: 0 0 10px; }
+.water-btns { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+.water-btn { background: #EBF4FB; border: 1.5px solid #B8D8F0; border-radius: 10px; padding: 8px 14px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; color: #2A5C8C; cursor: pointer; display: flex; align-items: center; gap: 5px; transition: background 0.15s; }
+.water-btn:hover { background: #D4ECF8; }
+.water-count { font-size: 22px; font-weight: 600; color: #2A5C8C; display: flex; align-items: center; gap: 8px; }
+.water-count span { font-size: 13px; color: #7A9CB8; font-weight: 400; }
+.water-reset { background: none; border: none; font-size: 11px; color: #B8A088; cursor: pointer; text-decoration: underline; font-family: 'Nunito', sans-serif; margin-top: 6px; display: block; }
+.meal-checks { display: flex; flex-direction: column; gap: 10px; }
+.meal-check-btn { display: flex; align-items: center; gap: 10px; background: #F5F5F0; border: 1.5px solid #E2D8C8; border-radius: 12px; padding: 11px 16px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; color: #5C4030; cursor: pointer; transition: all 0.15s; text-align: left; }
+.meal-check-btn:hover { border-color: #C8895A; background: #FEF4EC; }
+.meal-check-btn.checked { border-color: #5DAA7A; background: #EDFAF2; color: #2A7250; }
+.meal-check-btn .check-icon { font-size: 18px; flex-shrink: 0; }
+
+/* ── BUBBLE GAME ── */
+.game-item { background: #FEF4EC; border-radius: 12px; padding: 16px 18px; display: flex; align-items: center; gap: 16px; }
+.game-icon { font-size: 32px; flex-shrink: 0; }
+.game-title { font-family: 'Lora', serif; font-size: 15px; color: #3D2B1F; margin: 0 0 4px; }
+.game-desc { font-size: 13px; color: #8C6A50; margin: 0 0 10px; line-height: 1.5; }
+.game-btn { background: #E8724A; color: #fff; border: none; border-radius: 9px; padding: 8px 16px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-block; }
+.game-btn:hover { background: #D4613B; }
+
+/* ── MOOD ── */
+.mood-footer { grid-column: 1 / -1; background: #FEF4EC; border-radius: 14px; border: 1.5px solid #F2E8D8; padding: 16px 24px; }
+.mood-top { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.mood-footer-label { font-size: 12px; color: #B88B6A; white-space: nowrap; flex-shrink: 0; }
+.mood-row-small { display: flex; gap: 8px; flex-wrap: wrap; }
+.mood-btn-small { display: flex; align-items: center; gap: 5px; background: #fff; border: 1.5px solid #E2D5C5; border-radius: 20px; padding: 5px 13px; cursor: pointer; font-size: 13px; color: #7A5C44; font-family: 'Nunito', sans-serif; transition: border-color 0.15s; }
+.mood-btn-small:hover { border-color: #E8724A; }
+.mood-btn-small.selected { border-color: #E8724A; background: #FDE8D8; color: #C8501A; }
+.mood-btn-small .emoji { font-size: 15px; }
+.mood-confirm-btn { background: #E8724A; color: #fff; border: none; border-radius: 20px; padding: 5px 16px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; margin-left: auto; }
+.mood-confirm-btn:hover { background: #D4613B; }
+.mood-confirm-btn:disabled { background: #D4BFA8; cursor: default; }
+.mood-status { font-size: 12px; color: #2A7250; margin: 10px 0 0; display: none; font-weight: 600; }
+.mood-status.visible { display: block; }
+.mood-history { margin-top: 14px; border-top: 1px solid #F2E8D8; padding-top: 12px; display: none; }
+.mood-history.visible { display: block; }
+.mood-history-label { font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #B88B6A; margin: 0 0 8px; }
+.mood-history-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.mood-pip { font-size: 12px; color: #8C6A50; background: #fff; border: 1px solid #E2D5C5; border-radius: 10px; padding: 3px 10px; }
+
+/* ── PAGE FOOTER ── */
+.page-footer { margin: 4px 32px 32px; background: #fff; border-radius: 18px; border: 1.5px solid #F2E8D8; padding: 20px 28px; display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+.page-footer-text { font-family: 'Lora', serif; font-size: 15px; font-style: italic; color: #8C6A50; margin: 0; line-height: 1.7; }
+.contact-link { display: inline-flex; align-items: center; gap: 7px; background: #E8724A; color: #fff; text-decoration: none; border-radius: 12px; padding: 10px 20px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; white-space: nowrap; flex-shrink: 0; }
+.contact-link:hover { background: #D4613B; }
+
+/* ── PV MODAL ── */
+.modal-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45); z-index: 200; align-items: flex-start; justify-content: center; padding: 32px 16px; overflow-y: auto; }
+.modal-overlay.open { display: flex; }
+.modal { background: #fff; border-radius: 20px; width: 100%; max-width: 680px; overflow: hidden; }
+.modal-header { background: #4A6FA5; padding: 22px 28px; display: flex; align-items: center; justify-content: space-between; }
+.modal-header h2 { font-family: 'Lora', serif; font-size: 20px; font-weight: 400; color: #fff; margin: 0; }
+.modal-close { background: rgba(255,255,255,0.2); border: none; color: #fff; font-size: 22px; border-radius: 50%; width: 36px; height: 36px; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+.modal-close:hover { background: rgba(255,255,255,0.35); }
+.modal-body { padding: 24px 28px; max-height: 70vh; overflow-y: auto; }
+.modal-tabs { display: flex; gap: 8px; margin-bottom: 20px; }
+.modal-tab { background: #F0F4FA; border: 1.5px solid #D8E2F0; border-radius: 20px; padding: 6px 16px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; color: #4A6FA5; cursor: pointer; }
+.modal-tab.active { background: #4A6FA5; color: #fff; border-color: #4A6FA5; }
+.modal-section { display: none; }
+.modal-section.active { display: block; }
+.modal-day { margin-bottom: 20px; }
+.modal-day-label { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #4A6FA5; margin: 0 0 8px; padding-bottom: 5px; border-bottom: 1.5px solid #E8EEF8; }
+.modal-event { display: flex; gap: 12px; padding: 8px 0; border-bottom: 1px solid #F5F5F5; }
+.modal-event:last-child { border-bottom: none; }
+.modal-event-time { font-size: 13px; font-weight: 600; color: #4A6FA5; width: 90px; flex-shrink: 0; }
+.modal-event-name { font-size: 14px; color: #3D2B1F; line-height: 1.4; }
+
+/* ── FAVORITES PAGE ── */
+.faves-header { background: #E8724A; padding: 28px 40px; }
+.faves-header h1 { font-family: 'Lora', serif; font-size: 28px; font-weight: 400; color: #fff; margin: 0 0 20px; }
+.home-btn { display: inline-flex; align-items: center; gap: 10px; background: #fff; color: #E8724A; border: none; border-radius: 14px; padding: 14px 28px; font-size: 17px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.home-btn:hover { background: #FEF0E6; }
+.faves-body { padding: 32px 40px; }
+.faves-empty { font-family: 'Lora', serif; font-size: 17px; font-style: italic; color: #C8A882; margin: 0 0 32px; }
+.fave-item { background: #fff; border-radius: 16px; border: 1.5px solid #F2E8D8; padding: 18px 22px; margin-bottom: 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.fave-meta { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C8895A; margin: 0 0 5px; }
+.fave-title { font-family: 'Lora', serif; font-size: 16px; color: #3D2B1F; margin: 0 0 5px; line-height: 1.4; }
+.fave-date { font-size: 12px; color: #B88B6A; margin: 0; }
+.fave-actions { display: flex; flex-direction: column; gap: 8px; align-items: flex-end; flex-shrink: 0; }
+.fave-read-btn { background: #E8724A; color: #fff; border: none; border-radius: 10px; padding: 9px 18px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.fave-read-btn:hover { background: #D4613B; }
+.fave-remove-btn { background: #fff; color: #B88B6A; border: 1.5px solid #E2D5C5; border-radius: 10px; padding: 7px 14px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.fave-remove-btn:hover { border-color: #D85A30; color: #D85A30; }
+.home-btn-bottom { display: flex; justify-content: center; margin-top: 32px; }
+.home-btn-lg { display: inline-flex; align-items: center; gap: 10px; background: #E8724A; color: #fff; border: none; border-radius: 16px; padding: 18px 40px; font-size: 20px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
+.home-btn-lg:hover { background: #D4613B; }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════ -->
+<!--              HOME PAGE                -->
+<!-- ══════════════════════════════════════ -->
+<div class="page active" id="page-home">
+
+  <div class="portal-header">
+    <div>
+      <h1>Good morning, Barbara ☀️</h1>
+      <p class="header-quote" id="quote-text">"In the middle of difficulty lies opportunity."</p>
+      <p class="header-quote-attr" id="quote-attr">— Albert Einstein</p>
+    </div>
+    <div class="weather-chip" id="weather-chip"><i class="ti ti-cloud-sun"></i> 62° · Partly cloudy in Port Angeles</div>
+  </div>
+
+  <!-- Laundry banner — shown only on laundry Sundays -->
+  <div class="laundry-banner" id="laundry-banner" style="display:none;">
+    <span style="font-size:28px;">🧺</span>
+    <div>
+      <div class="laundry-banner-text">Laundry day reminder!</div>
+      <div class="laundry-banner-sub">Don't forget to set your laundry out today.</div>
+    </div>
+  </div>
+
+  <div class="portal-body">
+
+    <!-- Short read -->
+    <div class="card">
+      <div class="section-label">Short read 📖</div>
+      <div class="read-item">
+        <div class="read-meta" id="short-meta">5 min · Nature</div>
+        <p class="read-title" id="short-title">The Hummingbird That Travels Thousands of Miles — and Never Gets Lost</p>
+        <p class="read-teaser" id="short-teaser">Every year, the tiny rufous hummingbird makes an astonishing journey across North America, guided by nothing but instinct and memory...</p>
+        <div class="read-actions">
+          <button class="read-btn" id="short-readbtn" onclick="window.open('https://example.com/hummingbird','_blank')">Read the story →</button>
+          <button class="save-btn" id="short-savebtn" onclick="saveRead(this,'5 min · Nature','The Hummingbird That Travels Thousands of Miles — and Never Gets Lost','https://example.com/hummingbird')"><i class="ti ti-bookmark"></i> I want to save this</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fun fact -->
+    <div class="card">
+      <div class="section-label">Fun fact of the day 💡</div>
+      <p class="fun-fact-text" id="fun-fact-text">In Hungary, it's traditional to wish someone a happy birthday only on the day itself — never before. Saying it early is considered bad luck, a custom that dates back centuries.</p>
+      <span class="fun-fact-tag" id="fun-fact-tag">Hungarian culture</span>
+    </div>
+
+    <!-- Medium read -->
+    <div class="card">
+      <div class="section-label">Medium read 📰</div>
+      <div class="read-item">
+        <div class="read-meta" id="medium-meta">15 min · History</div>
+        <p class="read-title" id="medium-title">The Women Who Coded the First Computers — and Were Nearly Forgotten</p>
+        <p class="read-teaser" id="medium-teaser">In the 1940s, six women programmed ENIAC, one of the world's first electronic computers. Their contributions were hidden for decades until one researcher went looking...</p>
+        <div class="read-actions">
+          <button class="read-btn" id="medium-readbtn" onclick="window.open('https://example.com/eniac','_blank')">Read the story →</button>
+          <button class="save-btn" id="medium-savebtn" onclick="saveRead(this,'15 min · History','The Women Who Coded the First Computers — and Were Nearly Forgotten','https://example.com/eniac')"><i class="ti ti-bookmark"></i> I want to save this</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Long read -->
+    <div class="card">
+      <div class="section-label">Long read ☕</div>
+      <div class="read-item">
+        <div class="read-meta" id="long-meta">35 min · Travel & Culture</div>
+        <p class="read-title" id="long-title">The Last Villages of the Hungarian Plain: A Journey Through a Vanishing World</p>
+        <p class="read-teaser" id="long-teaser">A writer travels through the small towns of the Hungarian countryside, discovering folk art, paprika fields, and deep family memory slowly fading from the modern world...</p>
+        <div class="read-actions">
+          <button class="read-btn" id="long-readbtn" onclick="window.open('https://example.com/hungary','_blank')">Read the story →</button>
+          <button class="save-btn" id="long-savebtn" onclick="saveRead(this,'35 min · Travel & Culture','The Last Villages of the Hungarian Plain: A Journey Through a Vanishing World','https://example.com/hungary')"><i class="ti ti-bookmark"></i> I want to save this</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Puzzles -->
+    <div class="card full">
+      <div class="section-label">Today's puzzles 🧩</div>
+      <p class="puzzle-q" id="p1-question">1. A cat sleeps an average of ___ hours a day.</p>
+      <div class="fitb-row">
+        <input class="fitb-input" id="fitb-input" type="text" placeholder="?" />
+        <button class="puzzle-submit" id="fitb-btn" onclick="checkFitb()">Check →</button>
+      </div>
+      <p class="fitb-feedback" id="fitb-feedback"></p>
+      <div class="result-box" id="fitb-result">
+        <p class="result-note" id="fitb-result-note">Cats spend up to 70% of their lives asleep — an energy-saving instinct left over from their wild ancestors.</p>
+        <a class="result-link" id="fitb-result-link" href="https://www.loc.gov/everyday-mysteries/zoology/item/why-do-cats-sleep-so-much/" target="_blank"><i class="ti ti-external-link"></i> Why do cats sleep so much? — Library of Congress</a>
+      </div>
+      <hr class="puzzle-divider" />
+      <p class="puzzle-q" id="p2-question">2. Which word means "a deep feeling of joy and contentment"?</p>
+      <div class="mc-grid" id="p2-grid">
+        <button class="mc-btn" onclick="checkMc(this,false)">Melancholy</button>
+        <button class="mc-btn" onclick="checkMc(this,true)">Bliss</button>
+        <button class="mc-btn" onclick="checkMc(this,false)">Solitude</button>
+        <button class="mc-btn" onclick="checkMc(this,false)">Reverie</button>
+      </div>
+      <div class="result-box" id="mc-result">
+        <p class="result-note" id="mc-note"></p>
+        <a class="result-link" id="mc-result-link" href="https://www.merriam-webster.com/dictionary/bliss" target="_blank"><i class="ti ti-external-link"></i> "Bliss" — Merriam-Webster</a>
+      </div>
+      <hr class="puzzle-divider" />
+      <p class="puzzle-q" id="p3-question">3. Which country gave the Statue of Liberty to the United States as a gift?</p>
+      <div class="trivia-choices" id="p3-choices">
+        <button class="trivia-btn" onclick="checkTrivia(this,false)">England</button>
+        <button class="trivia-btn" onclick="checkTrivia(this,true)">France</button>
+        <button class="trivia-btn" onclick="checkTrivia(this,false)">Italy</button>
+        <button class="trivia-btn" onclick="checkTrivia(this,false)">Spain</button>
+      </div>
+      <div class="result-box" id="trivia-result">
+        <p class="result-note" id="trivia-note"></p>
+        <a class="result-link" id="trivia-result-link" href="https://www.nps.gov/stli/learn/historyculture/index.htm" target="_blank"><i class="ti ti-external-link"></i> History of the Statue of Liberty — NPS</a>
+      </div>
+    </div>
+
+    <!-- Memory Lane -->
+    <div class="card full">
+      <div class="section-label">Memory lane 📷</div>
+      <div class="memory-strip">
+        <div class="memory-item">
+          <div class="memory-photo" style="background:#D4C5A8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Family photo</span></div></div>
+          <p class="memory-caption">Christmas 1987 — the whole family together</p>
+        </div>
+        <div class="memory-item">
+          <div class="memory-photo" style="background:#C8D4C0"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Garden photo</span></div></div>
+          <p class="memory-caption">Barbara's garden, summer 1994</p>
+        </div>
+        <div class="memory-item">
+          <div class="memory-photo" style="background:#C4CAD8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Trip photo</span></div></div>
+          <p class="memory-caption">Trip to the coast — Port Angeles</p>
+        </div>
+      </div>
+      <p class="photos-note"><i class="ti ti-clock"></i> Photos to be added later.</p>
+    </div>
+
+    <!-- Port Angeles -->
+    <div class="card full">
+      <div class="section-label">Port Angeles — today's find 🌲</div>
+      <div class="pa-item">
+        <div class="pa-icon" id="pa-icon">🌊</div>
+        <div>
+          <p class="pa-item-title" id="pa-title">The Elwha River — a remarkable comeback story</p>
+          <p class="pa-item-desc" id="pa-desc">The largest dam removal project in U.S. history happened right outside your door. Since the dams came down, salmon have returned to the Elwha River for the first time in over a century — and the river valley is slowly coming back to life.</p>
+          <a class="pa-link" id="pa-link" href="https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm" target="_blank"><i class="ti ti-external-link" style="font-size:13px"></i> Read about the Elwha restoration — National Park Service</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Park View Villas -->
+    <div class="card full">
+      <div class="section-label">Coming up at Park View Villas 🏡</div>
+      <div id="pv-next3"></div>
+      <div class="pv-footer">
+        <p class="pv-note">For outings — RSVP and meet in the lobby 15 min before departure</p>
+        <button class="pv-full-btn" onclick="openPvModal()"><i class="ti ti-calendar"></i> See everything this month</button>
+      </div>
+    </div>
+
+    <!-- Water & Meals -->
+    <div class="card full">
+      <div class="section-label">Today's healthy habits 💧🍽</div>
+      <div class="tracker-grid">
+
+        <!-- Water -->
+        <div class="tracker-section">
+          <p class="tracker-label">💧 Water today</p>
+          <div class="water-btns">
+            <button class="water-btn" onclick="addWater(1)">+ Full bottle</button>
+            <button class="water-btn" onclick="addWater(0.5)">+ Half bottle</button>
+          </div>
+          <div class="water-count" id="water-display">
+            <span id="water-num">0</span>
+            <span>bottles today</span>
+          </div>
+          <button class="water-reset" onclick="resetWater()">Reset count</button>
+        </div>
+
+        <!-- Meals -->
+        <div class="tracker-section">
+          <p class="tracker-label">🍽 Dining hall today</p>
+          <div class="meal-checks">
+            <button class="meal-check-btn" id="lunch-btn" onclick="toggleMeal('lunch')">
+              <span class="check-icon">⬜</span> Went to lunch
+            </button>
+            <button class="meal-check-btn" id="dinner-btn" onclick="toggleMeal('dinner')">
+              <span class="check-icon">⬜</span> Went to dinner
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Game -->
+    <div class="card full">
+      <div class="section-label">Today's game 🎮</div>
+      <div class="game-item">
+        <div class="game-icon" id="game-icon">🫧</div>
+        <div>
+          <p class="game-title" id="game-title">Bubble Shooter</p>
+          <p class="game-desc" id="game-desc">A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!</p>
+          <a class="game-btn" id="game-btn" href="https://www.bubbleshooter.net" target="_blank">Play now →</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mood -->
+    <div class="mood-footer">
+      <div class="mood-top">
+        <span class="mood-footer-label">How are you feeling today?</span>
+        <div class="mood-row-small">
+          <button class="mood-btn-small selected" onclick="selectMood(this,'Good','😊')"><span class="emoji">😊</span> Good</button>
+          <button class="mood-btn-small" onclick="selectMood(this,'Okay','😌')"><span class="emoji">😌</span> Okay</button>
+          <button class="mood-btn-small" onclick="selectMood(this,'Low','😔')"><span class="emoji">😔</span> Low</button>
+          <button class="mood-btn-small" onclick="selectMood(this,'Tired','😴')"><span class="emoji">😴</span> Tired</button>
+        </div>
+        <button class="mood-confirm-btn" id="mood-confirm-btn" onclick="confirmMood()">Save →</button>
+      </div>
+      <p class="mood-status" id="mood-status"></p>
+      <div class="mood-history" id="mood-history">
+        <p class="mood-history-label">Recent days</p>
+        <div class="mood-history-row" id="mood-history-row"></div>
+      </div>
+    </div>
+
+  </div><!-- end portal-body -->
+
+  <div class="page-footer">
+    <p class="page-footer-text">Questions? Comments? Are there other topics or activities you would like to see here? Any random thoughts? Need anything at all?</p>
+    <a class="contact-link" href="mailto:ableman42@gmail.com?subject=Message from Barbara's Portal"><i class="ti ti-pencil"></i> Enter here</a>
+  </div>
+
+</div><!-- end page-home -->
+
+<!-- ══════════════════════════════════════ -->
+<!--           FAVORITES PAGE              -->
+<!-- ══════════════════════════════════════ -->
+<div class="page" id="page-faves">
+  <div class="faves-header">
+    <h1>My Favorite Reads 📚</h1>
+    <button class="home-btn" onclick="showPage('home')"><i class="ti ti-arrow-left"></i> Back to my morning page</button>
+  </div>
+  <div class="faves-body">
+    <div id="faves-list"></div>
+    <div class="home-btn-bottom">
+      <button class="home-btn-lg" onclick="showPage('home')"><i class="ti ti-home"></i> Take me home</button>
+    </div>
+  </div>
+</div>
+
+<!-- Park View modal -->
+<div class="modal-overlay" id="pv-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>Park View Villas — May 2026</h2>
+      <button class="modal-close" onclick="closePvModal()">×</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-tabs">
+        <button class="modal-tab active" onclick="switchTab('all')">All</button>
+        <button class="modal-tab" onclick="switchTab('events')">Special Events</button>
+        <button class="modal-tab" onclick="switchTab('outings')">Outings</button>
+      </div>
+      <div id="modal-all" class="modal-section active"></div>
+      <div id="modal-events" class="modal-section"></div>
+      <div id="modal-outings" class="modal-section"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const SEAN_EMAIL = 'ableman42@gmail.com';
+let selectedMood = 'Good', selectedEmoji = '😊';
+
+// ── PAGE NAV ──
+function showPage(p) {
+  document.querySelectorAll('.page').forEach(el => el.classList.remove('active'));
+  document.getElementById('page-' + p).classList.add('active');
+  if (p === 'faves') renderFaves();
+}
+
+// ── LAUNDRY BANNER ──
+function checkLaundry() {
+  const start = new Date(2026, 4, 31); // May 31 2026
+  const today = new Date(); today.setHours(0,0,0,0);
+  const diffDays = Math.round((today - start) / 86400000);
+  if (diffDays >= 0 && diffDays % 14 === 0) {
+    document.getElementById('laundry-banner').style.display = 'flex';
+  }
+}
+checkLaundry();
+
+// ── WATER TRACKER ──
+let waterCount = 0;
+function addWater(amt) {
+  waterCount += amt;
+  document.getElementById('water-num').textContent = waterCount % 1 === 0 ? waterCount : waterCount.toFixed(1);
+  try { localStorage.setItem('water:' + todayStr(), JSON.stringify(waterCount)); } catch(e) {}
+}
+function resetWater() {
+  waterCount = 0;
+  document.getElementById('water-num').textContent = '0';
+  try { localStorage.setItem('water:' + todayStr(), '0'); } catch(e) {}
+}
+function loadWater() {
+  try {
+    const r = localStorage.getItem('water:' + todayStr());
+    if (r) { waterCount = parseFloat(r) || 0; document.getElementById('water-num').textContent = waterCount % 1 === 0 ? waterCount : waterCount.toFixed(1); }
+  } catch(e) {}
+}
+loadWater();
+
+// ── MEAL TRACKER ──
+const mealState = { lunch: false, dinner: false };
+function toggleMeal(meal) {
+  mealState[meal] = !mealState[meal];
+  const btn = document.getElementById(meal + '-btn');
+  btn.classList.toggle('checked', mealState[meal]);
+  btn.querySelector('.check-icon').textContent = mealState[meal] ? '✅' : '⬜';
+  try { localStorage.setItem('meals:' + todayStr(), JSON.stringify(mealState)); } catch(e) {}
+}
+function loadMeals() {
+  try {
+    const r = localStorage.getItem('meals:' + todayStr());
+    if (r) {
+      const s = JSON.parse(r);
+      ['lunch','dinner'].forEach(m => { if (s[m]) { mealState[m] = true; const btn = document.getElementById(m+'-btn'); btn.classList.add('checked'); btn.querySelector('.check-icon').textContent = '✅'; } });
+    }
+  } catch(e) {}
+}
+loadMeals();
+
+// ── PARK VIEW DATA ──
+const pvItems = [
+  { date:'2026-05-04', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+  { date:'2026-05-05', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-05-05', time:'2:00pm',  name:'Cinco de Mayo with Megan & Tammy', type:'event' },
+  { date:'2026-05-06', time:'3:00pm',  name:'Happy Hour & Music: Carlos Xavier "Flute Storyteller"', type:'music' },
+  { date:'2026-05-07', time:'2:00pm',  name:'Nigerian Chapman Cocktails & Puff Puffs & Plantain Mosa', type:'event' },
+  { date:'2026-05-07', time:'2:00pm',  name:'Explore: Olympic National Park Visitor Center', type:'outing' },
+  { date:'2026-05-08', time:'3:00pm',  name:'Happy Hour & Music: Ty Schlung "Folk Singer"', type:'music' },
+  { date:'2026-05-12', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-05-12', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+  { date:'2026-05-13', time:'2:00pm',  name:'Out of the Den with Marti & Bert', type:'event' },
+  { date:'2026-05-13', time:'3:00pm',  name:"Happy Hour & Music: The Secord's", type:'music' },
+  { date:'2026-05-14', time:'2:00pm',  name:'Hotdogs & Sodas & Beer with Keith', type:'event' },
+  { date:'2026-05-14', time:'2:00pm',  name:"Explore: Little Devil's Lunchbox Restaurant", type:'outing' },
+  { date:'2026-05-15', time:'3:00pm',  name:"Happy Hour & Music: Toni G \"Jack's Niece\" & Steve", type:'music' },
+  { date:'2026-05-19', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-05-19', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+  { date:'2026-05-20', time:'2:00pm',  name:'Pictionary & Pop w/ Anthony', type:'event' },
+  { date:'2026-05-20', time:'3:00pm',  name:'Happy Hour & Music: The Messengers', type:'music' },
+  { date:'2026-05-21', time:'1:30pm',  name:'Town Hall Meeting', type:'event' },
+  { date:'2026-05-21', time:'2:00pm',  name:'Food Demo with Brian', type:'event' },
+  { date:'2026-05-21', time:'2:00pm',  name:'Explore: Spring Hurricane Ridge Drive', type:'outing' },
+  { date:'2026-05-22', time:'3:00pm',  name:'Happy Hour & Music: ELVIS "Tribute Tour"', type:'music' },
+  { date:'2026-05-25', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-05-25', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+  { date:'2026-05-27', time:'3:00pm',  name:'Happy Hour & Music: Dennis Blair', type:'music' },
+  { date:'2026-05-28', time:'1:30pm',  name:'Food Forum Meeting', type:'event' },
+  { date:'2026-05-28', time:'2:00pm',  name:'Explore: Elwha Casino with Tammy B.', type:'outing' },
+  { date:'2026-05-29', time:'2:00pm',  name:'Scavenger Treasure Hunt with Bert & Marti', type:'event' },
+  { date:'2026-05-29', time:'3:00pm',  name:'Happy Hour & Music: Buck Ellard "Radio DJ Host & Lead Singer"', type:'music' },
+].sort((a,b) => a.date !== b.date ? a.date.localeCompare(b.date) : a.time.localeCompare(b.time));
+
+function pvIcon(t) { return t==='outing'?'🚌':t==='music'?'🎵':'🎉'; }
+function pvTag(t) {
+  if(t==='outing') return '<span class="pv-event-tag tag-outing">Outing</span>';
+  if(t==='music')  return '<span class="pv-event-tag tag-music">Music</span>';
+  return '<span class="pv-event-tag tag-event">Event</span>';
+}
+function todayStr() {
+  const d=new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+function friendlyDate(s) {
+  const [y,m,d]=s.split('-').map(Number);
+  const date=new Date(y,m-1,d);
+  const today=new Date(); today.setHours(0,0,0,0);
+  const diff=Math.round((date-today)/86400000);
+  const wd=date.toLocaleDateString('en-US',{weekday:'long'});
+  const md=date.toLocaleDateString('en-US',{month:'long',day:'numeric'});
+  if(diff===0) return `Today — ${md}`;
+  if(diff===1) return `Tomorrow — ${md}`;
+  return `${wd}, ${md}`;
+}
+function renderPvNext3() {
+  const today=todayStr();
+  const upcoming=pvItems.filter(e=>e.date>=today);
+  const days=[]; for(const e of upcoming){if(!days.includes(e.date))days.push(e.date);if(days.length===3)break;}
+  const el=document.getElementById('pv-next3');
+  if(!days.length){el.innerHTML='<p style="font-size:14px;color:#B88B6A;font-style:italic;">No more events this month — check back when the June calendar arrives!</p>';return;}
+  let html='';
+  for(const day of days){
+    const evts=upcoming.filter(e=>e.date===day);
+    html+=`<div class="pv-day-group"><p class="pv-day-label">${friendlyDate(day)}</p>`;
+    for(const e of evts) html+=`<div class="pv-event"><span class="pv-event-icon">${pvIcon(e.type)}</span><span class="pv-event-time">${e.time}</span><span class="pv-event-name">${e.name}${pvTag(e.type)}</span></div>`;
+    html+='</div>';
+  }
+  el.innerHTML=html;
+}
+function pvGroupByDay(items){const map={};for(const e of items){if(!map[e.date])map[e.date]=[];map[e.date].push(e);}return map;}
+function renderPvModal(id,items){
+  const grouped=pvGroupByDay(items);
+  const days=Object.keys(grouped).sort();
+  let html='';
+  for(const day of days){
+    html+=`<div class="modal-day"><p class="modal-day-label">${friendlyDate(day)}</p>`;
+    for(const e of grouped[day]) html+=`<div class="modal-event"><span class="modal-event-time">${pvIcon(e.type)} ${e.time}</span><span class="modal-event-name">${e.name}${pvTag(e.type)}</span></div>`;
+    html+='</div>';
+  }
+  document.getElementById(id).innerHTML=html||'<p style="font-size:14px;color:#B88B6A;font-style:italic;">Nothing this month.</p>';
+}
+function openPvModal(){
+  renderPvModal('modal-all',pvItems);
+  renderPvModal('modal-events',pvItems.filter(e=>e.type!=='outing'));
+  renderPvModal('modal-outings',pvItems.filter(e=>e.type==='outing'));
+  document.getElementById('pv-modal').classList.add('open');
+}
+function closePvModal(){ document.getElementById('pv-modal').classList.remove('open'); }
+function switchTab(tab){
+  document.querySelectorAll('.modal-tab').forEach((t,i)=>t.classList.toggle('active',['all','events','outings'][i]===tab));
+  document.querySelectorAll('.modal-section').forEach(s=>s.classList.remove('active'));
+  document.getElementById('modal-'+tab).classList.add('active');
+}
+renderPvNext3();
+
+// ── MOOD ──
+function selectMood(btn,mood,emoji){
+  document.querySelectorAll('.mood-btn-small').forEach(b=>b.classList.remove('selected'));
+  btn.classList.add('selected'); selectedMood=mood; selectedEmoji=emoji;
+}
+function formatDate(k){
+  const parts=k.replace('mood:','').split('-');
+  return new Date(parseInt(parts[0]),parseInt(parts[1])-1,parseInt(parts[2])).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+}
+function todayLabel(){ return new Date().toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}); }
+async function confirmMood(){
+  const btn=document.getElementById('mood-confirm-btn');
+  btn.disabled=true; btn.textContent='Saving...';
+  const key='mood:'+todayStr();
+  try{ localStorage.setItem(key,JSON.stringify({mood:selectedMood,emoji:selectedEmoji,time:new Date().toISOString()})); }catch(e){}
+  document.getElementById('mood-status').textContent=`Got it — recorded "${selectedMood}" for today.`;
+  document.getElementById('mood-status').classList.add('visible');
+  btn.textContent='Saved ✓';
+  loadMoodHistory();
+  sendDailyEmail(selectedMood,selectedEmoji);
+  if(selectedMood==='Low'||selectedMood==='Tired') sendAlertEmail(selectedMood,selectedEmoji);
+}
+async function loadMoodHistory(){
+  try{
+    const keys = Object.keys(localStorage).filter(k=>k.startsWith('mood:')).sort().reverse().slice(0,7);
+    if(!keys.length) return;
+    const rowEl=document.getElementById('mood-history-row'); rowEl.innerHTML='';
+    for(const k of keys){
+      try{const r=localStorage.getItem(k);if(r){const e=JSON.parse(r);const pip=document.createElement('span');pip.className='mood-pip';pip.textContent=`${formatDate(k)}: ${e.emoji} ${e.mood}`;rowEl.appendChild(pip);}}catch(e){}
+    }
+    document.getElementById('mood-history').classList.add('visible');
+  }catch(e){}
+}
+async function buildWeeklySummary(){
+  try{
+    const keys=Object.keys(localStorage).filter(k=>k.startsWith('mood:')).sort().reverse().slice(0,7);
+    const rows=[];
+    for(const k of keys){try{const r=localStorage.getItem(k);if(r){const e=JSON.parse(r);rows.push(`${formatDate(k)}: ${e.emoji} ${e.mood}`);}}catch(e){}}
+    return rows.length?rows.join('\n'):'No entries this week.';
+  }catch(e){return 'No entries available.';}
+}
+async function sendDailyEmail(mood,emoji){
+  try{
+    const today=todayLabel(); const summary=await buildWeeklySummary();
+    const message=`Hi Sean,\n\nBarbara checked in today (${today}) and reported feeling: ${emoji} ${mood}.\n\nLast 7 days:\n${summary}\n\nSent automatically by Barbara's Portal`;
+    await emailjs.send('service_7rdoaxm','template_mqnrae6',{
+      subject: `Barbara's mood today — ${today}: ${emoji} ${mood}`,
+      message: message
+    });
+  }catch(e){ console.error('Daily email error:',e); }
+}
+async function sendAlertEmail(mood,emoji){
+  try{
+    const today=todayLabel();
+    const message=`Hi Sean,\n\nHeads up — Barbara just checked in and said she's feeling ${emoji} ${mood} today (${today}).\n\nYou might want to give her a call when you get a chance.\n\nSent automatically by Barbara's Portal`;
+    await emailjs.send('service_7rdoaxm','template_mqnrae6',{
+      subject: `Barbara needs a check-in today — ${emoji} ${mood}`,
+      message: message
+    });
+  }catch(e){ console.error('Alert email error:',e); }
+}
+loadMoodHistory();
+
+// ── PUZZLES ──
+function checkFitb(){
+  const input = document.getElementById('fitb-input').value.trim();
+  const fb = document.getElementById('fitb-feedback');
+  const d = p1Data;
+
+  if (!input) { fb.textContent='Type an answer and try again!'; fb.className='fitb-feedback fb-close'; return; }
+
+  let correct = false, close = false;
+  if (d && d.answer_is_number === false) {
+    correct = input.toLowerCase() === String(d.answer).toLowerCase();
+  } else {
+    const val = parseFloat(input);
+    const ans = d ? d.answer : 15;
+    const range = d ? d.close_range : 2;
+    if (!isNaN(val)) { correct = val === ans; close = !correct && Math.abs(val - ans) <= range; }
+  }
+
+  if (correct) {
+    fb.textContent = d ? d.correct_response : '🎉 That\'s right!';
+    fb.className = 'fitb-feedback fb-correct';
+  } else if (close) {
+    fb.textContent = d ? d.close_response : 'Almost!';
+    fb.className = 'fitb-feedback fb-close';
+  } else {
+    fb.textContent = d ? d.wrong_response : 'Good try!';
+    fb.className = 'fitb-feedback fb-wrong';
+  }
+
+  if (d) {
+    document.getElementById('fitb-result-note').textContent = d.learn_more_text;
+    const link = document.getElementById('fitb-result-link');
+    link.href = d.learn_more_url;
+    link.innerHTML = `<i class="ti ti-external-link"></i> ${d.learn_more_label}`;
+  }
+  document.getElementById('fitb-input').disabled = true;
+  document.getElementById('fitb-btn').disabled = true;
+  document.getElementById('fitb-result').classList.add('visible');
+}
+
+function checkMcDynamic(btn, correct, d){
+  const grid = document.getElementById('p2-grid');
+  grid.querySelectorAll('.mc-btn').forEach((b, i) => {
+    b.onclick = null;
+    if (i === d.correct_index) b.classList.add('revealed');
+  });
+  btn.classList.remove('revealed');
+  btn.classList.add(correct ? 'correct' : 'wrong');
+  document.getElementById('mc-note').textContent = correct ? d.correct_response : d.wrong_response;
+  const link = document.getElementById('mc-result-link');
+  link.href = d.learn_more_url;
+  link.innerHTML = `<i class="ti ti-external-link"></i> ${d.learn_more_label}`;
+  document.getElementById('mc-result').classList.add('visible');
+}
+
+function checkMc(btn, correct){
+  document.querySelectorAll('.mc-btn').forEach(b=>{b.onclick=null;if(b.textContent==='Bliss')b.classList.add('revealed');});
+  btn.classList.remove('revealed'); btn.classList.add(correct?'correct':'wrong');
+  document.getElementById('mc-note').textContent=correct?'✓ Bliss — a perfect word for a perfect feeling. It comes from Old English, meaning gentle and kind.':'The answer is "Bliss." It comes from Old English, meaning gentle and kind.';
+  document.getElementById('mc-result').classList.add('visible');
+}
+
+function checkTriviaDynamic(btn, correct, d){
+  const choices = document.getElementById('p3-choices');
+  choices.querySelectorAll('.trivia-btn').forEach((b, i) => {
+    b.onclick = null;
+    if (i === d.correct_index) b.classList.add('revealed');
+  });
+  btn.classList.remove('revealed');
+  btn.classList.add(correct ? 'correct' : 'wrong');
+  document.getElementById('trivia-note').textContent = correct ? d.correct_response : d.wrong_response;
+  const link = document.getElementById('trivia-result-link');
+  link.href = d.learn_more_url;
+  link.innerHTML = `<i class="ti ti-external-link"></i> ${d.learn_more_label}`;
+  document.getElementById('trivia-result').classList.add('visible');
+}
+
+function checkTrivia(btn,correct){
+  document.querySelectorAll('.trivia-btn').forEach(b=>{b.onclick=null;if(b.textContent==='France')b.classList.add('revealed');});
+  btn.classList.remove('revealed'); btn.classList.add(correct?'correct':'wrong');
+  document.getElementById('trivia-note').textContent=correct?'✓ France! The statue was designed by Frédéric Auguste Bartholdi and unveiled in 1886.':'The answer is France! The statue was designed by Frédéric Auguste Bartholdi and unveiled in 1886.';
+  document.getElementById('trivia-result').classList.add('visible');
+}
+
+// ── FAVORITES ──
+function todayLabelShort(){ return new Date().toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}); }
+function saveRead(btn,meta,title,url){
+  if(btn.classList.contains('saved')) return;
+  try{
+    localStorage.setItem('fave:'+Date.now(),JSON.stringify({meta,title,url,date:todayLabelShort()}));
+    btn.classList.add('saved');
+    btn.innerHTML='<i class="ti ti-bookmark-filled"></i> Saved — <span style="text-decoration:underline;cursor:pointer;" onclick="showPage(\'faves\')">see my favorites</span>';
+  }catch(e){}
+}
+function renderFaves(){
+  const list=document.getElementById('faves-list'); list.innerHTML='';
+  try{
+    const keys=Object.keys(localStorage).filter(k=>k.startsWith('fave:')).sort().reverse();
+    if(!keys.length){list.innerHTML='<p class="faves-empty">Nothing saved yet — go back and tap "I want to save this" on any story that catches your eye.</p>';return;}
+    for(const k of keys){
+      try{
+        const r=localStorage.getItem(k);
+        if(r){
+          const f=JSON.parse(r);
+          const div=document.createElement('div'); div.className='fave-item';
+          div.innerHTML=`<div><p class="fave-meta">${f.meta}</p><p class="fave-title">${f.title}</p><p class="fave-date">Saved ${f.date}</p></div><div class="fave-actions"><button class="fave-read-btn" onclick="window.open('${f.url}','_blank')">Read again →</button><button class="fave-remove-btn" onclick="removeFave('${k}')">Remove</button></div>`;
+          list.appendChild(div);
+        }
+      }catch(e){}
+    }
+  }catch(e){list.innerHTML='<p class="faves-empty">Nothing saved yet.</p>';}
+}
+function removeFave(key){ try{localStorage.removeItem(key);renderFaves();}catch(e){} }
+</script>
+</body>
+</html>
