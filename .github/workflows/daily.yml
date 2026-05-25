@@ -1,0 +1,45 @@
+name: Generate Daily Content
+
+on:
+  schedule:
+    # 8:00am Pacific = 15:00 UTC (PDT, UTC-7)
+    - cron: '0 15 * * *'
+  workflow_dispatch:  # allows manual trigger from GitHub UI
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate today's content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_content.py
+
+      - name: Commit content.json to repository
+        run: |
+          git config --global user.name "Barbara's Portal Bot"
+          git config --global user.email "bot@barbaraildiko.com"
+          git add content.json
+          git diff --staged --quiet || git commit -m "Daily content update: $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: barbara-portal
+          directory: .
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
