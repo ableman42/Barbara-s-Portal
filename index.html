@@ -11,12 +11,13 @@
 // ── LOAD DAILY CONTENT FROM content.json ──────────────────────────────────
 async function loadDailyContent() {
   try {
-    const res = await fetch('content.json?v=' + Date.now());
+    const res = await fetch('./content.json?v=' + Date.now());
     if (!res.ok) return; // fall back to hardcoded if file not found
     const c = await res.json();
 
     // Header
-    if (c.date_display) document.getElementById('date-display').textContent = c.date_display;
+    const dateEl = document.getElementById('date-display');
+    if (c.date_display && dateEl) dateEl.textContent = c.date_display;
 
     // Quote
     if (c.quote) {
@@ -116,8 +117,12 @@ function loadPuzzle3(d) {
   });
 }
 
-
-
+// Run after DOM is fully loaded
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', loadDailyContent);
+} else {
+  loadDailyContent();
+}
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Nunito:wght@400;500;600&display=swap');
@@ -330,6 +335,7 @@ function loadPuzzle3(d) {
   <div class="portal-header">
     <div>
       <h1>Good morning, Barbara ☀️</h1>
+      <p id="date-display" style="color:rgba(255,255,255,0.75);font-size:13px;margin:0 0 6px;"></p>
       <p class="header-quote" id="quote-text">"In the middle of difficulty lies opportunity."</p>
       <p class="header-quote-attr" id="quote-attr">— Albert Einstein</p>
     </div>
@@ -923,6 +929,6 @@ function renderFaves(){
 }
 function removeFave(key){ try{localStorage.removeItem(key);renderFaves();}catch(e){} }
 </script>
-  <script>loadDailyContent();</script>
+<script>loadDailyContent();</script>
 </body>
 </html>
