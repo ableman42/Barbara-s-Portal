@@ -5,75 +5,75 @@
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, people traditionally celebrate their name day rather than their birthday! Each day of the year is associated with one or more names, and Ildikó's name day is celebrated on November 17th. It's a cherished tradition where friends and family offer flowers and small gifts.",
-    "tag": "Hungarian culture"
+    "text": "The Strait of Juan de Fuca, visible from Port Angeles, is home to orcas that can live up to 90 years in the wild. These magnificent whales have unique dialects within their pods, much like regional accents in human language, and grandmothers often lead their families for decades.",
+    "tag": "Local wildlife"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Social Lives of Hummingbirds",
-    "teaser": "These tiny jeweled birds are more social than we thought, remembering individual humans and other hummingbirds for years. Scientists are discovering they use surprisingly complex communication and even teach their young which flowers to visit.",
-    "url": "https://www.npr.org/2023/07/28/1190753057/hummingbirds-migration-birds"
+    "meta": "5 min · Nature",
+    "title": "How Gardens Help Us Heal",
+    "teaser": "Research shows that spending just 20 minutes in a garden can lower stress hormones and lift your mood. Discover the science behind why getting your hands in the soil feels so therapeutic.",
+    "url": "https://www.bbc.com/future/article/20210310-the-hidden-healing-power-of-gardens"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "How Trees Talk to Each Other",
-    "teaser": "Deep beneath the forest floor, trees communicate through an underground network of fungi, sharing nutrients and even warning each other of danger. This 'wood wide web' reveals that forests are more like communities than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "15 min · History",
+    "title": "The Elwha River Returns: A Restoration Story",
+    "teaser": "After the removal of two large dams, the Elwha River near Port Angeles has undergone one of the largest ecosystem restorations in U.S. history. Salmon have returned to spawning grounds they hadn't seen in a century, and the river is transforming back to its wild state.",
+    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Journey of the Oregon Trail: America's Great Migration West",
-    "teaser": "Between 1840 and 1869, over 400,000 pioneers made the perilous 2,000-mile journey westward seeking new lives. This fascinating account brings to life their courage, challenges, and the remarkable communities they built along the way.",
-    "url": "https://www.nps.gov/oreg/learn/historyculture/index.htm"
+    "meta": "35 min · Travel & Culture",
+    "title": "Hungary's Hidden Gardens: The Tulip Heritage",
+    "teaser": "Long before the Netherlands became famous for tulips, Hungary cultivated these beloved flowers, brought from the Ottoman Empire in the 1500s. This beautifully illustrated story explores Hungary's gardening traditions and the historic estates where rare varieties still bloom.",
+    "url": "https://www.smithsonianmag.com/travel/hungarians-grew-tulips-before-dutch-180980094/"
   },
   "port_angeles": {
     "icon": "🦌",
     "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "Late May is a wonderful time to spot Olympic black-tailed deer at Hurricane Ridge, as does are nursing their spotted fawns in the high meadows. These deer are unique to the Pacific Northwest and are smaller than their eastern cousins. The meadows are also bursting with wildflowers right now, making it a particularly magical time to visit.",
-    "link_text": "Plan a Hurricane Ridge visit",
+    "description": "Late May is a wonderful time to spot black-tailed deer and their newborn fawns at Hurricane Ridge. These gentle Olympic Peninsula natives often graze in the meadows near the visitor center in the early morning and evening. The drive up offers spectacular views of the Strait and wildflowers beginning to bloom at higher elevations.",
+    "link_text": "Plan Your Visit",
     "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "The Strait of Juan de Fuca, which you can see from Port Angeles, is about ___ miles wide at its narrowest point.",
-    "answer": 11,
+    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 2,
-    "correct_response": "Exactly right! It's amazing to think that Canada is just 11 miles across the water from Port Angeles.",
-    "close_response": "Very close! The Strait is actually about 11 miles wide at its narrowest point — you can often see across to Vancouver Island on clear days!",
-    "wrong_response": "The Strait is actually about 11 miles wide at its narrowest point between Port Angeles and Victoria. On a clear day, you really can see across!",
-    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and is named after a Greek sailor who explored the area in 1592. It's an important shipping channel and home to orcas, seals, and many seabirds.",
-    "learn_more_url": "https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca",
-    "learn_more_label": "Learn more — Wikipedia"
+    "close_range": 200,
+    "correct_response": "That's right, Barbara! Their tiny hearts are incredibly powerful little engines.",
+    "close_response": "Very close! The answer is 1,200 beats per minute — absolutely amazing for such a tiny bird!",
+    "wrong_response": "Those tiny hearts are remarkable — they beat about 1,200 times per minute when the bird is active!",
+    "learn_more_text": "To power their lightning-fast wing beats of up to 80 times per second, hummingbirds have the fastest metabolism of any bird. They must eat about half their body weight in nectar each day just to survive.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-hearts-work",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
       "Pillangó",
+      "Virág",
       "Madár",
       "Méhecske"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for these delicate creatures, isn't it?",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word! (Virág means flower, madár means bird, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language unrelated to other European languages — it's part of the Finno-Ugric family. Many Hungarian words are wonderfully expressive and poetic, especially nature words.",
+    "correct_index": 0,
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a lovely, musical word for such a delicate creature.",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Virág means flower, madár means bird, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. Many Hungarian words for nature are wonderfully poetic and descriptive.",
     "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Learn more — Britannica"
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What do gardeners call the last expected frost date in spring?",
+    "question": "What percentage of the Olympic Peninsula receives over 140 inches of rain per year, making it a temperate rainforest?",
     "options": [
-      "The Green Light",
-      "The Final Freeze",
-      "The Safe Date",
-      "The Planting Date"
+      "About 10%",
+      "About 25%",
+      "About 50%",
+      "About 75%"
     ],
-    "correct_index": 2,
-    "correct_response": "That's right! For Port Angeles, the 'Safe Date' is typically mid to late April — much earlier than many other places thanks to your mild coastal climate!",
-    "wrong_response": "Gardeners call it the 'Safe Date' — the day after which it's generally safe to plant tender vegetables and flowers. In Port Angeles, that's usually mid to late April thanks to the mild marine climate!",
-    "learn_more_text": "Port Angeles enjoys a temperate maritime climate with mild winters, making it perfect for year-round gardening. The Olympic rain shadow also means the area gets less rain than Seattle!",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/climate.htm",
-    "learn_more_label": "Learn more — Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Exactly right! About a quarter of the peninsula is lush temperate rainforest, including the famous Hoh Rain Forest where some trees are over 500 years old.",
+    "wrong_response": "It's about 25% of the Olympic Peninsula that gets rainforest-level rainfall. The Hoh, Quinault, and Queets valleys are home to some of the most magnificent old-growth forests in America!",
+    "learn_more_text": "The Olympic rainforests are draped in moss and ferns, creating an enchanted landscape. Meanwhile, Port Angeles sits in the rain shadow of the mountains and receives far less rain than just miles away.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-05-28T07:53:27.805817-07:00",
+  "generated_at": "2026-05-28T08:00:24.381174-07:00",
   "date": "2026-05-28",
   "is_laundry_day": false
 }
