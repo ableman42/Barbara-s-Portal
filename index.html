@@ -203,7 +203,7 @@ if (document.readyState === 'loading') {
 /* ── MEMORY LANE ── */
 .memory-strip { display: flex; gap: 12px; }
 .memory-item { flex: 1; }
-.memory-photo { aspect-ratio: 4/3; border-radius: 10px; display: flex; align-items: center; justify-content: center; }
+.memory-photo { aspect-ratio: 4/3; border-radius: 10px; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .photo-placeholder { display: flex; flex-direction: column; align-items: center; gap: 4px; color: #B8A088; }
 .photo-placeholder i { font-size: 26px; }
 .photo-placeholder span { font-size: 10px; }
@@ -453,21 +453,17 @@ if (document.readyState === 'loading') {
     <!-- Memory Lane -->
     <div class="card full">
       <div class="section-label">Memory lane 📷</div>
-      <div class="memory-strip">
+      <div class="memory-strip" id="memory-strip">
         <div class="memory-item">
-          <div class="memory-photo" style="background:#D4C5A8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Family photo</span></div></div>
-          <p class="memory-caption">Christmas 1987 — the whole family together</p>
+          <div class="memory-photo" style="background:#D4C5A8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Loading...</span></div></div>
         </div>
         <div class="memory-item">
-          <div class="memory-photo" style="background:#C8D4C0"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Garden photo</span></div></div>
-          <p class="memory-caption">Barbara's garden, summer 1994</p>
+          <div class="memory-photo" style="background:#C8D4C0"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Loading...</span></div></div>
         </div>
         <div class="memory-item">
-          <div class="memory-photo" style="background:#C4CAD8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Trip photo</span></div></div>
-          <p class="memory-caption">Trip to the coast — Port Angeles</p>
+          <div class="memory-photo" style="background:#C4CAD8"><div class="photo-placeholder"><i class="ti ti-photo"></i><span>Loading...</span></div></div>
         </div>
       </div>
-      <p class="photos-note"><i class="ti ti-clock"></i> Photos to be added later.</p>
     </div>
 
     <!-- Port Angeles -->
@@ -981,7 +977,53 @@ function renderFaves(){
 }
 function removeFave(key){ try{localStorage.removeItem(key);renderFaves();}catch(e){} }
 
-// ── GAME SAVE/RESTORE ──
+// ── MEMORY LANE ──
+const PHOTOS = [
+  { id: '1diTanwhtw3w7Ao5G5-i6Ov0QmcObF7OI', caption: '' },
+  { id: '1DT8YAbLHe6p-rimAUxqDBTIhbjrQXaOE', caption: '' },
+  { id: '1TIQVcNMkl6YHncKDr2w23DJdz8wGizAK', caption: '' },
+  { id: '1bXh4rtSJshmKb-twlBVwz4Bc9BIlZmbI', caption: '' },
+  { id: '1xUyv3ZcFZrevq1OOAv04GQGmkAZA0A9S', caption: '' },
+  { id: '1uHSvFBjP2iASNR2mFQ52Tj7kPD5818eK', caption: '' },
+  { id: '1lHGnKDAaPPotKn2bpottksDKuicGGaC2', caption: '' },
+  { id: '1mjMkJcwGAhQ4K14pUkAusYIDOwcffBD9', caption: '' },
+  { id: '1_1wX1zcf-W_mtRW6gf2DbuiOpX6a-ArM', caption: '' },
+  { id: '1BkjA-BwiCoU6FEarouLiHChHn8rKRzaC', caption: '' },
+  { id: '1hjPDjZaoRwrqLl47AONvgNCGhoVebneZ', caption: '' },
+  { id: '1nmRIoODIjijeyMx35GxkPJ53h50GNPlu', caption: '' },
+  { id: '1ytFYckS5Acqzi1OkgvOx7sumwZ0I7NVZ', caption: '' },
+  { id: '1qLOhGfqOecmvUQygz1kTxJayXy-mufgi', caption: '' },
+  { id: '1wgrlBj-_NHyBw6Lhv-4kzbuNzmsV3tAu', caption: '' },
+  { id: '1j78Tuo8hZQEKPwColUbfTrlFQEGeZ_qt', caption: '' },
+  { id: '1UeUggYopaAYU3i8J0eru80dXi2BijNM3', caption: '' },
+  { id: '1cp-e_0UAD7TatphczK6zHcD6a9B1BDGo', caption: '' },
+  { id: '1eow2m59YS4zC3ieKO8uKgzHOk95DV_3P', caption: '' },
+];
+
+function loadMemoryLane() {
+  // Pick 3 photos based on today's date so they rotate daily
+  const today = new Date();
+  const seed = today.getFullYear() * 10000 + (today.getMonth()+1) * 100 + today.getDate();
+  const shuffled = [...PHOTOS].sort((a, b) => {
+    const ha = ((seed * 1664525 + parseInt(a.id.slice(-4), 16)) >>> 0) % PHOTOS.length;
+    const hb = ((seed * 1664525 + parseInt(b.id.slice(-4), 16)) >>> 0) % PHOTOS.length;
+    return ha - hb;
+  });
+  const selected = shuffled.slice(0, 3);
+  const strip = document.getElementById('memory-strip');
+  strip.innerHTML = selected.map(p => `
+    <div class="memory-item">
+      <div class="memory-photo" style="background:#EDE4D8;overflow:hidden;">
+        <img src="https://drive.google.com/thumbnail?id=${p.id}&sz=w600"
+             alt="Family photo"
+             style="width:100%;height:100%;object-fit:cover;border-radius:10px;"
+             onerror="this.parentElement.innerHTML='<div class=\\'photo-placeholder\\'><i class=\\'ti ti-photo\\'></i><span>Photo</span></div>'" />
+      </div>
+      ${p.caption ? `<p class="memory-caption">${p.caption}</p>` : ''}
+    </div>
+  `).join('');
+}
+loadMemoryLane();
 function saveGame() {
   const icon = document.getElementById('game-icon').textContent;
   const title = document.getElementById('game-title').textContent;
