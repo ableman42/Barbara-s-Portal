@@ -5,75 +5,75 @@
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, visible from Port Angeles, is home to orcas that can live up to 90 years in the wild. These magnificent whales have unique dialects within their pods, much like regional accents in human language, and grandmothers often lead their families for decades.",
-    "tag": "Local wildlife"
+    "text": "The Strait of Juan de Fuca is named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he explored the Pacific Northwest in 1592 as Juan de Fuca. The waterway you can see from Port Angeles has connected cultures and explorers for centuries.",
+    "tag": "Local History"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "How Gardens Help Us Heal",
-    "teaser": "Research shows that spending just 20 minutes in a garden can lower stress hormones and lift your mood. Discover the science behind why getting your hands in the soil feels so therapeutic.",
-    "url": "https://www.bbc.com/future/article/20210310-the-hidden-healing-power-of-gardens"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals, like the ones you might spot in the Strait of Juan de Fuca, can hold their breath for nearly 30 minutes and dive over 1,500 feet deep. Learn about these charming marine neighbors and their surprising abilities.",
+    "url": "https://www.fisheries.noaa.gov/species/harbor-seal"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Elwha River Returns: A Restoration Story",
-    "teaser": "After the removal of two large dams, the Elwha River near Port Angeles has undergone one of the largest ecosystem restorations in U.S. history. Salmon have returned to spawning grounds they hadn't seen in a century, and the river is transforming back to its wild state.",
-    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
+    "meta": "15 min · Nature",
+    "title": "The Return of Wildflowers to Olympic National Park",
+    "teaser": "Spring brings an explosion of color to the Olympic Peninsula's meadows, from avalanche lilies to lupines. Discover which flowers are blooming right now and where to find the best displays near Port Angeles.",
+    "url": "https://www.nps.gov/olym/learn/nature/wildflowers.htm"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "Hungary's Hidden Gardens: The Tulip Heritage",
-    "teaser": "Long before the Netherlands became famous for tulips, Hungary cultivated these beloved flowers, brought from the Ottoman Empire in the 1500s. This beautifully illustrated story explores Hungary's gardening traditions and the historic estates where rare varieties still bloom.",
-    "url": "https://www.smithsonianmag.com/travel/hungarians-grew-tulips-before-dutch-180980094/"
+    "meta": "35 min · History",
+    "title": "The Remarkable Restoration of the Elwha River",
+    "teaser": "After the largest dam removal project in U.S. history, the Elwha River is returning to life with salmon swimming freely for the first time in a century. This is the inspiring story of how nature heals when given the chance.",
+    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "Late May is a wonderful time to spot black-tailed deer and their newborn fawns at Hurricane Ridge. These gentle Olympic Peninsula natives often graze in the meadows near the visitor center in the early morning and evening. The drive up offers spectacular views of the Strait and wildflowers beginning to bloom at higher elevations.",
-    "link_text": "Plan Your Visit",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "title": "Black-Tailed Deer in Your Backyard",
+    "description": "The Olympic Peninsula is home to the Columbian black-tailed deer, a subspecies found only in the Pacific Northwest. These gentle creatures are often spotted around Port Angeles at dawn and dusk, especially near wooded areas. This time of year, you might even see adorable spotted fawns following their mothers!",
+    "link_text": "Learn about Olympic wildlife",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! Their tiny hearts are incredibly powerful little engines.",
-    "close_response": "Very close! The answer is 1,200 beats per minute — absolutely amazing for such a tiny bird!",
-    "wrong_response": "Those tiny hearts are remarkable — they beat about 1,200 times per minute when the bird is active!",
-    "learn_more_text": "To power their lightning-fast wing beats of up to 80 times per second, hummingbirds have the fastest metabolism of any bird. They must eat about half their body weight in nectar each day just to survive.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-hearts-work",
+    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute during flight! That's what powers their incredible hovering ability.",
+    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat every 10-15 minutes and consume up to half their body weight in sugar daily. When they sleep, their heart rate drops to as low as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
     "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Pillangó",
-      "Virág",
-      "Madár",
-      "Méhecske"
-    ],
-    "correct_index": 0,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a lovely, musical word for such a delicate creature.",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Virág means flower, madár means bird, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. Many Hungarian words for nature are wonderfully poetic and descriptive.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Britannica"
-  },
-  "puzzle_3": {
-    "question": "What percentage of the Olympic Peninsula receives over 140 inches of rain per year, making it a temperate rainforest?",
-    "options": [
-      "About 10%",
-      "About 25%",
-      "About 50%",
-      "About 75%"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Exactly right! About a quarter of the peninsula is lush temperate rainforest, including the famous Hoh Rain Forest where some trees are over 500 years old.",
-    "wrong_response": "It's about 25% of the Olympic Peninsula that gets rainforest-level rainfall. The Hoh, Quinault, and Queets valleys are home to some of the most magnificent old-growth forests in America!",
-    "learn_more_text": "The Olympic rainforests are draped in moss and ferns, creating an enchanted landscape. Meanwhile, Port Angeles sits in the rain shadow of the mountains and receives far less rain than just miles away.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Köszönöm! That's absolutely right — and such a beautiful word to say!",
+    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi' among friends). 'Szia' means hello, 'igen' means yes, and 'viszlát' means goodbye!",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages that surround it. It's known for its beautiful sound and the way it builds words by adding suffixes — one word can express what takes a whole sentence in English!",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Encyclopaedia Britannica"
+  },
+  "puzzle_3": {
+    "question": "What is the tallest tree species in the world?",
+    "options": [
+      "Douglas Fir",
+      "Giant Sequoia",
+      "Coast Redwood",
+      "Sitka Spruce"
+    ],
+    "correct_index": 2,
+    "correct_response": "Perfect! Coast redwoods can grow over 380 feet tall — and some of their cousins grow right here in Olympic National Park!",
+    "wrong_response": "It's the coast redwood! While the Olympic Peninsula has magnificent Sitka spruce and Douglas fir trees, coast redwoods in California hold the record at over 380 feet tall.",
+    "learn_more_text": "The tallest known tree in the world is a coast redwood named Hyperion, standing at 380.3 feet — taller than the Statue of Liberty! Olympic National Park has some of the largest Sitka spruce trees in the world, which can reach nearly 300 feet tall.",
+    "learn_more_url": "https://www.nps.gov/subjects/trees/tallest-trees.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-05-28T08:00:24.381174-07:00",
+  "generated_at": "2026-05-28T15:13:18.218506-07:00",
   "date": "2026-05-28",
   "is_laundry_day": false
 }
