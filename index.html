@@ -116,12 +116,8 @@ function loadPuzzle3(d) {
   });
 }
 
-// Run after DOM is fully loaded
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', loadDailyContent);
-} else {
-  loadDailyContent();
-}
+
+
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Nunito:wght@400;500;600&display=swap');
@@ -927,5 +923,6 @@ function renderFaves(){
 }
 function removeFave(key){ try{localStorage.removeItem(key);renderFaves();}catch(e){} }
 </script>
+  <script>loadDailyContent();</script>
 </body>
 </html>
