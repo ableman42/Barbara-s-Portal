@@ -702,37 +702,87 @@ function loadMeals() {
 }
 loadMeals();
 
-// ── PARK VIEW DATA ──
+// ─// ── PARK VIEW DATA — June 2026 ──
+// Replace the existing pvItems array in index.html with this block.
+// Find: "const pvItems = [" and replace everything through the closing "];"
+
 const pvItems = [
-  { date:'2026-05-04', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
-  { date:'2026-05-05', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-05-05', time:'2:00pm',  name:'Cinco de Mayo with Megan & Tammy', type:'event' },
-  { date:'2026-05-06', time:'3:00pm',  name:'Happy Hour & Music: Carlos Xavier "Flute Storyteller"', type:'music' },
-  { date:'2026-05-07', time:'2:00pm',  name:'Nigerian Chapman Cocktails & Puff Puffs & Plantain Mosa', type:'event' },
-  { date:'2026-05-07', time:'2:00pm',  name:'Explore: Olympic National Park Visitor Center', type:'outing' },
-  { date:'2026-05-08', time:'3:00pm',  name:'Happy Hour & Music: Ty Schlung "Folk Singer"', type:'music' },
-  { date:'2026-05-12', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-05-12', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
-  { date:'2026-05-13', time:'2:00pm',  name:'Out of the Den with Marti & Bert', type:'event' },
-  { date:'2026-05-13', time:'3:00pm',  name:"Happy Hour & Music: The Secord's", type:'music' },
-  { date:'2026-05-14', time:'2:00pm',  name:'Hotdogs & Sodas & Beer with Keith', type:'event' },
-  { date:'2026-05-14', time:'2:00pm',  name:"Explore: Little Devil's Lunchbox Restaurant", type:'outing' },
-  { date:'2026-05-15', time:'3:00pm',  name:"Happy Hour & Music: Toni G \"Jack's Niece\" & Steve", type:'music' },
-  { date:'2026-05-19', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-05-19', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
-  { date:'2026-05-20', time:'2:00pm',  name:'Pictionary & Pop w/ Anthony', type:'event' },
-  { date:'2026-05-20', time:'3:00pm',  name:'Happy Hour & Music: The Messengers', type:'music' },
-  { date:'2026-05-21', time:'1:30pm',  name:'Town Hall Meeting', type:'event' },
-  { date:'2026-05-21', time:'2:00pm',  name:'Food Demo with Brian', type:'event' },
-  { date:'2026-05-21', time:'2:00pm',  name:'Explore: Spring Hurricane Ridge Drive', type:'outing' },
-  { date:'2026-05-22', time:'3:00pm',  name:'Happy Hour & Music: ELVIS "Tribute Tour"', type:'music' },
-  { date:'2026-05-25', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-05-25', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
-  { date:'2026-05-27', time:'3:00pm',  name:'Happy Hour & Music: Dennis Blair', type:'music' },
-  { date:'2026-05-28', time:'1:30pm',  name:'Food Forum Meeting', type:'event' },
-  { date:'2026-05-28', time:'2:00pm',  name:'Explore: Elwha Casino with Tammy B.', type:'outing' },
-  { date:'2026-05-29', time:'2:00pm',  name:'Scavenger Treasure Hunt with Bert & Marti', type:'event' },
-  { date:'2026-05-29', time:'3:00pm',  name:'Happy Hour & Music: Buck Ellard "Radio DJ Host & Lead Singer"', type:'music' },
+ { date:'2026-05-29', time:'2:00pm',  name:'Scavenger Treasure Hunt with Bert & Marti', type:'event' },
+  { date:'2026-05-29', time:'3:00pm',  name:'Happy Hour — Music by Buck Ellard "Radio DJ Host & Lead Singer"', type:'music' },
+  // ── June 1 (Sunday) ──
+  // No special events or outings listed
+
+  // ── June 2 (Tuesday) ──
+  { date:'2026-06-02', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-06-02', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+
+  // ── June 3 (Wednesday) ──
+  { date:'2026-06-03', time:'3:00pm',  name:'Happy Hour — Music by OPUS (Olympic Peninsula Ukulele Strummers)', type:'music' },
+
+  // ── June 4 (Thursday) ──
+  { date:'2026-06-04', time:'2:00pm',  name:'Explore: Dungeness River Nature Center', type:'outing' },
+  { date:'2026-06-04', time:'3:00pm',  name:'Pictionary & Soda Pop with Anthony', type:'event' },
+
+  // ── June 5 (Friday) ──
+  { date:'2026-06-05', time:'3:00pm',  name:'Happy Hour — Accordion Music by Kip Tullin', type:'music' },
+
+  // ── June 9 (Tuesday) ──
+  { date:'2026-06-09', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-06-09', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+
+  // ── June 10 (Wednesday) ──
+  { date:'2026-06-10', time:'3:00pm',  name:'Happy Hour — Music by The Secords', type:'music' },
+
+  // ── June 11 (Thursday) ──
+  { date:'2026-06-11', time:'12:00pm', name:'Explore: Mariner Café & Sequim Goodwill', type:'outing' },
+  { date:'2026-06-11', time:'3:00pm',  name:'Mammals Amongst Us with Marti & Bert', type:'event' },
+
+  // ── June 12 (Friday) ──
+  { date:'2026-06-12', time:'3:00pm',  name:'Happy Hour — Music by Dan & Anna', type:'music' },
+
+  // ── June 15 (Monday) ──
+  { date:'2026-06-15', time:'2:00pm',  name:'Ice Cream & Flag Trivia', type:'event' },
+
+  // ── June 16 (Tuesday) ──
+  { date:'2026-06-16', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-06-16', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+
+  // ── June 17 (Wednesday) ──
+  { date:'2026-06-17', time:'2:00pm',  name:'Food Demo with Brian', type:'event' },
+  { date:'2026-06-17', time:'3:00pm',  name:'Happy Hour — Music by The Dusty Trail Trio', type:'music' },
+
+  // ── June 18 (Thursday) ──
+  { date:'2026-06-18', time:'2:00pm',  name:'Explore: Country Aire (Organic Foods & Deli)', type:'outing' },
+  { date:'2026-06-18', time:'3:00pm',  name:'Flower Centerpieces with Charity — Father\'s Day Luncheon Prep', type:'event' },
+
+  // ── June 19 (Friday) — Juneteenth ──
+  { date:'2026-06-19', time:'11:30am', name:'Friends & Family Father\'s Day BBQ Luncheon', type:'event' },
+  { date:'2026-06-19', time:'3:00pm',  name:'Happy Hour — Oldies Music by Diane Romero', type:'music' },
+
+  // ── June 22 (Monday) ──
+  { date:'2026-06-22', time:'2:00pm',  name:'Cow Folk & Cornbread with Megan & Tammy', type:'event' },
+
+  // ── June 23 (Tuesday) — National Pink Day ──
+  { date:'2026-06-23', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-06-23', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+  { date:'2026-06-23', time:'3:00pm',  name:'National Pink Day — Dress in Pink & Shirley Temples with Megan & Tammy', type:'event' },
+
+  // ── June 24 (Wednesday) ──
+  { date:'2026-06-24', time:'3:00pm',  name:'Happy Hour — Music by Dennis Blair', type:'music' },
+
+  // ── June 25 (Thursday) ──
+  { date:'2026-06-25', time:'2:00pm',  name:'Explore: Elwha Casino with Tammy B.', type:'outing' },
+  { date:'2026-06-25', time:'2:00pm',  name:'Hot Dogs, Sodas & Beers with Keith', type:'event' },
+
+  // ── June 26 (Friday) — National Pudding Day ──
+  { date:'2026-06-26', time:'3:00pm',  name:'Happy Hour — Music by Buck Ellard (Radio Host & Lead Singer)', type:'music' },
+
+  // ── June 29 (Monday) ──
+  { date:'2026-06-29', time:'2:00pm',  name:'Italian Sodas by the Lagoon with Megan & Tammy', type:'event' },
+
+  // ── June 30 (Tuesday) ──
+  { date:'2026-06-30', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-06-30', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
 ].sort((a,b) => a.date !== b.date ? a.date.localeCompare(b.date) : a.time.localeCompare(b.time));
 
 function pvIcon(t) { return t==='outing'?'🚌':t==='music'?'🎵':'🎉'; }
