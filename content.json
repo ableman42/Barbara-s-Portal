@@ -1,78 +1,78 @@
 {
-  "date_display": "Thursday, May 28",
+  "date_display": "Friday, May 29",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca is named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he explored the Pacific Northwest in 1592 as Juan de Fuca. The waterway you can see from Port Angeles has connected cultures and explorers for centuries.",
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish called him Juan de Fuca. He claimed to have discovered the passage between the Pacific Ocean and the inland waters, though historians still debate whether he actually made the voyage!",
     "tag": "Local History"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
     "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals, like the ones you might spot in the Strait of Juan de Fuca, can hold their breath for nearly 30 minutes and dive over 1,500 feet deep. Learn about these charming marine neighbors and their surprising abilities.",
-    "url": "https://www.fisheries.noaa.gov/species/harbor-seal"
+    "teaser": "Harbor seals, those adorable spotted friends you might spot lounging on rocks near Port Angeles, can hold their breath for nearly 30 minutes and dive over 1,400 feet deep! Learn about their fascinating underwater world and family life.",
+    "url": "https://www.npca.org/articles/2383-five-facts-harbor-seals"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Return of Wildflowers to Olympic National Park",
-    "teaser": "Spring brings an explosion of color to the Olympic Peninsula's meadows, from avalanche lilies to lupines. Discover which flowers are blooming right now and where to find the best displays near Port Angeles.",
-    "url": "https://www.nps.gov/olym/learn/nature/wildflowers.htm"
+    "meta": "15 min · Gardens",
+    "title": "The Surprising History of Tulips and Hungary",
+    "teaser": "Tulips aren't just a Dutch treasure—they have deep roots in Hungarian culture and gardens too! This delightful article explores how these beloved spring flowers traveled from the Ottoman Empire to become symbols of beauty across Europe.",
+    "url": "https://www.smithsonianmag.com/history/tulip-mania-financial-crash-holland-180964915/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Remarkable Restoration of the Elwha River",
-    "teaser": "After the largest dam removal project in U.S. history, the Elwha River is returning to life with salmon swimming freely for the first time in a century. This is the inspiring story of how nature heals when given the chance.",
-    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
+    "meta": "35 min · Nature",
+    "title": "Olympic National Park: A Wilderness Crown",
+    "teaser": "From glaciated mountain peaks to temperate rainforests to wild Pacific coastline, Olympic National Park contains an extraordinary diversity of ecosystems right in your backyard. This comprehensive guide celebrates the natural wonders that make this place so magical.",
+    "url": "https://www.nps.gov/olym/learn/nature/index.htm"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer in Your Backyard",
-    "description": "The Olympic Peninsula is home to the Columbian black-tailed deer, a subspecies found only in the Pacific Northwest. These gentle creatures are often spotted around Port Angeles at dawn and dusk, especially near wooded areas. This time of year, you might even see adorable spotted fawns following their mothers!",
-    "link_text": "Learn about Olympic wildlife",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "icon": "🦅",
+    "title": "Bald Eagles Along the Strait",
+    "description": "Late May is a wonderful time to spot bald eagles along the Strait of Juan de Fuca! These magnificent birds nest in the tall trees near the waterfront and can often be seen fishing or soaring on thermal currents. Port Angeles is home to one of the healthiest bald eagle populations in the lower 48 states, with dozens of nesting pairs in the area.",
+    "link_text": "Learn about local eagles",
+    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "A bald eagle's nest, called an aerie, can weigh up to ___ pounds when fully built over many years.",
+    "answer": 2000,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute during flight! That's what powers their incredible hovering ability.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat every 10-15 minutes and consume up to half their body weight in sugar daily. When they sleep, their heart rate drops to as low as 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 500,
+    "correct_response": "Exactly right! That's about as much as a small car—incredible!",
+    "close_response": "Very close! These massive nests can actually reach 2,000 pounds.",
+    "wrong_response": "These amazing nests can weigh up to 2,000 pounds—as heavy as a small car! Eagles add to them year after year.",
+    "learn_more_text": "Bald eagles are faithful to their nesting sites and return to the same nest year after year, adding new sticks and materials each season. The largest bald eagle nest on record was over 9 feet wide and 20 feet deep!",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Bald_Eagle/lifehistory",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Napfény"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's absolutely right — and such a beautiful word to say!",
-    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi' among friends). 'Szia' means hello, 'igen' means yes, and 'viszlát' means goodbye!",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages that surround it. It's known for its beautiful sound and the way it builds words by adding suffixes — one word can express what takes a whole sentence in English!",
+    "correct_response": "Beautiful! Pillangó is indeed butterfly—such a lovely, delicate word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound as delicate as the creature itself?",
+    "learn_more_text": "Hungarian is a unique language, part of the Finno-Ugric family, and is not related to the surrounding Slavic or Germanic languages. It's known for its beautiful, poetic words and complex but logical grammar.",
     "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Encyclopaedia Britannica"
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What is the tallest tree species in the world?",
+    "question": "What type of forest covers much of the western slopes of Olympic National Park?",
     "options": [
-      "Douglas Fir",
-      "Giant Sequoia",
-      "Coast Redwood",
-      "Sitka Spruce"
+      "Boreal forest",
+      "Temperate rainforest",
+      "Cloud forest",
+      "Deciduous forest"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Coast redwoods can grow over 380 feet tall — and some of their cousins grow right here in Olympic National Park!",
-    "wrong_response": "It's the coast redwood! While the Olympic Peninsula has magnificent Sitka spruce and Douglas fir trees, coast redwoods in California hold the record at over 380 feet tall.",
-    "learn_more_text": "The tallest known tree in the world is a coast redwood named Hyperion, standing at 380.3 feet — taller than the Statue of Liberty! Olympic National Park has some of the largest Sitka spruce trees in the world, which can reach nearly 300 feet tall.",
-    "learn_more_url": "https://www.nps.gov/subjects/trees/tallest-trees.htm",
+    "correct_index": 1,
+    "correct_response": "Perfect! The temperate rainforests here are among the wettest places in the continental US, receiving over 12 feet of rain annually!",
+    "wrong_response": "It's actually temperate rainforest! These lush, moss-draped forests receive over 12 feet of rain each year and are some of the most beautiful in the world.",
+    "learn_more_text": "Olympic National Park's Hoh Rainforest is one of the finest examples of temperate rainforest in the United States, with Sitka spruce and western hemlock trees reaching over 300 feet tall and draped in club moss and ferns.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
     "learn_more_label": "National Park Service"
   },
   "game": {
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-05-28T15:13:18.218506-07:00",
-  "date": "2026-05-28",
+  "generated_at": "2026-05-29T14:28:54.830544-07:00",
+  "date": "2026-05-29",
   "is_laundry_day": false
 }
