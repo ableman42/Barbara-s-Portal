@@ -1,78 +1,78 @@
 {
-  "date_display": "Friday, May 29",
+  "date_display": "Saturday, May 30",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish called him Juan de Fuca. He claimed to have discovered the passage between the Pacific Ocean and the inland waters, though historians still debate whether he actually made the voyage!",
-    "tag": "Local History"
+    "text": "The Danube River flows through Budapest, Hungary's capital, dividing it into two historic parts: Buda on the west bank and Pest on the east. The beautiful Chain Bridge, completed in 1849, was the first permanent bridge to connect these two sides and remains one of the city's most iconic landmarks.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
+    "meta": "5 min · Nature",
     "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals, those adorable spotted friends you might spot lounging on rocks near Port Angeles, can hold their breath for nearly 30 minutes and dive over 1,400 feet deep! Learn about their fascinating underwater world and family life.",
-    "url": "https://www.npca.org/articles/2383-five-facts-harbor-seals"
+    "teaser": "Harbor seals are common visitors to the Strait of Juan de Fuca, but few people know about their remarkable diving abilities and caring nature. These charming marine mammals have surprising adaptations that help them thrive in Pacific Northwest waters.",
+    "url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "The Surprising History of Tulips and Hungary",
-    "teaser": "Tulips aren't just a Dutch treasure—they have deep roots in Hungarian culture and gardens too! This delightful article explores how these beloved spring flowers traveled from the Ottoman Empire to become symbols of beauty across Europe.",
-    "url": "https://www.smithsonianmag.com/history/tulip-mania-financial-crash-holland-180964915/"
+    "meta": "15 min · Gardening",
+    "title": "Growing a Garden for Hummingbirds",
+    "teaser": "Learn which flowers and plants attract these tiny jeweled visitors to your garden throughout the seasons. With the right choices, you can create a hummingbird haven that brings color and life to your outdoor space all summer long.",
+    "url": "https://www.audubon.org/content/attracting-hummingbirds"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Olympic National Park: A Wilderness Crown",
-    "teaser": "From glaciated mountain peaks to temperate rainforests to wild Pacific coastline, Olympic National Park contains an extraordinary diversity of ecosystems right in your backyard. This comprehensive guide celebrates the natural wonders that make this place so magical.",
-    "url": "https://www.nps.gov/olym/learn/nature/index.htm"
+    "meta": "35 min · History",
+    "title": "The Restoration of the Elwha River",
+    "teaser": "The removal of two dams on the Elwha River near Port Angeles was the largest dam removal project in U.S. history, restoring the river to its natural flow. This remarkable story of environmental restoration shows how nature can heal when given the chance, bringing salmon back to waters they hadn't reached in over a century.",
+    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Along the Strait",
-    "description": "Late May is a wonderful time to spot bald eagles along the Strait of Juan de Fuca! These magnificent birds nest in the tall trees near the waterfront and can often be seen fishing or soaring on thermal currents. Port Angeles is home to one of the healthiest bald eagle populations in the lower 48 states, with dozens of nesting pairs in the area.",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer in Hurricane Ridge",
+    "description": "May is a wonderful time to spot black-tailed deer and their adorable fawns in Hurricane Ridge's meadows. These gentle creatures are most active in the early morning and evening hours, often seen grazing on wildflowers as the mountain landscape comes alive with spring colors. The drive up offers breathtaking views of the Strait of Juan de Fuca on clear days.",
+    "link_text": "Plan your visit",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A bald eagle's nest, called an aerie, can weigh up to ___ pounds when fully built over many years.",
-    "answer": 2000,
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 500,
-    "correct_response": "Exactly right! That's about as much as a small car—incredible!",
-    "close_response": "Very close! These massive nests can actually reach 2,000 pounds.",
-    "wrong_response": "These amazing nests can weigh up to 2,000 pounds—as heavy as a small car! Eagles add to them year after year.",
-    "learn_more_text": "Bald eagles are faithful to their nesting sites and return to the same nest year after year, adding new sticks and materials each season. The largest bald eagle nest on record was over 9 feet wide and 20 feet deep!",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Bald_Eagle/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 100,
+    "correct_response": "Exactly right! That tiny heart works incredibly hard to power those amazing wings!",
+    "close_response": "Very close! The answer is 1,200 beats per minute — an astonishing pace for such a tiny bird!",
+    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine anything that fast, but that's what it takes to hover in mid-air!",
+    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds have the fastest metabolism of any animal. They must consume about half their body weight in sugar daily, visiting hundreds of flowers each day.",
+    "learn_more_url": "https://www.audubon.org/news/fascinating-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Napfény"
+      "Szia",
+      "Köszönöm",
+      "Viszlát",
+      "Igen"
     ],
     "correct_index": 1,
-    "correct_response": "Beautiful! Pillangó is indeed butterfly—such a lovely, delicate word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound as delicate as the creature itself?",
-    "learn_more_text": "Hungarian is a unique language, part of the Finno-Ugric family, and is not related to the surrounding Slavic or Germanic languages. It's known for its beautiful, poetic words and complex but logical grammar.",
+    "correct_response": "Köszönöm! You got it right! It's such a warm and expressive word, isn't it?",
+    "wrong_response": "The answer is 'Köszönöm'! It's one of the most important words to know in Hungarian — expressing gratitude with warmth.",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages that surround it. This makes it quite different from neighboring languages like German or Romanian.",
     "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
     "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What type of forest covers much of the western slopes of Olympic National Park?",
+    "question": "What year did Olympic National Park officially become a national park?",
     "options": [
-      "Boreal forest",
-      "Temperate rainforest",
-      "Cloud forest",
-      "Deciduous forest"
+      "1909",
+      "1938",
+      "1952",
+      "1962"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! The temperate rainforests here are among the wettest places in the continental US, receiving over 12 feet of rain annually!",
-    "wrong_response": "It's actually temperate rainforest! These lush, moss-draped forests receive over 12 feet of rain each year and are some of the most beautiful in the world.",
-    "learn_more_text": "Olympic National Park's Hoh Rainforest is one of the finest examples of temperate rainforest in the United States, with Sitka spruce and western hemlock trees reaching over 300 feet tall and draped in club moss and ferns.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "correct_response": "Yes, 1938! President Franklin D. Roosevelt established Olympic National Park to protect its incredible rainforests, mountains, and coastline for generations to come.",
+    "wrong_response": "It was 1938! President Roosevelt created the park to preserve the Olympic Peninsula's unique ecosystems — from temperate rainforests to alpine peaks to wild coastline.",
+    "learn_more_text": "Olympic National Park protects nearly one million acres of wilderness, including some of the finest remaining temperate rainforest in the United States. The park is also home to the largest unmanaged herd of Roosevelt elk in the Pacific Northwest.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/historyculture/index.htm",
     "learn_more_label": "National Park Service"
   },
   "game": {
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-05-29T14:28:54.830544-07:00",
-  "date": "2026-05-29",
+  "generated_at": "2026-05-30T11:48:44.992018-07:00",
+  "date": "2026-05-30",
   "is_laundry_day": false
 }
