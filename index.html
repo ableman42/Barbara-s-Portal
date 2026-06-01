@@ -5,8 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Barbara's Morning Page</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/tabler-icons.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
-<script>emailjs.init('To5e32R6X29PvLHUN');</script>
 <script>
 // ── LOAD DAILY CONTENT FROM content.json ──────────────────────────────────
 async function loadDailyContent() {
@@ -149,7 +147,7 @@ if (document.readyState === 'loading') {
 .portal-body { padding: 28px 32px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 .card { background: #fff; border-radius: 18px; border: 1.5px solid #F2E8D8; padding: 22px 24px; }
 .card.full { grid-column: 1 / -1; }
-.section-label { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #B88B6A; margin: 0 0 14px; }
+.section-label { font-size: 16px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #B88B6A; margin: 0 0 16px; }
 
 /* ── READS ── */
 .read-item { background: #FEF4EC; border-radius: 12px; padding: 15px 17px; margin-bottom: 10px; }
@@ -280,11 +278,6 @@ if (document.readyState === 'loading') {
 .mood-history-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .mood-pip { font-size: 12px; color: #8C6A50; background: #fff; border: 1px solid #E2D5C5; border-radius: 10px; padding: 3px 10px; }
 
-/* ── PAGE FOOTER ── */
-.page-footer { margin: 4px 32px 32px; background: #fff; border-radius: 18px; border: 1.5px solid #F2E8D8; padding: 20px 28px; display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
-.page-footer-text { font-family: 'Lora', serif; font-size: 15px; font-style: italic; color: #8C6A50; margin: 0; line-height: 1.7; }
-.contact-link { display: inline-flex; align-items: center; gap: 7px; background: #E8724A; color: #fff; text-decoration: none; border-radius: 12px; padding: 10px 20px; font-size: 14px; font-family: 'Nunito', sans-serif; font-weight: 600; white-space: nowrap; flex-shrink: 0; }
-.contact-link:hover { background: #D4613B; }
 
 /* ── PV MODAL ── */
 .modal-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45); z-index: 200; align-items: flex-start; justify-content: center; padding: 32px 16px; overflow-y: auto; }
@@ -597,10 +590,7 @@ if (document.readyState === 'loading') {
 
   </div><!-- end portal-body -->
 
-  <div class="page-footer">
-    <p class="page-footer-text">Questions? Comments? Are there other topics or activities you would like to see here? Any random thoughts? Need anything at all?</p>
-    <a class="contact-link" href="mailto:ableman42@gmail.com?subject=Message from Barbara's Portal"><i class="ti ti-pencil"></i> Enter here</a>
-  </div>
+
 
 </div><!-- end page-home -->
 
@@ -869,8 +859,6 @@ async function confirmMood(){
   document.getElementById('mood-status').classList.add('visible');
   btn.textContent='Saved ✓';
   loadMoodHistory();
-  sendDailyEmail(selectedMood,selectedEmoji);
-  if(selectedMood==='Low'||selectedMood==='Tired') sendAlertEmail(selectedMood,selectedEmoji);
 }
 async function loadMoodHistory(){
   try{
@@ -882,34 +870,6 @@ async function loadMoodHistory(){
     }
     document.getElementById('mood-history').classList.add('visible');
   }catch(e){}
-}
-async function buildWeeklySummary(){
-  try{
-    const keys=Object.keys(localStorage).filter(k=>k.startsWith('mood:')).sort().reverse().slice(0,7);
-    const rows=[];
-    for(const k of keys){try{const r=localStorage.getItem(k);if(r){const e=JSON.parse(r);rows.push(`${formatDate(k)}: ${e.emoji} ${e.mood}`);}}catch(e){}}
-    return rows.length?rows.join('\n'):'No entries this week.';
-  }catch(e){return 'No entries available.';}
-}
-async function sendDailyEmail(mood,emoji){
-  try{
-    const today=todayLabel(); const summary=await buildWeeklySummary();
-    const message=`Hi Sean,\n\nBarbara checked in today (${today}) and reported feeling: ${emoji} ${mood}.\n\nLast 7 days:\n${summary}\n\nSent automatically by Barbara's Portal`;
-    await emailjs.send('service_7rdoaxm','template_mqnrae6',{
-      subject: `Barbara's mood today — ${today}: ${emoji} ${mood}`,
-      message: message
-    });
-  }catch(e){ console.error('Daily email error:',e); }
-}
-async function sendAlertEmail(mood,emoji){
-  try{
-    const today=todayLabel();
-    const message=`Hi Sean,\n\nHeads up — Barbara just checked in and said she's feeling ${emoji} ${mood} today (${today}).\n\nYou might want to give her a call when you get a chance.\n\nSent automatically by Barbara's Portal`;
-    await emailjs.send('service_7rdoaxm','template_mqnrae6',{
-      subject: `Barbara needs a check-in today — ${emoji} ${mood}`,
-      message: message
-    });
-  }catch(e){ console.error('Alert email error:',e); }
 }
 loadMoodHistory();
 
