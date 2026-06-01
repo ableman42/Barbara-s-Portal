@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, May 31",
+  "date_display": "Monday, June 1",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and mild to strong and spicy! The town of Szeged and Kalocsa are Hungary's paprika capitals, where the red peppers are still traditionally dried in long braided strings called füzér.",
-    "tag": "Hungarian culture"
+    "text": "June 1st marks the beginning of meteorological summer in the Northern Hemisphere! This is when scientists officially start counting the summer season, based on temperature patterns rather than the astronomical solstice. It's a wonderful time to enjoy the long daylight hours on the Olympic Peninsula.",
+    "tag": "Seasons & Nature"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Hummingbirds in the Pacific Northwest",
-    "teaser": "These tiny jewels migrate thousands of miles to visit gardens like yours each spring. Learn why they're even more remarkable than you might think.",
-    "url": "https://www.audubon.org/news/learn-identify-hummingbirds-your-backyard"
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals are frequent visitors to the Strait of Juan de Fuca, and they're more fascinating than you might think. Learn about their surprising diving abilities and how they raise their adorable pups.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Return of the Elwha: Largest Dam Removal in U.S. History",
-    "teaser": "Right in your backyard, the Elwha River experienced an incredible transformation when two dams were removed. The salmon, sediment, and ecosystem are returning in ways that surprised even scientists.",
+    "meta": "15 min · History",
+    "title": "The Elwha River Restoration: Nature's Remarkable Comeback",
+    "teaser": "Right in Port Angeles's backyard, the Elwha River is showing us how nature can heal when given the chance. After the largest dam removal project in U.S. history, salmon are returning and the ecosystem is thriving in ways that have amazed scientists.",
     "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "Ellis Island: Gateway to the American Dream",
-    "teaser": "Between 1892 and 1954, over 12 million immigrants passed through Ellis Island, each carrying hopes and dreams. Their stories of courage and resilience shaped the America we know today.",
-    "url": "https://www.smithsonianmag.com/history/ellis-island-and-the-peopling-of-america-107228844/"
+    "meta": "35 min · Travel & Culture",
+    "title": "Hungary's Lake Balaton: The Heart of Hungarian Summer",
+    "teaser": "Lake Balaton has been the beloved vacation destination for Hungarian families for generations, earning its nickname as the \"Hungarian Sea.\" This beautiful exploration covers the lake's history, charming villages, and the traditions that make it special to Hungarians everywhere.",
+    "url": "https://www.smithsonianmag.com/travel/lake-balaton-hungary-180975739/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-tailed Deer Season at Hurricane Ridge",
-    "description": "Late spring and early summer is a wonderful time to spot black-tailed deer and their fawns at Hurricane Ridge. The does often bring their spotted babies to graze in the alpine meadows as wildflowers begin to bloom. Early morning or late afternoon visits offer the best wildlife viewing opportunities.",
-    "link_text": "Hurricane Ridge info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "title": "Black-Tailed Deer Fawning Season",
+    "description": "Early June is when Olympic black-tailed deer give birth to their spotted fawns in the forests around Port Angeles. If you spot a fawn lying alone in the grass, don't worry — mother deer leave their babies hidden while they browse for food, returning several times a day to nurse. The best thing to do is admire from a distance and let nature take its course.",
+    "link_text": "Learn about Olympic deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "An adult harbor seal can hold its breath underwater for up to ___ minutes while diving for fish.",
+    "answer": 25,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's right, Barbara! Their tiny hearts are incredibly fast — faster than you can even imagine!",
-    "close_response": "You're very close! It's actually about 1,200 beats per minute — absolutely remarkable for such a tiny bird!",
-    "wrong_response": "Those amazing little birds have hearts that beat about 1,200 times per minute — that's 20 times per second!",
-    "learn_more_text": "To power their incredible hovering flight and high metabolism, hummingbirds have the fastest heart rate of all birds. When resting, their heart rate drops to a comparatively leisurely 250 beats per minute.",
-    "learn_more_url": "https://www.audubon.org/news/fascinating-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 5,
+    "correct_response": "Exactly right, Barbara! That's an impressive ability — longer than most people could imagine!",
+    "close_response": "You're very close! Harbor seals can actually hold their breath for about 25 minutes. That's remarkable!",
+    "wrong_response": "Harbor seals are amazing divers — they can hold their breath for up to 25 minutes! That helps them catch fish in the deep waters of the Strait of Juan de Fuca.",
+    "learn_more_text": "Harbor seals you might see from Port Angeles can dive as deep as 1,500 feet, though they usually stay in shallower waters. Their large eyes help them see in the murky depths where they hunt for fish, squid, and crustaceans.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "More about harbor seals — NOAA"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'flower'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Madár",
+      "Virág",
+      "Napfény",
+      "Kert"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm, Barbara! You got it right — what a lovely word to know!",
-    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi' among friends). 'Szia' means hello/bye, 'igen' means yes, and 'viszlát' means goodbye!",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most European languages. It's known for its beautiful, melodic sound and its complex but logical grammar system.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Encyclopedia Britannica"
+    "correct_response": "Wonderful, Barbara! Virág is such a beautiful word for something so beautiful!",
+    "wrong_response": "The Hungarian word for flower is 'virág' — such a lovely word! (Madár means bird, napfény means sunshine, and kert means garden.)",
+    "learn_more_text": "Virág is also a common Hungarian surname and given name, reflecting the Hungarian love of nature and flowers. Many Hungarian words related to nature have a musical, poetic quality that makes the language especially beautiful.",
+    "learn_more_url": "https://en.wiktionary.org/wiki/vir%C3%A1g",
+    "learn_more_label": "Hungarian word origins — Wiktionary"
   },
   "puzzle_3": {
-    "question": "What type of tree is the official state tree of Washington?",
+    "question": "What type of tree is most common in Olympic National Park's temperate rainforest?",
     "options": [
       "Douglas Fir",
-      "Western Red Cedar",
-      "Western Hemlock",
-      "Sitka Spruce"
+      "Redwood",
+      "Sitka Spruce",
+      "Giant Sequoia"
     ],
     "correct_index": 2,
-    "correct_response": "Wonderful! The Western Hemlock is our state tree — you see these graceful evergreens all around the Olympic Peninsula!",
-    "wrong_response": "It's actually the Western Hemlock! These beautiful evergreens with their drooping tops are found throughout Washington's forests, including right here around Port Angeles.",
-    "learn_more_text": "The Western Hemlock became Washington's state tree in 1947. These graceful trees can live 400-500 years and grow up to 200 feet tall, thriving in the moist climate of the Pacific Northwest.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-hemlock.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Perfect! The majestic Sitka spruce thrives in the misty rainforests near Port Angeles, some growing over 300 feet tall!",
+    "wrong_response": "It's the Sitka spruce! These magnificent trees love the moist, mild climate of the Olympic Peninsula and can grow to amazing heights, creating those magical misty forests we treasure here.",
+    "learn_more_text": "The Hoh Rain Forest and Quinault Rain Forest in Olympic National Park are home to some of the largest Sitka spruces in the world. These ancient trees create a cathedral-like canopy draped with mosses and ferns, receiving over 12 feet of rain each year.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Rainforest ecology — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-05-31T11:56:21.017316-07:00",
-  "date": "2026-05-31",
-  "is_laundry_day": true
+  "generated_at": "2026-06-01T15:52:59.096680-07:00",
+  "date": "2026-06-01",
+  "is_laundry_day": false
 }
