@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, June 1",
+  "date_display": "Tuesday, June 2",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "June 1st marks the beginning of meteorological summer in the Northern Hemisphere! This is when scientists officially start counting the summer season, based on temperature patterns rather than the astronomical solstice. It's a wonderful time to enjoy the long daylight hours on the Olympic Peninsula.",
-    "tag": "Seasons & Nature"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek sailor who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish called him Juan de Fuca! He claimed to have discovered this waterway between what is now Washington and British Columbia.",
+    "tag": "Local History"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals are frequent visitors to the Strait of Juan de Fuca, and they're more fascinating than you might think. Learn about their surprising diving abilities and how they raise their adorable pups.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels of the bird world can fly backwards and their hearts beat over 1,200 times per minute. Learn about the remarkable abilities that make hummingbirds such special visitors to Pacific Northwest gardens.",
+    "url": "https://www.audubon.org/news/the-coolest-hummingbird-facts-youve-probably-never-heard"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Elwha River Restoration: Nature's Remarkable Comeback",
-    "teaser": "Right in Port Angeles's backyard, the Elwha River is showing us how nature can heal when given the chance. After the largest dam removal project in U.S. history, salmon are returning and the ecosystem is thriving in ways that have amazed scientists.",
+    "meta": "15 min · Nature",
+    "title": "The Return of the Elwha River",
+    "teaser": "After the largest dam removal project in U.S. history, the Elwha River near Port Angeles is healing beautifully. Salmon have returned, forests are regenerating, and the river flows free again for the first time in over a century.",
     "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "long_read": {
     "meta": "35 min · Travel & Culture",
-    "title": "Hungary's Lake Balaton: The Heart of Hungarian Summer",
-    "teaser": "Lake Balaton has been the beloved vacation destination for Hungarian families for generations, earning its nickname as the \"Hungarian Sea.\" This beautiful exploration covers the lake's history, charming villages, and the traditions that make it special to Hungarians everywhere.",
-    "url": "https://www.smithsonianmag.com/travel/lake-balaton-hungary-180975739/"
+    "title": "Budapest: The Pearl of the Danube",
+    "teaser": "A beautiful journey through Hungary's capital city, from its thermal baths and grand architecture to the Danube River that divides Buda and Pest. This photo essay captures the timeless beauty of the city's bridges, cafes, and historic neighborhoods.",
+    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-guide"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer Fawning Season",
-    "description": "Early June is when Olympic black-tailed deer give birth to their spotted fawns in the forests around Port Angeles. If you spot a fawn lying alone in the grass, don't worry — mother deer leave their babies hidden while they browse for food, returning several times a day to nurse. The best thing to do is admire from a distance and let nature take its course.",
-    "link_text": "Learn about Olympic deer",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "June is a wonderful time to spot Olympic black-tailed deer at Hurricane Ridge, especially in the early morning or evening. These gentle creatures are unique to the Pacific Northwest and often graze in the subalpine meadows with their adorable spotted fawns this time of year. The drive up to Hurricane Ridge offers breathtaking views of the Olympic Mountains and the Strait of Juan de Fuca.",
+    "link_text": "Plan Your Visit",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "An adult harbor seal can hold its breath underwater for up to ___ minutes while diving for fish.",
-    "answer": 25,
+    "question": "A hummingbird's wings can beat approximately ___ times per second.",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 5,
-    "correct_response": "Exactly right, Barbara! That's an impressive ability — longer than most people could imagine!",
-    "close_response": "You're very close! Harbor seals can actually hold their breath for about 25 minutes. That's remarkable!",
-    "wrong_response": "Harbor seals are amazing divers — they can hold their breath for up to 25 minutes! That helps them catch fish in the deep waters of the Strait of Juan de Fuca.",
-    "learn_more_text": "Harbor seals you might see from Port Angeles can dive as deep as 1,500 feet, though they usually stay in shallower waters. Their large eyes help them see in the murky depths where they hunt for fish, squid, and crustaceans.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "More about harbor seals — NOAA"
+    "close_range": 15,
+    "correct_response": "Exactly right! That's incredibly fast — too quick for our eyes to see!",
+    "close_response": "You're very close! The answer is 80 beats per second — that's what creates their distinctive humming sound!",
+    "wrong_response": "It's actually about 80 times per second! That's why they make that wonderful humming sound and why their wings appear as just a blur.",
+    "learn_more_text": "This incredibly fast wing movement allows hummingbirds to hover in place and even fly backwards — the only birds that can do this! The rapid beating also creates the humming sound that gives them their name.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'flower'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "Madár",
-      "Virág",
-      "Napfény",
-      "Kert"
+      "Köszönöm",
+      "Szia",
+      "Jó napot",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Virág is such a beautiful word for something so beautiful!",
-    "wrong_response": "The Hungarian word for flower is 'virág' — such a lovely word! (Madár means bird, napfény means sunshine, and kert means garden.)",
-    "learn_more_text": "Virág is also a common Hungarian surname and given name, reflecting the Hungarian love of nature and flowers. Many Hungarian words related to nature have a musical, poetic quality that makes the language especially beautiful.",
-    "learn_more_url": "https://en.wiktionary.org/wiki/vir%C3%A1g",
-    "learn_more_label": "Hungarian word origins — Wiktionary"
+    "correct_response": "Szia! You're absolutely right! It's one of the most useful words in Hungarian — friendly and casual.",
+    "wrong_response": "The answer is 'Szia' (pronounced see-ah)! It's a wonderfully versatile word you can use for both hello and goodbye with friends.",
+    "learn_more_text": "Szia is the informal way to greet someone in Hungarian, while 'Jó napot' is more formal. Hungarians often use 'Szia' with family and friends, making it warm and personal.",
+    "learn_more_url": "https://www.hungarianpod101.com/blog/2019/09/17/hungarian-greetings/",
+    "learn_more_label": "HungarianPod101"
   },
   "puzzle_3": {
-    "question": "What type of tree is most common in Olympic National Park's temperate rainforest?",
+    "question": "What animal was reintroduced to Olympic National Park in 2008 after being hunted to extinction there in the early 1900s?",
     "options": [
-      "Douglas Fir",
-      "Redwood",
-      "Sitka Spruce",
-      "Giant Sequoia"
+      "Gray wolf",
+      "Sea otter",
+      "Fisher",
+      "Grizzly bear"
     ],
     "correct_index": 2,
-    "correct_response": "Perfect! The majestic Sitka spruce thrives in the misty rainforests near Port Angeles, some growing over 300 feet tall!",
-    "wrong_response": "It's the Sitka spruce! These magnificent trees love the moist, mild climate of the Olympic Peninsula and can grow to amazing heights, creating those magical misty forests we treasure here.",
-    "learn_more_text": "The Hoh Rain Forest and Quinault Rain Forest in Olympic National Park are home to some of the largest Sitka spruces in the world. These ancient trees create a cathedral-like canopy draped with mosses and ferns, receiving over 12 feet of rain each year.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Rainforest ecology — Olympic National Park"
+    "correct_response": "Yes! Fishers are back in the Olympics! These beautiful members of the weasel family had been gone for nearly a century, and now they're thriving again in the mountain forests.",
+    "wrong_response": "It was actually the fisher — a cat-sized member of the weasel family! Between 2008 and 2010, 90 fishers were released into Olympic National Park, and they've been successfully repopulating the forests.",
+    "learn_more_text": "Fishers are skilled tree climbers and one of the few predators that can hunt porcupines. The reintroduction program has been a wonderful success, with fishers now breeding and raising their young throughout the Olympic Peninsula.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/fisher-reintroduction.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-01T15:52:59.096680-07:00",
-  "date": "2026-06-01",
+  "generated_at": "2026-06-02T15:37:57.910425-07:00",
+  "date": "2026-06-02",
   "is_laundry_day": false
 }
