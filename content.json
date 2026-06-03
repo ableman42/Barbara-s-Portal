@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, June 2",
+  "date_display": "Wednesday, June 3",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek sailor who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish called him Juan de Fuca! He claimed to have discovered this waterway between what is now Washington and British Columbia.",
-    "tag": "Local History"
+    "text": "The Strait of Juan de Fuca was named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he became known as Juan de Fuca when he claimed to have sailed through this waterway in 1592. The strait is one of the world's most important marine highways, connecting the Pacific Ocean to the Salish Sea.",
+    "tag": "Local history"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world can fly backwards and their hearts beat over 1,200 times per minute. Learn about the remarkable abilities that make hummingbirds such special visitors to Pacific Northwest gardens.",
-    "url": "https://www.audubon.org/news/the-coolest-hummingbird-facts-youve-probably-never-heard"
+    "meta": "5 min · Gardens",
+    "title": "The Secret Language of Flowers in Victorian Gardens",
+    "teaser": "Victorians used flowers to send coded messages of love, friendship, and even warnings. Discover what your favorite garden blooms might have \"said\" in the 1800s.",
+    "url": "https://www.smithsonianmag.com/history/the-language-of-flowers-135139463/"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Return of the Elwha River",
-    "teaser": "After the largest dam removal project in U.S. history, the Elwha River near Port Angeles is healing beautifully. Salmon have returned, forests are regenerating, and the river flows free again for the first time in over a century.",
-    "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
+    "meta": "15 min · Wildlife",
+    "title": "The Remarkable Return of Gray Whales to the Pacific Coast",
+    "teaser": "Gray whales make one of the longest migrations of any mammal, traveling from Alaska to Mexico and back each year. Learn about their incredible comeback from near extinction and how to spot them along the Washington coast.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/gray-whale"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "Budapest: The Pearl of the Danube",
-    "teaser": "A beautiful journey through Hungary's capital city, from its thermal baths and grand architecture to the Danube River that divides Buda and Pest. This photo essay captures the timeless beauty of the city's bridges, cafes, and historic neighborhoods.",
-    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-guide"
+    "meta": "35 min · Olympic Peninsula",
+    "title": "The Wild Olympics: America's Last Untouched Rainforest",
+    "teaser": "The Olympic Peninsula holds one of North America's few temperate rainforests, where moss-draped trees tower over valleys that receive over 12 feet of rain annually. Explore the unique ecosystem that makes this corner of Washington so magical.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "June is a wonderful time to spot Olympic black-tailed deer at Hurricane Ridge, especially in the early morning or evening. These gentle creatures are unique to the Pacific Northwest and often graze in the subalpine meadows with their adorable spotted fawns this time of year. The drive up to Hurricane Ridge offers breathtaking views of the Olympic Mountains and the Strait of Juan de Fuca.",
-    "link_text": "Plan Your Visit",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "title": "Black-Tailed Deer at Ediz Hook",
+    "description": "Ediz Hook, the natural sand spit protecting Port Angeles Harbor, is home to a thriving population of Columbian black-tailed deer. These gentle creatures are often spotted grazing near the beach in the early morning or evening hours. The hook is also a wonderful spot for birdwatching and enjoying views of the Strait and the mountains.",
+    "link_text": "Learn about Ediz Hook",
+    "link_url": "https://www.portangeles.org/Facilities/Facility/Details/Ediz-Hook-15"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat approximately ___ times per second.",
-    "answer": 80,
+    "question": "Olympic National Park is home to over ___ miles of wilderness coastline.",
+    "answer": 73,
     "answer_is_number": true,
-    "close_range": 15,
-    "correct_response": "Exactly right! That's incredibly fast — too quick for our eyes to see!",
-    "close_response": "You're very close! The answer is 80 beats per second — that's what creates their distinctive humming sound!",
-    "wrong_response": "It's actually about 80 times per second! That's why they make that wonderful humming sound and why their wings appear as just a blur.",
-    "learn_more_text": "This incredibly fast wing movement allows hummingbirds to hover in place and even fly backwards — the only birds that can do this! The rapid beating also creates the humming sound that gives them their name.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 10,
+    "correct_response": "Perfect! Olympic National Park's 73 miles of wild coastline is one of its greatest treasures!",
+    "close_response": "Very close! The park protects 73 miles of beautiful, rugged coastline.",
+    "wrong_response": "The park actually has 73 miles of pristine coastline — the longest stretch of undeveloped coast in the continental United States!",
+    "learn_more_text": "Olympic National Park's coastal section features dramatic sea stacks, tide pools teeming with life, and beaches where you can see bald eagles soaring overhead. It's one of the most pristine coastal wilderness areas in the lower 48 states.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-coastal-areas-of-olympic-national-park.htm",
+    "learn_more_label": "Olympic National Park Service"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Szia",
-      "Jó napot",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! You're absolutely right! It's one of the most useful words in Hungarian — friendly and casual.",
-    "wrong_response": "The answer is 'Szia' (pronounced see-ah)! It's a wonderfully versatile word you can use for both hello and goodbye with friends.",
-    "learn_more_text": "Szia is the informal way to greet someone in Hungarian, while 'Jó napot' is more formal. Hungarians often use 'Szia' with family and friends, making it warm and personal.",
-    "learn_more_url": "https://www.hungarianpod101.com/blog/2019/09/17/hungarian-greetings/",
-    "learn_more_label": "HungarianPod101"
+    "correct_response": "Wonderful! 'Pillangó' is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound delicate and light, just like a butterfly's wings?",
+    "learn_more_text": "Hungary is home to over 200 species of butterflies, including the stunning Swallowtail. The word 'pillangó' comes from an old Hungarian root meaning something that flutters or flits about.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About Butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What animal was reintroduced to Olympic National Park in 2008 after being hunted to extinction there in the early 1900s?",
+    "question": "What unique feature do sea otters have that helps them stay warm in cold Pacific waters?",
     "options": [
-      "Gray wolf",
-      "Sea otter",
-      "Fisher",
-      "Grizzly bear"
+      "Blubber like whales",
+      "The densest fur of any animal",
+      "Special heated blood vessels",
+      "They migrate to warmer waters in winter"
     ],
-    "correct_index": 2,
-    "correct_response": "Yes! Fishers are back in the Olympics! These beautiful members of the weasel family had been gone for nearly a century, and now they're thriving again in the mountain forests.",
-    "wrong_response": "It was actually the fisher — a cat-sized member of the weasel family! Between 2008 and 2010, 90 fishers were released into Olympic National Park, and they've been successfully repopulating the forests.",
-    "learn_more_text": "Fishers are skilled tree climbers and one of the few predators that can hunt porcupines. The reintroduction program has been a wonderful success, with fishers now breeding and raising their young throughout the Olympic Peninsula.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/fisher-reintroduction.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Exactly right! Sea otters have the densest fur of any animal on Earth — up to one million hairs per square inch! This incredible coat keeps them cozy in our chilly waters.",
+    "wrong_response": "Sea otters actually have the densest fur of any animal — nearly one million hairs per square inch! Unlike seals and whales, they don't have blubber, so that luxurious fur is their warm winter coat.",
+    "learn_more_text": "Sea otters spend much of their day grooming their fur to maintain its insulating properties. You can often spot them floating on their backs in the Strait of Juan de Fuca, using their bellies as dinner tables while they crack open shellfish!",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
+    "learn_more_label": "Sea Otter Facts — National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-02T15:37:57.910425-07:00",
-  "date": "2026-06-02",
+  "generated_at": "2026-06-03T15:54:59.032923-07:00",
+  "date": "2026-06-03",
   "is_laundry_day": false
 }
