@@ -1011,14 +1011,41 @@ const PHOTOS = [
 ];
 
 function loadMemoryLane() {
-  // Pick 3 photos based on today's date so they rotate daily
+  // Try photos.json first (auto-generated from Google Drive by generate_content.py)
+  // Falls back to hardcoded PHOTOS array if not available yet
+  fetch('./photos.json?v=' + Date.now())
+    .then(r => r.ok ? r.json() : null)
+    .then(drivePhotos => {
+      const photoList = (drivePhotos && drivePhotos.length > 0) ? drivePhotos : PHOTOS;
+      renderMemoryLane(photoList);
+    })
+    .catch(() => renderMemoryLane(PHOTOS));
+}
+
+function renderMemoryLane(photoList) {
+  if (!photoList || photoList.length === 0) return;
+
+  // Deterministic daily shuffle — seeded Fisher-Yates so every photo rotates fairly
   const today = new Date();
-  const seed = today.getFullYear() * 10000 + (today.getMonth()+1) * 100 + today.getDate();
-  const shuffled = [...PHOTOS].sort((a, b) => {
-    const ha = ((seed * 1664525 + parseInt(a.id.slice(-4), 16)) >>> 0) % PHOTOS.length;
-    const hb = ((seed * 1664525 + parseInt(b.id.slice(-4), 16)) >>> 0) % PHOTOS.length;
-    return ha - hb;
-  });
+  const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+
+  // LCG pseudo-random number generator seeded by date
+  function seededRand(s) {
+    let state = s >>> 0;
+    return function() {
+      state = (Math.imul(state, 1664525) + 1013904223) >>> 0;
+      return state / 0x100000000;
+    };
+  }
+  const rand = seededRand(seed);
+
+  // Fisher-Yates shuffle with seeded RNG — every photo gets a fair chance
+  const shuffled = [...photoList];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
   const selected = shuffled.slice(0, 3);
   const strip = document.getElementById('memory-strip');
   strip.innerHTML = selected.map(p => `
