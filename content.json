@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, June 4",
+  "date_display": "Friday, June 5",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek sailor who sailed for Spain in 1592. He was actually born Ioannis Phokas, but adopted the Spanish version of his name. The strait is one of the few inland waterways in the world where you can spot both orcas and gray whales!",
-    "tag": "Local History"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have excellent memories and can remember every flower they've visited and how long it takes each bloom to refill with nectar.",
+    "tag": "Bird behavior"
   },
   "short_read": {
-    "meta": "5 min · Gardening",
-    "title": "How Plants Know When to Bloom",
-    "teaser": "Scientists have discovered that plants can actually count the days until spring using special proteins that act like tiny calendars. This fascinating process explains why tulips and daffodils know exactly when to peek through the soil!",
-    "url": "https://www.bbc.com/news/science-environment-26399373"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Garden Snails",
+    "teaser": "These humble garden visitors have teeth on their tongues and can sleep for three years straight. Discover the surprising world of one of nature's slowest but most fascinating creatures.",
+    "url": "https://www.bbc.com/future/article/20150423-the-truth-about-garden-snails"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
-    "title": "The Secret Language of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world communicate through an elaborate system of chirps, buzzes, and even wing beats that vary by species. Learn about their remarkable migration journeys and how they remember every flower they've visited.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-9873193/"
+    "title": "Where Orcas and Eagles Share the Waters",
+    "teaser": "The Pacific Northwest is home to one of the world's most remarkable wildlife spectacles where orcas hunt salmon while bald eagles soar overhead. This portrait captures a year in the life of the Salish Sea's most iconic residents.",
+    "url": "https://www.nationalgeographic.com/animals/article/orcas-whales-pacific-northwest-salmon"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Gardens of Hungary: A Journey Through Time",
-    "teaser": "From medieval monastery gardens to the grand estates of the Austro-Hungarian Empire, Hungary's horticultural heritage is rich and beautiful. This article explores how Hungarian gardeners preserved rare plant varieties and created some of Europe's most stunning landscapes.",
-    "url": "https://www.nationalgeographic.com/travel/article/hungary-budapest-gardens-parks"
+    "meta": "35 min · History",
+    "title": "Budapest: The Pearl of the Danube",
+    "teaser": "From Roman ruins to Art Nouveau splendor, Hungary's capital tells a thousand-year story through its architecture, thermal baths, and resilient spirit. Travel through the layers of history that made Budapest one of Europe's most beautiful cities.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-beautifully-preserved-architectural-gem-180971461/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer on the Peninsula",
-    "description": "June is a magical time to spot Columbian black-tailed deer fawns around Port Angeles and Olympic National Park. These adorable spotted babies are born in late spring and stay hidden in tall grass while their mothers forage nearby. If you see a fawn alone, don't worry—mom is usually just out getting food and will return soon!",
-    "link_text": "Learn about Peninsula wildlife",
-    "link_url": "https://www.nps.gov/olym/learn/nature/mammals.htm"
+    "title": "Black-Tailed Deer Season",
+    "description": "June is a wonderful time to spot Columbian black-tailed deer and their spotted fawns throughout the Olympic Peninsula. Early morning and evening are the best times to see mothers grazing with their young in meadows and forest edges. These gentle deer are smaller than their white-tailed cousins and have adapted beautifully to our coastal rainforest.",
+    "link_text": "Learn about local deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart can beat up to ___ times per minute when flying.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is beating faster than we can even imagine!",
-    "close_response": "You're very close! It's actually about 1,200 beats per minute—incredibly fast!",
-    "wrong_response": "Those tiny hearts beat an amazing 1,200 times per minute! That's about 20 beats every second.",
-    "learn_more_text": "A hummingbird's heart rate can slow down to about 250 beats per minute when they're resting at night, and they enter a hibernation-like state called torpor to conserve energy.",
+    "close_range": 100,
+    "correct_response": "Amazing, Barbara! You're absolutely right — that tiny heart is an incredible engine!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight — what an amazing little powerhouse!",
+    "wrong_response": "Those tiny hearts are remarkable — they beat about 1,200 times per minute when flying! That's about 20 beats every second.",
+    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat about half their body weight in nectar each day and visit hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The word is 'pillangó'—doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The word 'pillangó' may come from the Hungarian word 'pillanni' which means 'to glance' or 'to flutter,' perfectly describing how butterflies move through the garden!",
-    "learn_more_url": "https://en.wiktionary.org/wiki/pillang%C3%B3",
-    "learn_more_label": "Learn more — Wiktionary"
+    "correct_response": "Köszönöm, Barbara! Perfect — you know your Hungarian well!",
+    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi' among friends). 'Szia' means hello/bye, 'igen' means yes, and 'viszlát' means goodbye!",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most European languages. It's known for its complex grammar but beautifully expressive phrases for gratitude and connection.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190916-why-hungarian-is-so-challenging-for-foreigners",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of whale is most commonly seen in the Strait of Juan de Fuca during summer months?",
+    "question": "What do bald eagles typically build their nests from?",
     "options": [
-      "Humpback whale",
-      "Gray whale",
-      "Orca (killer whale)",
-      "Blue whale"
+      "Mud and clay",
+      "Spider webs and moss",
+      "Sticks and branches",
+      "Grass and leaves"
     ],
     "correct_index": 2,
-    "correct_response": "Yes! Orcas are the stars of the Strait in summer, following the salmon runs. You might even see them from the Port Angeles waterfront!",
-    "wrong_response": "Actually, it's the orca (killer whale)! These magnificent black and white whales come to the Strait to feast on salmon, and the Southern Resident orcas are a beloved symbol of the Pacific Northwest.",
-    "learn_more_text": "Three pods of Southern Resident orcas—J, K, and L pods—regularly travel through the Strait of Juan de Fuca. Each whale has unique markings and is known by name to researchers who have studied them for decades.",
-    "learn_more_url": "https://www.whaleresearch.com",
-    "learn_more_label": "Learn more — Center for Whale Research"
+    "correct_response": "That's right! Bald eagles build massive stick nests that can weigh up to 2,000 pounds and be used for many years, growing larger each season.",
+    "wrong_response": "Eagles build their nests from sticks and branches! These impressive structures can grow to 2,000 pounds over years of use as the eagles add more material each season.",
+    "learn_more_text": "The largest bald eagle nest ever recorded was in Florida — it was 9.5 feet wide and 20 feet deep! Pairs often return to the same nest year after year, adding new branches and strengthening their home.",
+    "learn_more_url": "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus",
+    "learn_more_label": "U.S. Fish & Wildlife Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-04T14:16:14.242008-07:00",
-  "date": "2026-06-04",
+  "generated_at": "2026-06-05T09:15:32.956843-07:00",
+  "date": "2026-06-05",
   "is_laundry_day": false
 }
