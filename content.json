@@ -5,75 +5,75 @@
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have excellent memories and can remember every flower they've visited and how long it takes each bloom to refill with nectar.",
-    "tag": "Bird behavior"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to several species, including the beautiful Rufous hummingbird that visits Port Angeles each summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Snails",
-    "teaser": "These humble garden visitors have teeth on their tongues and can sleep for three years straight. Discover the surprising world of one of nature's slowest but most fascinating creatures.",
-    "url": "https://www.bbc.com/future/article/20150423-the-truth-about-garden-snails"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warning each other of danger. This 'wood wide web' shows us that forests are more connected than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "Where Orcas and Eagles Share the Waters",
-    "teaser": "The Pacific Northwest is home to one of the world's most remarkable wildlife spectacles where orcas hunt salmon while bald eagles soar overhead. This portrait captures a year in the life of the Salish Sea's most iconic residents.",
-    "url": "https://www.nationalgeographic.com/animals/article/orcas-whales-pacific-northwest-salmon"
+    "meta": "15 min · History",
+    "title": "The Lost Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have created stunning embroidery patterns that tell stories of their villages and traditions. Today, a new generation is rediscovering these beautiful folk art techniques and keeping the heritage alive.",
+    "url": "https://www.bbc.com/travel/article/20190520-hungarys-vanishing-folk-art"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "Budapest: The Pearl of the Danube",
-    "teaser": "From Roman ruins to Art Nouveau splendor, Hungary's capital tells a thousand-year story through its architecture, thermal baths, and resilient spirit. Travel through the layers of history that made Budapest one of Europe's most beautiful cities.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-beautifully-preserved-architectural-gem-180971461/"
+    "meta": "35 min · Wildlife",
+    "title": "The Amazing Journey of Gray Whales Along the Pacific Coast",
+    "teaser": "Every year, gray whales make one of the longest migrations of any mammal, traveling from Alaska to Mexico and back—right past Port Angeles. This is the story of their incredible journey, their near extinction, and their remarkable comeback.",
+    "url": "https://www.nationalgeographic.com/animals/article/gray-whales-migration-pacific-coast"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer Season",
-    "description": "June is a wonderful time to spot Columbian black-tailed deer and their spotted fawns throughout the Olympic Peninsula. Early morning and evening are the best times to see mothers grazing with their young in meadows and forest edges. These gentle deer are smaller than their white-tailed cousins and have adapted beautifully to our coastal rainforest.",
-    "link_text": "Learn about local deer",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "June is a wonderful time to spot black-tailed deer fawns at Hurricane Ridge! The meadows are blooming with wildflowers, and mother deer often bring their spotted babies out to graze in the early morning and evening. The little ones are usually born in late May and early June.",
+    "link_text": "Hurricane Ridge Visitor Guide",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute when flying.",
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while hovering.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Amazing, Barbara! You're absolutely right — that tiny heart is an incredible engine!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight — what an amazing little powerhouse!",
-    "wrong_response": "Those tiny hearts are remarkable — they beat about 1,200 times per minute when flying! That's about 20 beats every second.",
-    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat about half their body weight in nectar each day and visit hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 200,
+    "correct_response": "Exactly right! That tiny heart works incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute—that's about 20 times per second!",
+    "wrong_response": "It's an astonishing 1,200 beats per minute! Their hearts are true marvels of nature.",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar every day. They visit hundreds of flowers daily and can remember every flower they've been to!",
+    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
+    "learn_more_label": "National Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm, Barbara! Perfect — you know your Hungarian well!",
-    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi' among friends). 'Szia' means hello/bye, 'igen' means yes, and 'viszlát' means goodbye!",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most European languages. It's known for its complex grammar but beautifully expressive phrases for gratitude and connection.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190916-why-hungarian-is-so-challenging-for-foreigners",
+    "correct_response": "Wonderful! Pillangó is such a lovely, musical word for these delicate creatures!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is filled with charming diminutives and poetic words for nature. The language creates many words by combining sounds that mirror what they describe, making it especially expressive.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191104-why-hungarian-is-so-hard-to-learn",
     "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What do bald eagles typically build their nests from?",
+    "question": "What type of tree produces the largest cones of any conifer?",
     "options": [
-      "Mud and clay",
-      "Spider webs and moss",
-      "Sticks and branches",
-      "Grass and leaves"
+      "Douglas Fir",
+      "Redwood",
+      "Sugar Pine",
+      "Sitka Spruce"
     ],
     "correct_index": 2,
-    "correct_response": "That's right! Bald eagles build massive stick nests that can weigh up to 2,000 pounds and be used for many years, growing larger each season.",
-    "wrong_response": "Eagles build their nests from sticks and branches! These impressive structures can grow to 2,000 pounds over years of use as the eagles add more material each season.",
-    "learn_more_text": "The largest bald eagle nest ever recorded was in Florida — it was 9.5 feet wide and 20 feet deep! Pairs often return to the same nest year after year, adding new branches and strengthening their home.",
-    "learn_more_url": "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus",
-    "learn_more_label": "U.S. Fish & Wildlife Service"
+    "correct_response": "Yes! Sugar pine cones can grow up to 20 inches long—longer than your forearm! John Muir called them 'the king of all pines.'",
+    "wrong_response": "It's the sugar pine! Their cones can reach 20 inches long and are truly spectacular. While they're more common in California, you can find some in southern Oregon.",
+    "learn_more_text": "Sugar pines are the tallest pine trees in the world, reaching over 200 feet. Native Americans traditionally harvested their sweet, edible seeds, which taste a bit like pine nuts.",
+    "learn_more_url": "https://www.fs.usda.gov/detail/r5/learning/nature-science/?cid=stelprdb5394033",
+    "learn_more_label": "U.S. Forest Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-05T09:15:32.956843-07:00",
+  "generated_at": "2026-06-05T14:01:19.085093-07:00",
   "date": "2026-06-05",
   "is_laundry_day": false
 }
