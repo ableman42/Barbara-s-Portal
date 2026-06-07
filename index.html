@@ -58,7 +58,7 @@ async function loadDailyContent() {
       document.getElementById('game-btn').href = c.game.url;
     }
 
-    // Laundry banner
+    // Laundry banner — also handled client-side by checkLaundry()
     if (c.is_laundry_day) {
       document.getElementById('laundry-banner').style.display = 'flex';
     }
@@ -330,7 +330,7 @@ if (document.readyState === 'loading') {
 
   <div class="portal-header">
     <div>
-      <h1>Good morning, Barbara ☀️</h1>
+      <h1 id="greeting-text">Good morning, Barbara ☀️</h1>
       <p id="date-display" style="color:rgba(255,255,255,0.75);font-size:13px;margin:0 0 6px;"></p>
       <p class="header-quote" id="quote-text">"In the middle of difficulty lies opportunity."</p>
       <p class="header-quote-attr" id="quote-attr">— Albert Einstein</p>
@@ -338,7 +338,7 @@ if (document.readyState === 'loading') {
     <div class="weather-chip" id="weather-chip"><i class="ti ti-cloud-sun"></i> 62° · Partly cloudy in Port Angeles</div>
   </div>
 
-  <!-- Laundry banner — shown only on laundry Sundays -->
+  <!-- Laundry banner — shown every Sunday -->
   <div class="laundry-banner" id="laundry-banner" style="display:none;">
     <span style="font-size:28px;">🧺</span>
     <div>
@@ -634,23 +634,29 @@ if (document.readyState === 'loading') {
 const SEAN_EMAIL = 'ableman42@gmail.com';
 let selectedMood = 'Good', selectedEmoji = '😊';
 
+// ── GREETING ──
+(function() {
+  const h = new Date().getHours();
+  let greeting, emoji;
+  if (h < 12)      { greeting = 'Good morning';   emoji = '☀️'; }
+  else if (h < 17) { greeting = 'Good afternoon'; emoji = '🌤️'; }
+  else             { greeting = 'Good evening';   emoji = '🌙'; }
+  document.getElementById('greeting-text').textContent = greeting + ', Barbara ' + emoji;
+})();
+
+// ── LAUNDRY BANNER — shown every Sunday ──
+(function() {
+  if (new Date().getDay() === 0) {
+    document.getElementById('laundry-banner').style.display = 'flex';
+  }
+})();
+
 // ── PAGE NAV ──
 function showPage(p) {
   document.querySelectorAll('.page').forEach(el => el.classList.remove('active'));
   document.getElementById('page-' + p).classList.add('active');
   if (p === 'faves') renderFaves();
 }
-
-// ── LAUNDRY BANNER ──
-function checkLaundry() {
-  const start = new Date(2026, 4, 31); // May 31 2026
-  const today = new Date(); today.setHours(0,0,0,0);
-  const diffDays = Math.round((today - start) / 86400000);
-  if (diffDays >= 0 && diffDays % 14 === 0) {
-    document.getElementById('laundry-banner').style.display = 'flex';
-  }
-}
-checkLaundry();
 
 // ── WATER TRACKER ──
 let waterCount = 0;
@@ -692,10 +698,7 @@ function loadMeals() {
 }
 loadMeals();
 
-// ─// ── PARK VIEW DATA — June 2026 ──
-// Replace the existing pvItems array in index.html with this block.
-// Find: "const pvItems = [" and replace everything through the closing "];"
-
+// ── PARK VIEW DATA — June 2026 ──
 const pvItems = [
  { date:'2026-05-29', time:'2:00pm',  name:'Scavenger Treasure Hunt with Bert & Marti', type:'event' },
   { date:'2026-05-29', time:'3:00pm',  name:'Happy Hour — Music by Buck Ellard "Radio DJ Host & Lead Singer"', type:'music' },
@@ -743,10 +746,10 @@ const pvItems = [
 
   // ── June 18 (Thursday) ──
   { date:'2026-06-18', time:'2:00pm',  name:'Explore: Country Aire (Organic Foods & Deli)', type:'outing' },
-  { date:'2026-06-18', time:'3:00pm',  name:'Flower Centerpieces with Charity — Father\'s Day Luncheon Prep', type:'event' },
+  { date:'2026-06-18', time:'3:00pm',  name:"Flower Centerpieces with Charity — Father's Day Luncheon Prep", type:'event' },
 
   // ── June 19 (Friday) — Juneteenth ──
-  { date:'2026-06-19', time:'11:30am', name:'Friends & Family Father\'s Day BBQ Luncheon', type:'event' },
+  { date:'2026-06-19', time:'11:30am', name:"Friends & Family Father's Day BBQ Luncheon", type:'event' },
   { date:'2026-06-19', time:'3:00pm',  name:'Happy Hour — Oldies Music by Diane Romero', type:'music' },
 
   // ── June 22 (Monday) ──
@@ -1011,8 +1014,6 @@ const PHOTOS = [
 ];
 
 function loadMemoryLane() {
-  // Try photos.json first (auto-generated from Google Drive by generate_content.py)
-  // Falls back to hardcoded PHOTOS array if not available yet
   fetch('./photos.json?v=' + Date.now())
     .then(r => r.ok ? r.json() : null)
     .then(drivePhotos => {
@@ -1025,11 +1026,9 @@ function loadMemoryLane() {
 function renderMemoryLane(photoList) {
   if (!photoList || photoList.length === 0) return;
 
-  // Deterministic daily shuffle — seeded Fisher-Yates so every photo rotates fairly
   const today = new Date();
   const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
 
-  // LCG pseudo-random number generator seeded by date
   function seededRand(s) {
     let state = s >>> 0;
     return function() {
@@ -1039,7 +1038,6 @@ function renderMemoryLane(photoList) {
   }
   const rand = seededRand(seed);
 
-  // Fisher-Yates shuffle with seeded RNG — every photo gets a fair chance
   const shuffled = [...photoList];
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(rand() * (i + 1));
@@ -1061,6 +1059,7 @@ function renderMemoryLane(photoList) {
   `).join('');
 }
 loadMemoryLane();
+
 function saveGame() {
   const icon = document.getElementById('game-icon').textContent;
   const title = document.getElementById('game-title').textContent;
@@ -1139,7 +1138,6 @@ function renderHealthChart() {
   const barW = cw/days.length;
   const maxW = Math.max(...water, 4);
   ctx.fillStyle='#FEF9F2'; ctx.fillRect(0,0,W,H);
-  // Grid lines
   for(let i=0;i<=4;i++){
     const y=pad.top+ch-(i/4)*ch;
     ctx.strokeStyle='#F2E8D8'; ctx.lineWidth=1;
@@ -1150,21 +1148,16 @@ function renderHealthChart() {
   days.forEach((day,i) => {
     const x = pad.left + i*barW + barW*0.1;
     const bw = barW*0.25;
-    // Water bar
     const wh = (water[i]/maxW)*ch;
     ctx.fillStyle='#7EC8E3';
     ctx.fillRect(x, pad.top+ch-wh, bw, wh);
-    // Lunch dot
     ctx.fillStyle = lunch[i] ? '#5DAA7A' : '#E2D5C5';
     ctx.beginPath(); ctx.arc(x+bw*1.8, pad.top+ch-8, 7, 0, Math.PI*2); ctx.fill();
-    // Dinner dot
     ctx.fillStyle = dinner[i] ? '#E8724A' : '#E2D5C5';
     ctx.beginPath(); ctx.arc(x+bw*3.2, pad.top+ch-8, 7, 0, Math.PI*2); ctx.fill();
-    // Day label
     ctx.fillStyle='#8C6A50'; ctx.font='10px Nunito,sans-serif'; ctx.textAlign='center';
     ctx.fillText(day.split(',')[0], pad.left+i*barW+barW/2, H-pad.bottom+16);
   });
-  // Legend
   ctx.fillStyle='#7EC8E3'; ctx.fillRect(pad.left,H-20,12,10);
   ctx.fillStyle='#5C4030'; ctx.font='11px Nunito,sans-serif'; ctx.textAlign='left';
   ctx.fillText('Water (bottles)',pad.left+15,H-11);
