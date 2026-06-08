@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, June 7",
+  "date_display": "Monday, June 8",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed under a Spanish name! Ioannis Phokas (Juan de Fuca) claimed to have discovered this waterway in 1592, though historians still debate whether he actually sailed these waters. The strait connects the Pacific Ocean to Puget Sound and is home to orcas, seals, and gray whales.",
+    "text": "The Strait of Juan de Fuca, visible from Port Angeles, was named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he explored the Pacific Northwest in 1592 as Juan de Fuca. The waterway connects the Pacific Ocean to Puget Sound and is home to orcas, seals, and sea otters.",
     "tag": "Local History"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world have hearts that beat over 1,200 times per minute and can remember every flower they've visited. Discover the amazing abilities that make hummingbirds true marvels of nature.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-73737226/"
+    "meta": "5 min · Gardens",
+    "title": "Why Talking to Your Plants Actually Helps Them Grow",
+    "teaser": "Scientists have discovered that plants respond to vibrations and sounds, including human voices. Learn how your garden conversations might be doing more good than you think!",
+    "url": "https://www.nationalgeographic.com/science/article/plants-respond-to-sound-study"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Joy of Growing Herbs in Small Spaces",
-    "teaser": "Even a sunny windowsill can become a thriving herb garden that brings fresh flavors and wonderful scents to your home. This guide shows how easy it is to grow basil, rosemary, and other favorites indoors year-round.",
-    "url": "https://www.npr.org/sections/thesalt/2017/03/06/518394153/growing-herbs-indoors-easier-than-you-think"
+    "meta": "15 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're full of surprises. From their underwater songs to their remarkable diving abilities, these charming marine mammals have fascinating stories to tell.",
+    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Enduring Legacy of Hungarian Folk Art",
-    "teaser": "From intricate embroidery to vibrant pottery, Hungarian folk traditions have been passed down through generations, preserving stories and symbols that connect communities. This beautiful exploration celebrates the artisans keeping these traditions alive today.",
-    "url": "https://www.smithsonianmag.com/travel/hungarys-vibrant-folk-art-traditions-180969743/"
+    "meta": "35 min · History",
+    "title": "The Great Migration: Hungarian Stories from the Old World to America",
+    "teaser": "Between 1880 and 1920, nearly two million Hungarians came to America seeking new opportunities. This heartfelt exploration shares their journeys, traditions they brought with them, and the rich cultural heritage they preserved.",
+    "url": "https://www.smithsonianmag.com/history/hungarian-immigrants-america-180960515/"
   },
   "port_angeles": {
-    "icon": "🌲",
-    "title": "Hurricane Ridge Wildflower Season",
-    "description": "Early June marks the beginning of wildflower season at Hurricane Ridge in Olympic National Park! As the snow melts, alpine meadows burst with color from lupines, Indian paintbrush, and avalanche lilies. The views of the Olympic Mountains and the Strait are breathtaking this time of year.",
-    "link_text": "Hurricane Ridge Wildflowers",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer Fawns Are Being Born Now",
+    "description": "June is fawning season for Olympic Peninsula black-tailed deer! If you spot a fawn alone, don't worry—mother deer often leave their babies hidden while they forage nearby. The fawns have almost no scent, which helps protect them from predators. You might see them in the early morning or evening around Park View Villas.",
+    "link_text": "Learn about local deer",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
   },
   "puzzle_1": {
-    "question": "A single hummingbird may visit up to ___ flowers in a single day to get enough nectar for energy.",
-    "answer": 2000,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 500,
-    "correct_response": "Exactly right! Those tiny birds are incredibly busy, visiting thousands of flowers every day!",
-    "close_response": "You're very close! Hummingbirds actually visit around 2,000 flowers each day — they're amazing little workers!",
-    "wrong_response": "It's a surprisingly high number — about 2,000 flowers a day! These tiny birds need enormous amounts of energy to fuel their rapid wing beats.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat so frequently. They consume about half their body weight in sugar daily and can visit over 1,000 flowers per day just to survive.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 200,
+    "correct_response": "That's right, Barbara! An incredible 1,200 beats per minute—about 20 times per second!",
+    "close_response": "Very close! A hummingbird's tiny heart beats about 1,200 times per minute while hovering.",
+    "wrong_response": "These tiny birds are amazing—their hearts beat about 1,200 times per minute! That's what powers their incredible hovering ability.",
+    "learn_more_text": "Hummingbirds have the fastest heart rate of any bird, and they need it to power their wings which beat 50-80 times per second. Despite their size, they're some of nature's most remarkable athletes.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More about hummingbirds — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napsugár"
+      "Pillangó",
+      "Virág",
+      "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, light word that seems to flutter off the tongue!",
-    "wrong_response": "The word is pillangó — doesn't it sound as delicate as a butterfly itself? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
-    "learn_more_text": "Hungarian is a unique language, not related to most European languages but part of the Finno-Ugric family. Many Hungarian words are beautifully descriptive, often capturing the essence of what they describe.",
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Madár means bird, virág means flower, and csillag means star.)",
+    "learn_more_text": "Hungarian is a unique language, not related to most European languages but part of the Finno-Ugric family. Many Hungarian words have a musical, flowing quality like 'pillangó.'",
     "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "BBC Travel"
+    "learn_more_label": "About the Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "Olympic National Park is one of the wettest places in the continental United States. Which temperate ecosystem thrives there because of this rainfall?",
+    "question": "What type of tree can live for over 2,000 years and is found in the Olympic Mountains?",
     "options": [
-      "Desert scrubland",
-      "Temperate rainforest",
-      "Prairie grassland",
-      "Alpine tundra"
+      "Douglas Fir",
+      "Western Hemlock",
+      "Alaska Yellow Cedar",
+      "Sitka Spruce"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfect! The Hoh Rain Forest and other temperate rainforests in Olympic National Park receive over 140 inches of rain annually, creating magical forests draped in moss and ferns!",
-    "wrong_response": "It's the temperate rainforest! Places like the Hoh Rain Forest get over 140 inches of rain each year, creating those enchanting green forests covered in moss that make the Olympic Peninsula so special.",
-    "learn_more_text": "Olympic National Park contains one of the largest intact temperate rainforests in the world. The massive rainfall supports enormous Sitka spruce and western hemlock trees, some over 300 feet tall, draped in club moss and ferns.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "National Park Service"
+    "correct_index": 2,
+    "correct_response": "Exactly right! Alaska Yellow Cedar can live over 2,000 years—some of the oldest trees in Olympic National Park are this species. Imagine all the history they've witnessed!",
+    "wrong_response": "It's the Alaska Yellow Cedar! Some in the Olympic Mountains are over 2,000 years old—they were already ancient when Vikings explored North America. These remarkable trees are treasures of the Peninsula.",
+    "learn_more_text": "Alaska Yellow Cedar trees grow slowly in harsh mountain conditions, which gives them incredibly dense, rot-resistant wood. Some specimens in the Olympics are among the oldest living trees in the world.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm",
+    "learn_more_label": "Olympic forests — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-07T09:20:07.463338-07:00",
-  "date": "2026-06-07",
+  "generated_at": "2026-06-08T10:57:28.083813-07:00",
+  "date": "2026-06-08",
   "is_laundry_day": false
 }
