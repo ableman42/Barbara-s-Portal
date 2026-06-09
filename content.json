@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, June 8",
+  "date_display": "Tuesday, June 9",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, visible from Port Angeles, was named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he explored the Pacific Northwest in 1592 as Juan de Fuca. The waterway connects the Pacific Ocean to Puget Sound and is home to orcas, seals, and sea otters.",
-    "tag": "Local History"
+    "text": "The Hungarian language has a special word, 'szívlelés,' which literally means 'to soul' something — describing the act of putting your heart and soul into what you do. It beautifully captures the Hungarian spirit of doing things with deep care and passion, whether it's cooking, gardening, or creating art.",
+    "tag": "Hungarian language"
   },
   "short_read": {
-    "meta": "5 min · Gardens",
-    "title": "Why Talking to Your Plants Actually Helps Them Grow",
-    "teaser": "Scientists have discovered that plants respond to vibrations and sounds, including human voices. Learn how your garden conversations might be doing more good than you think!",
-    "url": "https://www.nationalgeographic.com/science/article/plants-respond-to-sound-study"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Social Lives of Harbor Seals",
+    "teaser": "Harbor seals in the Strait of Juan de Fuca form close friendships and return to the same haul-out spots year after year. Scientists are discovering these playful marine mammals have far more complex social bonds than we ever imagined.",
+    "url": "https://www.nationalgeographic.com/animals/article/harbor-seals-friends-social-behavior"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're full of surprises. From their underwater songs to their remarkable diving abilities, these charming marine mammals have fascinating stories to tell.",
-    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
+    "meta": "15 min · Gardening",
+    "title": "The Healing Power of Garden Soil",
+    "teaser": "Scientists have discovered that a harmless bacteria commonly found in garden soil can actually boost serotonin levels and improve mood — gardeners have known this secret all along! Learn why getting your hands dirty is genuinely good for your wellbeing.",
+    "url": "https://www.bbcearth.com/news/the-bacteria-in-soil-that-makes-you-happy"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Great Migration: Hungarian Stories from the Old World to America",
-    "teaser": "Between 1880 and 1920, nearly two million Hungarians came to America seeking new opportunities. This heartfelt exploration shares their journeys, traditions they brought with them, and the rich cultural heritage they preserved.",
-    "url": "https://www.smithsonianmag.com/history/hungarian-immigrants-america-180960515/"
+    "title": "The Danube: Europe's River of History and Culture",
+    "teaser": "The beautiful Danube River flows through ten countries including Hungary, connecting centuries of history, music, and culture along its winding path. This journey along Europe's second-longest river reveals castles, composers, and the stories of millions who have called its banks home.",
+    "url": "https://www.smithsonianmag.com/travel/danube-river-journey-through-heart-europe-180971562/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer Fawns Are Being Born Now",
-    "description": "June is fawning season for Olympic Peninsula black-tailed deer! If you spot a fawn alone, don't worry—mother deer often leave their babies hidden while they forage nearby. The fawns have almost no scent, which helps protect them from predators. You might see them in the early morning or evening around Park View Villas.",
+    "title": "Black-Tailed Deer in Summer",
+    "description": "June is a wonderful time to spot Columbian black-tailed deer around Port Angeles with their new fawns. These gentle creatures are most active during early morning and evening hours, and you might see them grazing near the edges of forests or even in some of the green spaces around town. Their reddish summer coats are noticeably lighter than their gray winter fur.",
     "link_text": "Learn about local deer",
     "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! An incredible 1,200 beats per minute—about 20 times per second!",
-    "close_response": "Very close! A hummingbird's tiny heart beats about 1,200 times per minute while hovering.",
-    "wrong_response": "These tiny birds are amazing—their hearts beat about 1,200 times per minute! That's what powers their incredible hovering ability.",
-    "learn_more_text": "Hummingbirds have the fastest heart rate of any bird, and they need it to power their wings which beat 50-80 times per second. Despite their size, they're some of nature's most remarkable athletes.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More about hummingbirds — Audubon Society"
+    "correct_response": "Yes! That tiny heart beats an astonishing 1,200 times per minute — what an incredible little bird!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight — nearly 20 times per second!",
+    "wrong_response": "Actually, a hummingbird's heart beats about 1,200 times per minute — that's approximately 20 beats every single second!",
+    "learn_more_text": "To power their high-speed flight and rapid wing beats, hummingbirds have the fastest heart rate of any bird. At rest, their heart still beats 250 times per minute, and they must eat constantly to fuel their incredible metabolism.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-hover",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye' depending on the situation?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Csillag"
-    ],
-    "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Madár means bird, virág means flower, and csillag means star.)",
-    "learn_more_text": "Hungarian is a unique language, not related to most European languages but part of the Finno-Ugric family. Many Hungarian words have a musical, flowing quality like 'pillangó.'",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About the Hungarian language — BBC"
-  },
-  "puzzle_3": {
-    "question": "What type of tree can live for over 2,000 years and is found in the Olympic Mountains?",
-    "options": [
-      "Douglas Fir",
-      "Western Hemlock",
-      "Alaska Yellow Cedar",
-      "Sitka Spruce"
+      "Köszönöm",
+      "Viszontlátásra",
+      "Szia",
+      "Jó reggelt"
     ],
     "correct_index": 2,
-    "correct_response": "Exactly right! Alaska Yellow Cedar can live over 2,000 years—some of the oldest trees in Olympic National Park are this species. Imagine all the history they've witnessed!",
-    "wrong_response": "It's the Alaska Yellow Cedar! Some in the Olympic Mountains are over 2,000 years old—they were already ancient when Vikings explored North America. These remarkable trees are treasures of the Peninsula.",
-    "learn_more_text": "Alaska Yellow Cedar trees grow slowly in harsh mountain conditions, which gives them incredibly dense, rot-resistant wood. Some specimens in the Olympics are among the oldest living trees in the world.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm",
-    "learn_more_label": "Olympic forests — National Park Service"
+    "correct_response": "Exactly right! 'Szia' is the friendly, informal way to say both hello and goodbye — such a versatile little word!",
+    "wrong_response": "It's 'szia' — this casual, warm word works for both greeting and parting, making it one of the most useful words in Hungarian!",
+    "learn_more_text": "Szia (pronounced 'SEE-ah') comes from the word 'szolga' meaning servant, as in 'your servant' — a humble greeting that evolved into today's friendly hello and goodbye. Its plural form, 'sziasztok,' is used when greeting multiple people.",
+    "learn_more_url": "https://www.hungarianpod101.com/blog/2020/05/12/hungarian-greetings/",
+    "learn_more_label": "HungarianPod101"
+  },
+  "puzzle_3": {
+    "question": "What percentage of the Earth's oxygen is produced by ocean phytoplankton?",
+    "options": [
+      "25%",
+      "50%",
+      "10%",
+      "75%"
+    ],
+    "correct_index": 1,
+    "correct_response": "Wonderful! About 50% of our oxygen comes from tiny ocean plants — the Strait of Juan de Fuca is part of this amazing system!",
+    "wrong_response": "Actually, it's about 50%! These microscopic ocean plants produce half of the world's oxygen — every other breath you take comes from the sea.",
+    "learn_more_text": "Phytoplankton are microscopic plants that drift in the ocean, using photosynthesis just like land plants. The waters around Port Angeles are rich with these tiny organisms, which also form the base of the entire marine food chain.",
+    "learn_more_url": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
+    "learn_more_label": "NOAA Ocean Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-08T10:57:28.083813-07:00",
-  "date": "2026-06-08",
+  "generated_at": "2026-06-09T10:26:11.821123-07:00",
+  "date": "2026-06-09",
   "is_laundry_day": false
 }
