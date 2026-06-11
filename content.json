@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, June 10",
+  "date_display": "Thursday, June 11",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. The Pacific Northwest is home to Anna's hummingbirds, which stay here year-round even in winter.",
-    "tag": "Pacific Northwest wildlife"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down briefly. The Pacific Northwest is home to the Rufous hummingbird, which migrates through the Olympic Peninsula each spring and summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals are curious and playful neighbors in the waters around Port Angeles. Learn about their daily routines, how they communicate, and why they love basking on rocky shores.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warnings about pests. This \"wood wide web\" shows how forests are really communities working together.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
     "meta": "15 min · History",
-    "title": "How Hungarian Embroidery Tells Stories Through Stitches",
-    "teaser": "Every region of Hungary has its own distinct embroidery style, passed down through generations. Discover the beautiful patterns and what they symbolize, from flowers that represent hope to colors that mark special celebrations.",
-    "url": "https://www.smithsonianmag.com/arts-culture/hungarian-embroidery-tradition-180971563/"
+    "title": "The Paprika Tradition of Hungary",
+    "teaser": "Paprika is more than just a spice in Hungary—it's a cultural treasure with centuries of history. Learn how this vibrant red powder became the heart of Hungarian cuisine and is celebrated in festivals across the country.",
+    "url": "https://www.bbc.com/travel/article/20200915-hungarys-love-affair-with-paprika"
   },
   "long_read": {
-    "meta": "35 min · Travel & Nature",
-    "title": "Olympic National Park: A Wilderness Like No Other",
-    "teaser": "From temperate rainforests to alpine peaks and wild coastline, Olympic National Park contains remarkable ecosystems. This beautiful exploration takes you through the park's history, its incredible biodiversity, and the efforts to preserve it for future generations.",
+    "meta": "35 min · Wildlife",
+    "title": "Olympic National Park: Where Wilderness Meets Wonder",
+    "teaser": "From temperate rainforests to alpine peaks to wild coastline, Olympic National Park contains an incredible diversity of ecosystems right in your backyard. Discover the rare Roosevelt elk, ancient trees, and tide pool creatures that make this place magical.",
     "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-tailed Deer at Ediz Hook",
-    "description": "Ediz Hook is a wonderful spot to see Columbian black-tailed deer grazing peacefully near the water. Early morning and evening are the best times to spot them. The long sandbar also offers stunning views of the Olympic Mountains and the Strait of Juan de Fuca.",
-    "link_text": "Learn about Ediz Hook",
-    "link_url": "https://www.portangeles.org/ediz-hook"
+    "title": "Roosevelt Elk at Hurricane Ridge",
+    "description": "June is a wonderful time to spot Roosevelt elk at Hurricane Ridge! These magnificent animals, named after President Theodore Roosevelt, are often seen grazing in the meadows in early morning or evening. They're the largest of the four surviving subspecies of elk in North America and are native only to the Pacific Northwest.",
+    "link_text": "Hurricane Ridge Visitor Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats about ___ times per minute when active.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's exactly right! Isn't that amazing? Their tiny hearts work incredibly hard to power their flight.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
-    "wrong_response": "Those tiny hearts beat an astounding 1,200 times per minute! That's what gives them the energy to hover and fly in all directions.",
-    "learn_more_text": "To support such a fast metabolism, hummingbirds must eat about half their body weight in sugar every day, visiting hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/10-fascinating-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "correct_response": "Exactly right! Can you imagine—that tiny heart working so incredibly fast to power those amazing wings!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—that's 20 times every second!",
+    "wrong_response": "Those tiny hearts are amazing—they beat about 1,200 times per minute! That's what it takes to power those incredible hovering skills.",
+    "learn_more_text": "To support their incredibly fast metabolism, hummingbirds must visit hundreds of flowers each day and can consume up to twice their body weight in nectar daily.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/overview",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
-      "Méh"
+      "Pillangó",
+      "Madár",
+      "Napfény"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méh means bee.)",
-    "learn_more_text": "The word 'pillangó' likely comes from the way butterflies flutter and dance through the air. Hungary is home to over 200 species of butterflies, including the stunning swallowtails that visit garden flowers.",
-    "learn_more_url": "https://www.hungarianembassy.com/hungarian-language-facts",
-    "learn_more_label": "Hungarian language facts"
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature—it almost sounds like the fluttering of wings!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and napfény means sunshine.)",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European family. It's most closely related to Finnish and Estonian, though even those languages are quite different.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200825-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What year was Olympic National Park officially established?",
+    "question": "What is the Strait of Juan de Fuca named after?",
     "options": [
-      "1909",
-      "1925",
-      "1938",
-      "1947"
+      "A Spanish king",
+      "A Greek explorer who sailed for Spain",
+      "A Native American chief",
+      "An early American president"
     ],
-    "correct_index": 2,
-    "correct_response": "Yes, 1938! President Franklin Roosevelt established it to protect the magnificent wilderness we treasure today. What a gift to future generations!",
-    "wrong_response": "Olympic National Park was established in 1938 by President Franklin Roosevelt. It preserves nearly a million acres of diverse ecosystems, from rainforest to mountain to coast!",
-    "learn_more_text": "The area was first protected as Mount Olympus National Monument in 1909, but it took decades of advocacy to create the full national park. In 1981, it was designated a UNESCO World Heritage Site.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/historyculture/index.htm",
-    "learn_more_label": "Olympic Park history — NPS"
+    "correct_index": 1,
+    "correct_response": "Perfect! Juan de Fuca was actually a Greek navigator named Ioannis Phokas who sailed for Spain in the 1590s and claimed to have found this waterway. What a rich history right outside your window!",
+    "wrong_response": "The strait is named after Juan de Fuca, a Greek navigator (real name Ioannis Phokas) who sailed for Spain. He claimed to have discovered this passage in 1592, though historians debate whether he actually sailed here!",
+    "learn_more_text": "The Strait of Juan de Fuca is about 96 miles long and connects the Pacific Ocean to Puget Sound and the Salish Sea. It forms part of the international boundary between Canada and the United States.",
+    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-10T11:04:04.744559-07:00",
-  "date": "2026-06-10",
+  "generated_at": "2026-06-11T11:18:24.812629-07:00",
+  "date": "2026-06-11",
   "is_laundry_day": false
 }
