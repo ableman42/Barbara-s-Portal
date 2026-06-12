@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, June 11",
+  "date_display": "Friday, June 12",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down briefly. The Pacific Northwest is home to the Rufous hummingbird, which migrates through the Olympic Peninsula each spring and summer.",
-    "tag": "Local Wildlife"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he's remembered by his Spanish alias. He claimed to have sailed through this waterway in 1592, though historians still debate whether he actually did.",
+    "tag": "Local History"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warnings about pests. This \"wood wide web\" shows how forests are really communities working together.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals, common visitors to the Strait of Juan de Fuca, have whiskers so sensitive they can track fish in complete darkness. Learn about these charming marine neighbors and their remarkable abilities.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Paprika Tradition of Hungary",
-    "teaser": "Paprika is more than just a spice in Hungary—it's a cultural treasure with centuries of history. Learn how this vibrant red powder became the heart of Hungarian cuisine and is celebrated in festivals across the country.",
-    "url": "https://www.bbc.com/travel/article/20200915-hungarys-love-affair-with-paprika"
+    "meta": "15 min · Gardening",
+    "title": "The Unexpected Benefits of Talking to Your Plants",
+    "teaser": "Scientists have discovered that plants respond to vibrations, including human voices, in fascinating ways. This gentle exploration reveals what really happens when gardeners chat with their green friends.",
+    "url": "https://www.smithsonianmag.com/smart-news/scientists-say-plants-can-hear-themselves-being-eaten-180951427/"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "Olympic National Park: Where Wilderness Meets Wonder",
-    "teaser": "From temperate rainforests to alpine peaks to wild coastline, Olympic National Park contains an incredible diversity of ecosystems right in your backyard. Discover the rare Roosevelt elk, ancient trees, and tide pool creatures that make this place magical.",
-    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
+    "meta": "35 min · Nature",
+    "title": "The Hidden World of Old-Growth Forests in Olympic National Park",
+    "teaser": "Deep in the forests near Port Angeles lies an ancient ecosystem where trees communicate through underground networks and nurse logs give life to new generations. Discover the magic happening in your own backyard.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Roosevelt Elk at Hurricane Ridge",
-    "description": "June is a wonderful time to spot Roosevelt elk at Hurricane Ridge! These magnificent animals, named after President Theodore Roosevelt, are often seen grazing in the meadows in early morning or evening. They're the largest of the four surviving subspecies of elk in North America and are native only to the Pacific Northwest.",
-    "link_text": "Hurricane Ridge Visitor Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "June is a wonderful time to spot butterflies at Hurricane Ridge! Species like the Anise Swallowtail and Mourning Cloak flutter among the wildflowers that are blooming right now. The meadows are coming alive with color and movement.",
+    "link_text": "Hurricane Ridge Wildflowers",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/wildflowers-at-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute when active.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! Can you imagine—that tiny heart working so incredibly fast to power those amazing wings!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—that's 20 times every second!",
-    "wrong_response": "Those tiny hearts are amazing—they beat about 1,200 times per minute! That's what it takes to power those incredible hovering skills.",
-    "learn_more_text": "To support their incredibly fast metabolism, hummingbirds must visit hundreds of flowers each day and can consume up to twice their body weight in nectar daily.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/overview",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "correct_response": "Amazing! You got it! Those tiny hearts are incredibly powerful, beating about 1,200 times per minute — that's 20 times per second!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight — such a remarkable little creature!",
+    "wrong_response": "These amazing little birds have hearts that beat about 1,200 times per minute in flight — imagine the energy that takes!",
+    "learn_more_text": "Hummingbirds have the highest metabolism of any warm-blooded animal. To fuel their rapid heartbeat and constant motion, they must eat about half their body weight in sugar daily!",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Learn More — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napfény"
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature—it almost sounds like the fluttering of wings!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and napfény means sunshine.)",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European family. It's most closely related to Finnish and Estonian, though even those languages are quite different.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200825-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly in Hungarian — such a lovely, delicate-sounding word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as light and airy as a butterfly itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian language is full of beautiful nature words. Pillangó comes from an old word meaning 'to flutter' — perfectly capturing how butterflies dance through the air!",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Hungarian Language — Britannica"
   },
   "puzzle_3": {
-    "question": "What is the Strait of Juan de Fuca named after?",
+    "question": "What tree species can live for over 1,000 years in the Olympic Peninsula rainforests?",
     "options": [
-      "A Spanish king",
-      "A Greek explorer who sailed for Spain",
-      "A Native American chief",
-      "An early American president"
+      "Douglas Fir",
+      "Red Alder",
+      "Western Redcedar",
+      "Vine Maple"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfect! Juan de Fuca was actually a Greek navigator named Ioannis Phokas who sailed for Spain in the 1590s and claimed to have found this waterway. What a rich history right outside your window!",
-    "wrong_response": "The strait is named after Juan de Fuca, a Greek navigator (real name Ioannis Phokas) who sailed for Spain. He claimed to have discovered this passage in 1592, though historians debate whether he actually sailed here!",
-    "learn_more_text": "The Strait of Juan de Fuca is about 96 miles long and connects the Pacific Ocean to Puget Sound and the Salish Sea. It forms part of the international boundary between Canada and the United States.",
-    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "National Park Service"
+    "correct_index": 2,
+    "correct_response": "Yes! Western Redcedar can live well over 1,000 years — some of the trees in Olympic National Park were already ancient when Columbus sailed to America!",
+    "wrong_response": "It's the Western Redcedar that can live over 1,000 years! These magnificent trees were sacred to Indigenous peoples and provided materials for canoes, clothing, and longhouses.",
+    "learn_more_text": "Western Redcedar was called the 'Tree of Life' by Coast Salish peoples. Its rot-resistant wood and the tree's incredible longevity made it central to Pacific Northwest cultures for thousands of years.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-redcedar.htm",
+    "learn_more_label": "Learn More — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-11T11:18:24.812629-07:00",
-  "date": "2026-06-11",
+  "generated_at": "2026-06-12T10:38:56.664562-07:00",
+  "date": "2026-06-12",
   "is_laundry_day": false
 }
