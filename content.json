@@ -1,49 +1,49 @@
 {
-  "date_display": "Friday, June 12",
+  "date_display": "Saturday, June 13",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed under a Spanish name! His real name was Ioannis Phokas, but he's remembered by his Spanish alias. He claimed to have sailed through this waterway in 1592, though historians still debate whether he actually did.",
-    "tag": "Local History"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by beating their wings up to 80 times per second. These tiny acrobats need to eat about half their body weight in nectar each day to fuel their incredible flying abilities.",
+    "tag": "Bird Life"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals, common visitors to the Strait of Juan de Fuca, have whiskers so sensitive they can track fish in complete darkness. Learn about these charming marine neighbors and their remarkable abilities.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals are common visitors to the Strait of Juan de Fuca, but they have some surprising habits most people don't know about. Learn why these charming marine mammals are such successful survivors in local waters.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Unexpected Benefits of Talking to Your Plants",
-    "teaser": "Scientists have discovered that plants respond to vibrations, including human voices, in fascinating ways. This gentle exploration reveals what really happens when gardeners chat with their green friends.",
-    "url": "https://www.smithsonianmag.com/smart-news/scientists-say-plants-can-hear-themselves-being-eaten-180951427/"
+    "meta": "15 min · Gardens",
+    "title": "How Gardens Help Us Age with Joy",
+    "teaser": "Scientific research shows that gardening offers remarkable benefits for mind and body as we grow older. From improving memory to reducing stress, tending plants may be one of nature's best medicines.",
+    "url": "https://www.smithsonianmag.com/innovation/health-benefits-gardening-180975085/"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "The Hidden World of Old-Growth Forests in Olympic National Park",
-    "teaser": "Deep in the forests near Port Angeles lies an ancient ecosystem where trees communicate through underground networks and nurse logs give life to new generations. Discover the magic happening in your own backyard.",
-    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
+    "meta": "35 min · History",
+    "title": "The Ancient Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have created breathtaking embroidered textiles that tell stories of their villages and families. This beautiful tradition connects generations and preserves cultural memory through needle and thread.",
+    "url": "https://www.smithsonianmag.com/travel/discover-hungarys-rich-folk-art-traditions-180963537/"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "June is a wonderful time to spot butterflies at Hurricane Ridge! Species like the Anise Swallowtail and Mourning Cloak flutter among the wildflowers that are blooming right now. The meadows are coming alive with color and movement.",
-    "link_text": "Hurricane Ridge Wildflowers",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/wildflowers-at-hurricane-ridge.htm"
+    "icon": "🦌",
+    "title": "Roosevelt Elk in Olympic National Park",
+    "description": "June is a wonderful time to spot Roosevelt elk in the Hoh Rain Forest and along Hurricane Ridge. These majestic animals, named after President Theodore Roosevelt, are the largest variety of elk in North America and can often be seen grazing in meadows during early morning or evening hours.",
+    "link_text": "Learn about Roosevelt Elk",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You got it! Those tiny hearts are incredibly powerful, beating about 1,200 times per minute — that's 20 times per second!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight — such a remarkable little creature!",
-    "wrong_response": "These amazing little birds have hearts that beat about 1,200 times per minute in flight — imagine the energy that takes!",
-    "learn_more_text": "Hummingbirds have the highest metabolism of any warm-blooded animal. To fuel their rapid heartbeat and constant motion, they must eat about half their body weight in sugar daily!",
+    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to keep those wings beating!",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute — faster than almost any other animal!",
+    "wrong_response": "Those little hearts are amazing — they beat about 1,200 times per minute! That's 20 times every single second.",
+    "learn_more_text": "To power their incredible metabolism, hummingbirds have the fastest heart rate of any bird. When resting at night, their heart rate drops dramatically to conserve energy.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Learn More — Audubon Society"
+    "learn_more_label": "More Hummingbird Facts — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly in Hungarian — such a lovely, delicate-sounding word for such a delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as light and airy as a butterfly itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian language is full of beautiful nature words. Pillangó comes from an old word meaning 'to flutter' — perfectly capturing how butterflies dance through the air!",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Hungarian Language — Britannica"
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "It's 'pillangó' — such a lovely, flowing word! The other words mean bird (madár), flower (virág), and little bee (méhecske).",
+    "learn_more_text": "The Hungarian word 'pillangó' comes from an old word meaning 'fluttering' or 'dancing in the air,' which perfectly describes how butterflies move through gardens.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About Butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What tree species can live for over 1,000 years in the Olympic Peninsula rainforests?",
+    "question": "What unique feature makes the Strait of Juan de Fuca an important wildlife habitat?",
     "options": [
-      "Douglas Fir",
-      "Red Alder",
-      "Western Redcedar",
-      "Vine Maple"
+      "It's the warmest water in Washington",
+      "It connects the Pacific Ocean to Puget Sound",
+      "It's the deepest strait in North America",
+      "It has no tidal currents"
     ],
-    "correct_index": 2,
-    "correct_response": "Yes! Western Redcedar can live well over 1,000 years — some of the trees in Olympic National Park were already ancient when Columbus sailed to America!",
-    "wrong_response": "It's the Western Redcedar that can live over 1,000 years! These magnificent trees were sacred to Indigenous peoples and provided materials for canoes, clothing, and longhouses.",
-    "learn_more_text": "Western Redcedar was called the 'Tree of Life' by Coast Salish peoples. Its rot-resistant wood and the tree's incredible longevity made it central to Pacific Northwest cultures for thousands of years.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-redcedar.htm",
-    "learn_more_label": "Learn More — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Perfect! The strait's connection between ocean and inland waters creates a rich highway for salmon, orcas, seals, and countless other marine creatures you can see from Port Angeles!",
+    "wrong_response": "It's because the strait connects the Pacific Ocean to Puget Sound! This makes it a vital migration route and feeding ground for whales, salmon, seals, and so many other wonderful animals.",
+    "learn_more_text": "The Strait of Juan de Fuca serves as a crucial corridor for migrating salmon and marine mammals. Its nutrient-rich waters support an incredible diversity of sea life year-round.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "The Strait — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-12T10:38:56.664562-07:00",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-13T09:16:22.479305-07:00",
+  "date": "2026-06-13",
   "is_laundry_day": false
 }
