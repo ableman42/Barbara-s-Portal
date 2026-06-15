@@ -355,7 +355,7 @@ if (document.readyState === 'loading') {
   <div class="hair-banner" id="hair-banner" style="display:none;">
     <span style="font-size:36px;">💇‍♀️</span>
     <div>
-      <div class="hair-banner-text">✂️ Hair appointment today at 11:45am!</div>
+      <div class="hair-banner-text">✂️ Hair appointment, Thursday at 11:45am!</div>
       <div class="hair-banner-sub">Park View Villas — don't forget!</div>
     </div>
   </div>
@@ -665,7 +665,7 @@ let selectedMood = 'Good', selectedEmoji = '😊';
 // ── HAIR APPOINTMENT BANNER — June 19, 2026 only ──
 (function() {
   const d = new Date();
-  if (d.getFullYear() === 2026 && d.getMonth() === 5 && d.getDate() === 19) {
+  if (d.getFullYear() === 2026 && d.getMonth() === 5 && (d.getDate() >= 15 && d.getDate() <= 19)) {
     document.getElementById('hair-banner').style.display = 'flex';
   }
 })();
