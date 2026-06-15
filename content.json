@@ -1,49 +1,49 @@
 {
-  "date_display": "Sunday, June 14",
+  "date_display": "Monday, June 15",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungary has over 1,500 natural thermal springs, more than any other country in Europe! The tradition of bathing in thermal waters dates back over 2,000 years to Roman times, and Budapest alone has 118 thermal springs that supply the city's famous bathhouses.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. These tiny acrobats beat their wings up to 80 times per second.",
+    "tag": "Bird Wonder"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca have fascinating behaviors, from their curious nature to how they care for their pups. Learn about these charming neighbors you might spot from Port Angeles shores.",
-    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi. They share nutrients, send warnings about insects, and even help their neighbors in times of need.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Hidden Language of Flowers: Victorian Messages in Your Garden",
-    "teaser": "Flowers have carried secret meanings for centuries, from roses symbolizing love to lavender representing devotion. Discover the fascinating history of floriography and what messages your garden might be sending.",
-    "url": "https://www.smithsonianmag.com/arts-culture/the-meaning-of-flowers-77110277/"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "Once hunted nearly to extinction, sea otters are making a remarkable comeback along the Pacific Coast. Their return is transforming kelp forest ecosystems and bringing joy to wildlife watchers throughout the region.",
+    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Inside the Ancient Temperate Rainforests of the Olympic Peninsula",
-    "teaser": "The Hoh and Quinault rainforests near Port Angeles are among the rarest ecosystems on Earth, draped in moss and home to trees over 1,000 years old. This beautiful exploration takes you deep into these magical cathedral forests.",
-    "url": "https://www.nationalgeographic.com/travel/article/olympic-national-park-rainforest-guide"
+    "meta": "35 min · History & Culture",
+    "title": "The Thousand-Year-Old Hungarian Crown",
+    "teaser": "The Holy Crown of St. Stephen has survived wars, revolutions, and even a stay at Fort Knox. This extraordinary journey of Hungary's most sacred symbol reveals centuries of European history and the enduring spirit of the Hungarian people.",
+    "url": "https://www.bbc.com/travel/article/20190409-the-crown-that-survived-communism"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagle Nesting Along the Strait",
-    "description": "June is an active time for bald eagle families along the Strait of Juan de Fuca. Many eaglets are learning to fly this month, and you can often spot parents teaching their young to fish from vantage points like Ediz Hook and the waterfront trail. The Port Angeles area is home to dozens of nesting pairs!",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer Fawning Season",
+    "description": "June is fawning season for the black-tailed deer throughout the Olympic Peninsula. You might spot does with their spotted fawns in the early morning or evening around Park View Villas. Remember, if you see a fawn alone, the mother is likely nearby feeding and will return.",
+    "link_text": "Learn about Olympic deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! Those tiny hearts are incredible powerhouses, beating 1,200 times per minute to fuel their aerial acrobatics!",
+    "correct_response": "Yes! That's right — 1,200 beats per minute! These tiny birds have incredibly fast hearts to fuel their amazing flying abilities.",
     "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute during flight — that's incredibly fast to power those amazing wings!",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals. Their hearts can beat over 1,200 times per minute while flying, but slow to around 250 beats per minute when resting at night.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
-    "learn_more_label": "Read more — Audubon Society"
+    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart. These tiny birds need all that energy for their incredible flying.",
+    "learn_more_text": "To put this in perspective, a hummingbird's heart rate can reach 1,260 beats per minute during flight, but slows to about 50 beats per minute when they enter torpor (a hibernation-like state) at night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, delicate-sounding word, just like the creature itself!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as light and graceful as a butterfly itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language, part of the Finno-Ugric family rather than the Indo-European languages spoken by Hungary's neighbors. This makes Hungarian words wonderfully distinctive and often quite poetic.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190213-why-hungarian-is-so-intriguing",
-    "learn_more_label": "Learn more — BBC Travel"
+    "correct_response": "Wonderful! Pillangó is butterfly in Hungarian — such a beautiful, flowing word for such a delicate creature!",
+    "wrong_response": "The answer is pillangó! It's such a lovely word. (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word 'pille' meaning a light, fluttering thing. Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "Encyclopedia Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is the largest living organism on Earth?",
+    "question": "What is the tallest tree species found in Olympic National Park?",
     "options": [
-      "Coast Redwood",
-      "Giant Sequoia",
       "Douglas Fir",
-      "Sitka Spruce"
+      "Sitka Spruce",
+      "Western Hemlock",
+      "Western Red Cedar"
     ],
     "correct_index": 1,
-    "correct_response": "That's right! Giant Sequoias like 'General Sherman' are the largest living organisms by volume — some weigh over 2 million pounds and can live for 3,000 years!",
-    "wrong_response": "It's actually the Giant Sequoia! The largest, 'General Sherman,' weighs over 2 million pounds and is still growing. While Coast Redwoods grow taller, Sequoias are more massive overall.",
-    "learn_more_text": "The General Sherman tree in California's Sequoia National Park is the largest known living single-stem tree on Earth. It's 275 feet tall, over 36 feet in diameter, and estimated to be between 2,300 and 2,700 years old.",
-    "learn_more_url": "https://www.nps.gov/seki/learn/nature/sherman.htm",
-    "learn_more_label": "Visit General Sherman — National Park Service"
+    "correct_response": "Excellent! Sitka Spruce trees can grow over 300 feet tall in the Olympic rainforests — they're truly majestic giants of the Pacific Northwest!",
+    "wrong_response": "It's the Sitka Spruce! These magnificent trees can reach over 300 feet tall in the Olympic Peninsula's rainforests, making them some of the tallest trees in the world.",
+    "learn_more_text": "The Sitka Spruce thrives in the misty, temperate rainforests of Olympic National Park. Some specimens are over 500 years old, and their enormous trunks can be 16 feet in diameter.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-14T09:25:48.052141-07:00",
-  "date": "2026-06-14",
-  "is_laundry_day": true
+  "generated_at": "2026-06-15T12:05:10.139848-07:00",
+  "date": "2026-06-15",
+  "is_laundry_day": false
 }
