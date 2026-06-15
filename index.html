@@ -143,6 +143,11 @@ if (document.readyState === 'loading') {
 .laundry-banner-text { font-size: 15px; font-weight: 600; color: #7A5000; }
 .laundry-banner-sub { font-size: 13px; color: #9A7020; margin-top: 2px; }
 
+/* ── HAIR APPOINTMENT BANNER ── */
+.hair-banner { background: #F3E6F8; border-bottom: 3px solid #C87DD8; padding: 18px 40px; display: flex; align-items: center; gap: 16px; }
+.hair-banner-text { font-size: 20px; font-weight: 800; color: #6A0FAA; }
+.hair-banner-sub { font-size: 15px; color: #9A40C0; margin-top: 3px; font-weight: 600; }
+
 /* ── BODY GRID ── */
 .portal-body { padding: 28px 32px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 .card { background: #fff; border-radius: 18px; border: 1.5px solid #F2E8D8; padding: 22px 24px; }
@@ -278,7 +283,6 @@ if (document.readyState === 'loading') {
 .mood-history-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .mood-pip { font-size: 12px; color: #8C6A50; background: #fff; border: 1px solid #E2D5C5; border-radius: 10px; padding: 3px 10px; }
 
-
 /* ── PV MODAL ── */
 .modal-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.45); z-index: 200; align-items: flex-start; justify-content: center; padding: 32px 16px; overflow-y: auto; }
 .modal-overlay.open { display: flex; }
@@ -344,6 +348,15 @@ if (document.readyState === 'loading') {
     <div>
       <div class="laundry-banner-text">Laundry day reminder!</div>
       <div class="laundry-banner-sub">Don't forget to set your laundry out today.</div>
+    </div>
+  </div>
+
+  <!-- Hair appointment banner — June 19, 2026 only -->
+  <div class="hair-banner" id="hair-banner" style="display:none;">
+    <span style="font-size:36px;">💇‍♀️</span>
+    <div>
+      <div class="hair-banner-text">✂️ Hair appointment today at 11:45am!</div>
+      <div class="hair-banner-sub">Park View Villas — don't forget!</div>
     </div>
   </div>
 
@@ -590,8 +603,6 @@ if (document.readyState === 'loading') {
 
   </div><!-- end portal-body -->
 
-
-
 </div><!-- end page-home -->
 
 <!-- ══════════════════════════════════════ -->
@@ -648,6 +659,14 @@ let selectedMood = 'Good', selectedEmoji = '😊';
 (function() {
   if (new Date().getDay() === 0) {
     document.getElementById('laundry-banner').style.display = 'flex';
+  }
+})();
+
+// ── HAIR APPOINTMENT BANNER — June 19, 2026 only ──
+(function() {
+  const d = new Date();
+  if (d.getFullYear() === 2026 && d.getMonth() === 5 && d.getDate() === 19) {
+    document.getElementById('hair-banner').style.display = 'flex';
   }
 })();
 
