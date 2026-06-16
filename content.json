@@ -1,49 +1,49 @@
 {
-  "date_display": "Monday, June 15",
+  "date_display": "Tuesday, June 16",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. These tiny acrobats beat their wings up to 80 times per second.",
-    "tag": "Bird Wonder"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-8 pattern up to 80 times per second. These tiny acrobats need to eat every 10-15 minutes and visit up to 2,000 flowers each day to fuel their incredible energy needs.",
+    "tag": "Bird wonders"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi. They share nutrients, send warnings about insects, and even help their neighbors in times of need.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "5 min · Gardening",
+    "title": "The Secret Language of Flowers in Victorian Times",
+    "teaser": "Flowers weren't just beautiful in the 1800s—they carried hidden messages of love, friendship, and even warning. Learn how a simple bouquet could tell an entire story without a single word spoken.",
+    "url": "https://www.smithsonianmag.com/history/the-origin-of-the-meaning-of-flowers-110024950/"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
     "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "Once hunted nearly to extinction, sea otters are making a remarkable comeback along the Pacific Coast. Their return is transforming kelp forest ecosystems and bringing joy to wildlife watchers throughout the region.",
+    "teaser": "Once nearly hunted to extinction, sea otters are making a remarkable comeback along the Pacific Coast. Their return is transforming entire ocean ecosystems in wonderful and unexpected ways.",
     "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
   },
   "long_read": {
     "meta": "35 min · History & Culture",
-    "title": "The Thousand-Year-Old Hungarian Crown",
-    "teaser": "The Holy Crown of St. Stephen has survived wars, revolutions, and even a stay at Fort Knox. This extraordinary journey of Hungary's most sacred symbol reveals centuries of European history and the enduring spirit of the Hungarian people.",
-    "url": "https://www.bbc.com/travel/article/20190409-the-crown-that-survived-communism"
+    "title": "The Hidden History of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have preserved stories, symbols, and regional identities through intricate needlework. This beautiful tradition connects generations and reveals the soul of village life across the Carpathian Basin.",
+    "url": "https://www.bbc.com/travel/article/20190528-hungarys-ancient-art-of-embroidery"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer Fawning Season",
-    "description": "June is fawning season for the black-tailed deer throughout the Olympic Peninsula. You might spot does with their spotted fawns in the early morning or evening around Park View Villas. Remember, if you see a fawn alone, the mother is likely nearby feeding and will return.",
-    "link_text": "Learn about Olympic deer",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "title": "Black-Tailed Deer in Olympic National Park",
+    "description": "June is a wonderful time to spot Columbian black-tailed deer with their new fawns in the meadows around Port Angeles. These gentle creatures are most active during early morning and evening hours, and Hurricane Ridge offers some of the best viewing opportunities. The does carefully hide their spotted fawns in tall grass while they forage nearby.",
+    "link_text": "Wildlife Viewing Tips",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/wildlife-viewing.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute.",
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Yes! That's right — 1,200 beats per minute! These tiny birds have incredibly fast hearts to fuel their amazing flying abilities.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart. These tiny birds need all that energy for their incredible flying.",
-    "learn_more_text": "To put this in perspective, a hummingbird's heart rate can reach 1,260 beats per minute during flight, but slows to about 50 beats per minute when they enter torpor (a hibernation-like state) at night to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "Audubon Society"
+    "close_range": 100,
+    "correct_response": "Exactly right! That's an incredibly fast heartbeat—about 20 beats every second!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—that's amazingly fast!",
+    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute during flight—that's 20 times per second! It's hard to imagine such speed.",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds have the highest metabolism of all animals. They must consume about half their body weight in sugar daily, which is why they visit so many flowers.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
+    "learn_more_label": "Learn More — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is butterfly in Hungarian — such a beautiful, flowing word for such a delicate creature!",
-    "wrong_response": "The answer is pillangó! It's such a lovely word. (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word 'pille' meaning a light, fluttering thing. Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "Encyclopedia Britannica"
+    "correct_response": "Beautiful! Pillangó is indeed butterfly—such a lovely, dancing word for such a lovely, dancing creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound light and fluttery? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language unrelated to most European languages. It belongs to the Finno-Ugric family and is known for its beautiful, poetic words and complex but logical structure.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-challenging-for-english-speakers",
+    "learn_more_label": "About Hungarian — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What is the tallest tree species found in Olympic National Park?",
+    "question": "What is the Strait of Juan de Fuca named after?",
     "options": [
-      "Douglas Fir",
-      "Sitka Spruce",
-      "Western Hemlock",
-      "Western Red Cedar"
+      "A Spanish mission",
+      "A Greek explorer sailing for Spain",
+      "A Native American chief",
+      "A type of whale"
     ],
     "correct_index": 1,
-    "correct_response": "Excellent! Sitka Spruce trees can grow over 300 feet tall in the Olympic rainforests — they're truly majestic giants of the Pacific Northwest!",
-    "wrong_response": "It's the Sitka Spruce! These magnificent trees can reach over 300 feet tall in the Olympic Peninsula's rainforests, making them some of the tallest trees in the world.",
-    "learn_more_text": "The Sitka Spruce thrives in the misty, temperate rainforests of Olympic National Park. Some specimens are over 500 years old, and their enormous trunks can be 16 feet in diameter.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Wonderful! Ioannis Phokas, known as Juan de Fuca, was a Greek navigator who sailed for Spain in the 1590s. He claimed to have found this passage between the Pacific Ocean and what is now Washington State.",
+    "wrong_response": "The strait is named after Juan de Fuca (Ioannis Phokas), a Greek navigator who sailed for Spain in the 1590s. He reported discovering this important waterway that you can see right from Port Angeles!",
+    "learn_more_text": "While historians debate whether Juan de Fuca actually sailed through the strait himself, the waterway was officially named in his honor in the late 1700s. It's about 96 miles long and connects the Pacific Ocean to Puget Sound.",
+    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "History — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-15T12:05:10.139848-07:00",
-  "date": "2026-06-15",
+  "generated_at": "2026-06-16T11:55:42.241174-07:00",
+  "date": "2026-06-16",
   "is_laundry_day": false
 }
