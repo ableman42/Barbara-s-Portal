@@ -1,49 +1,49 @@
 {
-  "date_display": "Tuesday, June 16",
+  "date_display": "Wednesday, June 17",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-8 pattern up to 80 times per second. These tiny acrobats need to eat every 10-15 minutes and visit up to 2,000 flowers each day to fuel their incredible energy needs.",
-    "tag": "Bird wonders"
+    "text": "The Strait of Juan de Fuca, visible from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. The waterway connects the Pacific Ocean to Puget Sound and is home to orcas, gray whales, and harbor seals that migrate through its waters each season.",
+    "tag": "Local history"
   },
   "short_read": {
-    "meta": "5 min · Gardening",
-    "title": "The Secret Language of Flowers in Victorian Times",
-    "teaser": "Flowers weren't just beautiful in the 1800s—they carried hidden messages of love, friendship, and even warning. Learn how a simple bouquet could tell an entire story without a single word spoken.",
-    "url": "https://www.smithsonianmag.com/history/the-origin-of-the-meaning-of-flowers-110024950/"
+    "meta": "5 min · Nature",
+    "title": "Why Do Hummingbirds Hum?",
+    "teaser": "These tiny jewels of the bird world create their distinctive sound not with their voices, but with their incredibly fast wingbeats. Discover the science behind one of nature's most delightful sounds.",
+    "url": "https://www.allaboutbirds.org/news/why-do-hummingbirds-hum/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "Once nearly hunted to extinction, sea otters are making a remarkable comeback along the Pacific Coast. Their return is transforming entire ocean ecosystems in wonderful and unexpected ways.",
-    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
+    "meta": "15 min · Travel & Culture",
+    "title": "The Thermal Baths of Budapest: A Living Tradition",
+    "teaser": "For over 2,000 years, Hungarians have gathered in thermal baths to relax, socialize, and heal. This beautiful photo essay explores the timeless tradition of Budapest's famous bathhouses and the culture that surrounds them.",
+    "url": "https://www.bbc.com/travel/article/20200127-budapests-age-old-bath-culture"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Hidden History of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women have preserved stories, symbols, and regional identities through intricate needlework. This beautiful tradition connects generations and reveals the soul of village life across the Carpathian Basin.",
-    "url": "https://www.bbc.com/travel/article/20190528-hungarys-ancient-art-of-embroidery"
+    "meta": "35 min · Natural History",
+    "title": "The Secret Life of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and even warning each other of danger. This fascinating article reveals the hidden social world of forests.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer in Olympic National Park",
-    "description": "June is a wonderful time to spot Columbian black-tailed deer with their new fawns in the meadows around Port Angeles. These gentle creatures are most active during early morning and evening hours, and Hurricane Ridge offers some of the best viewing opportunities. The does carefully hide their spotted fawns in tall grass while they forage nearby.",
-    "link_text": "Wildlife Viewing Tips",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/wildlife-viewing.htm"
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "June is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge. These gentle creatures are especially active in the early morning and evening, often seen with their spotted fawns during this season. The drive up offers spectacular views of the Olympic Mountains and wildflowers in bloom.",
+    "link_text": "Hurricane Ridge visitor info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Exactly right! That's an incredibly fast heartbeat—about 20 beats every second!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—that's amazingly fast!",
-    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute during flight—that's 20 times per second! It's hard to imagine such speed.",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds have the highest metabolism of all animals. They must consume about half their body weight in sugar daily, which is why they visit so many flowers.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
-    "learn_more_label": "Learn More — Audubon Society"
+    "close_range": 200,
+    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those rapid wings.",
+    "close_response": "You're very close! Those tiny hearts beat about 1,200 times per minute — that's about 20 beats every second!",
+    "wrong_response": "Those amazing little birds have hearts that beat about 1,200 times per minute in flight — faster than almost any other animal!",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily and can remember every flower they've visited!",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "More hummingbird facts — Cornell Lab"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Beautiful! Pillangó is indeed butterfly—such a lovely, dancing word for such a lovely, dancing creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound light and fluttery? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language unrelated to most European languages. It belongs to the Finno-Ugric family and is known for its beautiful, poetic words and complex but logical structure.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-challenging-for-english-speakers",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, flowing word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as graceful as the creature itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. Many Hungarian words have a musical, flowing quality that reflects the beauty of what they describe.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "About Hungarian language — Britannica"
   },
   "puzzle_3": {
-    "question": "What is the Strait of Juan de Fuca named after?",
+    "question": "What do gardeners call the practice of planting certain crops together for mutual benefit?",
     "options": [
-      "A Spanish mission",
-      "A Greek explorer sailing for Spain",
-      "A Native American chief",
-      "A type of whale"
+      "Companion planting",
+      "Crop rotation",
+      "Intercropping",
+      "Garden pairing"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Ioannis Phokas, known as Juan de Fuca, was a Greek navigator who sailed for Spain in the 1590s. He claimed to have found this passage between the Pacific Ocean and what is now Washington State.",
-    "wrong_response": "The strait is named after Juan de Fuca (Ioannis Phokas), a Greek navigator who sailed for Spain in the 1590s. He reported discovering this important waterway that you can see right from Port Angeles!",
-    "learn_more_text": "While historians debate whether Juan de Fuca actually sailed through the strait himself, the waterway was officially named in his honor in the late 1700s. It's about 96 miles long and connects the Pacific Ocean to Puget Sound.",
-    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "History — National Park Service"
+    "correct_index": 0,
+    "correct_response": "Perfect! Companion planting is a time-honored gardening tradition. Tomatoes love basil, carrots enjoy onions, and beans help corn grow stronger!",
+    "wrong_response": "The answer is companion planting! This ancient technique pairs plants that help each other — like the 'Three Sisters' of corn, beans, and squash that Native Americans planted together for centuries.",
+    "learn_more_text": "Companion planting can repel pests naturally, improve soil nutrition, and increase yields. Marigolds planted near vegetables deter many harmful insects, while nasturtiums attract aphids away from other plants.",
+    "learn_more_url": "https://www.almanac.com/companion-planting-guide-vegetables",
+    "learn_more_label": "Companion planting guide — Old Farmer's Almanac"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-16T11:55:42.241174-07:00",
-  "date": "2026-06-16",
+  "generated_at": "2026-06-17T10:50:33.938652-07:00",
+  "date": "2026-06-17",
   "is_laundry_day": false
 }
