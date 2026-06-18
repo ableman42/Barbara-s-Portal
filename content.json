@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, June 17",
+  "date_display": "Thursday, June 18",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, visible from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. The waterway connects the Pacific Ocean to Puget Sound and is home to orcas, gray whales, and harbor seals that migrate through its waters each season.",
-    "tag": "Local history"
+    "text": "Hungarian shepherds developed the Puli dog breed with its distinctive corded coat that resembles dreadlocks. These intelligent dogs were so valued that a shepherd would pay a full year's salary for a good Puli! The cords naturally form as the puppy grows and help protect the dog from harsh weather and predators.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "Why Do Hummingbirds Hum?",
-    "teaser": "These tiny jewels of the bird world create their distinctive sound not with their voices, but with their incredibly fast wingbeats. Discover the science behind one of nature's most delightful sounds.",
-    "url": "https://www.allaboutbirds.org/news/why-do-hummingbirds-hum/"
+    "meta": "5 min · Wildlife",
+    "title": "Harbor Seals: Masters of the Pacific Northwest Coast",
+    "teaser": "These charming marine mammals are frequently spotted lounging on rocks throughout the Strait of Juan de Fuca. Learn about their fascinating adaptations and behaviors that make them so successful in local waters.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
   },
   "medium_read": {
-    "meta": "15 min · Travel & Culture",
-    "title": "The Thermal Baths of Budapest: A Living Tradition",
-    "teaser": "For over 2,000 years, Hungarians have gathered in thermal baths to relax, socialize, and heal. This beautiful photo essay explores the timeless tradition of Budapest's famous bathhouses and the culture that surrounds them.",
-    "url": "https://www.bbc.com/travel/article/20200127-budapests-age-old-bath-culture"
-  },
-  "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "The Secret Life of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and even warning each other of danger. This fascinating article reveals the hidden social world of forests.",
+    "meta": "15 min · Nature",
+    "title": "The Secret Life of Trees: How They Communicate Underground",
+    "teaser": "Scientists have discovered that trees in forests are connected by vast underground fungal networks, allowing them to share nutrients and warnings. This \"wood wide web\" reveals that forests are far more social than we ever imagined.",
     "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
+  "long_read": {
+    "meta": "35 min · History",
+    "title": "The Danube: Europe's Great River of Culture and History",
+    "teaser": "From Germany's Black Forest to the Black Sea, the Danube has shaped civilizations for millennia, flowing through Hungary's heart. This journey explores the river's role in art, music, and the daily lives of millions along its banks.",
+    "url": "https://www.bbc.com/travel/article/20190506-the-danube-europes-amazon"
+  },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "June is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge. These gentle creatures are especially active in the early morning and evening, often seen with their spotted fawns during this season. The drive up offers spectacular views of the Olympic Mountains and wildflowers in bloom.",
-    "link_text": "Hurricane Ridge visitor info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦅",
+    "title": "Ediz Hook's Resident Bald Eagles",
+    "description": "The Ediz Hook wildlife refuge is home to nesting bald eagles that can often be spotted fishing in the harbor waters. June is an excellent time to see adult eagles teaching their young to hunt, as fledglings take their first flights. The three-mile sandbar also offers stunning views of the Strait and Olympic Mountains.",
+    "link_text": "Visit Dungeness National Wildlife Refuge",
+    "link_url": "https://www.fws.gov/refuge/dungeness"
   },
   "puzzle_1": {
     "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those rapid wings.",
-    "close_response": "You're very close! Those tiny hearts beat about 1,200 times per minute — that's about 20 beats every second!",
-    "wrong_response": "Those amazing little birds have hearts that beat about 1,200 times per minute in flight — faster than almost any other animal!",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily and can remember every flower they've visited!",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "More hummingbird facts — Cornell Lab"
+    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those amazing wings.",
+    "close_response": "Very close! These tiny hearts are remarkable machines, beating around 1,200 times per minute in flight!",
+    "wrong_response": "These tiny hearts are incredible — they beat about 1,200 times per minute during flight! That's about 20 beats per second.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. At rest, their heart rate slows to about 250 beats per minute, and they enter a hibernation-like state called torpor at night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Learn more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
       "Pillangó",
+      "Madár",
       "Virág",
-      "Méhecske"
-    ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, flowing word for such a delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as graceful as the creature itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. Many Hungarian words have a musical, flowing quality that reflects the beauty of what they describe.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "About Hungarian language — Britannica"
-  },
-  "puzzle_3": {
-    "question": "What do gardeners call the practice of planting certain crops together for mutual benefit?",
-    "options": [
-      "Companion planting",
-      "Crop rotation",
-      "Intercropping",
-      "Garden pairing"
+      "Szitakötő"
     ],
     "correct_index": 0,
-    "correct_response": "Perfect! Companion planting is a time-honored gardening tradition. Tomatoes love basil, carrots enjoy onions, and beans help corn grow stronger!",
-    "wrong_response": "The answer is companion planting! This ancient technique pairs plants that help each other — like the 'Three Sisters' of corn, beans, and squash that Native Americans planted together for centuries.",
-    "learn_more_text": "Companion planting can repel pests naturally, improve soil nutrition, and increase yields. Marigolds planted near vegetables deter many harmful insects, while nasturtiums attract aphids away from other plants.",
-    "learn_more_url": "https://www.almanac.com/companion-planting-guide-vegetables",
-    "learn_more_label": "Companion planting guide — Old Farmer's Almanac"
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely and delicate, just like the creature itself?",
+    "learn_more_text": "Hungarian is a unique language in Europe, belonging to the Finno-Ugric family rather than Indo-European languages. It's known for its beautiful, flowing sounds and is considered one of the most poetic languages in the world.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About Hungarian — BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What type of whale is most commonly seen in the Strait of Juan de Fuca during summer months?",
+    "options": [
+      "Humpback whale",
+      "Gray whale",
+      "Orca (killer whale)",
+      "Blue whale"
+    ],
+    "correct_index": 2,
+    "correct_response": "Perfect! Orcas are regular visitors to these waters, especially in summer when salmon are running. You might even spot them from the shore on a lucky day!",
+    "wrong_response": "The orcas, or killer whales, are the most commonly seen! These magnificent creatures visit the Strait regularly during summer months to hunt salmon.",
+    "learn_more_text": "The Southern Resident orcas are actually an endangered population that frequents the Strait of Juan de Fuca. These highly intelligent and social animals live in family groups called pods and can live 50-80 years in the wild.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/orcas.htm",
+    "learn_more_label": "Learn more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-17T10:50:33.938652-07:00",
-  "date": "2026-06-17",
+  "generated_at": "2026-06-18T11:06:43.135612-07:00",
+  "date": "2026-06-18",
   "is_laundry_day": false
 }
