@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, June 18",
+  "date_display": "Friday, June 19",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian shepherds developed the Puli dog breed with its distinctive corded coat that resembles dreadlocks. These intelligent dogs were so valued that a shepherd would pay a full year's salary for a good Puli! The cords naturally form as the puppy grows and help protect the dog from harsh weather and predators.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They beat their wings in a figure-eight pattern up to 80 times per second, which allows them to hover perfectly in place and even fly upside down. These tiny acrobats need to eat about half their body weight in nectar every day to fuel their incredible flying abilities.",
+    "tag": "Bird life"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "Harbor Seals: Masters of the Pacific Northwest Coast",
-    "teaser": "These charming marine mammals are frequently spotted lounging on rocks throughout the Strait of Juan de Fuca. Learn about their fascinating adaptations and behaviors that make them so successful in local waters.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Garden Snails",
+    "teaser": "Those slow-moving snails in your garden are actually quite remarkable creatures with tiny teeth and surprising abilities. Discover the hidden world of these gentle garden companions.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-secret-world-of-garden-snails-180979464/"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Secret Life of Trees: How They Communicate Underground",
-    "teaser": "Scientists have discovered that trees in forests are connected by vast underground fungal networks, allowing them to share nutrients and warnings. This \"wood wide web\" reveals that forests are far more social than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "15 min · Travel & Culture",
+    "title": "Hungary's Beautiful Lake Balaton: The Heart of Summer",
+    "teaser": "Lake Balaton, known as the 'Hungarian Sea,' has been a beloved summer destination for generations. Explore the traditions, thermal waters, and timeless charm of Central Europe's largest lake.",
+    "url": "https://www.bbc.com/travel/article/20210614-lake-balaton-hungarys-beloved-sea"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Danube: Europe's Great River of Culture and History",
-    "teaser": "From Germany's Black Forest to the Black Sea, the Danube has shaped civilizations for millennia, flowing through Hungary's heart. This journey explores the river's role in art, music, and the daily lives of millions along its banks.",
-    "url": "https://www.bbc.com/travel/article/20190506-the-danube-europes-amazon"
+    "title": "The Fascinating History of Kitchen Gardens Through the Ages",
+    "teaser": "From medieval monastery gardens to Victory Gardens, kitchen gardens have fed families and communities for centuries. This beautifully illustrated journey explores how growing our own food has shaped culture, health, and connection to the land.",
+    "url": "https://www.nationalgeographic.com/culture/article/history-of-kitchen-gardens"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Ediz Hook's Resident Bald Eagles",
-    "description": "The Ediz Hook wildlife refuge is home to nesting bald eagles that can often be spotted fishing in the harbor waters. June is an excellent time to see adult eagles teaching their young to hunt, as fledglings take their first flights. The three-mile sandbar also offers stunning views of the Strait and Olympic Mountains.",
-    "link_text": "Visit Dungeness National Wildlife Refuge",
-    "link_url": "https://www.fws.gov/refuge/dungeness"
+    "icon": "🌊",
+    "title": "Harbor Seal Pupping Season at Ediz Hook",
+    "description": "June is prime time to spot harbor seal mothers and their adorable pups along Ediz Hook! These gentle marine mammals haul out on the beaches to rest and nurse their young. Remember to keep a respectful distance of at least 100 yards to avoid disturbing these precious families.",
+    "link_text": "Learn about harbor seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute when in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those amazing wings.",
-    "close_response": "Very close! These tiny hearts are remarkable machines, beating around 1,200 times per minute in flight!",
-    "wrong_response": "These tiny hearts are incredible — they beat about 1,200 times per minute during flight! That's about 20 beats per second.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. At rest, their heart rate slows to about 250 beats per minute, and they enter a hibernation-like state called torpor at night to conserve energy.",
+    "correct_response": "Amazing! Yes, 1,200 beats per minute — that's about 20 times per second! These tiny hearts work incredibly hard.",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — that's faster than you can count!",
+    "wrong_response": "These tiny hearts are truly amazing — they beat about 1,200 times per minute during flight! That's what it takes to power such incredible flying abilities.",
+    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds have the highest metabolism of all animals, which is why they need to eat so frequently throughout the day.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Learn more — Audubon Society"
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Pillangó",
       "Madár",
+      "Pillangó",
       "Virág",
-      "Szitakötő"
+      "Méhecske"
     ],
-    "correct_index": 0,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely and delicate, just like the creature itself?",
-    "learn_more_text": "Hungarian is a unique language in Europe, belonging to the Finno-Ugric family rather than Indo-European languages. It's known for its beautiful, flowing sounds and is considered one of the most poetic languages in the world.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as delicate as the creature itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language, unrelated to most European languages — it's part of the Finno-Ugric language family. Many Hungarian words have a musical, flowing quality that reflects the culture's love of poetry and song.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of whale is most commonly seen in the Strait of Juan de Fuca during summer months?",
+    "question": "What plant did Native Americans of the Olympic Peninsula traditionally use to make waterproof baskets and hats?",
     "options": [
-      "Humpback whale",
-      "Gray whale",
-      "Orca (killer whale)",
-      "Blue whale"
+      "Douglas fir bark",
+      "Cedar bark",
+      "Salal leaves",
+      "Hemlock needles"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Orcas are regular visitors to these waters, especially in summer when salmon are running. You might even spot them from the shore on a lucky day!",
-    "wrong_response": "The orcas, or killer whales, are the most commonly seen! These magnificent creatures visit the Strait regularly during summer months to hunt salmon.",
-    "learn_more_text": "The Southern Resident orcas are actually an endangered population that frequents the Strait of Juan de Fuca. These highly intelligent and social animals live in family groups called pods and can live 50-80 years in the wild.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/orcas.htm",
-    "learn_more_label": "Learn more — Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Exactly right! Cedar bark was woven into beautiful, waterproof baskets, hats, and clothing. The cedar tree was called the 'Tree of Life' for its countless uses in coastal Native cultures.",
+    "wrong_response": "The answer is cedar bark — this remarkable material was woven into waterproof baskets, hats, and even clothing. Cedar was so important it was called the 'Tree of Life' by coastal tribes.",
+    "learn_more_text": "The indigenous peoples of the Olympic Peninsula, including the Klallam, Makah, and Quileute, developed sophisticated weaving techniques over thousands of years. Cedar bark could be split into fine strands and woven so tightly it would hold water.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/historyculture/people-culture-traditional-use-of-park-resources.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-18T11:06:43.135612-07:00",
-  "date": "2026-06-18",
+  "generated_at": "2026-06-19T10:21:10.823937-07:00",
+  "date": "2026-06-19",
   "is_laundry_day": false
 }
