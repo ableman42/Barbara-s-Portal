@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, June 19",
+  "date_display": "Saturday, June 20",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They beat their wings in a figure-eight pattern up to 80 times per second, which allows them to hover perfectly in place and even fly upside down. These tiny acrobats need to eat about half their body weight in nectar every day to fuel their incredible flying abilities.",
-    "tag": "Bird life"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have discovered a passage between the Pacific and Atlantic oceans, though historians still debate whether he actually sailed these waters. The strait is home to orcas, gray whales, and over 200 species of birds!",
+    "tag": "Local history"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Snails",
-    "teaser": "Those slow-moving snails in your garden are actually quite remarkable creatures with tiny teeth and surprising abilities. Discover the hidden world of these gentle garden companions.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-secret-world-of-garden-snails-180979464/"
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels can fly backwards, upside down, and their hearts beat up to 1,260 times per minute! Discover the amazing abilities of hummingbirds and why they're nature's helicopters.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54649804/"
   },
   "medium_read": {
     "meta": "15 min · Travel & Culture",
-    "title": "Hungary's Beautiful Lake Balaton: The Heart of Summer",
-    "teaser": "Lake Balaton, known as the 'Hungarian Sea,' has been a beloved summer destination for generations. Explore the traditions, thermal waters, and timeless charm of Central Europe's largest lake.",
-    "url": "https://www.bbc.com/travel/article/20210614-lake-balaton-hungarys-beloved-sea"
+    "title": "Hungary's Thermal Bath Culture",
+    "teaser": "Budapest has more thermal springs than any other capital city in the world, and Hungarians have been enjoying healing baths for over 2,000 years. This beautiful tradition combines Roman engineering, Turkish architecture, and Hungarian hospitality into a unique cultural treasure.",
+    "url": "https://www.bbc.com/travel/article/20200915-budapests-golden-age-of-thermal-baths"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Fascinating History of Kitchen Gardens Through the Ages",
-    "teaser": "From medieval monastery gardens to Victory Gardens, kitchen gardens have fed families and communities for centuries. This beautifully illustrated journey explores how growing our own food has shaped culture, health, and connection to the land.",
-    "url": "https://www.nationalgeographic.com/culture/article/history-of-kitchen-gardens"
+    "meta": "35 min · Natural History",
+    "title": "The Olympic Peninsula: Where Wilderness Meets the Sea",
+    "teaser": "From temperate rainforests to rugged coastlines, the Olympic Peninsula is one of the most diverse ecosystems in North America. Learn about the unique plants, animals, and landscapes that make your home region so extraordinary.",
+    "url": "https://www.npca.org/articles/2458-the-olympic-peninsula-where-wilderness-meets-the-sea"
   },
   "port_angeles": {
-    "icon": "🌊",
-    "title": "Harbor Seal Pupping Season at Ediz Hook",
-    "description": "June is prime time to spot harbor seal mothers and their adorable pups along Ediz Hook! These gentle marine mammals haul out on the beaches to rest and nurse their young. Remember to keep a respectful distance of at least 100 yards to avoid disturbing these precious families.",
-    "link_text": "Learn about harbor seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
+    "icon": "🦌",
+    "title": "Black-tailed Deer in Olympic National Park",
+    "description": "June is a wonderful time to spot Columbian black-tailed deer with their adorable spotted fawns around Port Angeles and Hurricane Ridge. These gentle deer are smaller than their eastern cousins and are unique to the Pacific Northwest. Early morning or dusk are the best times to see them grazing in meadows.",
+    "link_text": "Learn about local wildlife",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute when in flight.",
-    "answer": 1200,
+    "question": "A hummingbird's wings can beat up to ___ times per second during courtship displays.",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Amazing! Yes, 1,200 beats per minute — that's about 20 times per second! These tiny hearts work incredibly hard.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — that's faster than you can count!",
-    "wrong_response": "These tiny hearts are truly amazing — they beat about 1,200 times per minute during flight! That's what it takes to power such incredible flying abilities.",
-    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds have the highest metabolism of all animals, which is why they need to eat so frequently throughout the day.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 10,
+    "correct_response": "That's right, Barbara! Those tiny wings move so fast they create that distinctive humming sound we love!",
+    "close_response": "You're very close! It's about 80 times per second — faster than our eyes can see!",
+    "wrong_response": "It's actually about 80 times per second! That's why they make that wonderful humming sound.",
+    "learn_more_text": "During normal flight, hummingbird wings beat about 50 times per second, but males can increase this to 80 beats per second during their spectacular diving courtship displays to impress females.",
+    "learn_more_url": "https://www.audubon.org/news/10-fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
-      "Méhecske"
+      "Pillangó",
+      "Madár",
+      "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as delicate as the creature itself? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language, unrelated to most European languages — it's part of the Finno-Ugric language family. Many Hungarian words have a musical, flowing quality that reflects the culture's love of poetry and song.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Gyönyörű! That's right — pillangó is butterfly! Such a lovely, melodic word.",
+    "wrong_response": "The answer is pillangó! Virág means flower, madár means bird, and csillag means star — all beautiful words!",
+    "learn_more_text": "The Hungarian word 'pillangó' comes from an older form meaning 'fluttering one.' Hungary is home to over 180 species of butterflies, and butterfly watching is a popular springtime activity in the countryside.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies.aspx",
+    "learn_more_label": "Hungarian butterflies — Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What plant did Native Americans of the Olympic Peninsula traditionally use to make waterproof baskets and hats?",
+    "question": "What special ability do orcas in the Salish Sea use to navigate and hunt?",
     "options": [
-      "Douglas fir bark",
-      "Cedar bark",
-      "Salal leaves",
-      "Hemlock needles"
+      "Bioluminescence",
+      "Echolocation",
+      "Magnetic sensing",
+      "Color vision"
     ],
     "correct_index": 1,
-    "correct_response": "Exactly right! Cedar bark was woven into beautiful, waterproof baskets, hats, and clothing. The cedar tree was called the 'Tree of Life' for its countless uses in coastal Native cultures.",
-    "wrong_response": "The answer is cedar bark — this remarkable material was woven into waterproof baskets, hats, and even clothing. Cedar was so important it was called the 'Tree of Life' by coastal tribes.",
-    "learn_more_text": "The indigenous peoples of the Olympic Peninsula, including the Klallam, Makah, and Quileute, developed sophisticated weaving techniques over thousands of years. Cedar bark could be split into fine strands and woven so tightly it would hold water.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/historyculture/people-culture-traditional-use-of-park-resources.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Wonderful! Yes, orcas use echolocation, clicking sounds that bounce back to create a 'sound picture' of their world. The Southern Resident orcas you might see from Port Angeles are masters at this!",
+    "wrong_response": "It's echolocation! Orcas send out clicking sounds that bounce back, helping them find salmon and navigate the waters of the Strait of Juan de Fuca even in darkness or murky water.",
+    "learn_more_text": "Orcas produce clicks that travel through the water and bounce off objects, returning as echoes that paint a detailed acoustic picture. Each orca pod has its own distinct dialect of calls, passed down through generations like a family language.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/killer-whale",
+    "learn_more_label": "About orcas — NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-19T10:21:10.823937-07:00",
-  "date": "2026-06-19",
+  "generated_at": "2026-06-20T09:22:22.246436-07:00",
+  "date": "2026-06-20",
   "is_laundry_day": false
 }
