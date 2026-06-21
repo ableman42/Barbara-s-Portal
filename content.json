@@ -1,49 +1,49 @@
 {
-  "date_display": "Saturday, June 20",
+  "date_display": "Sunday, June 21",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have discovered a passage between the Pacific and Atlantic oceans, though historians still debate whether he actually sailed these waters. The strait is home to orcas, gray whales, and over 200 species of birds!",
-    "tag": "Local history"
+    "text": "Today is the summer solstice, the longest day of the year in the Northern Hemisphere! In Hungary, this day is celebrated with ancient traditions including lighting bonfires and gathering medicinal herbs, which were believed to have special powers when picked on this magical day.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels can fly backwards, upside down, and their hearts beat up to 1,260 times per minute! Discover the amazing abilities of hummingbirds and why they're nature's helicopters.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54649804/"
+    "title": "The Magic of Summer Solstice Around the World",
+    "teaser": "From Sweden's Midsummer celebrations to Hungary's ancient herb-gathering traditions, cultures worldwide honor the longest day of the year. Discover how people have celebrated this astronomical event for thousands of years.",
+    "url": "https://www.nationalgeographic.com/science/article/summer-solstice"
   },
   "medium_read": {
-    "meta": "15 min · Travel & Culture",
-    "title": "Hungary's Thermal Bath Culture",
-    "teaser": "Budapest has more thermal springs than any other capital city in the world, and Hungarians have been enjoying healing baths for over 2,000 years. This beautiful tradition combines Roman engineering, Turkish architecture, and Hungarian hospitality into a unique cultural treasure.",
-    "url": "https://www.bbc.com/travel/article/20200915-budapests-golden-age-of-thermal-baths"
+    "meta": "15 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals in the Strait of Juan de Fuca",
+    "teaser": "These charming marine mammals are year-round residents of the waters you see from Port Angeles. Learn about their playful personalities, impressive diving abilities, and the important role they play in the local ecosystem.",
+    "url": "https://www.npca.org/articles/2305-harbor-seals-facts-and-information"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "The Olympic Peninsula: Where Wilderness Meets the Sea",
-    "teaser": "From temperate rainforests to rugged coastlines, the Olympic Peninsula is one of the most diverse ecosystems in North America. Learn about the unique plants, animals, and landscapes that make your home region so extraordinary.",
-    "url": "https://www.npca.org/articles/2458-the-olympic-peninsula-where-wilderness-meets-the-sea"
+    "meta": "35 min · History",
+    "title": "The Lavender Fields of the Olympic Peninsula",
+    "teaser": "How the Sequim-Dungeness Valley became the \"Lavender Capital of North America\" is a story of climate, passion, and community. This beautiful corner of the Peninsula shares a surprising connection with the lavender fields of Provence, France.",
+    "url": "https://www.smithsonianmag.com/travel/lavender-farms-pacific-northwest-180975490/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-tailed Deer in Olympic National Park",
-    "description": "June is a wonderful time to spot Columbian black-tailed deer with their adorable spotted fawns around Port Angeles and Hurricane Ridge. These gentle deer are smaller than their eastern cousins and are unique to the Pacific Northwest. Early morning or dusk are the best times to see them grazing in meadows.",
-    "link_text": "Learn about local wildlife",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "June is a wonderful time to spot black-tailed deer and their adorable fawns at Hurricane Ridge. These gentle creatures are often seen grazing in the meadows, especially in the early morning and evening hours. The drive up offers stunning views of the Strait and wildflowers in full bloom.",
+    "link_text": "Hurricane Ridge Visitor Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat up to ___ times per second during courtship displays.",
-    "answer": 80,
+    "question": "On the summer solstice, how many hours of daylight does Port Angeles receive? (approximately ___ hours)",
+    "answer": 16,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "That's right, Barbara! Those tiny wings move so fast they create that distinctive humming sound we love!",
-    "close_response": "You're very close! It's about 80 times per second — faster than our eyes can see!",
-    "wrong_response": "It's actually about 80 times per second! That's why they make that wonderful humming sound.",
-    "learn_more_text": "During normal flight, hummingbird wings beat about 50 times per second, but males can increase this to 80 beats per second during their spectacular diving courtship displays to impress females.",
-    "learn_more_url": "https://www.audubon.org/news/10-fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "close_range": 1,
+    "correct_response": "That's right, Barbara! Port Angeles enjoys about 16 glorious hours of daylight today — perfect for enjoying the beauty around you!",
+    "close_response": "Very close! Port Angeles actually gets about 16 hours of daylight on the summer solstice — what a long, beautiful day!",
+    "wrong_response": "Port Angeles receives about 16 hours of daylight on the summer solstice — the longest day of the year! That's a lot of time to enjoy the sunshine.",
+    "learn_more_text": "Because Port Angeles is at 48 degrees north latitude, it experiences dramatic seasonal variations in daylight. In contrast, on the winter solstice in December, there are only about 8 hours of daylight!",
+    "learn_more_url": "https://www.timeanddate.com/sun/usa/port-angeles",
+    "learn_more_label": "Port Angeles Sunrise & Sunset Times"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Virág",
       "Pillangó",
       "Madár",
-      "Csillag"
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Gyönyörű! That's right — pillangó is butterfly! Such a lovely, melodic word.",
-    "wrong_response": "The answer is pillangó! Virág means flower, madár means bird, and csillag means star — all beautiful words!",
-    "learn_more_text": "The Hungarian word 'pillangó' comes from an older form meaning 'fluttering one.' Hungary is home to over 180 species of butterflies, and butterfly watching is a popular springtime activity in the countryside.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies.aspx",
-    "learn_more_label": "Hungarian butterflies — Hungarian Reference"
+    "correct_response": "Beautifully done! Pillangó is indeed the Hungarian word for butterfly — such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound just as delicate and graceful as the creature itself?",
+    "learn_more_text": "Hungarian has many beautiful nature words. Virág means flower, madár means bird, and méhecske means little bee. The language is known for its poetic and descriptive vocabulary.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "About the Hungarian Language — Britannica"
   },
   "puzzle_3": {
-    "question": "What special ability do orcas in the Salish Sea use to navigate and hunt?",
+    "question": "What type of whale is most commonly seen from Port Angeles in the summer months?",
     "options": [
-      "Bioluminescence",
-      "Echolocation",
-      "Magnetic sensing",
-      "Color vision"
+      "Blue Whale",
+      "Gray Whale",
+      "Humpback Whale",
+      "Orca (Killer Whale)"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Yes, orcas use echolocation, clicking sounds that bounce back to create a 'sound picture' of their world. The Southern Resident orcas you might see from Port Angeles are masters at this!",
-    "wrong_response": "It's echolocation! Orcas send out clicking sounds that bounce back, helping them find salmon and navigate the waters of the Strait of Juan de Fuca even in darkness or murky water.",
-    "learn_more_text": "Orcas produce clicks that travel through the water and bounce off objects, returning as echoes that paint a detailed acoustic picture. Each orca pod has its own distinct dialect of calls, passed down through generations like a family language.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/killer-whale",
-    "learn_more_label": "About orcas — NOAA Fisheries"
+    "correct_index": 3,
+    "correct_response": "Exactly right! Orcas are frequently spotted in the Strait of Juan de Fuca during summer, especially the Southern Resident pods who come here to feed on salmon. What magnificent creatures to have as neighbors!",
+    "wrong_response": "The most common whales to spot from Port Angeles in summer are actually Orcas! The Southern Resident killer whales visit the Strait of Juan de Fuca to feast on salmon during these months.",
+    "learn_more_text": "Three pods of Southern Resident orcas — J, K, and L pods — spend their summers in the waters around the San Juan Islands and the Strait of Juan de Fuca. These family groups are made up of about 75 whales total, and they're a beloved part of the local marine ecosystem.",
+    "learn_more_url": "https://www.whalemuseum.org/pages/orcas",
+    "learn_more_label": "Learn About Local Orcas — Whale Museum"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-20T09:22:22.246436-07:00",
-  "date": "2026-06-20",
+  "generated_at": "2026-06-21T09:47:19.833844-07:00",
+  "date": "2026-06-21",
   "is_laundry_day": false
 }
