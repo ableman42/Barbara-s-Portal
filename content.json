@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, June 22",
+  "date_display": "Tuesday, June 23",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which Barbara can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have found a passage between the Pacific and Atlantic oceans, which turned out to be this beautiful waterway separating Washington from Vancouver Island!",
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have found the passage between the Pacific Ocean and the Atlantic, though historians now believe he may have been describing the strait that bears his name today.",
     "tag": "Local history"
   },
   "short_read": {
-    "meta": "5 min · Gardens",
-    "title": "The Secret Language of Flowers in Victorian Times",
-    "teaser": "In the 1800s, people sent messages through carefully chosen flower bouquets—each bloom had a specific meaning. Red roses meant love, but yellow ones signaled friendship, and forget-me-nots meant exactly what their name suggests!",
-    "url": "https://www.smithsonianmag.com/history/the-coded-language-of-flowers-110858291/"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny birds have hearts that beat up to 1,260 times per minute and can remember every flower they've visited. Learn about the amazing abilities of these jewel-like creatures that visit gardens all summer long.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-9987187/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Remarkable Intelligence of Crows",
-    "teaser": "Scientists have discovered that crows can recognize human faces, use tools, and even hold grudges for years. These clever birds, common in the Pacific Northwest, have memories and problem-solving skills that rival some primates.",
-    "url": "https://www.nationalgeographic.com/animals/article/crows-intelligence-tool-use"
+    "meta": "15 min · Nature",
+    "title": "The Ancient Forests of the Olympic Peninsula",
+    "teaser": "Olympic National Park is home to some of the largest temperate rainforests in the United States, with trees over 1,000 years old. This beautiful exploration takes you through the moss-draped valleys and towering giants right in your backyard.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Olympic National Park: A Wilderness Like No Other",
-    "teaser": "From temperate rainforests to glacier-capped mountains, Olympic National Park contains an incredible diversity of ecosystems all within Barbara's backyard. This exploration reveals how this unique corner of Washington became one of America's most treasured wild places.",
-    "url": "https://www.nps.gov/olym/learn/nature/index.htm"
+    "meta": "35 min · History & Culture",
+    "title": "The Gardens of Hungarian Castles",
+    "teaser": "From the terraced gardens of Buda Castle to the romantic landscapes of Esterházy Palace, Hungary has a rich tradition of beautiful garden design. This journey through history explores how Hungarian gardens blended Eastern and Western influences into something uniquely their own.",
+    "url": "https://www.nationalgeographic.com/travel/article/hungary-castles-palaces-gardens"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer of the Olympic Peninsula",
-    "description": "The Columbian black-tailed deer are a common and delightful sight around Port Angeles. These gentle creatures are smaller than their white-tailed cousins and are perfectly adapted to the mild, wet climate of the Pacific Northwest. Early morning or dusk are the best times to spot them grazing near the forest edges.",
-    "link_text": "Learn about local wildlife",
-    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "Late June is the height of harbor seal pupping season in the Strait of Juan de Fuca! Mother seals and their spotted pups can often be seen resting on the rocks near Ediz Hook and along the waterfront. If you spot them, remember to keep a respectful distance so mothers and babies can bond safely.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/phoca-vitulina"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute while flying.",
-    "answer": 1200,
+    "question": "A hummingbird's wings can beat approximately ___ times per second.",
+    "answer": 50,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute—that's about 20 times per second!",
-    "wrong_response": "Those tiny hearts are even faster than you might think—up to 1,200 beats per minute! It's hard to imagine something so small working so hard.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals—they must eat about half their body weight in sugar daily just to survive. Their hearts slow down to about 250 beats per minute when they sleep.",
+    "close_range": 10,
+    "correct_response": "Exactly right! That's incredibly fast — so fast our eyes just see a blur!",
+    "close_response": "Very close! Hummingbird wings beat about 50 times per second — no wonder they hum!",
+    "wrong_response": "Hummingbird wings actually beat about 50 times per second — that's why they make that distinctive humming sound!",
+    "learn_more_text": "This rapid wing movement allows hummingbirds to hover in place and even fly backwards, making them the only birds with this special ability.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Köszönöm",
       "Szia",
-      "Igen",
-      "Viszlát"
+      "Köszönöm",
+      "Viszlát",
+      "Igen"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Szia is such a friendly, versatile word—perfect for both coming and going!",
-    "wrong_response": "The word is 'Szia'—it's one of those lovely informal words that works for both hello and goodbye, just like 'ciao' in Italian!",
-    "learn_more_text": "Szia comes from the Hungarian word 'szolga' meaning servant, originally from the phrase 'your servant.' It's the informal way to greet friends, while 'Viszlát' is specifically for goodbye.",
-    "learn_more_url": "https://www.hungarianpod101.com/blog/2020/05/14/hungarian-greetings/",
-    "learn_more_label": "Learn more — HungarianPod101"
+    "correct_response": "Köszönöm! That's perfect — you know your Hungarian!",
+    "wrong_response": "The answer is 'Köszönöm' — a beautiful word you probably use often! (Szia means 'hi', Viszlát means 'goodbye', and Igen means 'yes'.)",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages that surround it. Its closest relatives are Finnish and Estonian.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult",
+    "learn_more_label": "About Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "What special adaptation allows seals to sleep underwater?",
+    "question": "What type of trees are most common in Olympic National Park's temperate rainforests?",
     "options": [
-      "They don't actually sleep",
-      "They can sleep with half their brain at a time",
-      "They hold their breath for hours",
-      "They breathe through their skin"
+      "Redwoods and sequoias",
+      "Oaks and maples",
+      "Sitka spruce and western hemlock",
+      "Pines and firs"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfect! Seals can literally sleep with one eye open, resting half their brain while the other half stays alert. Nature is amazing!",
-    "wrong_response": "Seals have a wonderful trick—they can sleep with half their brain at a time! One hemisphere rests while the other keeps them aware enough to surface for air.",
-    "learn_more_text": "This ability, called unihemispheric sleep, allows seals to rest while still surfacing to breathe and watching for predators. The harbor seals you might see in the Strait of Juan de Fuca use this remarkable adaptation every day.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/article/seals-sea-lions-sleep",
-    "learn_more_label": "Discover more — National Geographic"
+    "correct_index": 2,
+    "correct_response": "Yes! Sitka spruce and western hemlock create those magical, moss-covered forests we love here on the peninsula.",
+    "wrong_response": "It's actually Sitka spruce and western hemlock! These giants thrive in our wet climate and create those beautiful green cathedral forests.",
+    "learn_more_text": "The Hoh Rain Forest and Quinault Rain Forest in Olympic National Park receive over 12 feet of rain per year, creating perfect conditions for these enormous trees and the thick carpet of moss that covers everything.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
+    "learn_more_label": "Visit the Hoh Rain Forest — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-22T11:49:20.828723-07:00",
-  "date": "2026-06-22",
+  "generated_at": "2026-06-23T10:19:48.485615-07:00",
+  "date": "2026-06-23",
   "is_laundry_day": false
 }
