@@ -241,6 +241,15 @@ if (document.readyState === 'loading') {
 .pv-full-btn { display: inline-flex; align-items: center; gap: 5px; background: #4A6FA5; color: #fff; border: none; border-radius: 10px; padding: 8px 16px; font-size: 13px; font-family: 'Nunito', sans-serif; font-weight: 600; cursor: pointer; }
 .pv-full-btn:hover { background: #3A5A8C; }
 
+/* ── ALL DAY MENU ── */
+.menu-sub { font-size:13px; color:#8C6A50; margin:0 0 16px; font-style:italic; }
+.menu-list { display:flex; flex-direction:column; gap:12px; }
+.menu-item { background:#FEF4EC; border-radius:12px; padding:14px 17px; }
+.menu-name { font-family:'Lora',serif; font-size:16px; font-weight:500; color:#3D2B1F; margin:0 0 5px; display:flex; align-items:center; gap:7px; flex-wrap:wrap; }
+.menu-badge { font-size:13px; }
+.menu-desc { font-size:13px; color:#7A5C44; line-height:1.6; margin:0; }
+.menu-legend { font-size:12px; color:#B88B6A; margin:14px 0 0; font-style:italic; }
+
 /* ── WATER & MEALS ── */
 .tracker-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 .tracker-section { }
@@ -499,6 +508,43 @@ if (document.readyState === 'loading') {
         </div>
         <button class="pv-full-btn" onclick="openPvModal()"><i class="ti ti-calendar"></i> See everything this month</button>
       </div>
+    </div>
+
+    <!-- All Day Menu -->
+    <div class="card full">
+      <div class="section-label">All day menu 🍴</div>
+      <p class="menu-sub">Chef Specials — available anytime from 10:00 a.m. to 6:00 p.m.</p>
+      <div class="menu-list">
+        <div class="menu-item">
+          <p class="menu-name">Summer Berry Green Salad <span class="menu-badge" title="Locally sourced">🌱</span><span class="menu-badge" title="Heart healthy">❤️</span><span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Mixed greens, chicken, seasonal berries, and pecans. Served with your choice of dressing.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Summer Cottage Cheese or Yogurt Plate <span class="menu-badge" title="Heart healthy">❤️</span><span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Cottage cheese or yogurt served with seasonal fruit or seasonal vegetables.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Eggs of Choice, Sausage &amp; Toast <span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Eggs cooked to your liking, served with sausage. Includes white or wheat toast, or an English muffin.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Mushroom Swiss Burger</p>
+          <p class="menu-desc">All-beef patty topped with Swiss cheese and sautéed mushrooms. Served with macaroni salad or chips.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Grilled Salmon <span class="menu-badge" title="Heart healthy">❤️</span><span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Grilled salmon served with lemon, tartar sauce, seasonal vegetable, and starch.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Club Sandwich and Soup of the Day <span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Ham, turkey, bacon, mayonnaise, lettuce, and tomato on toasted white or wheat bread. Served with soup, chips, or macaroni salad.</p>
+        </div>
+        <div class="menu-item">
+          <p class="menu-name">Strawberry Shortcake <span class="menu-badge" title="Vegetarian option available">🥕</span></p>
+          <p class="menu-desc">Shortcake topped with strawberries and whipped cream.</p>
+        </div>
+      </div>
+      <p class="menu-legend">🌱 Locally sourced when available &nbsp;&nbsp; ❤️ Heart healthy &nbsp;&nbsp; 🥕 Vegetarian option available</p>
     </div>
 
     <!-- Water & Meals -->
