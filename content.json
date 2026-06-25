@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, June 24",
+  "date_display": "Thursday, June 25",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Hungarian word 'paprika' has given us both the spice and the word used worldwide! Hungary is famous for its paprika production, with the town of Kalocsa and Szeged regions producing some of the finest varieties. The spice comes in eight different grades, from delicate and sweet to fiery hot.",
+    "text": "Hungarian paprika, the country's most famous spice, comes in eight different grades ranging from delicate and sweet to fiery hot. The town of Szeged in southern Hungary is considered the paprika capital of the world, where the spice has been cultivated since the 16th century and is celebrated with an annual festival each October.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "How Harbor Seals Sleep Underwater",
-    "teaser": "Harbor seals, common in the Strait of Juan de Fuca, have a remarkable ability to sleep while submerged. They can hold their breath for up to two hours and sleep vertically in the water, bobbing gently like a floating bottle!",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Wildlife",
+    "title": "How Harbor Seals Sleep in the Water Without Drowning",
+    "teaser": "Harbor seals, like those along the Strait of Juan de Fuca, have a remarkable ability to sleep underwater by resting only half their brain at a time. This fascinating adaptation lets them stay safe from predators while getting the rest they need.",
+    "url": "https://www.nationalgeographic.com/animals/article/seals-sleep-half-brain-awake"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Secret Lives of Olympic Peninsula Black Bears",
-    "teaser": "Black bears are incredibly intelligent and have an amazing sense of smell — they can detect food from miles away. This fascinating look at the bears living in Olympic National Park reveals their surprising behaviors and how they prepare for winter.",
-    "url": "https://www.nps.gov/olym/learn/nature/black-bear.htm"
+    "meta": "15 min · Gardening",
+    "title": "The Secret Language of Flowers: Victorian Garden Meanings",
+    "teaser": "In the Victorian era, every flower carried a specific meaning, allowing people to send coded messages through their bouquets. From roses expressing love to lavender symbolizing devotion, discover the charming language that made gardens conversation pieces.",
+    "url": "https://www.smithsonianmag.com/history/the-coded-language-of-flowers-180974419/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Lost Art of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women created intricate embroidered patterns that told stories of their villages and regions. This beautiful exploration reveals how these traditional folk arts are being preserved and celebrated today.",
-    "url": "https://www.smithsonianmag.com/arts-culture/keeping-hungarian-folk-art-alive-180969543/"
+    "title": "The Lost Art of Letter Writing: How Correspondence Shaped History",
+    "teaser": "Before phones and email, letters were the only way to maintain relationships across distances, creating a rich archive of human connection. This fascinating exploration reveals how famous letter writers from Jane Austen to Albert Einstein poured their hearts, ideas, and dreams onto paper.",
+    "url": "https://www.bbc.com/culture/article/20200428-why-we-should-bring-back-the-lost-art-of-letter-writing"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "Late June brings beautiful butterflies to Hurricane Ridge's alpine meadows. Look for colorful species like the Western Tiger Swallowtail and Painted Lady dancing among the wildflowers. The meadows are at their peak bloom right now, making it a perfect time for a scenic drive up the ridge.",
-    "link_text": "Hurricane Ridge wildflower info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦅",
+    "title": "Bald Eagles Along Ediz Hook",
+    "description": "Ediz Hook, the natural sand spit protecting Port Angeles Harbor, is a wonderful spot for watching bald eagles year-round. These magnificent birds nest in the area and can often be seen perched on driftwood or soaring over the Strait, hunting for fish. Early morning visits offer the best viewing opportunities.",
+    "link_text": "Learn about Ediz Hook",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/ediz-hook.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! Their tiny hearts beat incredibly fast to power their amazing flight abilities!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's amazingly fast!",
-    "wrong_response": "Actually, their tiny hearts beat about 1,200 times per minute! That's 20 times every second — incredible!",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, and their hearts can beat even faster during courtship dives. Rufous hummingbirds migrate through Port Angeles every year on their journey along the Pacific Coast.",
+    "correct_response": "Amazing! You're absolutely right — that tiny heart is working incredibly hard during flight!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when flying — that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are truly remarkable! A hummingbird's heart beats about 1,200 times per minute during flight — that's faster than we can even imagine!",
+    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds have the fastest metabolism of all animals. At rest, their heart rate slows to about 250 beats per minute to conserve energy.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "learn_more_label": "More About Hummingbirds — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'beautiful'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye' and is used as a friendly greeting?",
     "options": [
-      "Kedves",
-      "Szép",
-      "Boldog",
-      "Erős"
+      "Köszönöm",
+      "Szia",
+      "Jó napot",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Szép! That's beautiful, Barbara — and so is your knowledge of Hungarian!",
-    "wrong_response": "The word for beautiful is 'szép' (pronounced 'sayp'). Kedves means 'kind,' boldog means 'happy,' and erős means 'strong' — all lovely words!",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. It's known for its beautiful sounds and poetic expressions about nature and emotions.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-endlessly-enchanting",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Szia! You got it! This is one of the most common friendly greetings in Hungarian — perfect for friends and family.",
+    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah) — it's the casual, friendly way to say both hello and goodbye in Hungarian, like 'ciao' in Italian!",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from neighboring European languages. 'Szia' comes from 'szolga' meaning servant, originally meaning 'I am your servant' as a polite greeting.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About Hungarian Language — BBC"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Forest?",
+    "question": "What type of tree produces acorns that are an important food source for Olympic Peninsula wildlife?",
     "options": [
-      "Douglas Fir",
+      "Cedar",
+      "Hemlock",
       "Oak",
-      "Western Hemlock",
-      "Maple"
+      "Fir"
     ],
     "correct_index": 2,
-    "correct_response": "Wonderful! Western Hemlock thrives in the Olympic Peninsula's moist climate and can live for over 500 years in these forests!",
-    "wrong_response": "It's actually the Western Hemlock! These graceful trees with drooping tops are perfectly suited to our rainy climate and form the backbone of our temperate rainforests.",
-    "learn_more_text": "The Olympic National Forest is home to some of the most spectacular temperate rainforests in the world. Western Hemlocks can grow over 200 feet tall and provide important habitat for countless birds and wildlife.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Perfect! Oak trees produce acorns that feed deer, squirrels, jays, and many other animals on the Olympic Peninsula — they're like nature's grocery store!",
+    "wrong_response": "It's oak trees that produce acorns! Garry oaks grow in parts of the Olympic Peninsula and their acorns have fed wildlife for thousands of years.",
+    "learn_more_text": "Garry oak, also called Oregon white oak, is the only native oak in Washington State and was historically important to Indigenous peoples who managed oak groves and harvested acorns. These beautiful trees can live for 500 years.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/garry-oak.htm",
+    "learn_more_label": "Garry Oaks — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-24T10:07:24.942590-07:00",
-  "date": "2026-06-24",
+  "generated_at": "2026-06-25T10:13:23.383980-07:00",
+  "date": "2026-06-25",
   "is_laundry_day": false
 }
