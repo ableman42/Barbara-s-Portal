@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, June 25",
+  "date_display": "Friday, June 26",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, the country's most famous spice, comes in eight different grades ranging from delicate and sweet to fiery hot. The town of Szeged in southern Hungary is considered the paprika capital of the world, where the spice has been cultivated since the 16th century and is celebrated with an annual festival each October.",
-    "tag": "Hungarian culture"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek sailor who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish version stuck! The strait is one of the most important waterways in the Pacific Northwest, connecting the Pacific Ocean to Puget Sound.",
+    "tag": "Local History"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "How Harbor Seals Sleep in the Water Without Drowning",
-    "teaser": "Harbor seals, like those along the Strait of Juan de Fuca, have a remarkable ability to sleep underwater by resting only half their brain at a time. This fascinating adaptation lets them stay safe from predators while getting the rest they need.",
-    "url": "https://www.nationalgeographic.com/animals/article/seals-sleep-half-brain-awake"
+    "meta": "5 min · Gardening",
+    "title": "Why Hummingbirds Are Nature's Perfect Gardeners",
+    "teaser": "These tiny jeweled birds visit up to 2,000 flowers every day, helping gardens bloom beautifully. Learn about the special relationship between hummingbirds and the flowers they love most.",
+    "url": "https://www.audubon.org/news/how-attract-hummingbirds"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Secret Language of Flowers: Victorian Garden Meanings",
-    "teaser": "In the Victorian era, every flower carried a specific meaning, allowing people to send coded messages through their bouquets. From roses expressing love to lavender symbolizing devotion, discover the charming language that made gardens conversation pieces.",
-    "url": "https://www.smithsonianmag.com/history/the-coded-language-of-flowers-180974419/"
+    "meta": "15 min · Nature",
+    "title": "The Secret Lives of Roosevelt Elk in Olympic National Park",
+    "teaser": "The majestic elk that roam the Olympic Peninsula have fascinating family structures and behaviors. Discover how these gentle giants have thrived in the rainforests just beyond Port Angeles for thousands of years.",
+    "url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Lost Art of Letter Writing: How Correspondence Shaped History",
-    "teaser": "Before phones and email, letters were the only way to maintain relationships across distances, creating a rich archive of human connection. This fascinating exploration reveals how famous letter writers from Jane Austen to Albert Einstein poured their hearts, ideas, and dreams onto paper.",
-    "url": "https://www.bbc.com/culture/article/20200428-why-we-should-bring-back-the-lost-art-of-letter-writing"
+    "meta": "35 min · History & Culture",
+    "title": "The Hidden Gardens of Budapest: A Journey Through Time",
+    "teaser": "From the stunning Margaret Island to secret courtyards, Budapest's gardens tell stories of resilience and beauty through centuries of history. This gentle tour takes you through the green heart of Hungary's capital city.",
+    "url": "https://www.smithsonianmag.com/travel/budapests-thermal-baths-and-historic-gardens-180979584/"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Along Ediz Hook",
-    "description": "Ediz Hook, the natural sand spit protecting Port Angeles Harbor, is a wonderful spot for watching bald eagles year-round. These magnificent birds nest in the area and can often be seen perched on driftwood or soaring over the Strait, hunting for fish. Early morning visits offer the best viewing opportunities.",
-    "link_text": "Learn about Ediz Hook",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/ediz-hook.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season is Here",
+    "description": "June through September is pupping season for harbor seals along the Strait of Juan de Fuca. You might spot adorable seal pups resting on rocks near Ediz Hook or along the shoreline. Remember to watch from a distance—mothers often leave pups alone while they hunt for food, and they'll come back!",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.porttownsendmarine.org/harbor-seal"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right — that tiny heart is working incredibly hard during flight!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when flying — that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are truly remarkable! A hummingbird's heart beats about 1,200 times per minute during flight — that's faster than we can even imagine!",
-    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds have the fastest metabolism of all animals. At rest, their heart rate slows to about 250 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More About Hummingbirds — Audubon"
+    "correct_response": "Wonderful! You're exactly right—1,200 beats per minute! That's about 20 times faster than a human heart.",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—incredibly fast for such a tiny bird!",
+    "wrong_response": "These tiny birds have amazingly fast hearts! A hummingbird's heart beats about 1,200 times per minute while flying—that's 20 beats every second!",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their rapid heartbeat and flight, they must eat about half their body weight in sugar each day by visiting hundreds of flowers.",
+    "learn_more_url": "https://www.audubon.org/news/10-fascinating-facts-about-hummingbirds",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye' and is used as a friendly greeting?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Szia",
-      "Jó napot",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! You got it! This is one of the most common friendly greetings in Hungarian — perfect for friends and family.",
-    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah) — it's the casual, friendly way to say both hello and goodbye in Hungarian, like 'ciao' in Italian!",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from neighboring European languages. 'Szia' comes from 'szolga' meaning servant, originally meaning 'I am your servant' as a polite greeting.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About Hungarian Language — BBC"
+    "correct_response": "Gyönyörű! That's right—'pillangó' is butterfly! Such a lovely, musical word.",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language in Europe, related to Finnish and Estonian rather than neighboring languages. Many Hungarian words for nature are especially poetic and musical.",
+    "learn_more_url": "https://www.babbel.com/en/magazine/hungarian-language-facts",
+    "learn_more_label": "Learn more — Babbel"
   },
   "puzzle_3": {
-    "question": "What type of tree produces acorns that are an important food source for Olympic Peninsula wildlife?",
+    "question": "What special ability do orcas (killer whales) have that helps them hunt in the Strait of Juan de Fuca?",
     "options": [
-      "Cedar",
-      "Hemlock",
-      "Oak",
-      "Fir"
+      "They can see in complete darkness",
+      "They use echolocation like sonar to find prey",
+      "They can hold their breath for two hours",
+      "They can swim faster than any other animal"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Oak trees produce acorns that feed deer, squirrels, jays, and many other animals on the Olympic Peninsula — they're like nature's grocery store!",
-    "wrong_response": "It's oak trees that produce acorns! Garry oaks grow in parts of the Olympic Peninsula and their acorns have fed wildlife for thousands of years.",
-    "learn_more_text": "Garry oak, also called Oregon white oak, is the only native oak in Washington State and was historically important to Indigenous peoples who managed oak groves and harvested acorns. These beautiful trees can live for 500 years.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/garry-oak.htm",
-    "learn_more_label": "Garry Oaks — Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Perfect! Orcas use echolocation, sending out clicking sounds that bounce back to create a 'sound picture' of their surroundings. It's like having built-in sonar that lets them hunt salmon and navigate even in murky water!",
+    "wrong_response": "Orcas are amazing hunters because they use echolocation! They send out clicking sounds that bounce back, creating a 'sound picture' of everything around them—including their favorite food, salmon. It works like natural sonar!",
+    "learn_more_text": "The Southern Resident orcas that swim through the Strait of Juan de Fuca are an endangered population that relies heavily on Chinook salmon. Each orca has a unique call, like a family dialect, that helps them communicate with their pod.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/killer-whales.htm",
+    "learn_more_label": "Learn more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-25T10:13:23.383980-07:00",
-  "date": "2026-06-25",
+  "generated_at": "2026-06-26T10:02:40.321576-07:00",
+  "date": "2026-06-26",
   "is_laundry_day": false
 }
