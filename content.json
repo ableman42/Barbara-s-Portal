@@ -1,49 +1,49 @@
 {
-  "date_display": "Friday, June 26",
+  "date_display": "Saturday, June 27",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek sailor who sailed for Spain in 1592. His real name was Ioannis Phokas, but the Spanish version stuck! The strait is one of the most important waterways in the Pacific Northwest, connecting the Pacific Ocean to Puget Sound.",
-    "tag": "Local History"
+    "text": "The Hungarian language has a special word, 'szívderítő,' which literally means 'heart-warming' or something that makes your heart smile. Hungarians also have over 30 different words to describe different types of rain, showing their deep connection to nature and weather patterns.",
+    "tag": "Hungarian language"
   },
   "short_read": {
-    "meta": "5 min · Gardening",
-    "title": "Why Hummingbirds Are Nature's Perfect Gardeners",
-    "teaser": "These tiny jeweled birds visit up to 2,000 flowers every day, helping gardens bloom beautifully. Learn about the special relationship between hummingbirds and the flowers they love most.",
-    "url": "https://www.audubon.org/news/how-attract-hummingbirds"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals, like those you can spot in the Strait of Juan de Fuca, can hold their breath for nearly 30 minutes and dive over 1,500 feet deep. Discover how these charming marine mammals navigate their underwater world.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Secret Lives of Roosevelt Elk in Olympic National Park",
-    "teaser": "The majestic elk that roam the Olympic Peninsula have fascinating family structures and behaviors. Discover how these gentle giants have thrived in the rainforests just beyond Port Angeles for thousands of years.",
-    "url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "meta": "15 min · Gardening",
+    "title": "The Joy of Container Gardening for Small Spaces",
+    "teaser": "You don't need acres of land to grow beautiful flowers and fresh herbs. This guide shows how pots and containers can create a thriving garden right on your patio or balcony.",
+    "url": "https://www.bbcgardenersworldmagazine.com/how-to/grow-plants/how-to-create-a-container-garden"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Hidden Gardens of Budapest: A Journey Through Time",
-    "teaser": "From the stunning Margaret Island to secret courtyards, Budapest's gardens tell stories of resilience and beauty through centuries of history. This gentle tour takes you through the green heart of Hungary's capital city.",
-    "url": "https://www.smithsonianmag.com/travel/budapests-thermal-baths-and-historic-gardens-180979584/"
+    "meta": "35 min · Natural History",
+    "title": "The Ancient Forests of the Olympic Peninsula",
+    "teaser": "The temperate rainforests near Port Angeles are among the oldest and most magical ecosystems on Earth, some with trees over 1,000 years old. Explore the remarkable story of how these forests have thrived and what makes them so special.",
+    "url": "https://www.smithsonianmag.com/travel/explore-olympic-national-parks-ancient-forests-180970479/"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season is Here",
-    "description": "June through September is pupping season for harbor seals along the Strait of Juan de Fuca. You might spot adorable seal pups resting on rocks near Ediz Hook or along the shoreline. Remember to watch from a distance—mothers often leave pups alone while they hunt for food, and they'll come back!",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.porttownsendmarine.org/harbor-seal"
+    "icon": "🦋",
+    "title": "Butterfly Season at the Olympic Peninsula",
+    "description": "Late June is a wonderful time to spot butterflies around Port Angeles, including the beautiful Western Tiger Swallowtail and Painted Lady. The wildflower meadows along Hurricane Ridge Road are particularly lovely right now, with butterflies dancing among the blooms. A gentle walk or drive up the ridge offers spectacular views and delightful butterfly watching.",
+    "link_text": "Hurricane Ridge visitor info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Wonderful! You're exactly right—1,200 beats per minute! That's about 20 times faster than a human heart.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—incredibly fast for such a tiny bird!",
-    "wrong_response": "These tiny birds have amazingly fast hearts! A hummingbird's heart beats about 1,200 times per minute while flying—that's 20 beats every second!",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their rapid heartbeat and flight, they must eat about half their body weight in sugar each day by visiting hundreds of flowers.",
-    "learn_more_url": "https://www.audubon.org/news/10-fascinating-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "correct_response": "Absolutely right! That tiny heart works incredibly hard to power those amazing hovering wings.",
+    "close_response": "You're very close! The actual number is about 1,200 beats per minute — amazingly fast!",
+    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute, which helps power their incredible hovering flight!",
+    "learn_more_text": "A hummingbird's heart rate can slow to 250 beats per minute when resting at night, but speeds up dramatically during the day to support their high-energy lifestyle. Their wings beat 50-80 times per second!",
+    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Gyönyörű! That's right—'pillangó' is butterfly! Such a lovely, musical word.",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language in Europe, related to Finnish and Estonian rather than neighboring languages. Many Hungarian words for nature are especially poetic and musical.",
-    "learn_more_url": "https://www.babbel.com/en/magazine/hungarian-language-facts",
-    "learn_more_label": "Learn more — Babbel"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian word 'pillangó' comes from an old word meaning 'to flutter.' Hungarian has many beautiful nature words, reflecting the culture's deep appreciation for the natural world.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/nature-words.aspx",
+    "learn_more_label": "Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What special ability do orcas (killer whales) have that helps them hunt in the Strait of Juan de Fuca?",
+    "question": "What type of tree is most common in Olympic National Park's temperate rainforest?",
     "options": [
-      "They can see in complete darkness",
-      "They use echolocation like sonar to find prey",
-      "They can hold their breath for two hours",
-      "They can swim faster than any other animal"
+      "Douglas Fir",
+      "Sitka Spruce",
+      "Redwood",
+      "Maple"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Orcas use echolocation, sending out clicking sounds that bounce back to create a 'sound picture' of their surroundings. It's like having built-in sonar that lets them hunt salmon and navigate even in murky water!",
-    "wrong_response": "Orcas are amazing hunters because they use echolocation! They send out clicking sounds that bounce back, creating a 'sound picture' of everything around them—including their favorite food, salmon. It works like natural sonar!",
-    "learn_more_text": "The Southern Resident orcas that swim through the Strait of Juan de Fuca are an endangered population that relies heavily on Chinook salmon. Each orca has a unique call, like a family dialect, that helps them communicate with their pod.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/killer-whales.htm",
-    "learn_more_label": "Learn more — Olympic National Park"
+    "correct_response": "Perfect! Sitka Spruce trees dominate the rainforest, with some giants reaching over 300 feet tall and 1,000 years old.",
+    "wrong_response": "The Sitka Spruce is actually the most common tree in the Olympic rainforest. These magnificent trees can live for 1,000 years and create the magical forest canopy you see around Port Angeles.",
+    "learn_more_text": "Sitka Spruce trees thrive in the misty, wet conditions of the Olympic Peninsula. They're named after Sitka, Alaska, and can grow to enormous sizes in the temperate rainforest climate.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-26T10:02:40.321576-07:00",
-  "date": "2026-06-26",
+  "generated_at": "2026-06-27T09:07:57.048255-07:00",
+  "date": "2026-06-27",
   "is_laundry_day": false
 }
