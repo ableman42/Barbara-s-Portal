@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, June 27",
+  "date_display": "Sunday, June 28",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Hungarian language has a special word, 'szívderítő,' which literally means 'heart-warming' or something that makes your heart smile. Hungarians also have over 30 different words to describe different types of rain, showing their deep connection to nature and weather patterns.",
-    "tag": "Hungarian language"
+    "text": "Hungarian paprika, the beloved spice that gives goulash its distinctive flavor and color, comes in eight different grades ranging from delicate and sweet to extremely hot. Hungary produces some of the world's finest paprika, particularly from the regions of Szeged and Kalocsa, where the peppers are still dried and ground using traditional methods.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals, like those you can spot in the Strait of Juan de Fuca, can hold their breath for nearly 30 minutes and dive over 1,500 feet deep. Discover how these charming marine mammals navigate their underwater world.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Olympic Peninsula Wildlife",
+    "title": "The Return of Sea Otters to the Strait of Juan de Fuca",
+    "teaser": "After nearly disappearing from Washington waters, sea otters are slowly making a comeback along the Olympic Peninsula. These playful marine mammals are not just adorable—they're essential to keeping kelp forests healthy.",
+    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Joy of Container Gardening for Small Spaces",
-    "teaser": "You don't need acres of land to grow beautiful flowers and fresh herbs. This guide shows how pots and containers can create a thriving garden right on your patio or balcony.",
-    "url": "https://www.bbcgardenersworldmagazine.com/how-to/grow-plants/how-to-create-a-container-garden"
+    "meta": "15 min · Gardening & Nature",
+    "title": "How Plants Communicate Through Underground Networks",
+    "teaser": "Scientists have discovered that plants use vast underground fungal networks—nicknamed the 'Wood Wide Web'—to share nutrients and even warning signals about threats. Your garden may be more connected than you ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "The Ancient Forests of the Olympic Peninsula",
-    "teaser": "The temperate rainforests near Port Angeles are among the oldest and most magical ecosystems on Earth, some with trees over 1,000 years old. Explore the remarkable story of how these forests have thrived and what makes them so special.",
-    "url": "https://www.smithsonianmag.com/travel/explore-olympic-national-parks-ancient-forests-180970479/"
+    "meta": "35 min · History & Culture",
+    "title": "Budapest: The City of Healing Waters and Grand History",
+    "teaser": "From Roman times to the present, thermal baths have been central to Hungarian culture and life in Budapest. This beautifully illustrated story explores the city's famous spas, architecture, and the role these healing waters have played through centuries of history.",
+    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-thermal-baths-spas"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at the Olympic Peninsula",
-    "description": "Late June is a wonderful time to spot butterflies around Port Angeles, including the beautiful Western Tiger Swallowtail and Painted Lady. The wildflower meadows along Hurricane Ridge Road are particularly lovely right now, with butterflies dancing among the blooms. A gentle walk or drive up the ridge offers spectacular views and delightful butterfly watching.",
-    "link_text": "Hurricane Ridge visitor info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦌",
+    "title": "Olympic National Park's Roosevelt Elk",
+    "description": "Just minutes from Port Angeles, Olympic National Park is home to one of the largest herds of Roosevelt elk in the world. These magnificent animals, named after President Theodore Roosevelt, can often be spotted grazing in meadows, especially in the Hoh Rain Forest and near Hurricane Ridge. Summer is a wonderful time to see them with their calves.",
+    "link_text": "Learn about Roosevelt Elk",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Absolutely right! That tiny heart works incredibly hard to power those amazing hovering wings.",
-    "close_response": "You're very close! The actual number is about 1,200 beats per minute — amazingly fast!",
-    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute, which helps power their incredible hovering flight!",
-    "learn_more_text": "A hummingbird's heart rate can slow to 250 beats per minute when resting at night, but speeds up dramatically during the day to support their high-energy lifestyle. Their wings beat 50-80 times per second!",
-    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 100,
+    "correct_response": "Exactly right! That tiny heart works incredibly hard to keep those wings humming!",
+    "close_response": "You're very close! Their amazing little hearts beat about 1,200 times per minute—that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are even faster than that—about 1,200 beats per minute! It's hard to imagine something so small working so hard.",
+    "learn_more_text": "Hummingbirds have the highest metabolism of all animals. To fuel their rapid flight and heartbeat, they must eat about half their body weight in sugar daily, visiting hundreds of flowers.",
+    "learn_more_url": "https://www.audubon.org/news/how-fast-does-hummingbirds-heart-beat",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Tessék"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian word 'pillangó' comes from an old word meaning 'to flutter.' Hungarian has many beautiful nature words, reflecting the culture's deep appreciation for the natural world.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/nature-words.aspx",
-    "learn_more_label": "Hungarian Reference"
+    "correct_response": "Köszönöm! That's exactly right—and you probably said it many times growing up!",
+    "wrong_response": "The word for 'thank you' is 'köszönöm'—such a warm and familiar word from your Hungarian roots!",
+    "learn_more_text": "Hungarian, or Magyar, is unique among European languages—it's part of the Finno-Ugric family and is more closely related to Finnish than to any neighboring language. Its distinctive sounds and structure make it one of the world's most fascinating languages.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200228-where-did-the-hungarian-language-come-from",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of tree is most common in Olympic National Park's temperate rainforest?",
+    "question": "What do harbor seals use their whiskers for in the dark waters of the Strait of Juan de Fuca?",
     "options": [
-      "Douglas Fir",
-      "Sitka Spruce",
-      "Redwood",
-      "Maple"
+      "Measuring water temperature",
+      "Detecting fish movements from vibrations",
+      "Communicating with other seals",
+      "Finding their way back to shore"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Sitka Spruce trees dominate the rainforest, with some giants reaching over 300 feet tall and 1,000 years old.",
-    "wrong_response": "The Sitka Spruce is actually the most common tree in the Olympic rainforest. These magnificent trees can live for 1,000 years and create the magical forest canopy you see around Port Angeles.",
-    "learn_more_text": "Sitka Spruce trees thrive in the misty, wet conditions of the Olympic Peninsula. They're named after Sitka, Alaska, and can grow to enormous sizes in the temperate rainforest climate.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic National Park Service"
+    "correct_response": "Perfect! Those sensitive whiskers can detect the tiniest vibrations from fish swimming nearby—like underwater motion detectors. Harbor seals you might see near Port Angeles use this superpower to hunt even in murky water!",
+    "wrong_response": "Actually, they use those impressive whiskers to detect fish movements through vibrations in the water! The harbor seals around Port Angeles rely on this amazing sense to hunt successfully, even when they can't see well.",
+    "learn_more_text": "Harbor seals are common residents of the Strait of Juan de Fuca and Puget Sound. Their whiskers are so sensitive they can follow the trail a fish left behind minutes earlier, making them excellent hunters in the Pacific Northwest's often cloudy waters.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-27T09:07:57.048255-07:00",
-  "date": "2026-06-27",
-  "is_laundry_day": false
+  "generated_at": "2026-06-28T09:14:31.138966-07:00",
+  "date": "2026-06-28",
+  "is_laundry_day": true
 }
