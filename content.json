@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, June 28",
+  "date_display": "Monday, June 29",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, the beloved spice that gives goulash its distinctive flavor and color, comes in eight different grades ranging from delicate and sweet to extremely hot. Hungary produces some of the world's finest paprika, particularly from the regions of Szeged and Kalocsa, where the peppers are still dried and ground using traditional methods.",
+    "text": "Hungarian paprika isn't just one spice — there are actually eight official grades ranging from mild and sweet to hot and pungent! The town of Szeged and Kalocsa are so famous for paprika production that they have special protected status, like champagne from France.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Olympic Peninsula Wildlife",
-    "title": "The Return of Sea Otters to the Strait of Juan de Fuca",
-    "teaser": "After nearly disappearing from Washington waters, sea otters are slowly making a comeback along the Olympic Peninsula. These playful marine mammals are not just adorable—they're essential to keeping kelp forests healthy.",
-    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Life of Olympic Marmots",
+    "teaser": "These charming whistling mammals are found nowhere else on Earth except the Olympic Mountains. Learn about their playful families and how they survive the long mountain winters.",
+    "url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardening & Nature",
-    "title": "How Plants Communicate Through Underground Networks",
-    "teaser": "Scientists have discovered that plants use vast underground fungal networks—nicknamed the 'Wood Wide Web'—to share nutrients and even warning signals about threats. Your garden may be more connected than you ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "15 min · Nature",
+    "title": "Why Gardens Are Good for Your Brain",
+    "teaser": "Scientists are discovering that gardening does more than grow beautiful flowers — it actually helps keep our minds sharp and our spirits lifted. This gentle article explores the connection between soil, plants, and happiness.",
+    "url": "https://www.bbc.com/future/article/20220211-why-gardening-is-so-good-for-our-mental-health"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "Budapest: The City of Healing Waters and Grand History",
-    "teaser": "From Roman times to the present, thermal baths have been central to Hungarian culture and life in Budapest. This beautifully illustrated story explores the city's famous spas, architecture, and the role these healing waters have played through centuries of history.",
-    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-thermal-baths-spas"
+    "meta": "35 min · History",
+    "title": "The Lost Gardens of Europe: Stories from Historic Estates",
+    "teaser": "Take a peaceful journey through time visiting some of Europe's most beautiful historic gardens, from English rose gardens to Hungarian palace grounds. Each garden tells a story of the people who loved and tended it through the centuries.",
+    "url": "https://www.smithsonianmag.com/travel/best-gardens-europe-180975235/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Olympic National Park's Roosevelt Elk",
-    "description": "Just minutes from Port Angeles, Olympic National Park is home to one of the largest herds of Roosevelt elk in the world. These magnificent animals, named after President Theodore Roosevelt, can often be spotted grazing in meadows, especially in the Hoh Rain Forest and near Hurricane Ridge. Summer is a wonderful time to see them with their calves.",
-    "link_text": "Learn about Roosevelt Elk",
-    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season at Ediz Hook",
+    "description": "Late June and early July is when harbor seal mothers give birth to their pups along the protected waters of Ediz Hook. You might spot these adorable baby seals learning to swim while their mothers keep a watchful eye. The best viewing is from a respectful distance with binoculars.",
+    "link_text": "Learn about harbor seals",
+    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
   },
   "puzzle_1": {
     "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Exactly right! That tiny heart works incredibly hard to keep those wings humming!",
-    "close_response": "You're very close! Their amazing little hearts beat about 1,200 times per minute—that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are even faster than that—about 1,200 beats per minute! It's hard to imagine something so small working so hard.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals. To fuel their rapid flight and heartbeat, they must eat about half their body weight in sugar daily, visiting hundreds of flowers.",
-    "learn_more_url": "https://www.audubon.org/news/how-fast-does-hummingbirds-heart-beat",
-    "learn_more_label": "Audubon Society"
+    "close_range": 200,
+    "correct_response": "Amazing! You're exactly right — a hummingbird's tiny heart is an incredible powerhouse!",
+    "close_response": "You're very close! These tiny hearts beat about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are faster than you'd think — about 1,200 beats per minute! That helps power their incredible hovering flight.",
+    "learn_more_text": "To fuel this rapid heartbeat, hummingbirds must eat about half their body weight in nectar every day and visit hundreds of flowers. Their metabolism is so fast that they enter a hibernation-like state every night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Tessék"
+      "pillangó",
+      "virág",
+      "madár",
+      "csillag"
     ],
-    "correct_index": 1,
-    "correct_response": "Köszönöm! That's exactly right—and you probably said it many times growing up!",
-    "wrong_response": "The word for 'thank you' is 'köszönöm'—such a warm and familiar word from your Hungarian roots!",
-    "learn_more_text": "Hungarian, or Magyar, is unique among European languages—it's part of the Finno-Ugric family and is more closely related to Finnish than to any neighboring language. Its distinctive sounds and structure make it one of the world's most fascinating languages.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200228-where-did-the-hungarian-language-come-from",
-    "learn_more_label": "BBC Travel"
+    "correct_index": 0,
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for these delicate creatures!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word! (Virág means flower, madár means bird, and csillag means star.)",
+    "learn_more_text": "Hungarian is unique among European languages as it belongs to the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to neighboring languages. Many Hungarian words have a musical, flowing quality.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20170406-the-surprising-origins-of-the-hungarian-language",
+    "learn_more_label": "Learn more — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What do harbor seals use their whiskers for in the dark waters of the Strait of Juan de Fuca?",
+    "question": "What special feature do deer have that helps them see predators approaching from almost any direction?",
     "options": [
-      "Measuring water temperature",
-      "Detecting fish movements from vibrations",
-      "Communicating with other seals",
-      "Finding their way back to shore"
+      "They can turn their heads 360 degrees",
+      "Their eyes are positioned on the sides of their head",
+      "They have mirrors in their eyes",
+      "They can see through their antlers"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Those sensitive whiskers can detect the tiniest vibrations from fish swimming nearby—like underwater motion detectors. Harbor seals you might see near Port Angeles use this superpower to hunt even in murky water!",
-    "wrong_response": "Actually, they use those impressive whiskers to detect fish movements through vibrations in the water! The harbor seals around Port Angeles rely on this amazing sense to hunt successfully, even when they can't see well.",
-    "learn_more_text": "Harbor seals are common residents of the Strait of Juan de Fuca and Puget Sound. Their whiskers are so sensitive they can follow the trail a fish left behind minutes earlier, making them excellent hunters in the Pacific Northwest's often cloudy waters.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "NOAA Fisheries"
+    "correct_response": "Perfect! Deer's eyes give them nearly 310-degree vision, letting them spot danger while grazing. The Olympic Peninsula's black-tailed deer use this gift every day!",
+    "wrong_response": "It's those side-positioned eyes! This gives deer about 310 degrees of vision, with just a small blind spot directly behind them. It's perfect for spotting predators while peacefully grazing.",
+    "learn_more_text": "Black-tailed deer are common throughout the Olympic Peninsula and often visit gardens at dawn and dusk. They're smaller cousins of mule deer and are native to the Pacific Coast from California to Alaska.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm",
+    "learn_more_label": "Read more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-28T09:14:31.138966-07:00",
-  "date": "2026-06-28",
-  "is_laundry_day": true
+  "generated_at": "2026-06-29T10:40:40.181355-07:00",
+  "date": "2026-06-29",
+  "is_laundry_day": false
 }
