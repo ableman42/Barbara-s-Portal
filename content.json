@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, June 29",
+  "date_display": "Tuesday, June 30",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice — there are actually eight official grades ranging from mild and sweet to hot and pungent! The town of Szeged and Kalocsa are so famous for paprika production that they have special protected status, like champagne from France.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to several species, including the beautiful Rufous Hummingbird that migrates through Port Angeles each summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Life of Olympic Marmots",
-    "teaser": "These charming whistling mammals are found nowhere else on Earth except the Olympic Mountains. Learn about their playful families and how they survive the long mountain winters.",
-    "url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Garden Snails",
+    "teaser": "These slow-moving neighbors have fascinating abilities, including thousands of teeth and the power to sleep for years. Discover why these gentle creatures are more interesting than you might think!",
+    "url": "https://www.bbc.com/future/article/20150116-the-weird-abilities-of-garden-snails"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "Why Gardens Are Good for Your Brain",
-    "teaser": "Scientists are discovering that gardening does more than grow beautiful flowers — it actually helps keep our minds sharp and our spirits lifted. This gentle article explores the connection between soil, plants, and happiness.",
-    "url": "https://www.bbc.com/future/article/20220211-why-gardening-is-so-good-for-our-mental-health"
+    "meta": "15 min · History",
+    "title": "The Rich History of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have created stunning embroidered textiles that tell stories of their regions and traditions. Each area of Hungary developed its own distinct style, from the bold reds of Kalocsa to the delicate whites of Kalotaszeg.",
+    "url": "https://www.smithsonianmag.com/travel/hungarys-embroidered-heritage-180975589/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Lost Gardens of Europe: Stories from Historic Estates",
-    "teaser": "Take a peaceful journey through time visiting some of Europe's most beautiful historic gardens, from English rose gardens to Hungarian palace grounds. Each garden tells a story of the people who loved and tended it through the centuries.",
-    "url": "https://www.smithsonianmag.com/travel/best-gardens-europe-180975235/"
+    "meta": "35 min · Travel & Culture",
+    "title": "Inside Hungary's Living Folk Art Villages",
+    "teaser": "Journey through the preserved villages of the Hungarian countryside where traditional crafts, music, and customs are still practiced daily. These communities keep alive the vibrant cultural heritage that connects modern Hungary to its pastoral past.",
+    "url": "https://www.nationalgeographic.com/travel/article/hungarys-folk-art-villages"
   },
   "port_angeles": {
     "icon": "🦭",
     "title": "Harbor Seal Pupping Season at Ediz Hook",
-    "description": "Late June and early July is when harbor seal mothers give birth to their pups along the protected waters of Ediz Hook. You might spot these adorable baby seals learning to swim while their mothers keep a watchful eye. The best viewing is from a respectful distance with binoculars.",
-    "link_text": "Learn about harbor seals",
-    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
+    "description": "Late June through September is harbor seal pupping season along the Strait of Juan de Fuca! Mother seals often leave their pups on the beach while they hunt for fish. If you see a seal pup alone, it's usually not abandoned—just give it plenty of space and enjoy watching from a distance.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/pinnipeds/harbor-seal"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're exactly right — a hummingbird's tiny heart is an incredible powerhouse!",
-    "close_response": "You're very close! These tiny hearts beat about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are faster than you'd think — about 1,200 beats per minute! That helps power their incredible hovering flight.",
-    "learn_more_text": "To fuel this rapid heartbeat, hummingbirds must eat about half their body weight in nectar every day and visit hundreds of flowers. Their metabolism is so fast that they enter a hibernation-like state every night to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "correct_response": "Amazing! You're absolutely right—a hummingbird's tiny heart beats incredibly fast to power those rapid wings!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—that's 20 times per second!",
+    "wrong_response": "These tiny birds have hearts that beat about 1,200 times per minute while flying—that's incredibly fast to fuel all that hovering and zipping around!",
+    "learn_more_text": "To put that in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to support their incredibly high metabolism and energy-intensive hovering flight.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/lifehistory",
+    "learn_more_label": "More about hummingbirds — Cornell Lab"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "pillangó",
-      "virág",
-      "madár",
-      "csillag"
-    ],
-    "correct_index": 0,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for these delicate creatures!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word! (Virág means flower, madár means bird, and csillag means star.)",
-    "learn_more_text": "Hungarian is unique among European languages as it belongs to the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to neighboring languages. Many Hungarian words have a musical, flowing quality.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20170406-the-surprising-origins-of-the-hungarian-language",
-    "learn_more_label": "Learn more — BBC Travel"
-  },
-  "puzzle_3": {
-    "question": "What special feature do deer have that helps them see predators approaching from almost any direction?",
-    "options": [
-      "They can turn their heads 360 degrees",
-      "Their eyes are positioned on the sides of their head",
-      "They have mirrors in their eyes",
-      "They can see through their antlers"
+      "Szia",
+      "Köszönöm",
+      "Jó napot",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Deer's eyes give them nearly 310-degree vision, letting them spot danger while grazing. The Olympic Peninsula's black-tailed deer use this gift every day!",
-    "wrong_response": "It's those side-positioned eyes! This gives deer about 310 degrees of vision, with just a small blind spot directly behind them. It's perfect for spotting predators while peacefully grazing.",
-    "learn_more_text": "Black-tailed deer are common throughout the Olympic Peninsula and often visit gardens at dawn and dusk. They're smaller cousins of mule deer and are native to the Pacific Coast from California to Alaska.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm",
-    "learn_more_label": "Read more — Olympic National Park"
+    "correct_response": "Köszönöm! That's perfect—you know your Hungarian! It's a beautiful word to express gratitude.",
+    "wrong_response": "The word is 'Köszönöm' (pronounced KUH-suh-nuhm). 'Szia' means hello/bye, 'Jó napot' means good day, and 'Viszlát' means goodbye!",
+    "learn_more_text": "Hungarian is a unique language that's part of the Finno-Ugric family, making it quite different from most other European languages. Its closest relatives are Finnish and Estonian, though they're not mutually intelligible.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About Hungarian — BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What type of tree is the most common in Olympic National Park?",
+    "options": [
+      "Douglas Fir",
+      "Western Hemlock",
+      "Sitka Spruce",
+      "Western Red Cedar"
+    ],
+    "correct_index": 1,
+    "correct_response": "Wonderful! Western Hemlock is indeed the most abundant tree in the park—you can recognize it by its drooping top and delicate, feathery needles!",
+    "wrong_response": "It's actually the Western Hemlock! While all these trees grow in the park, Western Hemlock is the most common and can live for over 500 years in these misty forests.",
+    "learn_more_text": "Western Hemlock thrives in the Olympic Peninsula's cool, moist climate. It's so well-adapted to shade that it often grows as an understory tree beneath larger Douglas Firs and eventually takes over the forest canopy.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-forest.htm",
+    "learn_more_label": "Olympic forests — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-29T10:40:40.181355-07:00",
-  "date": "2026-06-29",
+  "generated_at": "2026-06-30T10:07:39.314398-07:00",
+  "date": "2026-06-30",
   "is_laundry_day": false
 }
