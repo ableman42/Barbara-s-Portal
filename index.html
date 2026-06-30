@@ -282,7 +282,7 @@ if (document.readyState === 'loading') {
   border: none;
   border-radius: 50px;
   padding: 16px 28px;
-  font-size: 20px;
+  font-size: 17px;
   font-family: 'Nunito', sans-serif;
   font-weight: 700;
   cursor: pointer;
@@ -290,6 +290,9 @@ if (document.readyState === 'loading') {
   display: flex;
   align-items: center;
   gap: 10px;
+  max-width: 240px;
+  text-align: left;
+  line-height: 1.35;
   transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
   letter-spacing: 0.01em;
 }
@@ -306,7 +309,7 @@ if (document.readyState === 'loading') {
 <!-- Always visible, every page            -->
 <!-- ══════════════════════════════════════ -->
 <button class="call-me-fab" id="call-me-fab" onclick="sendCallMeAlert()">
-  📞 Call Me!
+  💡 I have an idea, please call when you can
 </button>
 
 <!-- ══════════════════════════════════════ -->
@@ -662,10 +665,10 @@ async function sendCallMeAlert() {
       })
     });
     fab.classList.add('sent');
-    fab.innerHTML = '✓ Sean notified!';
+    fab.innerHTML = '✓ Sean will call you soon!';
   } catch(e) {
     fab.disabled = false;
-    fab.innerHTML = '📞 Call Me!';
+    fab.innerHTML = '💡 I have an idea, please call when you can';
     alert('Something went wrong — please try again!');
   }
 }
