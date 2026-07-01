@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, June 30",
+  "date_display": "Wednesday, July 1",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to several species, including the beautiful Rufous Hummingbird that migrates through Port Angeles each summer.",
-    "tag": "Local Wildlife"
+    "text": "July 1st marks the halfway point of the year! It's also known as Canada Day, when our neighbors to the north celebrate with fireworks and festivals. Here in the Pacific Northwest, the summer season is in full swing with longer daylight hours—perfect for enjoying the beautiful Olympic Peninsula.",
+    "tag": "Summer celebration"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Snails",
-    "teaser": "These slow-moving neighbors have fascinating abilities, including thousands of teeth and the power to sleep for years. Discover why these gentle creatures are more interesting than you might think!",
-    "url": "https://www.bbc.com/future/article/20150116-the-weird-abilities-of-garden-snails"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
+    "teaser": "Harbor seals are common visitors to the Strait of Juan de Fuca, and they're much more fascinating than you might think. Learn about their playful personalities and surprising underwater abilities.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Rich History of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women have created stunning embroidered textiles that tell stories of their regions and traditions. Each area of Hungary developed its own distinct style, from the bold reds of Kalocsa to the delicate whites of Kalotaszeg.",
-    "url": "https://www.smithsonianmag.com/travel/hungarys-embroidered-heritage-180975589/"
+    "meta": "15 min · Gardening",
+    "title": "Why Lavender Thrives in the Pacific Northwest",
+    "teaser": "The climate around Port Angeles is surprisingly similar to the lavender fields of Provence, France. Discover why this fragrant herb loves our region and how it attracts beneficial pollinators to gardens.",
+    "url": "https://www.smithsonianmag.com/travel/why-lavender-grows-so-well-pacific-northwest-180975413/"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "Inside Hungary's Living Folk Art Villages",
-    "teaser": "Journey through the preserved villages of the Hungarian countryside where traditional crafts, music, and customs are still practiced daily. These communities keep alive the vibrant cultural heritage that connects modern Hungary to its pastoral past.",
-    "url": "https://www.nationalgeographic.com/travel/article/hungarys-folk-art-villages"
+    "meta": "35 min · History",
+    "title": "The Story of Olympic National Park: From Forest to Forever",
+    "teaser": "Olympic National Park's creation in 1938 was the result of decades of passionate conservation efforts. This fascinating history reveals how local advocates fought to preserve the wilderness you can still enjoy today.",
+    "url": "https://www.nps.gov/olym/learn/historyculture/index.htm"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season at Ediz Hook",
-    "description": "Late June through September is harbor seal pupping season along the Strait of Juan de Fuca! Mother seals often leave their pups on the beach while they hunt for fish. If you see a seal pup alone, it's usually not abandoned—just give it plenty of space and enjoy watching from a distance.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/pinnipeds/harbor-seal"
+    "icon": "🦋",
+    "title": "Butterfly Season at the Olympic Peninsula",
+    "description": "July is peak butterfly season around Port Angeles! Watch for beautiful species like the Western Tiger Swallowtail and the Painted Lady in local gardens and parks. The warm summer weather brings these colorful visitors out in abundance, especially around wildflower meadows.",
+    "link_text": "Local butterfly guide",
+    "link_url": "https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/butterflies"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart can beat up to ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right—a hummingbird's tiny heart beats incredibly fast to power those rapid wings!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—that's 20 times per second!",
-    "wrong_response": "These tiny birds have hearts that beat about 1,200 times per minute while flying—that's incredibly fast to fuel all that hovering and zipping around!",
-    "learn_more_text": "To put that in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to support their incredibly high metabolism and energy-intensive hovering flight.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/lifehistory",
-    "learn_more_label": "More about hummingbirds — Cornell Lab"
+    "correct_response": "That's exactly right, Barbara! Those tiny hearts work incredibly hard to power such amazing flight.",
+    "close_response": "You're very close! The answer is 1200 beats per minute—that's about 20 beats every second!",
+    "wrong_response": "It's actually 1200 beats per minute! That's faster than we can even count. Their tiny hearts are remarkable little engines.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal, which is why they need to eat almost constantly—visiting hundreds of flowers each day. When they sleep at night, their heart rate can drop to as low as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
+    "learn_more_label": "More about hummingbirds — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Jó napot",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's perfect—you know your Hungarian! It's a beautiful word to express gratitude.",
-    "wrong_response": "The word is 'Köszönöm' (pronounced KUH-suh-nuhm). 'Szia' means hello/bye, 'Jó napot' means good day, and 'Viszlát' means goodbye!",
-    "learn_more_text": "Hungarian is a unique language that's part of the Finno-Ugric family, making it quite different from most other European languages. Its closest relatives are Finnish and Estonian, though they're not mutually intelligible.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly—such a lovely, lyrical word!",
+    "wrong_response": "The answer is 'pillangó'—such a beautiful word! Madár means bird, virág means flower, and napsugár means sunbeam.",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word 'pillant' meaning 'a glance' or 'a flutter,' perfectly capturing the quick, delicate movements of a butterfly's wings. Hungarian has many poetic words for nature that reflect the country's deep appreciation for the natural world.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "About the Hungarian language — Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Park?",
+    "question": "What special feature do Olympic Peninsula black bears have that helps them in the rainforest?",
     "options": [
-      "Douglas Fir",
-      "Western Hemlock",
-      "Sitka Spruce",
-      "Western Red Cedar"
+      "They can swim exceptionally well",
+      "They have waterproof fur",
+      "They hibernate longer than other bears",
+      "They only eat plants"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Western Hemlock is indeed the most abundant tree in the park—you can recognize it by its drooping top and delicate, feathery needles!",
-    "wrong_response": "It's actually the Western Hemlock! While all these trees grow in the park, Western Hemlock is the most common and can live for over 500 years in these misty forests.",
-    "learn_more_text": "Western Hemlock thrives in the Olympic Peninsula's cool, moist climate. It's so well-adapted to shade that it often grows as an understory tree beneath larger Douglas Firs and eventually takes over the forest canopy.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-forest.htm",
-    "learn_more_label": "Olympic forests — National Park Service"
+    "correct_index": 0,
+    "correct_response": "That's right! Olympic Peninsula black bears are excellent swimmers and regularly cross rivers and even swim in the Strait to move between areas. They're quite at home in this wet environment!",
+    "wrong_response": "Actually, they're exceptional swimmers! Black bears on the Olympic Peninsula regularly swim across rivers and inlets, and have even been spotted swimming in the Strait of Juan de Fuca. It's one of the ways they adapted to the rainforest environment.",
+    "learn_more_text": "Black bears in the Olympic Peninsula live in one of the wettest temperate rainforests in North America, receiving over 12 feet of rain annually in some areas. Their swimming abilities help them access salmon streams and explore the network of waterways throughout their territory.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-bear.htm",
+    "learn_more_label": "Olympic black bears — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-06-30T10:07:39.314398-07:00",
-  "date": "2026-06-30",
+  "generated_at": "2026-07-01T10:19:43.300006-07:00",
+  "date": "2026-07-01",
   "is_laundry_day": false
 }
