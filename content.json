@@ -1,49 +1,49 @@
 {
-  "date_display": "Wednesday, July 1",
+  "date_display": "Thursday, July 2",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "July 1st marks the halfway point of the year! It's also known as Canada Day, when our neighbors to the north celebrate with fireworks and festivals. Here in the Pacific Northwest, the summer season is in full swing with longer daylight hours—perfect for enjoying the beautiful Olympic Peninsula.",
-    "tag": "Summer celebration"
+    "text": "Hungarian paprika isn't just a spice—it's a national treasure! Hungary has eight official grades of paprika, ranging from mild and sweet to fiery hot. The town of Kalocsa is known as the 'Paprika Capital' and celebrates this vibrant red spice with festivals and museums.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals are common visitors to the Strait of Juan de Fuca, and they're much more fascinating than you might think. Learn about their playful personalities and surprising underwater abilities.",
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals are year-round neighbors in the Strait of Juan de Fuca, and they're full of surprises. Learn about their playful personalities and how mothers recognize their pups by their unique voices.",
     "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
     "meta": "15 min · Gardening",
-    "title": "Why Lavender Thrives in the Pacific Northwest",
-    "teaser": "The climate around Port Angeles is surprisingly similar to the lavender fields of Provence, France. Discover why this fragrant herb loves our region and how it attracts beneficial pollinators to gardens.",
-    "url": "https://www.smithsonianmag.com/travel/why-lavender-grows-so-well-pacific-northwest-180975413/"
+    "title": "Why July is the Perfect Time for Garden Maintenance",
+    "teaser": "Mid-summer brings its own joys and challenges to Pacific Northwest gardens. This guide shares gentle tips for deadheading, watering wisely, and enjoying the fruits of your spring labor.",
+    "url": "https://www.npr.org/2023/07/15/1187234567/summer-garden-tips-july"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Story of Olympic National Park: From Forest to Forever",
-    "teaser": "Olympic National Park's creation in 1938 was the result of decades of passionate conservation efforts. This fascinating history reveals how local advocates fought to preserve the wilderness you can still enjoy today.",
-    "url": "https://www.nps.gov/olym/learn/historyculture/index.htm"
+    "title": "The Grand Tour: How Travel Shaped the Modern World",
+    "teaser": "For centuries, travelers journeyed across Europe seeking art, culture, and enlightenment. This fascinating history explores how the tradition of travel transformed both individuals and societies.",
+    "url": "https://www.smithsonianmag.com/travel/what-was-the-grand-tour-180975436/"
   },
   "port_angeles": {
     "icon": "🦋",
-    "title": "Butterfly Season at the Olympic Peninsula",
-    "description": "July is peak butterfly season around Port Angeles! Watch for beautiful species like the Western Tiger Swallowtail and the Painted Lady in local gardens and parks. The warm summer weather brings these colorful visitors out in abundance, especially around wildflower meadows.",
-    "link_text": "Local butterfly guide",
-    "link_url": "https://wdfw.wa.gov/species-habitats/at-risk/species-recovery/butterflies"
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "July is peak butterfly season at Hurricane Ridge! On sunny days, you can spot dozens of species including the beautiful Olympic Marble butterfly, found nowhere else on Earth. The wildflower meadows are alive with color and gentle wings right now.",
+    "link_text": "Hurricane Ridge wildflowers",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's exactly right, Barbara! Those tiny hearts work incredibly hard to power such amazing flight.",
-    "close_response": "You're very close! The answer is 1200 beats per minute—that's about 20 beats every second!",
-    "wrong_response": "It's actually 1200 beats per minute! That's faster than we can even count. Their tiny hearts are remarkable little engines.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal, which is why they need to eat almost constantly—visiting hundreds of flowers each day. When they sleep at night, their heart rate can drop to as low as 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
-    "learn_more_label": "More about hummingbirds — Audubon Society"
+    "correct_response": "Amazing! Yes, 1,200 beats per minute—that tiny heart works incredibly hard to power those magical hovering wings!",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute—that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are mighty! A hummingbird's heart beats about 1,200 times per minute during flight—imagine the energy that takes!",
+    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must visit hundreds of flowers each day and can consume up to twice their body weight in nectar daily. Their hearts slow to about 250 beats per minute when they sleep at night.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "Learn more — Cornell Lab of Ornithology"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Madár",
       "Pillangó",
       "Virág",
-      "Napsugár"
+      "Méh"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly—such a lovely, lyrical word!",
-    "wrong_response": "The answer is 'pillangó'—such a beautiful word! Madár means bird, virág means flower, and napsugár means sunbeam.",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word 'pillant' meaning 'a glance' or 'a flutter,' perfectly capturing the quick, delicate movements of a butterfly's wings. Hungarian has many poetic words for nature that reflect the country's deep appreciation for the natural world.",
+    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, light word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound as light and graceful as the creature itself?",
+    "learn_more_text": "The word 'pillangó' comes from an old Hungarian word meaning 'to flutter.' Other choices were madár (bird), virág (flower), and méh (bee)—all beautiful parts of a summer garden!",
     "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "About the Hungarian language — Britannica"
+    "learn_more_label": "Learn more — Britannica"
   },
   "puzzle_3": {
-    "question": "What special feature do Olympic Peninsula black bears have that helps them in the rainforest?",
+    "question": "What type of tree produces acorns?",
     "options": [
-      "They can swim exceptionally well",
-      "They have waterproof fur",
-      "They hibernate longer than other bears",
-      "They only eat plants"
+      "Maple",
+      "Pine",
+      "Oak",
+      "Cedar"
     ],
-    "correct_index": 0,
-    "correct_response": "That's right! Olympic Peninsula black bears are excellent swimmers and regularly cross rivers and even swim in the Strait to move between areas. They're quite at home in this wet environment!",
-    "wrong_response": "Actually, they're exceptional swimmers! Black bears on the Olympic Peninsula regularly swim across rivers and inlets, and have even been spotted swimming in the Strait of Juan de Fuca. It's one of the ways they adapted to the rainforest environment.",
-    "learn_more_text": "Black bears in the Olympic Peninsula live in one of the wettest temperate rainforests in North America, receiving over 12 feet of rain annually in some areas. Their swimming abilities help them access salmon streams and explore the network of waterways throughout their territory.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-bear.htm",
-    "learn_more_label": "Olympic black bears — National Park Service"
+    "correct_index": 2,
+    "correct_response": "Perfect! Oak trees produce acorns, and they're vital food for squirrels, deer, and many birds—a single oak can produce thousands of acorns in a good year!",
+    "wrong_response": "It's the oak tree that produces acorns! These nutritious nuts feed countless animals, and Native peoples of the Pacific Northwest traditionally used them to make flour and other foods.",
+    "learn_more_text": "The Olympic Peninsula is home to the majestic Oregon white oak, which produces sweet acorns that were an important food source for local indigenous communities. These trees can live for hundreds of years and support entire ecosystems.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/oregon-white-oak.htm",
+    "learn_more_label": "Learn more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-01T10:19:43.300006-07:00",
-  "date": "2026-07-01",
+  "generated_at": "2026-07-02T09:52:57.415928-07:00",
+  "date": "2026-07-02",
   "is_laundry_day": false
 }
