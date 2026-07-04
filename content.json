@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, July 3",
+  "date_display": "Saturday, July 4",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice—there are eight official grades ranging from mild and sweet to hot and pungent! The town of Szeged is so famous for its paprika that it's considered the paprika capital of the world, and the spice has been a cornerstone of Hungarian cuisine for over 300 years.",
+    "text": "In Hungary, Independence Day is celebrated on March 15th, commemorating the 1848 Revolution. Hungarians traditionally wear rosettes with the national colors of red, white, and green, and recite poetry by Sándor Petőfi, the revolutionary poet who inspired the uprising.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca are remarkable swimmers who can dive up to 1,500 feet deep and hold their breath for nearly 30 minutes. Learn about the playful personalities and surprising behaviors of these charming local neighbors.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Olympic Peninsula's Banana Slugs",
+    "teaser": "These bright yellow mollusks are nature's recyclers, helping forests thrive. Learn why they're so important to the Pacific Northwest ecosystem you see every day.",
+    "url": "https://www.nps.gov/olym/learn/nature/banana-slug.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Hungarian Revolution of 1956: Voices of Freedom",
-    "teaser": "This moving account captures the courage of ordinary Hungarians who stood up for freedom during those dramatic October days. Through personal stories and historical photos, discover how this pivotal moment changed history and touched lives around the world.",
-    "url": "https://www.bbc.com/news/world-europe-37548497"
+    "meta": "15 min · Wildlife",
+    "title": "Gray Whales Return to the Strait of Juan de Fuca",
+    "teaser": "Every summer, gray whales make the journey along the Olympic Peninsula coastline to feed in these nutrient-rich waters. Discover what brings them here and where you might spot them from shore.",
+    "url": "https://www.fisheries.noaa.gov/species/gray-whale"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Olympic National Park: A Wilderness Like No Other",
-    "teaser": "From glacier-capped mountains to temperate rainforests and wild Pacific coastline, Olympic National Park contains an extraordinary diversity of ecosystems. This comprehensive guide explores what makes this corner of Washington so uniquely beautiful and how it continues to inspire visitors from around the world.",
-    "url": "https://www.smithsonianmag.com/travel/olympic-national-park-washington-guide-180974703/"
+    "meta": "35 min · History",
+    "title": "The Remarkable History of Olympic National Park",
+    "teaser": "From ancient rainforests to presidential proclamations, the story of how Olympic National Park became protected is filled with passionate advocates and close calls. This is the fascinating tale of preserving one of America's most diverse landscapes.",
+    "url": "https://www.nps.gov/olym/learn/historyculture/index.htm"
   },
   "port_angeles": {
-    "icon": "🎆",
-    "title": "Fourth of July Weekend at the Waterfront",
-    "description": "Tomorrow is Independence Day, and Port Angeles celebrates with a spectacular fireworks display over the harbor! The best views are from the City Pier and waterfront, where you can watch the colorful bursts reflect on the Strait of Juan de Fuca with the mountains as a backdrop. It's one of the most beautiful settings for July 4th anywhere in the country.",
-    "link_text": "Event details",
-    "link_url": "https://www.portangeles.org/events"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer in Hurricane Ridge",
+    "description": "Hurricane Ridge is home to the Olympic black-tailed deer, a subspecies unique to the Pacific Northwest. These gentle creatures are often spotted grazing in the meadows, especially in early morning and evening. They're smaller than other deer species and have adapted beautifully to mountain life.",
+    "link_text": "Hurricane Ridge Wildlife",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "The Strait of Juan de Fuca is approximately ___ miles wide at its widest point.",
+    "answer": 15,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is an incredible engine—beating up to 1,200 times per minute to power those amazing hovering abilities!",
-    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute in flight—that's 20 beats every second!",
-    "wrong_response": "Those tiny hearts are truly amazing—they beat about 1,200 times per minute while flying! That's what allows them to hover and fly backwards.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of all animals, and their hearts can slow down to 50 beats per minute when they enter torpor (a hibernation-like state) at night to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-survive-cold-nights",
-    "learn_more_label": "More about hummingbirds — Audubon"
+    "close_range": 3,
+    "correct_response": "Perfect! You know your local waters well, Barbara!",
+    "close_response": "Very close! The Strait is about 15 miles wide at its widest point.",
+    "wrong_response": "The Strait of Juan de Fuca is about 15 miles wide at its widest point — quite a span of beautiful water!",
+    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and forms part of the border between Washington State and British Columbia. It was named after a Greek navigator who sailed for Spain in 1592.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "More about the Strait — National Park Service"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'beautiful'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "Jó",
+      "Szép",
+      "Nagy",
+      "Kedves"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, musical word for such a delicate creature!",
-    "wrong_response": "The word is 'pillangó'—isn't it beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language in Europe, unrelated to most other European languages. It's part of the Finno-Ugric language family and is known for its beautiful, musical quality and complex but logical structure.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190904-the-language-that-leaves-foreigners-perplexed",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Szép! You remembered your Hungarian beautifully, Ildiko!",
+    "wrong_response": "The word 'szép' means beautiful in Hungarian — such a lovely-sounding word!",
+    "learn_more_text": "Hungarian is unique among European languages as part of the Finno-Ugric language family, related to Finnish and Estonian rather than neighboring Slavic or Germanic languages. It has 14 vowels and uses extensive suffixes to modify word meanings.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Hungarian Language — Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is most common in the Hoh Rainforest in Olympic National Park?",
+    "question": "Which animal is known to use tools to open shellfish?",
     "options": [
-      "Douglas Fir",
-      "Western Hemlock",
-      "Sitka Spruce",
-      "Red Cedar"
+      "Harbor seals",
+      "Sea otters",
+      "Orcas",
+      "Sea lions"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Sitka Spruce dominates the Hoh Rainforest, with some trees reaching over 300 feet tall—these ancient giants create the magical cathedral-like atmosphere of the rainforest!",
-    "wrong_response": "It's actually the Sitka Spruce that dominates the Hoh Rainforest! These magnificent trees can grow over 300 feet tall and live for 700 years, creating that enchanting, misty forest atmosphere.",
-    "learn_more_text": "The Hoh Rainforest receives 12-14 feet of rain annually, making it one of the wettest places in the continental United States. This incredible rainfall creates a lush, green wonderland draped in moss and ferns.",
-    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
-    "learn_more_label": "Visit the Hoh — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Sea otters are brilliant little creatures who use rocks to crack open their meals — you might see them floating in the kelp beds off the coast!",
+    "wrong_response": "It's the sea otter! These clever animals float on their backs and use rocks as hammers to crack open clams and mussels — one of the few marine mammals to use tools.",
+    "learn_more_text": "Sea otters have the densest fur of any mammal, with up to one million hairs per square inch to keep them warm in cold Pacific waters. They eat about 25% of their body weight each day and play a crucial role in maintaining healthy kelp forests.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
+    "learn_more_label": "Sea Otter Facts — National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-03T09:27:43.782864-07:00",
-  "date": "2026-07-03",
+  "generated_at": "2026-07-04T09:06:10.233871-07:00",
+  "date": "2026-07-04",
   "is_laundry_day": false
 }
