@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, July 4",
+  "date_display": "Sunday, July 5",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, Independence Day is celebrated on March 15th, commemorating the 1848 Revolution. Hungarians traditionally wear rosettes with the national colors of red, white, and green, and recite poetry by Sándor Petőfi, the revolutionary poet who inspired the uprising.",
+    "text": "Hungarian paprika isn't just one spice—there are eight official grades ranging from delicate and sweet to hot and pungent! The town of Szeged and Kalocsa are so famous for paprika production that they each have museums dedicated to this beloved red spice.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Olympic Peninsula's Banana Slugs",
-    "teaser": "These bright yellow mollusks are nature's recyclers, helping forests thrive. Learn why they're so important to the Pacific Northwest ecosystem you see every day.",
-    "url": "https://www.nps.gov/olym/learn/nature/banana-slug.htm"
+    "title": "The Secret Lives of Garden Hummingbirds",
+    "teaser": "These tiny jewels can remember every flower they've visited and how long it takes each one to refill with nectar. Discover the surprising intelligence behind their iridescent beauty.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-9147646/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "Gray Whales Return to the Strait of Juan de Fuca",
-    "teaser": "Every summer, gray whales make the journey along the Olympic Peninsula coastline to feed in these nutrient-rich waters. Discover what brings them here and where you might spot them from shore.",
-    "url": "https://www.fisheries.noaa.gov/species/gray-whale"
+    "meta": "15 min · Pacific Northwest",
+    "title": "Olympic National Park's Ancient Rainforests",
+    "teaser": "The mossy, misty forests of the Olympic Peninsula are among the quietest places on Earth, and some of their trees have been growing for over 500 years. Learn what makes these temperate rainforests so special and rare.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Remarkable History of Olympic National Park",
-    "teaser": "From ancient rainforests to presidential proclamations, the story of how Olympic National Park became protected is filled with passionate advocates and close calls. This is the fascinating tale of preserving one of America's most diverse landscapes.",
-    "url": "https://www.nps.gov/olym/learn/historyculture/index.htm"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp created the first detailed map of the ocean floor in the 1950s, revealing underwater mountains and the Mid-Atlantic Ridge that proved continents drift. Her story is one of persistence, brilliance, and changing how we see our planet.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer in Hurricane Ridge",
-    "description": "Hurricane Ridge is home to the Olympic black-tailed deer, a subspecies unique to the Pacific Northwest. These gentle creatures are often spotted grazing in the meadows, especially in early morning and evening. They're smaller than other deer species and have adapted beautifully to mountain life.",
-    "link_text": "Hurricane Ridge Wildlife",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦀",
+    "title": "Dungeness Spit National Wildlife Refuge",
+    "description": "Just a short drive from Port Angeles, the Dungeness Spit is one of the longest natural sand spits in the world at 5.5 miles long. It's a wonderful place to spot harbor seals, over 250 species of birds, and enjoy stunning views of the Strait of Juan de Fuca and the Olympic Mountains.",
+    "link_text": "Visit the refuge website",
+    "link_url": "https://www.fws.gov/refuge/dungeness"
   },
   "puzzle_1": {
-    "question": "The Strait of Juan de Fuca is approximately ___ miles wide at its widest point.",
-    "answer": 15,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 3,
-    "correct_response": "Perfect! You know your local waters well, Barbara!",
-    "close_response": "Very close! The Strait is about 15 miles wide at its widest point.",
-    "wrong_response": "The Strait of Juan de Fuca is about 15 miles wide at its widest point — quite a span of beautiful water!",
-    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and forms part of the border between Washington State and British Columbia. It was named after a Greek navigator who sailed for Spain in 1592.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "More about the Strait — National Park Service"
+    "close_range": 200,
+    "correct_response": "That's right, Barbara! An amazing 1,200 beats per minute—about 20 times faster than ours!",
+    "close_response": "Very close! A hummingbird's heart actually beats about 1,200 times per minute while hovering—incredibly fast!",
+    "wrong_response": "A hummingbird's tiny heart beats about 1,200 times per minute—that's 20 beats every single second!",
+    "learn_more_text": "Despite weighing less than a nickel, hummingbirds have the highest metabolism of all animals. Their hearts can slow down to 50 beats per minute when they enter torpor (a hibernation-like state) at night to conserve energy.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'beautiful'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Jó",
-      "Szép",
-      "Nagy",
-      "Kedves"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Szitakötő"
     ],
     "correct_index": 1,
-    "correct_response": "Szép! You remembered your Hungarian beautifully, Ildiko!",
-    "wrong_response": "The word 'szép' means beautiful in Hungarian — such a lovely-sounding word!",
-    "learn_more_text": "Hungarian is unique among European languages as part of the Finno-Ugric language family, related to Finnish and Estonian rather than neighboring Slavic or Germanic languages. It has 14 vowels and uses extensive suffixes to modify word meanings.",
+    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly—such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound graceful? (Virág means flower, madár means bird, and szitakötő means dragonfly.)",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from neighboring European languages. Many Hungarian words are beautifully descriptive and poetic.",
     "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Hungarian Language — Britannica"
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "Which animal is known to use tools to open shellfish?",
+    "question": "What do harbor seals, commonly seen in the Strait of Juan de Fuca, use their whiskers for?",
     "options": [
-      "Harbor seals",
-      "Sea otters",
-      "Orcas",
-      "Sea lions"
+      "Temperature sensing",
+      "Detecting fish movements in murky water",
+      "Communication with other seals",
+      "Balance while swimming"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Sea otters are brilliant little creatures who use rocks to crack open their meals — you might see them floating in the kelp beds off the coast!",
-    "wrong_response": "It's the sea otter! These clever animals float on their backs and use rocks as hammers to crack open clams and mussels — one of the few marine mammals to use tools.",
-    "learn_more_text": "Sea otters have the densest fur of any mammal, with up to one million hairs per square inch to keep them warm in cold Pacific waters. They eat about 25% of their body weight each day and play a crucial role in maintaining healthy kelp forests.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
-    "learn_more_label": "Sea Otter Facts — National Geographic"
+    "correct_response": "Exactly right! Harbor seals have incredibly sensitive whiskers that can detect the tiniest vibrations from fish swimming nearby, even in dark or cloudy water.",
+    "wrong_response": "Harbor seals use their sensitive whiskers to detect fish movements in murky water—they can even follow a fish's trail minutes after it has passed by!",
+    "learn_more_text": "Each whisker on a harbor seal's face is packed with nerve endings, making them so sensitive they can detect the wake of a fish from several feet away. This helps them hunt successfully even at night or in the often cloudy waters of the Pacific Northwest.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-04T09:06:10.233871-07:00",
-  "date": "2026-07-04",
+  "generated_at": "2026-07-05T09:11:46.747671-07:00",
+  "date": "2026-07-05",
   "is_laundry_day": false
 }
