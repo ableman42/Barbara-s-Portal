@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, July 5",
+  "date_display": "Monday, July 6",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice—there are eight official grades ranging from delicate and sweet to hot and pungent! The town of Szeged and Kalocsa are so famous for paprika production that they each have museums dedicated to this beloved red spice.",
+    "text": "Hungarian paprika isn't just delicious—it was so valuable that it was used as currency in medieval Hungary! The spice comes in eight different varieties, from sweet and mild to fiery hot. Today, the town of Szeged is famous worldwide for producing some of the finest paprika.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Hummingbirds",
-    "teaser": "These tiny jewels can remember every flower they've visited and how long it takes each one to refill with nectar. Discover the surprising intelligence behind their iridescent beauty.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-9147646/"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals in the Strait of Juan de Fuca have fascinating sleeping habits—they can sleep underwater and surface to breathe without even waking up! Learn about these charming neighbors and how they've adapted to life in the Pacific Northwest.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Pacific Northwest",
-    "title": "Olympic National Park's Ancient Rainforests",
-    "teaser": "The mossy, misty forests of the Olympic Peninsula are among the quietest places on Earth, and some of their trees have been growing for over 500 years. Learn what makes these temperate rainforests so special and rare.",
-    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
+    "meta": "15 min · Nature",
+    "title": "The Wildflower Super Bloom of Olympic National Park",
+    "teaser": "July is peak wildflower season in the Olympic Mountains, painting the alpine meadows in brilliant colors. From lupines to Indian paintbrush, discover which flowers are blooming right now and the best trails to see them.",
+    "url": "https://www.nps.gov/olym/planyourvisit/wildflower-blooms.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp created the first detailed map of the ocean floor in the 1950s, revealing underwater mountains and the Mid-Atlantic Ridge that proved continents drift. Her story is one of persistence, brilliance, and changing how we see our planet.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "title": "The Immigrant Ships That Built America",
+    "teaser": "Between 1880 and 1924, over 20 million immigrants sailed to America seeking new lives, carrying precious family treasures and precious little else. This beautifully illustrated piece traces their journeys across the Atlantic, including stories from Hungarian families who made the brave crossing.",
+    "url": "https://www.smithsonianmag.com/history/when-america-despised-the-irish-the-19th-centurys-refugee-crisis-41636937/"
   },
   "port_angeles": {
-    "icon": "🦀",
-    "title": "Dungeness Spit National Wildlife Refuge",
-    "description": "Just a short drive from Port Angeles, the Dungeness Spit is one of the longest natural sand spits in the world at 5.5 miles long. It's a wonderful place to spot harbor seals, over 250 species of birds, and enjoy stunning views of the Strait of Juan de Fuca and the Olympic Mountains.",
-    "link_text": "Visit the refuge website",
-    "link_url": "https://www.fws.gov/refuge/dungeness"
+    "icon": "🦅",
+    "title": "Bald Eagles Thriving in the Strait",
+    "description": "The Strait of Juan de Fuca is home to one of the highest concentrations of bald eagles in the lower 48 states! Summer is an excellent time to spot them fishing along the shoreline, especially near Ediz Hook. These magnificent birds mate for life and can live over 30 years in the wild.",
+    "link_text": "Learn about local eagles",
+    "link_url": "https://www.allaboutbirds.org/guide/Bald_Eagle"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! An amazing 1,200 beats per minute—about 20 times faster than ours!",
-    "close_response": "Very close! A hummingbird's heart actually beats about 1,200 times per minute while hovering—incredibly fast!",
-    "wrong_response": "A hummingbird's tiny heart beats about 1,200 times per minute—that's 20 beats every single second!",
-    "learn_more_text": "Despite weighing less than a nickel, hummingbirds have the highest metabolism of all animals. Their hearts can slow down to 50 beats per minute when they enter torpor (a hibernation-like state) at night to conserve energy.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "correct_response": "That's right, Barbara! An incredible 1,200 beats per minute—about 20 times per second!",
+    "close_response": "Very close! A hummingbird's tiny heart beats about 1,200 times per minute when flying—faster than you can imagine!",
+    "wrong_response": "Actually, their little hearts beat an amazing 1,200 times per minute! That's what powers their incredible hovering ability.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their rapid wingbeats (up to 80 times per second), they must eat about half their body weight in nectar every day!",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Virág",
-      "Pillangó",
-      "Madár",
-      "Szitakötő"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Szeretlek"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly—such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound graceful? (Virág means flower, madár means bird, and szitakötő means dragonfly.)",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from neighboring European languages. Many Hungarian words are beautifully descriptive and poetic.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Britannica"
+    "correct_response": "Köszönöm! That's exactly right! Such a beautiful word for expressing gratitude.",
+    "wrong_response": "The word is 'köszönöm'! It's one of the most important and warm words in Hungarian. 'Szia' means hello, 'igen' means yes, and 'szeretlek' means I love you.",
+    "learn_more_text": "Hungarian is a unique language—it's part of the Finno-Ugric family, making it more closely related to Finnish and Estonian than to neighboring Slavic or Germanic languages. It's known for its beautiful complexity and 14 vowel sounds!",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "About Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "What do harbor seals, commonly seen in the Strait of Juan de Fuca, use their whiskers for?",
+    "question": "What special feature do Olympic marmots have that helps them survive long mountain winters?",
     "options": [
-      "Temperature sensing",
-      "Detecting fish movements in murky water",
-      "Communication with other seals",
-      "Balance while swimming"
+      "They migrate to lower elevations",
+      "They hibernate for up to 8 months",
+      "They grow extra thick fur",
+      "They store food in underground chambers"
     ],
     "correct_index": 1,
-    "correct_response": "Exactly right! Harbor seals have incredibly sensitive whiskers that can detect the tiniest vibrations from fish swimming nearby, even in dark or cloudy water.",
-    "wrong_response": "Harbor seals use their sensitive whiskers to detect fish movements in murky water—they can even follow a fish's trail minutes after it has passed by!",
-    "learn_more_text": "Each whisker on a harbor seal's face is packed with nerve endings, making them so sensitive they can detect the wake of a fish from several feet away. This helps them hunt successfully even at night or in the often cloudy waters of the Pacific Northwest.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "NOAA Fisheries"
+    "correct_response": "Yes! Olympic marmots hibernate for up to 8 months—one of the longest hibernations of any mammal. They're found only in the Olympic Mountains and nowhere else on Earth!",
+    "wrong_response": "Actually, these adorable creatures hibernate for up to 8 months each year! Olympic marmots are found only in the Olympic Mountains, making them one of the region's most special residents.",
+    "learn_more_text": "Olympic marmots are one of the most social members of the squirrel family. They greet each other by touching noses and can often be seen sunbathing on rocks during the brief alpine summer, building up fat reserves for their long winter sleep.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
+    "learn_more_label": "Meet the Olympic marmot — NPS"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-05T09:11:46.747671-07:00",
-  "date": "2026-07-05",
+  "generated_at": "2026-07-06T10:45:45.679959-07:00",
+  "date": "2026-07-06",
   "is_laundry_day": false
 }
