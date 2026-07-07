@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, July 6",
+  "date_display": "Tuesday, July 7",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just delicious—it was so valuable that it was used as currency in medieval Hungary! The spice comes in eight different varieties, from sweet and mild to fiery hot. Today, the town of Szeged is famous worldwide for producing some of the finest paprika.",
+    "text": "Hungarian paprika, the country's most famous spice, comes in eight different varieties ranging from delicate and mild to fiery hot. The town of Szeged is so famous for its paprika that it has an entire museum dedicated to the beloved red spice!",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca have fascinating sleeping habits—they can sleep underwater and surface to breathe without even waking up! Learn about these charming neighbors and how they've adapted to life in the Pacific Northwest.",
-    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "title": "The Secret Lives of Harbor Seals in Puget Sound",
+    "teaser": "Harbor seals, those curious faces you might spot in the Strait of Juan de Fuca, are remarkable divers who can hold their breath for nearly 30 minutes. Learn about their fascinating behaviors and how scientists track their underwater journeys.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
     "meta": "15 min · Nature",
-    "title": "The Wildflower Super Bloom of Olympic National Park",
-    "teaser": "July is peak wildflower season in the Olympic Mountains, painting the alpine meadows in brilliant colors. From lupines to Indian paintbrush, discover which flowers are blooming right now and the best trails to see them.",
-    "url": "https://www.nps.gov/olym/planyourvisit/wildflower-blooms.htm"
+    "title": "Olympic National Park's Rainforest Magic",
+    "teaser": "The Hoh Rainforest, just a drive from Port Angeles, receives up to 14 feet of rain annually, creating a mystical green world unlike anywhere else in the continental United States. Discover what makes these ancient forests so special and the incredible creatures that call them home.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Immigrant Ships That Built America",
-    "teaser": "Between 1880 and 1924, over 20 million immigrants sailed to America seeking new lives, carrying precious family treasures and precious little else. This beautifully illustrated piece traces their journeys across the Atlantic, including stories from Hungarian families who made the brave crossing.",
-    "url": "https://www.smithsonianmag.com/history/when-america-despised-the-irish-the-19th-centurys-refugee-crisis-41636937/"
+    "title": "The Remarkable Journey of Hungarian Immigrants to America",
+    "teaser": "Between 1880 and 1920, nearly two million Hungarians made the brave journey to America, bringing their rich traditions, foods, and culture. This touching exploration shares their stories of courage, community, and the lasting legacy they created in their new homeland.",
+    "url": "https://www.smithsonianmag.com/history/hungarian-immigration-america-180975509/"
   },
   "port_angeles": {
     "icon": "🦅",
-    "title": "Bald Eagles Thriving in the Strait",
-    "description": "The Strait of Juan de Fuca is home to one of the highest concentrations of bald eagles in the lower 48 states! Summer is an excellent time to spot them fishing along the shoreline, especially near Ediz Hook. These magnificent birds mate for life and can live over 30 years in the wild.",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.allaboutbirds.org/guide/Bald_Eagle"
+    "title": "Bald Eagles at Ediz Hook",
+    "description": "Ediz Hook, the natural sand spit that protects Port Angeles Harbor, is one of the best spots to observe bald eagles year-round. These majestic birds often perch on driftwood logs or soar above the water hunting for fish. Early morning and late afternoon offer the best viewing opportunities!",
+    "link_text": "Learn about Ediz Hook",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/ediz-hook.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! An incredible 1,200 beats per minute—about 20 times per second!",
-    "close_response": "Very close! A hummingbird's tiny heart beats about 1,200 times per minute when flying—faster than you can imagine!",
-    "wrong_response": "Actually, their little hearts beat an amazing 1,200 times per minute! That's what powers their incredible hovering ability.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their rapid wingbeats (up to 80 times per second), they must eat about half their body weight in nectar every day!",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "correct_response": "That's exactly right, Barbara! What an incredible little bird with such a powerful heart!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — amazing for such a tiny creature!",
+    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute while flying — that's 20 times per second! Just remarkable.",
+    "learn_more_text": "To support their rapid metabolism and constant hovering, hummingbirds have the fastest heart rate of all birds. They also consume about half their body weight in sugar daily from flower nectar!",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "More about hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'thank you'?",
     "options": [
       "Szia",
       "Köszönöm",
-      "Igen",
-      "Szeretlek"
+      "Kérem",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's exactly right! Such a beautiful word for expressing gratitude.",
-    "wrong_response": "The word is 'köszönöm'! It's one of the most important and warm words in Hungarian. 'Szia' means hello, 'igen' means yes, and 'szeretlek' means I love you.",
-    "learn_more_text": "Hungarian is a unique language—it's part of the Finno-Ugric family, making it more closely related to Finnish and Estonian than to neighboring Slavic or Germanic languages. It's known for its beautiful complexity and 14 vowel sounds!",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "correct_response": "Köszönöm! That's right, Barbara — wonderful to keep these beautiful words close to your heart!",
+    "wrong_response": "The word for 'thank you' is 'köszönöm' (or 'köszi' informally). Such a lovely part of your Hungarian heritage, Ildiko!",
+    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to neighboring Slavic or Germanic languages. Its beautiful sounds and expressions carry centuries of Magyar culture.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191118-why-is-hungarian-so-hard-to-learn",
     "learn_more_label": "About Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "What special feature do Olympic marmots have that helps them survive long mountain winters?",
+    "question": "What percentage of an iceberg's mass is typically hidden below the water's surface?",
     "options": [
-      "They migrate to lower elevations",
-      "They hibernate for up to 8 months",
-      "They grow extra thick fur",
-      "They store food in underground chambers"
+      "50%",
+      "65%",
+      "75%",
+      "90%"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes! Olympic marmots hibernate for up to 8 months—one of the longest hibernations of any mammal. They're found only in the Olympic Mountains and nowhere else on Earth!",
-    "wrong_response": "Actually, these adorable creatures hibernate for up to 8 months each year! Olympic marmots are found only in the Olympic Mountains, making them one of the region's most special residents.",
-    "learn_more_text": "Olympic marmots are one of the most social members of the squirrel family. They greet each other by touching noses and can often be seen sunbathing on rocks during the brief alpine summer, building up fat reserves for their long winter sleep.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
-    "learn_more_label": "Meet the Olympic marmot — NPS"
+    "correct_index": 3,
+    "correct_response": "Exactly right! About 90% is hidden below — that's where the phrase 'tip of the iceberg' comes from. You've got it!",
+    "wrong_response": "Actually, about 90% of an iceberg is hidden beneath the waves! That's why they were so dangerous to ships and why we say 'tip of the iceberg' when we're only seeing a small part of something.",
+    "learn_more_text": "Ice is slightly less dense than seawater, causing icebergs to float with most of their mass submerged. The beautiful blue color you sometimes see in icebergs comes from ice so compressed that it absorbs all colors of light except blue.",
+    "learn_more_url": "https://www.nationalgeographic.com/science/article/icebergs",
+    "learn_more_label": "Iceberg facts — National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-06T10:45:45.679959-07:00",
-  "date": "2026-07-06",
+  "generated_at": "2026-07-07T10:19:51.819786-07:00",
+  "date": "2026-07-07",
   "is_laundry_day": false
 }
