@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, July 7",
+  "date_display": "Wednesday, July 8",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, the country's most famous spice, comes in eight different varieties ranging from delicate and mild to fiery hot. The town of Szeged is so famous for its paprika that it has an entire museum dedicated to the beloved red spice!",
+    "text": "Hungary is home to over 1,500 natural thermal springs — more than any other country in Europe! The tradition of thermal bathing dates back to Roman times, and many Hungarians still visit thermal baths regularly for relaxation and health. Budapest alone has more than 100 thermal springs feeding its famous bathhouses.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in Puget Sound",
-    "teaser": "Harbor seals, those curious faces you might spot in the Strait of Juan de Fuca, are remarkable divers who can hold their breath for nearly 30 minutes. Learn about their fascinating behaviors and how scientists track their underwater journeys.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels of the bird world have hearts that beat 1,200 times per minute and can fly backwards! Discover the amazing adaptations that make hummingbirds some of nature's most extraordinary creatures.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-12428265/"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "Olympic National Park's Rainforest Magic",
-    "teaser": "The Hoh Rainforest, just a drive from Port Angeles, receives up to 14 feet of rain annually, creating a mystical green world unlike anywhere else in the continental United States. Discover what makes these ancient forests so special and the incredible creatures that call them home.",
-    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
+    "meta": "15 min · History",
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp was a geologist who created the first detailed map of the ocean floor in the 1950s, revealing underwater mountains and the Mid-Atlantic Ridge. Her groundbreaking work helped prove the theory of continental drift and changed our understanding of Earth forever.",
+    "url": "https://www.bbc.com/future/article/20200305-marie-tharp-the-woman-who-mapped-the-ocean-floor"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Remarkable Journey of Hungarian Immigrants to America",
-    "teaser": "Between 1880 and 1920, nearly two million Hungarians made the brave journey to America, bringing their rich traditions, foods, and culture. This touching exploration shares their stories of courage, community, and the lasting legacy they created in their new homeland.",
-    "url": "https://www.smithsonianmag.com/history/hungarian-immigration-america-180975509/"
+    "meta": "35 min · Travel & Culture",
+    "title": "The Danube: Europe's Amazon",
+    "teaser": "The Danube River flows through ten countries and four capital cities, including Budapest, making it one of the world's most international rivers. This journey explores the river's rich history, diverse wildlife, and the cultures that have thrived along its banks for thousands of years.",
+    "url": "https://www.nationalgeographic.com/travel/article/danube-river-europe-culture-history"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles at Ediz Hook",
-    "description": "Ediz Hook, the natural sand spit that protects Port Angeles Harbor, is one of the best spots to observe bald eagles year-round. These majestic birds often perch on driftwood logs or soar above the water hunting for fish. Early morning and late afternoon offer the best viewing opportunities!",
-    "link_text": "Learn about Ediz Hook",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/ediz-hook.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "July is peak harbor seal pupping season in the Strait of Juan de Fuca! Mother seals give birth to their pups on rocky shores and beaches around Port Angeles. You might spot these adorable families at Ediz Hook or along the waterfront — remember to observe from a distance to keep them safe and comfortable.",
+    "link_text": "Learn about harbor seals",
+    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
-    "answer": 1200,
+    "question": "A hummingbird's wings can beat up to ___ times per second.",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's exactly right, Barbara! What an incredible little bird with such a powerful heart!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — amazing for such a tiny creature!",
-    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute while flying — that's 20 times per second! Just remarkable.",
-    "learn_more_text": "To support their rapid metabolism and constant hovering, hummingbirds have the fastest heart rate of all birds. They also consume about half their body weight in sugar daily from flower nectar!",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "More about hummingbirds — Audubon"
+    "close_range": 10,
+    "correct_response": "That's right, Barbara! Those tiny wings are incredibly fast — so fast we can't even see them move!",
+    "close_response": "You're very close! Hummingbird wings beat about 80 times per second — that's what creates their distinctive humming sound.",
+    "wrong_response": "Hummingbird wings actually beat about 80 times per second! That's why they make that wonderful humming sound we hear.",
+    "learn_more_text": "The ruby-throated hummingbird, which visits the Pacific Northwest in summer, can beat its wings 53 times per second during normal flight, but up to 200 times per second during courtship dives!",
+    "learn_more_url": "https://www.audubon.org/news/how-fast-does-hummingbird-wings-beat",
+    "learn_more_label": "More from Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Kérem",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's right, Barbara — wonderful to keep these beautiful words close to your heart!",
-    "wrong_response": "The word for 'thank you' is 'köszönöm' (or 'köszi' informally). Such a lovely part of your Hungarian heritage, Ildiko!",
-    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to neighboring Slavic or Germanic languages. Its beautiful sounds and expressions carry centuries of Magyar culture.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191118-why-is-hungarian-so-hard-to-learn",
-    "learn_more_label": "About Hungarian language — BBC"
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language unrelated to most European languages — it's part of the Finno-Ugric family. Many Hungarian words are delightfully descriptive, like 'pillangó' which comes from a word meaning 'to flutter.'",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191124-why-is-hungarian-so-infuriatingly-hard-to-learn",
+    "learn_more_label": "About Hungarian — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What percentage of an iceberg's mass is typically hidden below the water's surface?",
+    "question": "What ocean mammal can hold its breath for up to two hours?",
     "options": [
-      "50%",
-      "65%",
-      "75%",
-      "90%"
+      "Harbor seal",
+      "Sea otter",
+      "Elephant seal",
+      "Gray whale"
     ],
-    "correct_index": 3,
-    "correct_response": "Exactly right! About 90% is hidden below — that's where the phrase 'tip of the iceberg' comes from. You've got it!",
-    "wrong_response": "Actually, about 90% of an iceberg is hidden beneath the waves! That's why they were so dangerous to ships and why we say 'tip of the iceberg' when we're only seeing a small part of something.",
-    "learn_more_text": "Ice is slightly less dense than seawater, causing icebergs to float with most of their mass submerged. The beautiful blue color you sometimes see in icebergs comes from ice so compressed that it absorbs all colors of light except blue.",
-    "learn_more_url": "https://www.nationalgeographic.com/science/article/icebergs",
-    "learn_more_label": "Iceberg facts — National Geographic"
+    "correct_index": 2,
+    "correct_response": "Yes! Elephant seals are incredible divers — they can dive nearly a mile deep and hold their breath for up to two hours while hunting for fish and squid!",
+    "wrong_response": "It's the elephant seal! These amazing creatures can hold their breath for up to two hours and dive nearly a mile deep. Harbor seals, which you might see in Port Angeles, can hold their breath for about 30 minutes.",
+    "learn_more_text": "Elephant seals slow their heart rate to just a few beats per minute while diving, conserving oxygen. Some elephant seals migrate past the Olympic Peninsula on their way between breeding grounds in California and feeding areas in Alaska.",
+    "learn_more_url": "https://oceanservice.noaa.gov/facts/elephant-seal.html",
+    "learn_more_label": "More about elephant seals — NOAA"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-07T10:19:51.819786-07:00",
-  "date": "2026-07-07",
+  "generated_at": "2026-07-08T09:42:28.978354-07:00",
+  "date": "2026-07-08",
   "is_laundry_day": false
 }
