@@ -1,49 +1,49 @@
 {
-  "date_display": "Wednesday, July 8",
+  "date_display": "Thursday, July 9",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungary is home to over 1,500 natural thermal springs — more than any other country in Europe! The tradition of thermal bathing dates back to Roman times, and many Hungarians still visit thermal baths regularly for relaxation and health. Budapest alone has more than 100 thermal springs feeding its famous bathhouses.",
+    "text": "Hungarian paprika, one of Hungary's most famous exports, comes in eight different grades ranging from delicate and mild to hot and spicy. The town of Szeged is so renowned for its paprika production that it has a whole museum dedicated to this beloved red spice!",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world have hearts that beat 1,200 times per minute and can fly backwards! Discover the amazing adaptations that make hummingbirds some of nature's most extraordinary creatures.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-12428265/"
+    "title": "How Hummingbirds Navigate Thousands of Miles",
+    "teaser": "These tiny birds, weighing less than a nickel, can remember every flower they've visited and return to feeding spots year after year. Scientists have discovered their remarkable memory helps them migrate from Mexico to the Pacific Northwest each spring.",
+    "url": "https://www.npr.org/2023/08/17/1194393581/hummingbirds-migration-memory-navigation"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp was a geologist who created the first detailed map of the ocean floor in the 1950s, revealing underwater mountains and the Mid-Atlantic Ridge. Her groundbreaking work helped prove the theory of continental drift and changed our understanding of Earth forever.",
-    "url": "https://www.bbc.com/future/article/20200305-marie-tharp-the-woman-who-mapped-the-ocean-floor"
+    "meta": "15 min · Wildlife",
+    "title": "The Secret Lives of Olympic Peninsula's Black Bears",
+    "teaser": "Olympic National Park is home to a thriving black bear population that spends much of summer feasting on berries and salmon. This beautiful article explores their daily routines, family bonds, and how they prepare for winter hibernation.",
+    "url": "https://www.nps.gov/olym/learn/nature/black-bears.htm"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "The Danube: Europe's Amazon",
-    "teaser": "The Danube River flows through ten countries and four capital cities, including Budapest, making it one of the world's most international rivers. This journey explores the river's rich history, diverse wildlife, and the cultures that have thrived along its banks for thousands of years.",
-    "url": "https://www.nationalgeographic.com/travel/article/danube-river-europe-culture-history"
+    "meta": "35 min · History",
+    "title": "The Hungarian Revolution of 1956: Personal Stories",
+    "teaser": "This moving collection captures the voices of ordinary Hungarians who lived through the 1956 uprising, sharing stories of courage, hope, and resilience. Their personal accounts bring to life a pivotal moment in Hungarian history with warmth and humanity.",
+    "url": "https://www.bbc.com/news/world-europe-37699515"
   },
   "port_angeles": {
     "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "July is peak harbor seal pupping season in the Strait of Juan de Fuca! Mother seals give birth to their pups on rocky shores and beaches around Port Angeles. You might spot these adorable families at Ediz Hook or along the waterfront — remember to observe from a distance to keep them safe and comfortable.",
-    "link_text": "Learn about harbor seals",
-    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
+    "title": "Seal Pups at Ediz Hook",
+    "description": "July is a wonderful time to spot harbor seal pups along Ediz Hook! Mother seals often rest with their pups on the sandy beaches, teaching them to swim and hunt. Remember to enjoy them from a distance of at least 100 yards to keep both you and the seals safe.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat up to ___ times per second.",
-    "answer": 80,
+    "question": "A hummingbird's heart beats about ___ times per minute while hovering.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "That's right, Barbara! Those tiny wings are incredibly fast — so fast we can't even see them move!",
-    "close_response": "You're very close! Hummingbird wings beat about 80 times per second — that's what creates their distinctive humming sound.",
-    "wrong_response": "Hummingbird wings actually beat about 80 times per second! That's why they make that wonderful humming sound we hear.",
-    "learn_more_text": "The ruby-throated hummingbird, which visits the Pacific Northwest in summer, can beat its wings 53 times per second during normal flight, but up to 200 times per second during courtship dives!",
-    "learn_more_url": "https://www.audubon.org/news/how-fast-does-hummingbird-wings-beat",
-    "learn_more_label": "More from Audubon Society"
+    "close_range": 200,
+    "correct_response": "Amazing! You're absolutely right! That tiny heart works incredibly hard to power those rapid wings.",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
+    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute while hovering! That's what powers their incredible flying abilities.",
+    "learn_more_text": "To put this in perspective, a hummingbird's heart rate can slow to about 250 beats per minute when they rest at night, entering a hibernation-like state called torpor to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Madár",
       "Pillangó",
       "Virág",
-      "Méhecske"
+      "Napfény"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language unrelated to most European languages — it's part of the Finno-Ugric family. Many Hungarian words are delightfully descriptive, like 'pillangó' which comes from a word meaning 'to flutter.'",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191124-why-is-hungarian-so-infuriatingly-hard-to-learn",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Madár means bird, virág means flower, and napfény means sunshine.)",
+    "learn_more_text": "The word 'pillangó' comes from the verb 'pillan' meaning 'to glance' or 'to flutter,' perfectly capturing the delicate, fleeting movement of butterfly wings. Hungarian is full of such poetic word origins!",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "About Hungarian language — Britannica"
   },
   "puzzle_3": {
-    "question": "What ocean mammal can hold its breath for up to two hours?",
+    "question": "Which sea creature is known to live for over 200 years in the cold waters of the Pacific Northwest?",
     "options": [
-      "Harbor seal",
-      "Sea otter",
-      "Elephant seal",
-      "Gray whale"
+      "Pacific octopus",
+      "Geoduck clam",
+      "Dungeness crab",
+      "Red sea urchin"
     ],
-    "correct_index": 2,
-    "correct_response": "Yes! Elephant seals are incredible divers — they can dive nearly a mile deep and hold their breath for up to two hours while hunting for fish and squid!",
-    "wrong_response": "It's the elephant seal! These amazing creatures can hold their breath for up to two hours and dive nearly a mile deep. Harbor seals, which you might see in Port Angeles, can hold their breath for about 30 minutes.",
-    "learn_more_text": "Elephant seals slow their heart rate to just a few beats per minute while diving, conserving oxygen. Some elephant seals migrate past the Olympic Peninsula on their way between breeding grounds in California and feeding areas in Alaska.",
-    "learn_more_url": "https://oceanservice.noaa.gov/facts/elephant-seal.html",
-    "learn_more_label": "More about elephant seals — NOAA"
+    "correct_index": 1,
+    "correct_response": "Yes! Geoduck clams can live over 200 years — they're among the longest-living animals on Earth and are found right here in the Strait of Juan de Fuca!",
+    "wrong_response": "It's the geoduck clam! These remarkable creatures can live over 200 years, making them one of the longest-living animals on our planet. They burrow deep in the sand of local waters.",
+    "learn_more_text": "The oldest geoduck ever recorded was 168 years old, but scientists believe many live well past 200 years. Their long necks, or siphons, can extend up to three feet to reach the water's surface while their bodies stay safely buried.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/pacific-geoduck",
+    "learn_more_label": "Learn about geoducks — NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-08T09:42:28.978354-07:00",
-  "date": "2026-07-08",
+  "generated_at": "2026-07-09T10:23:08.583125-07:00",
+  "date": "2026-07-09",
   "is_laundry_day": false
 }
