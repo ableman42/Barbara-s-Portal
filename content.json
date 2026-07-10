@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, July 9",
+  "date_display": "Friday, July 10",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, one of Hungary's most famous exports, comes in eight different grades ranging from delicate and mild to hot and spicy. The town of Szeged is so renowned for its paprika production that it has a whole museum dedicated to this beloved red spice!",
+    "text": "Hungary is home to one of the oldest metro systems in the world! The Budapest Metro Line 1, which opened in 1896, was the first electric underground railway in continental Europe and is still running today. It was built to celebrate Hungary's 1000th anniversary and is now a UNESCO World Heritage site.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "How Hummingbirds Navigate Thousands of Miles",
-    "teaser": "These tiny birds, weighing less than a nickel, can remember every flower they've visited and return to feeding spots year after year. Scientists have discovered their remarkable memory helps them migrate from Mexico to the Pacific Northwest each spring.",
-    "url": "https://www.npr.org/2023/08/17/1194393581/hummingbirds-migration-memory-navigation"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and even warning each other of danger. It's like a 'wood wide web' right beneath our feet!",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
-    "title": "The Secret Lives of Olympic Peninsula's Black Bears",
-    "teaser": "Olympic National Park is home to a thriving black bear population that spends much of summer feasting on berries and salmon. This beautiful article explores their daily routines, family bonds, and how they prepare for winter hibernation.",
-    "url": "https://www.nps.gov/olym/learn/nature/black-bears.htm"
+    "title": "Return of the Sea Otters to the Pacific Northwest",
+    "teaser": "After nearly disappearing from the Pacific coast, sea otters are making a remarkable comeback in the waters around the Olympic Peninsula. Their return is transforming entire marine ecosystems in wonderful ways.",
+    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Hungarian Revolution of 1956: Personal Stories",
-    "teaser": "This moving collection captures the voices of ordinary Hungarians who lived through the 1956 uprising, sharing stories of courage, hope, and resilience. Their personal accounts bring to life a pivotal moment in Hungarian history with warmth and humanity.",
-    "url": "https://www.bbc.com/news/world-europe-37699515"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "In the 1950s, Marie Tharp created the first detailed maps of the ocean floor, revealing underwater mountain ranges and transforming our understanding of Earth. Her story is one of persistence, curiosity, and scientific breakthrough.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Seal Pups at Ediz Hook",
-    "description": "July is a wonderful time to spot harbor seal pups along Ediz Hook! Mother seals often rest with their pups on the sandy beaches, teaching them to swim and hunt. Remember to enjoy them from a distance of at least 100 yards to keep both you and the seals safe.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "icon": "🦌",
+    "title": "Hurricane Ridge Wildflower Season",
+    "description": "July is peak wildflower season at Hurricane Ridge! The alpine meadows are bursting with color right now—purple lupines, red paintbrush, and white avalanche lilies carpet the mountainsides. Black-tailed deer often graze among the flowers, and on clear days you can see across the Strait to Canada.",
+    "link_text": "Hurricane Ridge conditions",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right! That tiny heart works incredibly hard to power those rapid wings.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
-    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute while hovering! That's what powers their incredible flying abilities.",
-    "learn_more_text": "To put this in perspective, a hummingbird's heart rate can slow to about 250 beats per minute when they rest at night, entering a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon Society"
+    "correct_response": "That's right! Amazing, isn't it? Their tiny hearts work incredibly hard to power those rapid wings!",
+    "close_response": "You're very close! The answer is 1200 beats per minute—that's about 20 times per second!",
+    "wrong_response": "The answer is 1200 beats per minute! It's hard to imagine such a tiny heart beating that fast, but it takes incredible energy to hover in mid-air.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their high-energy lifestyle, they must eat about half their body weight in nectar every day and visit hundreds of flowers.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Learn more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Napfény"
+      "Köszönöm",
+      "Szia",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? (Madár means bird, virág means flower, and napfény means sunshine.)",
-    "learn_more_text": "The word 'pillangó' comes from the verb 'pillan' meaning 'to glance' or 'to flutter,' perfectly capturing the delicate, fleeting movement of butterfly wings. Hungarian is full of such poetic word origins!",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "About Hungarian language — Britannica"
+    "correct_response": "Szia! You got it! It's such a friendly, versatile word used throughout the day.",
+    "wrong_response": "The answer is 'Szia'! It's one of the most commonly used Hungarian greetings—casual and warm, perfect for friends and family.",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from other European languages. It's related to Finnish and Estonian but uses many unique expressions and has a beautifully logical structure.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "Learn more — BBC Travel"
   },
   "puzzle_3": {
-    "question": "Which sea creature is known to live for over 200 years in the cold waters of the Pacific Northwest?",
+    "question": "What type of tree is the tallest species in the world?",
     "options": [
-      "Pacific octopus",
-      "Geoduck clam",
-      "Dungeness crab",
-      "Red sea urchin"
+      "Douglas Fir",
+      "Giant Sequoia",
+      "Coast Redwood",
+      "Sitka Spruce"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes! Geoduck clams can live over 200 years — they're among the longest-living animals on Earth and are found right here in the Strait of Juan de Fuca!",
-    "wrong_response": "It's the geoduck clam! These remarkable creatures can live over 200 years, making them one of the longest-living animals on our planet. They burrow deep in the sand of local waters.",
-    "learn_more_text": "The oldest geoduck ever recorded was 168 years old, but scientists believe many live well past 200 years. Their long necks, or siphons, can extend up to three feet to reach the water's surface while their bodies stay safely buried.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/pacific-geoduck",
-    "learn_more_label": "Learn about geoducks — NOAA Fisheries"
+    "correct_index": 2,
+    "correct_response": "Yes, the Coast Redwood! Some of these magnificent trees in California reach over 380 feet tall—taller than the Statue of Liberty!",
+    "wrong_response": "It's the Coast Redwood! These incredible trees grow along the California coast and can live for over 2,000 years. The tallest one discovered, named Hyperion, stands 380 feet tall.",
+    "learn_more_text": "Coast Redwoods thrive in the foggy coastal climate of Northern California. The fog provides nearly 40% of their water needs during the dry summer months, condensing on their needles and dripping to the roots.",
+    "learn_more_url": "https://www.nps.gov/redw/learn/nature/coast-redwoods.htm",
+    "learn_more_label": "Learn more — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-09T10:23:08.583125-07:00",
-  "date": "2026-07-09",
+  "generated_at": "2026-07-10T09:58:24.108912-07:00",
+  "date": "2026-07-10",
   "is_laundry_day": false
 }
