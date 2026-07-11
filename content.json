@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, July 10",
+  "date_display": "Saturday, July 11",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungary is home to one of the oldest metro systems in the world! The Budapest Metro Line 1, which opened in 1896, was the first electric underground railway in continental Europe and is still running today. It was built to celebrate Hungary's 1000th anniversary and is now a UNESCO World Heritage site.",
+    "text": "Hungarian is one of the few languages in the world where surnames come before first names, a tradition that reflects the culture's emphasis on family heritage. This unique naming order is shared with only a handful of other languages, including Japanese and Korean. It's a beautiful reminder of how deeply family ties are woven into Hungarian identity.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and even warning each other of danger. It's like a 'wood wide web' right beneath our feet!",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals in the Strait of Juan de Fuca are remarkably intelligent and social creatures with surprising behaviors. Learn about their playful personalities and how they navigate the coastal waters you see every day.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "Return of the Sea Otters to the Pacific Northwest",
-    "teaser": "After nearly disappearing from the Pacific coast, sea otters are making a remarkable comeback in the waters around the Olympic Peninsula. Their return is transforming entire marine ecosystems in wonderful ways.",
-    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
+    "meta": "15 min · Gardens",
+    "title": "The Art of Cottage Gardening: A Timeless Tradition",
+    "teaser": "Cottage gardens combine beauty with practicality, mixing flowers, herbs, and vegetables in charming, informal arrangements. Discover the history of this beloved gardening style and tips for creating your own peaceful garden retreat.",
+    "url": "https://www.smithsonianmag.com/smart-news/cottage-gardens-180977364/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "In the 1950s, Marie Tharp created the first detailed maps of the ocean floor, revealing underwater mountain ranges and transforming our understanding of Earth. Her story is one of persistence, curiosity, and scientific breakthrough.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "title": "Budapest: The Pearl of the Danube",
+    "teaser": "This beautiful exploration of Budapest reveals the city's transformation through centuries of triumph and struggle. From its thermal baths to its bridges, discover the heart of Hungarian culture and resilience.",
+    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-guide"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Hurricane Ridge Wildflower Season",
-    "description": "July is peak wildflower season at Hurricane Ridge! The alpine meadows are bursting with color right now—purple lupines, red paintbrush, and white avalanche lilies carpet the mountainsides. Black-tailed deer often graze among the flowers, and on clear days you can see across the Strait to Canada.",
-    "link_text": "Hurricane Ridge conditions",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "July is peak butterfly season at Hurricane Ridge, where colorful species like the Western Tiger Swallowtail dance through alpine meadows. The wildflowers are in full bloom right now, creating a magical scene just 17 miles from Port Angeles. It's one of the most beautiful times of year to visit.",
+    "link_text": "Hurricane Ridge Visitor Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right! Amazing, isn't it? Their tiny hearts work incredibly hard to power those rapid wings!",
-    "close_response": "You're very close! The answer is 1200 beats per minute—that's about 20 times per second!",
-    "wrong_response": "The answer is 1200 beats per minute! It's hard to imagine such a tiny heart beating that fast, but it takes incredible energy to hover in mid-air.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their high-energy lifestyle, they must eat about half their body weight in nectar every day and visit hundreds of flowers.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "correct_response": "Wonderful! That tiny heart really races — it's one of nature's most incredible adaptations!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — truly astonishing!",
+    "wrong_response": "It's hard to imagine, but a hummingbird's heart beats about 1,200 times per minute! That's about 20 beats every second.",
+    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds need extraordinary metabolism. Their heart rate can even reach 1,260 beats per minute, and they must eat every 10-15 minutes throughout the day.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-are-able-fly",
     "learn_more_label": "Learn more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Köszönöm",
       "Szia",
-      "Igen",
-      "Viszlát"
+      "Köszönöm",
+      "Viszlát",
+      "Igen"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! You got it! It's such a friendly, versatile word used throughout the day.",
-    "wrong_response": "The answer is 'Szia'! It's one of the most commonly used Hungarian greetings—casual and warm, perfect for friends and family.",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from other European languages. It's related to Finnish and Estonian but uses many unique expressions and has a beautifully logical structure.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
-    "learn_more_label": "Learn more — BBC Travel"
+    "correct_response": "Köszönöm! That's exactly right — a warm word you probably use often!",
+    "wrong_response": "The word is 'köszönöm' (KUR-sur-nurm) — such a lovely way to express gratitude in Hungarian!",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. It's known for its musicality and expressive nature, with 18 grammatical cases that allow for incredible precision and poetry.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About Hungarian — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of tree is the tallest species in the world?",
+    "question": "What is the Olympic Peninsula's temperate rainforest famous for receiving each year?",
     "options": [
-      "Douglas Fir",
-      "Giant Sequoia",
-      "Coast Redwood",
-      "Sitka Spruce"
+      "The most sunshine in Washington",
+      "Over 140 inches of rainfall",
+      "The warmest temperatures",
+      "The strongest winds"
     ],
-    "correct_index": 2,
-    "correct_response": "Yes, the Coast Redwood! Some of these magnificent trees in California reach over 380 feet tall—taller than the Statue of Liberty!",
-    "wrong_response": "It's the Coast Redwood! These incredible trees grow along the California coast and can live for over 2,000 years. The tallest one discovered, named Hyperion, stands 380 feet tall.",
-    "learn_more_text": "Coast Redwoods thrive in the foggy coastal climate of Northern California. The fog provides nearly 40% of their water needs during the dry summer months, condensing on their needles and dripping to the roots.",
-    "learn_more_url": "https://www.nps.gov/redw/learn/nature/coast-redwoods.htm",
-    "learn_more_label": "Learn more — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Exactly right! All that rain creates the magical, moss-covered wonderland of the Hoh and Quinault rainforests — some of the most beautiful places on Earth!",
+    "wrong_response": "The peninsula's western valleys receive over 140 inches of rain yearly, creating those enchanting temperate rainforests. It's what makes the mossy, green forests so magical!",
+    "learn_more_text": "The Hoh Rainforest is one of the largest temperate rainforests in the United States. The abundant rainfall creates a fairy-tale landscape of massive trees draped in moss, ferns covering every surface, and an ecosystem found nowhere else.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
+    "learn_more_label": "Visit the Hoh — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-10T09:58:24.108912-07:00",
-  "date": "2026-07-10",
+  "generated_at": "2026-07-11T08:58:50.855292-07:00",
+  "date": "2026-07-11",
   "is_laundry_day": false
 }
