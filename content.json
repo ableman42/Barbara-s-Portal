@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, July 11",
+  "date_display": "Sunday, July 12",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian is one of the few languages in the world where surnames come before first names, a tradition that reflects the culture's emphasis on family heritage. This unique naming order is shared with only a handful of other languages, including Japanese and Korean. It's a beautiful reminder of how deeply family ties are woven into Hungarian identity.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. The Pacific Northwest is home to the beautiful Rufous Hummingbird, which migrates through Port Angeles each summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca are remarkably intelligent and social creatures with surprising behaviors. Learn about their playful personalities and how they navigate the coastal waters you see every day.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "How Hummingbirds Fly in the Rain",
+    "teaser": "These tiny birds are tougher than they look, able to fly through rainstorms that would ground larger birds. Scientists have discovered their secret involves shaking water off their heads in milliseconds.",
+    "url": "https://www.smithsonianmag.com/science-nature/hummingbirds-shake-their-heads-to-dry-off-faster-than-a-dog-180971515/"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "The Art of Cottage Gardening: A Timeless Tradition",
-    "teaser": "Cottage gardens combine beauty with practicality, mixing flowers, herbs, and vegetables in charming, informal arrangements. Discover the history of this beloved gardening style and tips for creating your own peaceful garden retreat.",
-    "url": "https://www.smithsonianmag.com/smart-news/cottage-gardens-180977364/"
+    "meta": "15 min · History & Culture",
+    "title": "The Gardens of Budapest: A Journey Through Hungarian Horticulture",
+    "teaser": "From the historic Buda Castle gardens to the beloved Margaret Island, Budapest's green spaces tell stories of royal gardeners and centuries of cultivation. These gardens blend Hungarian tradition with plants from around the world.",
+    "url": "https://www.nationalgeographic.com/travel/article/best-gardens-parks-budapest-hungary"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "Budapest: The Pearl of the Danube",
-    "teaser": "This beautiful exploration of Budapest reveals the city's transformation through centuries of triumph and struggle. From its thermal baths to its bridges, discover the heart of Hungarian culture and resilience.",
-    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-guide"
+    "meta": "35 min · Natural History",
+    "title": "The Secret Lives of Olympic National Park's Ancient Trees",
+    "teaser": "In the Hoh Rainforest just hours from Port Angeles, scientists are discovering that trees communicate with each other through underground networks. These thousand-year-old giants hold secrets about cooperation, resilience, and the wisdom of forests.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "July is peak butterfly season at Hurricane Ridge, where colorful species like the Western Tiger Swallowtail dance through alpine meadows. The wildflowers are in full bloom right now, creating a magical scene just 17 miles from Port Angeles. It's one of the most beautiful times of year to visit.",
-    "link_text": "Hurricane Ridge Visitor Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦀",
+    "title": "Crabbing Season on the Strait",
+    "description": "July is prime time for Dungeness crab along the Strait of Juan de Fuca! You can often watch locals checking their crab pots from the Port Angeles City Pier, and the fresh catch shows up at local restaurants and markets. The Dungeness crab is named after the small town of Dungeness, just east of Port Angeles.",
+    "link_text": "Learn about Dungeness crabs",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/cancer-magister"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
-    "answer": 1200,
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "answer": 1260,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Wonderful! That tiny heart really races — it's one of nature's most incredible adaptations!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — truly astonishing!",
-    "wrong_response": "It's hard to imagine, but a hummingbird's heart beats about 1,200 times per minute! That's about 20 beats every second.",
-    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds need extraordinary metabolism. Their heart rate can even reach 1,260 beats per minute, and they must eat every 10-15 minutes throughout the day.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-are-able-fly",
-    "learn_more_label": "Learn more — Audubon Society"
+    "close_range": 100,
+    "correct_response": "That's exactly right! Isn't it amazing how fast such a tiny heart can beat?",
+    "close_response": "You're very close! The answer is 1,260 beats per minute — incredibly fast!",
+    "wrong_response": "The answer is 1,260 beats per minute! That's more than 20 times per second — incredible for such a small bird!",
+    "learn_more_text": "By comparison, a human heart at rest beats about 60-100 times per minute. When hummingbirds are resting at night, their heart rate can slow to as few as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Viszlát",
-      "Igen"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's exactly right — a warm word you probably use often!",
-    "wrong_response": "The word is 'köszönöm' (KUR-sur-nurm) — such a lovely way to express gratitude in Hungarian!",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. It's known for its musicality and expressive nature, with 18 grammatical cases that allow for incredible precision and poetry.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly — such a lovely, musical word!",
+    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee. Pillangó is such a beautiful word for butterfly!",
+    "learn_more_text": "Hungarian is unique among European languages, belonging to the Finno-Ugric language family rather than the Indo-European family. Many Hungarian words have a melodic quality that reflects the country's rich musical heritage.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What is the Olympic Peninsula's temperate rainforest famous for receiving each year?",
+    "question": "What is the deepest part of the Strait of Juan de Fuca?",
     "options": [
-      "The most sunshine in Washington",
-      "Over 140 inches of rainfall",
-      "The warmest temperatures",
-      "The strongest winds"
+      "120 feet",
+      "650 feet",
+      "280 feet",
+      "450 feet"
     ],
     "correct_index": 1,
-    "correct_response": "Exactly right! All that rain creates the magical, moss-covered wonderland of the Hoh and Quinault rainforests — some of the most beautiful places on Earth!",
-    "wrong_response": "The peninsula's western valleys receive over 140 inches of rain yearly, creating those enchanting temperate rainforests. It's what makes the mossy, green forests so magical!",
-    "learn_more_text": "The Hoh Rainforest is one of the largest temperate rainforests in the United States. The abundant rainfall creates a fairy-tale landscape of massive trees draped in moss, ferns covering every surface, and an ecosystem found nowhere else.",
-    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
-    "learn_more_label": "Visit the Hoh — Olympic National Park"
+    "correct_response": "Excellent! At 650 feet deep, the Strait is deep enough to host whales, submarine canyons, and all sorts of fascinating marine life!",
+    "wrong_response": "The deepest part is actually 650 feet! That's deeper than a 60-story building is tall, providing a highway for gray whales and orcas traveling through.",
+    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and was named after a Greek navigator who sailed for Spain. Its deep channels and strong currents create rich feeding grounds for marine mammals and seabirds.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-11T08:58:50.855292-07:00",
-  "date": "2026-07-11",
-  "is_laundry_day": false
+  "generated_at": "2026-07-12T09:01:28.387971-07:00",
+  "date": "2026-07-12",
+  "is_laundry_day": true
 }
