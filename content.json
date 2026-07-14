@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, July 13",
+  "date_display": "Tuesday, July 14",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, the country's most famous spice, comes in eight different varieties ranging from delicate and sweet to fiery hot. The pepper plants were brought to Hungary by the Turks in the 16th century, and Hungary now produces some of the world's finest paprika, particularly from the town of Szeged and Kalocsa.",
-    "tag": "Hungarian culture"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek navigator who sailed for Spain in 1592. He claimed to have found a passage between the Pacific and Atlantic oceans—though the strait he found doesn't quite go that far, his name lives on in these beautiful waters!",
+    "tag": "Local history"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca have unique personalities and form lasting friendships with each other. Scientists have discovered these intelligent marine mammals recognize individual seals even after years apart.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "meta": "5 min · Wildlife",
+    "title": "How Hummingbirds Fly in the Rain",
+    "teaser": "These tiny aerial acrobats have amazing adaptations that let them fly even in heavy downpours. Scientists have discovered their secret involves special feather structures and mid-air shaking moves.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-hummingbirds-fly-rain-180979708/"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "How Plants Communicate Through Underground Networks",
-    "teaser": "Scientists have discovered that plants use vast underground fungal networks to share nutrients and even warn each other of danger. This \"wood wide web\" shows that gardens are far more connected and intelligent than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "15 min · Nature",
+    "title": "The Hidden Life of Garden Soil",
+    "teaser": "Beneath every garden lies an invisible world teeming with billions of creatures working together. This fascinating look at soil reveals why a handful of healthy earth contains more living organisms than there are people on the planet.",
+    "url": "https://www.bbc.com/future/article/20210309-the-hidden-world-beneath-our-feet"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Golden Age of Hungarian Thermal Baths",
-    "teaser": "Hungary sits on a geological treasure trove of thermal springs, and for centuries these healing waters have been central to Hungarian culture and daily life. From Roman times to the Ottoman era to today's grand bath houses, this is the story of a nation shaped by water.",
-    "url": "https://www.bbc.com/travel/article/20200115-the-healing-power-of-hungarys-thermal-baths"
+    "title": "The Secret Resistance: Hungary's Forgotten Heroes of World War II",
+    "teaser": "While much of Hungary's wartime story is well known, countless everyday Hungarians risked everything to save their neighbors. This moving account honors the quiet courage of ordinary people who made extraordinary choices.",
+    "url": "https://www.smithsonianmag.com/history/the-forgotten-holocaust-rescuers-180979120/"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Soaring Over Ediz Hook",
-    "description": "July is a wonderful time to spot bald eagles at Ediz Hook, the natural sand spit that protects Port Angeles Harbor. These magnificent birds often perch on driftwood or soar above the water hunting for fish, and the spit's three-mile trail offers stunning views of both the eagles and the Strait of Juan de Fuca.",
-    "link_text": "Visit Ediz Hook",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/ediz-hook.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer in Hurricane Ridge",
+    "description": "July is a wonderful time to spot black-tailed deer with their fawns in Hurricane Ridge. The young fawns, born in late spring, are now old enough to follow their mothers through the meadows, and you might see them grazing on the wildflowers that blanket the hillsides this time of year.",
+    "link_text": "Hurricane Ridge Wildlife",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
     "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's exactly right! Their tiny hearts work incredibly hard to power those rapid wing beats.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's about 20 times per second!",
-    "wrong_response": "These amazing little birds have hearts that beat about 1,200 times per minute — that's what powers their incredible hovering ability!",
-    "learn_more_text": "Anna's hummingbirds, common in Port Angeles, can beat their wings up to 80 times per second during courtship dives. Their hearts are proportionally the largest of all birds, making up about 2.5% of their body weight.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Annas_Hummingbird/lifehistory",
-    "learn_more_label": "Learn more — Cornell Lab"
+    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power all that hovering!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—imagine that!",
+    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute! That's 20 times every single second to keep those wings going.",
+    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. The hummingbird's racing heartbeat helps deliver oxygen fast enough to power wings that beat 50-80 times per second!",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Szia",
-      "Igen",
-      "Kérem"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! You got it right! It's one of the most useful and friendly words in Hungarian.",
-    "wrong_response": "The answer is 'Szia' (pronounced 'see-ah'). It's an informal, warm way to say both hello and goodbye to friends!",
-    "learn_more_text": "Szia comes from the verb 'szolgál' meaning 'to serve,' originally from the phrase 'your humble servant.' For a more formal greeting, Hungarians say 'Jó napot' (good day).",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190917-why-is-hungarian-so-difficult",
-    "learn_more_label": "Hungarian language — BBC"
+    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly—such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The word 'pillangó' comes from an old Hungarian root meaning 'to flutter.' Hungary is home to over 180 species of butterflies, including the beautiful swallowtails and peacock butterflies.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Forest?",
+    "question": "What unique feature helps sea otters, common in the Strait of Juan de Fuca, stay warm in cold water?",
     "options": [
-      "Douglas Fir",
-      "Sitka Spruce",
-      "Western Hemlock",
-      "Red Cedar"
+      "A layer of blubber like whales",
+      "The densest fur of any animal",
+      "Heated blood vessels in their paws",
+      "Extra-thick skin"
     ],
-    "correct_index": 2,
-    "correct_response": "Wonderful! Western Hemlock is indeed the most abundant tree in the Olympic forests. These beautiful evergreens thrive in the moist coastal climate and can live for over 500 years!",
-    "wrong_response": "The answer is Western Hemlock! These graceful trees with their drooping tops are the most common in Olympic National Forest, perfectly adapted to our rainy climate.",
-    "learn_more_text": "Western Hemlock can grow up to 200 feet tall and are shade-tolerant, meaning they can grow beneath the canopy of other trees. Their small cones and delicate needles make them easy to identify on trails around Port Angeles.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-hemlock.htm",
-    "learn_more_label": "Trees of Olympic — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Perfect! Sea otters have up to one million hairs per square inch—that's the densest fur in the animal kingdom, keeping them cozy in our cold Pacific waters!",
+    "wrong_response": "Sea otters actually have the densest fur of any animal—up to a million hairs per square inch! Unlike whales and seals, they don't have blubber, so that luxurious fur coat is their key to staying warm.",
+    "learn_more_text": "Sea otters spend hours each day grooming their fur to maintain its insulating properties. They blow air into their fur to create a waterproof layer, which is why you'll often see them looking so fluffy when floating on their backs!",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/southern-sea-otter",
+    "learn_more_label": "Sea otter facts — NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-13T10:15:12.276657-07:00",
-  "date": "2026-07-13",
+  "generated_at": "2026-07-14T09:18:31.545689-07:00",
+  "date": "2026-07-14",
   "is_laundry_day": false
 }
