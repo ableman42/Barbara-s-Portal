@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, July 14",
+  "date_display": "Wednesday, July 15",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, is named after a Greek navigator who sailed for Spain in 1592. He claimed to have found a passage between the Pacific and Atlantic oceans—though the strait he found doesn't quite go that far, his name lives on in these beautiful waters!",
-    "tag": "Local history"
+    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for paprika production that it has an entire museum dedicated to this beloved red spice, which became Hungary's national symbol.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "How Hummingbirds Fly in the Rain",
-    "teaser": "These tiny aerial acrobats have amazing adaptations that let them fly even in heavy downpours. Scientists have discovered their secret involves special feather structures and mid-air shaking moves.",
-    "url": "https://www.smithsonianmag.com/science-nature/how-hummingbirds-fly-rain-180979708/"
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals can hold their breath for up to 30 minutes and dive nearly 1,500 feet deep. Learn about these charming marine mammals that call the Strait of Juan de Fuca home.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Hidden Life of Garden Soil",
-    "teaser": "Beneath every garden lies an invisible world teeming with billions of creatures working together. This fascinating look at soil reveals why a handful of healthy earth contains more living organisms than there are people on the planet.",
-    "url": "https://www.bbc.com/future/article/20210309-the-hidden-world-beneath-our-feet"
+    "meta": "15 min · Gardening",
+    "title": "How Plants Know When It's Time to Bloom",
+    "teaser": "Plants have an internal clock that responds to daylight, temperature, and even memory of past seasons. Discover the fascinating science behind how your garden knows exactly when spring has arrived.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-do-plants-know-when-to-flower-180969471/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Secret Resistance: Hungary's Forgotten Heroes of World War II",
-    "teaser": "While much of Hungary's wartime story is well known, countless everyday Hungarians risked everything to save their neighbors. This moving account honors the quiet courage of ordinary people who made extraordinary choices.",
-    "url": "https://www.smithsonianmag.com/history/the-forgotten-holocaust-rescuers-180979120/"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp's beautiful hand-drawn maps revealed underwater mountains, valleys, and the Mid-Atlantic Ridge, changing our understanding of Earth forever. Her story is one of persistence, artistry, and scientific brilliance in an era when women scientists faced enormous barriers.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer in Hurricane Ridge",
-    "description": "July is a wonderful time to spot black-tailed deer with their fawns in Hurricane Ridge. The young fawns, born in late spring, are now old enough to follow their mothers through the meadows, and you might see them grazing on the wildflowers that blanket the hillsides this time of year.",
-    "link_text": "Hurricane Ridge Wildlife",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "title": "Roosevelt Elk Viewing Season",
+    "description": "July is a wonderful time to spot Roosevelt elk in the Hoh Rain Forest and nearby meadows. These majestic animals, named after President Theodore Roosevelt, are the largest of the four elk subspecies in North America. Early morning or dusk offers the best viewing opportunities along Hurricane Ridge Road.",
+    "link_text": "Olympic National Park Elk Info",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power all that hovering!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—imagine that!",
-    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute! That's 20 times every single second to keep those wings going.",
-    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. The hummingbird's racing heartbeat helps deliver oxygen fast enough to power wings that beat 50-80 times per second!",
+    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
+    "wrong_response": "Those tiny hearts are remarkable — a hummingbird's heart beats about 1,200 times per minute in flight!",
+    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat approximately every 10-15 minutes and consume up to half their body weight in sugar daily. At night, they enter a hibernation-like state called torpor to conserve energy.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "learn_more_label": "More at Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "Köszönöm",
+      "Igen",
+      "Szia",
+      "Tessék"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly—such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The word 'pillangó' comes from an old Hungarian root meaning 'to flutter.' Hungary is home to over 180 species of butterflies, including the beautiful swallowtails and peacock butterflies.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly",
-    "learn_more_label": "About butterflies — Britannica"
+    "correct_index": 2,
+    "correct_response": "Wonderful! Szia (pronounced 'see-ya') is the casual, friendly way to say both hello and goodbye!",
+    "wrong_response": "It's 'szia' (pronounced 'see-ya') — such a friendly word that works for both hello and goodbye!",
+    "learn_more_text": "For a more formal greeting, Hungarians say 'jó napot' (good day). The informal 'szia' actually comes from the word 'szolga' meaning servant, similar to how 'goodbye' in English comes from 'God be with you.'",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200825-why-hungarian-is-so-challenging-for-english-speakers",
+    "learn_more_label": "Hungarian Language — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What unique feature helps sea otters, common in the Strait of Juan de Fuca, stay warm in cold water?",
+    "question": "What do black bears in the Olympic Peninsula primarily eat?",
     "options": [
-      "A layer of blubber like whales",
-      "The densest fur of any animal",
-      "Heated blood vessels in their paws",
-      "Extra-thick skin"
+      "Fish and small mammals",
+      "Grasses, berries, and plants",
+      "Tree bark and roots",
+      "Birds and eggs"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Sea otters have up to one million hairs per square inch—that's the densest fur in the animal kingdom, keeping them cozy in our cold Pacific waters!",
-    "wrong_response": "Sea otters actually have the densest fur of any animal—up to a million hairs per square inch! Unlike whales and seals, they don't have blubber, so that luxurious fur coat is their key to staying warm.",
-    "learn_more_text": "Sea otters spend hours each day grooming their fur to maintain its insulating properties. They blow air into their fur to create a waterproof layer, which is why you'll often see them looking so fluffy when floating on their backs!",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/southern-sea-otter",
-    "learn_more_label": "Sea otter facts — NOAA Fisheries"
+    "correct_response": "Yes! Despite their fierce reputation, Olympic black bears are mostly vegetarian, dining on berries, grasses, and plants for about 90% of their diet.",
+    "wrong_response": "Surprisingly, black bears here are mostly vegetarian! About 90% of their diet is berries, grasses, and plants, though they do occasionally eat insects and small animals.",
+    "learn_more_text": "Olympic black bears particularly love huckleberries, salmonberries, and salal berries in summer. They need to consume up to 20,000 calories per day in fall to prepare for winter, when they enter their dens for a long rest.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-bears.htm",
+    "learn_more_label": "Black Bears — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-14T09:18:31.545689-07:00",
-  "date": "2026-07-14",
+  "generated_at": "2026-07-15T09:25:31.019398-07:00",
+  "date": "2026-07-15",
   "is_laundry_day": false
 }
