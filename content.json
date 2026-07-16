@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, July 15",
+  "date_display": "Thursday, July 16",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for paprika production that it has an entire museum dedicated to this beloved red spice, which became Hungary's national symbol.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have excellent memories and can remember every flower they've visited.",
+    "tag": "Bird behavior"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
     "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals can hold their breath for up to 30 minutes and dive nearly 1,500 feet deep. Learn about these charming marine mammals that call the Strait of Juan de Fuca home.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "teaser": "Harbor seals in the Pacific Northwest are more social and playful than we once thought. Learn how scientists are discovering their personalities and communication styles right here in the Salish Sea.",
+    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "How Plants Know When It's Time to Bloom",
-    "teaser": "Plants have an internal clock that responds to daylight, temperature, and even memory of past seasons. Discover the fascinating science behind how your garden knows exactly when spring has arrived.",
-    "url": "https://www.smithsonianmag.com/science-nature/how-do-plants-know-when-to-flower-180969471/"
+    "meta": "15 min · History",
+    "title": "The Library of Alexandria: What Really Happened",
+    "teaser": "The ancient Library of Alexandria wasn't destroyed in one dramatic fire, but slowly declined over centuries. Discover the real story of this legendary center of learning and what we lost when it faded away.",
+    "url": "https://www.smithsonianmag.com/history/what-happened-library-alexandria-180979800/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp's beautiful hand-drawn maps revealed underwater mountains, valleys, and the Mid-Atlantic Ridge, changing our understanding of Earth forever. Her story is one of persistence, artistry, and scientific brilliance in an era when women scientists faced enormous barriers.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "meta": "35 min · Nature",
+    "title": "The Hidden World of Old-Growth Forests",
+    "teaser": "Ancient forests like those in Olympic National Park create ecosystems that take centuries to develop. This beautiful exploration reveals how these forests communicate, support countless species, and why they're so irreplaceable.",
+    "url": "https://www.nationalgeographic.com/environment/article/old-growth-forests"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Roosevelt Elk Viewing Season",
-    "description": "July is a wonderful time to spot Roosevelt elk in the Hoh Rain Forest and nearby meadows. These majestic animals, named after President Theodore Roosevelt, are the largest of the four elk subspecies in North America. Early morning or dusk offers the best viewing opportunities along Hurricane Ridge Road.",
-    "link_text": "Olympic National Park Elk Info",
-    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "Mid-July is peak butterfly season at Hurricane Ridge! Look for colorful Western Tiger Swallowtails, Painted Ladies, and Arctic Fritillaries dancing among the wildflowers. The alpine meadows are alive with these delicate visitors enjoying the mountain sunshine.",
+    "link_text": "Hurricane Ridge Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
-    "wrong_response": "Those tiny hearts are remarkable — a hummingbird's heart beats about 1,200 times per minute in flight!",
-    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat approximately every 10-15 minutes and consume up to half their body weight in sugar daily. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More at Audubon Society"
+    "correct_response": "That's right! Amazing how fast those tiny hearts beat! 🐦",
+    "close_response": "You're very close! The answer is about 1,200 beats per minute — incredibly fast!",
+    "wrong_response": "Those tiny hearts are incredibly fast — about 1,200 beats per minute during flight! That's more than 20 beats every second.",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily to keep their energy up!",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Igen",
-      "Szia",
-      "Tessék"
-    ],
-    "correct_index": 2,
-    "correct_response": "Wonderful! Szia (pronounced 'see-ya') is the casual, friendly way to say both hello and goodbye!",
-    "wrong_response": "It's 'szia' (pronounced 'see-ya') — such a friendly word that works for both hello and goodbye!",
-    "learn_more_text": "For a more formal greeting, Hungarians say 'jó napot' (good day). The informal 'szia' actually comes from the word 'szolga' meaning servant, similar to how 'goodbye' in English comes from 'God be with you.'",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200825-why-hungarian-is-so-challenging-for-english-speakers",
-    "learn_more_label": "Hungarian Language — BBC Travel"
-  },
-  "puzzle_3": {
-    "question": "What do black bears in the Olympic Peninsula primarily eat?",
-    "options": [
-      "Fish and small mammals",
-      "Grasses, berries, and plants",
-      "Tree bark and roots",
-      "Birds and eggs"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Yes! Despite their fierce reputation, Olympic black bears are mostly vegetarian, dining on berries, grasses, and plants for about 90% of their diet.",
-    "wrong_response": "Surprisingly, black bears here are mostly vegetarian! About 90% of their diet is berries, grasses, and plants, though they do occasionally eat insects and small animals.",
-    "learn_more_text": "Olympic black bears particularly love huckleberries, salmonberries, and salal berries in summer. They need to consume up to 20,000 calories per day in fall to prepare for winter, when they enter their dens for a long rest.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/black-bears.htm",
-    "learn_more_label": "Black Bears — Olympic National Park"
+    "correct_response": "Igen! Pillangó is butterfly — such a lovely, musical word! 🦋",
+    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee. Hungarian has such beautiful words for nature.",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to be onomatopoetic, mimicking the light fluttering sound of butterfly wings. Many Hungarian nature words have similarly poetic origins.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/animals-nature-Hungarian.aspx",
+    "learn_more_label": "Hungarian Reference"
+  },
+  "puzzle_3": {
+    "question": "What tree species dominates the old-growth forests of Olympic National Park?",
+    "options": [
+      "Douglas Fir",
+      "Giant Sequoia",
+      "Sitka Spruce",
+      "Coast Redwood"
+    ],
+    "correct_index": 2,
+    "correct_response": "Wonderful! Sitka Spruce trees are the giants of Olympic's rainforests, some reaching over 300 feet tall! 🌲",
+    "wrong_response": "It's the Sitka Spruce! These magnificent trees thrive in the wet coastal climate of the Olympic Peninsula and can live for over 700 years, creating the magical rainforest cathedral feeling.",
+    "learn_more_text": "The Hoh and Quinault rainforests contain some of the largest Sitka Spruces in the world. These trees can grow over 10 feet in diameter and create ecosystems that support hundreds of other species.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-15T09:25:31.019398-07:00",
-  "date": "2026-07-15",
+  "generated_at": "2026-07-16T09:19:02.419143-07:00",
+  "date": "2026-07-16",
   "is_laundry_day": false
 }
