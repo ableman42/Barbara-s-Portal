@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, July 16",
+  "date_display": "Friday, July 17",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have excellent memories and can remember every flower they've visited.",
-    "tag": "Bird behavior"
+    "text": "The Hungarian word for butterfly is 'pillangó,' which comes from the word 'pille' meaning moth. Hungarians once believed butterflies were the souls of ancestors visiting loved ones, bringing messages of hope and renewal.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals in the Pacific Northwest are more social and playful than we once thought. Learn how scientists are discovering their personalities and communication styles right here in the Salish Sea.",
-    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
+    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
+    "teaser": "Harbor seals are year-round residents of the waters around Port Angeles, and they're more social than you might think. Learn about their playful personalities and how they communicate underwater.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Library of Alexandria: What Really Happened",
-    "teaser": "The ancient Library of Alexandria wasn't destroyed in one dramatic fire, but slowly declined over centuries. Discover the real story of this legendary center of learning and what we lost when it faded away.",
-    "url": "https://www.smithsonianmag.com/history/what-happened-library-alexandria-180979800/"
+    "meta": "15 min · Nature",
+    "title": "The Ancient Cedars of the Olympic Peninsula",
+    "teaser": "Some western red cedars in Olympic National Park are over 1,000 years old, standing as silent witnesses to centuries of history. These magnificent trees were sacred to indigenous peoples and continue to inspire awe in all who encounter them.",
+    "url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "The Hidden World of Old-Growth Forests",
-    "teaser": "Ancient forests like those in Olympic National Park create ecosystems that take centuries to develop. This beautiful exploration reveals how these forests communicate, support countless species, and why they're so irreplaceable.",
-    "url": "https://www.nationalgeographic.com/environment/article/old-growth-forests"
+    "meta": "35 min · History",
+    "title": "Budapest: The Pearl of the Danube",
+    "teaser": "This beautiful exploration of Budapest's rich history takes you from Roman times through the Ottoman era to the grand architecture of the Austro-Hungarian Empire. Discover how this stunning city became one of Europe's most beloved capitals.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-pearl-danube-180968493/"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "Mid-July is peak butterfly season at Hurricane Ridge! Look for colorful Western Tiger Swallowtails, Painted Ladies, and Arctic Fritillaries dancing among the wildflowers. The alpine meadows are alive with these delicate visitors enjoying the mountain sunshine.",
-    "link_text": "Hurricane Ridge Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦅",
+    "title": "Bald Eagles Fishing at Ediz Hook",
+    "description": "July is prime time to watch bald eagles fishing along Ediz Hook, the natural sand spit that protects Port Angeles Harbor. These magnificent birds dive for salmon and often perch on driftwood logs, offering wonderful viewing opportunities for patient observers with binoculars.",
+    "link_text": "Visit Ediz Hook",
+    "link_url": "https://www.portangeles.org/explore/ediz-hook"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right! Amazing how fast those tiny hearts beat! 🐦",
-    "close_response": "You're very close! The answer is about 1,200 beats per minute — incredibly fast!",
-    "wrong_response": "Those tiny hearts are incredibly fast — about 1,200 beats per minute during flight! That's more than 20 beats every second.",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily to keep their energy up!",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Exactly right! That's an incredibly fast heartbeat — about 20 times per second!",
+    "close_response": "So close! A hummingbird's heart beats about 1,200 times per minute in flight — truly astonishing!",
+    "wrong_response": "A hummingbird's tiny heart beats an amazing 1,200 times per minute while flying — that's why they need to eat so often!",
+    "learn_more_text": "Despite their tiny size, hummingbirds have the highest metabolism of any warm-blooded animal. They must consume about half their body weight in sugar daily just to survive!",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-keep-their-cool",
+    "learn_more_label": "Learn more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "Szia",
+      "Köszönöm",
+      "Viszlát",
+      "Kérem"
     ],
     "correct_index": 1,
-    "correct_response": "Igen! Pillangó is butterfly — such a lovely, musical word! 🦋",
-    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee. Hungarian has such beautiful words for nature.",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to be onomatopoetic, mimicking the light fluttering sound of butterfly wings. Many Hungarian nature words have similarly poetic origins.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/animals-nature-Hungarian.aspx",
-    "learn_more_label": "Hungarian Reference"
+    "correct_response": "Köszönöm! That's perfect! It's such a warm and important word to know.",
+    "wrong_response": "The word is 'köszönöm' — such a beautiful way to express gratitude! 'Szia' means hi, 'viszlát' means goodbye, and 'kérem' means please.",
+    "learn_more_text": "Hungarian is one of the most unique languages in Europe, belonging to the Finno-Ugric family rather than the Indo-European family. It's most closely related to Finnish and Estonian, though even those connections are quite distant.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-is-hungarian-so-difficult",
+    "learn_more_label": "Explore Hungarian — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What tree species dominates the old-growth forests of Olympic National Park?",
+    "question": "What color are a polar bear's skin underneath their white fur?",
     "options": [
-      "Douglas Fir",
-      "Giant Sequoia",
-      "Sitka Spruce",
-      "Coast Redwood"
+      "Pink",
+      "Black",
+      "Brown",
+      "White"
     ],
-    "correct_index": 2,
-    "correct_response": "Wonderful! Sitka Spruce trees are the giants of Olympic's rainforests, some reaching over 300 feet tall! 🌲",
-    "wrong_response": "It's the Sitka Spruce! These magnificent trees thrive in the wet coastal climate of the Olympic Peninsula and can live for over 700 years, creating the magical rainforest cathedral feeling.",
-    "learn_more_text": "The Hoh and Quinault rainforests contain some of the largest Sitka Spruces in the world. These trees can grow over 10 feet in diameter and create ecosystems that support hundreds of other species.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Yes, black! Isn't that fascinating? Their black skin helps them absorb heat from the sun, while their transparent fur appears white and provides camouflage.",
+    "wrong_response": "Actually, polar bear skin is black! The dark color helps them absorb and retain heat in the Arctic cold, while their hollow, transparent fur reflects light and appears white.",
+    "learn_more_text": "Polar bear fur isn't actually white — each hair is a hollow, transparent tube that reflects light, making them appear white. This ingenious adaptation helps them blend into their snowy environment while their black skin soaks up warmth.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/polar-bear",
+    "learn_more_label": "Discover more — National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-16T09:19:02.419143-07:00",
-  "date": "2026-07-16",
+  "generated_at": "2026-07-17T09:17:44.549292-07:00",
+  "date": "2026-07-17",
   "is_laundry_day": false
 }
