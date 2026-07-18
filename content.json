@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, July 17",
+  "date_display": "Saturday, July 18",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Hungarian word for butterfly is 'pillangó,' which comes from the word 'pille' meaning moth. Hungarians once believed butterflies were the souls of ancestors visiting loved ones, bringing messages of hope and renewal.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. These tiny acrobats can beat their wings up to 80 times per second.",
+    "tag": "Bird wonders"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals are year-round residents of the waters around Port Angeles, and they're more social than you might think. Learn about their playful personalities and how they communicate underwater.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Gardens",
+    "title": "The Secret Language of Flowers in Victorian Times",
+    "teaser": "Did you know that in the 1800s, people sent coded messages through flower bouquets? Each bloom had a special meaning, turning gardens into poetry.",
+    "url": "https://www.smithsonianmag.com/arts-culture/the-lost-language-of-flowers-110359551/"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Ancient Cedars of the Olympic Peninsula",
-    "teaser": "Some western red cedars in Olympic National Park are over 1,000 years old, standing as silent witnesses to centuries of history. These magnificent trees were sacred to indigenous peoples and continue to inspire awe in all who encounter them.",
-    "url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "Once nearly extinct, sea otters are making a remarkable comeback along the Northwest coast. These charming creatures are not just adorable — they're essential guardians of the kelp forests.",
+    "url": "https://www.npca.org/articles/2844-the-return-of-the-sea-otter"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "Budapest: The Pearl of the Danube",
-    "teaser": "This beautiful exploration of Budapest's rich history takes you from Roman times through the Ottoman era to the grand architecture of the Austro-Hungarian Empire. Discover how this stunning city became one of Europe's most beloved capitals.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-pearl-danube-180968493/"
+    "title": "Ellis Island: Gateway to America's Immigrant Stories",
+    "teaser": "Between 1892 and 1954, over 12 million immigrants passed through Ellis Island, each carrying dreams of a new life. Their stories shaped the fabric of America in ways we still feel today.",
+    "url": "https://www.nps.gov/elis/learn/historyculture/ellis-island-history.htm"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Fishing at Ediz Hook",
-    "description": "July is prime time to watch bald eagles fishing along Ediz Hook, the natural sand spit that protects Port Angeles Harbor. These magnificent birds dive for salmon and often perch on driftwood logs, offering wonderful viewing opportunities for patient observers with binoculars.",
-    "link_text": "Visit Ediz Hook",
-    "link_url": "https://www.portangeles.org/explore/ediz-hook"
+    "icon": "🌲",
+    "title": "Ancient Trees at Lake Crescent",
+    "description": "Just a short drive from Port Angeles, Lake Crescent's Marymere Falls Trail takes you through a cathedral of old-growth forest, with Douglas firs and Western red cedars over 300 years old. The easy 1.8-mile loop trail leads to a stunning 90-foot waterfall — a perfect summer morning outing with cool shade and fresh mountain air.",
+    "link_text": "Trail information",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-lake-crescent.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "A newborn giant panda weighs about the same as a stick of butter — only about ___ ounces!",
+    "answer": 4,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right! That's an incredibly fast heartbeat — about 20 times per second!",
-    "close_response": "So close! A hummingbird's heart beats about 1,200 times per minute in flight — truly astonishing!",
-    "wrong_response": "A hummingbird's tiny heart beats an amazing 1,200 times per minute while flying — that's why they need to eat so often!",
-    "learn_more_text": "Despite their tiny size, hummingbirds have the highest metabolism of any warm-blooded animal. They must consume about half their body weight in sugar daily just to survive!",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-keep-their-cool",
-    "learn_more_label": "Learn more — Audubon Society"
+    "close_range": 1,
+    "correct_response": "Exactly right! It's amazing how these tiny babies grow into 200-pound adults!",
+    "close_response": "Very close! They weigh about 4 ounces — smaller than most cell phones!",
+    "wrong_response": "They're incredibly tiny — just 4 ounces! That's about 1/900th the size of their mother!",
+    "learn_more_text": "Despite being so tiny at birth, giant pandas grow rapidly on their mother's rich milk, which is five times more nutritious than cow's milk. By their first birthday, they weigh about 45 pounds!",
+    "learn_more_url": "https://nationalzoo.si.edu/animals/giant-panda",
+    "learn_more_label": "More about pandas — Smithsonian"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Viszlát",
-      "Kérem"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Napraforgó"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's perfect! It's such a warm and important word to know.",
-    "wrong_response": "The word is 'köszönöm' — such a beautiful way to express gratitude! 'Szia' means hi, 'viszlát' means goodbye, and 'kérem' means please.",
-    "learn_more_text": "Hungarian is one of the most unique languages in Europe, belonging to the Finno-Ugric family rather than the Indo-European family. It's most closely related to Finnish and Estonian, though even those connections are quite distant.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-is-hungarian-so-difficult",
-    "learn_more_label": "Explore Hungarian — BBC Travel"
+    "correct_response": "Igen! Pillangó is butterfly — such a beautiful, dancing word for a dancing creature!",
+    "wrong_response": "It's 'pillangó' — doesn't it sound like the flutter of wings? (Madár means bird, virág means flower, and napraforgó means sunflower!)",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word for 'fleeting' or 'fluttering,' perfectly capturing the delicate movement of these lovely insects. Hungary is home to over 180 species of butterflies!",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What color are a polar bear's skin underneath their white fur?",
+    "question": "What color is a giraffe's tongue?",
     "options": [
       "Pink",
-      "Black",
-      "Brown",
-      "White"
+      "Red",
+      "Blue-black",
+      "Gray"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes, black! Isn't that fascinating? Their black skin helps them absorb heat from the sun, while their transparent fur appears white and provides camouflage.",
-    "wrong_response": "Actually, polar bear skin is black! The dark color helps them absorb and retain heat in the Arctic cold, while their hollow, transparent fur reflects light and appears white.",
-    "learn_more_text": "Polar bear fur isn't actually white — each hair is a hollow, transparent tube that reflects light, making them appear white. This ingenious adaptation helps them blend into their snowy environment while their black skin soaks up warmth.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/polar-bear",
-    "learn_more_label": "Discover more — National Geographic"
+    "correct_index": 2,
+    "correct_response": "Perfect! Their tongues are blue-black, which scientists think helps protect them from sunburn since they spend so much time reaching up to eat!",
+    "wrong_response": "Their tongues are actually blue-black! This dark color acts like natural sunscreen, protecting them as they spend up to 12 hours a day munching on leaves in the hot African sun.",
+    "learn_more_text": "A giraffe's tongue can be up to 20 inches long and is incredibly tough and dexterous, allowing them to strip leaves from thorny acacia trees without getting hurt. The dark pigmentation may also prevent sun damage during their long feeding sessions.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/giraffe",
+    "learn_more_label": "Giraffe facts — National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-17T09:17:44.549292-07:00",
-  "date": "2026-07-17",
+  "generated_at": "2026-07-18T08:59:51.372364-07:00",
+  "date": "2026-07-18",
   "is_laundry_day": false
 }
