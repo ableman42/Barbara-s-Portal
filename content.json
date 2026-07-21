@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, July 20",
+  "date_display": "Tuesday, July 21",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Hungarian word 'pillangó' (butterfly) comes from 'lepke', but the playful word literally means 'fluttering moment.' Hungary is home to over 160 species of butterflies, including the stunning Scarce Swallowtail that migrates through gardens each summer.",
-    "tag": "Hungarian nature"
+    "text": "Hungary has more thermal springs than almost any other country in the world, with over 1,000 natural hot springs! Budapest alone has 118 natural thermal springs, which is why it's known as the 'City of Spas.' These healing waters have been enjoyed since Roman times.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, hauling out on rocks near Port Angeles. Learn about their fascinating underwater communication and surprising intelligence.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Life of Hummingbirds in Your Garden",
+    "teaser": "These tiny jewels can remember every flower they've visited and how long it takes each one to refill with nectar. Learn how these remarkable birds plan their daily routes like little aerial mathematicians.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54012629/"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "How Plants Know When to Bloom",
-    "teaser": "Scientists have discovered that plants use an internal clock and light sensors to time their flowers perfectly. This gentle explanation reveals the hidden intelligence in every garden.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-inner-clock-that-tells-plants-when-to-flower-180972356/"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "Once hunted nearly to extinction, sea otters are slowly returning to Washington's coastal waters. Their comeback story is not just heartwarming—these playful animals are essential to keeping kelp forests healthy and thriving.",
+    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Lost Gardens of Budapest's Castle Hill",
-    "teaser": "For centuries, terraced gardens graced Budapest's historic Castle District, filled with rare roses and medicinal herbs. Historians are now piecing together their stories and bringing some back to life.",
-    "url": "https://www.bbc.com/travel/article/20190401-budapests-hidden-castle-gardens"
+    "title": "The Ancient Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have passed down intricate embroidery patterns that tell stories of their villages and families. This beautiful tradition connects modern Hungary to its folk roots through colorful threads and meaningful symbols.",
+    "url": "https://www.bbcamerica.com/anglophenia/2014/10/hungarian-embroidery-ancient-craft-living-tradition"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Nesting Along Ediz Hook",
-    "description": "July is a wonderful time to spot bald eagle families along Ediz Hook and the waterfront. Adult eagles are teaching their fledglings to fish in the protected waters of the harbor. Bring binoculars for the best views!",
-    "link_text": "Port Angeles Eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "Late July is peak butterfly season on Hurricane Ridge! The alpine meadows are alive with colorful species like the Anise Swallowtail and Painted Lady butterflies dancing among the wildflowers. It's a magical time to visit the high country and enjoy the cool mountain air.",
+    "link_text": "Hurricane Ridge Visitor Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute when active.",
+    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is working incredibly hard — like a little miracle of nature!",
-    "close_response": "Very close! The answer is 1,200 beats per minute — those tiny hearts are amazing!",
-    "wrong_response": "The answer is 1,200 beats per minute! Can you imagine? That's about 20 beats every second!",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals. They must visit hundreds of flowers each day just to get enough energy to survive.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "Learn more — Audubon Society"
+    "correct_response": "Exactly right! That's incredibly fast—about 20 beats every second!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute—almost unbelievably fast!",
+    "wrong_response": "These tiny birds have mighty hearts! A hummingbird's heart beats about 1,200 times per minute in flight—that's 20 times every second.",
+    "learn_more_text": "To support such a fast heart rate, hummingbirds must eat constantly, consuming about half their body weight in sugar daily. When they sleep at night, their heart rate drops to as low as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
+    "learn_more_label": "More Hummingbird Facts — Cornell Lab"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'good morning'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Jó estét",
-      "Jó éjszakát",
-      "Jó napot",
-      "Jó reggelt"
-    ],
-    "correct_index": 3,
-    "correct_response": "Wonderful, Ildiko! Jó reggelt is exactly right — what a lovely way to greet the day!",
-    "wrong_response": "The answer is 'jó reggelt'! Jó napot means 'good day,' jó estét is 'good evening,' and jó éjszakát means 'good night.'",
-    "learn_more_text": "Hungarian greetings often include 'jó' (good) followed by the time of day. The formal 'reggelt' comes from 'reggel,' meaning morning.",
-    "learn_more_url": "https://www.hungarianreference.com/Greetings/basic-greetings.aspx",
-    "learn_more_label": "Hungarian greetings — Hungarian Reference"
-  },
-  "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Park?",
-    "options": [
-      "Sitka Spruce",
-      "Western Hemlock",
-      "Douglas Fir",
-      "Western Red Cedar"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Yes! Western Hemlock trees blanket the Olympic forests — they love the misty rain and grow so tall and graceful. You've probably enjoyed their shade on many walks!",
-    "wrong_response": "It's the Western Hemlock! These beautiful trees thrive in the Olympic Peninsula's rainy climate and can live for over 500 years. Their delicate needles and drooping tops make them easy to identify.",
-    "learn_more_text": "Western Hemlocks are the climax species of Pacific Northwest forests, meaning they're often the final tree to dominate a mature forest. Their tiny cones feed Douglas squirrels and many birds.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-hemlock.htm",
-    "learn_more_label": "Olympic trees — National Park Service"
+    "correct_response": "Köszönöm! That's perfect—you know your Hungarian!",
+    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi'). It's one of the most important words to know!",
+    "learn_more_text": "Hungarian is unique among European languages—it's part of the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to any of its neighboring countries' languages. This makes it one of the most distinctive languages in Europe.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190924-why-is-hungarian-so-difficult",
+    "learn_more_label": "About Hungarian — BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What do sea otters do while sleeping to avoid drifting apart from their group?",
+    "options": [
+      "Anchor to rocks with their tails",
+      "Sleep on the beach instead",
+      "Hold hands with each other",
+      "Form a circle and link paws"
+    ],
+    "correct_index": 2,
+    "correct_response": "Yes! Sea otters hold hands while sleeping—it's called 'rafting' and it's as adorable as it sounds. This keeps the group together in the ocean currents.",
+    "wrong_response": "Sea otters actually hold hands while they sleep! This sweet behavior, called 'rafting,' keeps them from drifting apart while floating on their backs.",
+    "learn_more_text": "A group of resting sea otters is called a 'raft,' and can include just a few otters or over 100 animals. They also wrap themselves in kelp like a blanket to stay anchored in one spot while they rest.",
+    "learn_more_url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter",
+    "learn_more_label": "Sea Otter Facts — Monterey Bay Aquarium"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-20T09:25:57.390317-07:00",
-  "date": "2026-07-20",
+  "generated_at": "2026-07-21T09:24:28.296011-07:00",
+  "date": "2026-07-21",
   "is_laundry_day": false
 }
