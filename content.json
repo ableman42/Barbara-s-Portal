@@ -1,87 +1,87 @@
 {
-  "date_display": "Tuesday, July 21",
+  "date_display": "Wednesday, July 22",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungary has more thermal springs than almost any other country in the world, with over 1,000 natural hot springs! Budapest alone has 118 natural thermal springs, which is why it's known as the 'City of Spas.' These healing waters have been enjoyed since Roman times.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. The Pacific Northwest is home to several species, including the beautiful rufous hummingbird that visits Port Angeles every summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Life of Hummingbirds in Your Garden",
-    "teaser": "These tiny jewels can remember every flower they've visited and how long it takes each one to refill with nectar. Learn how these remarkable birds plan their daily routes like little aerial mathematicians.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54012629/"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and warning each other of dangers. This 'wood wide web' shows that forests are more connected than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "Once hunted nearly to extinction, sea otters are slowly returning to Washington's coastal waters. Their comeback story is not just heartwarming—these playful animals are essential to keeping kelp forests healthy and thriving.",
-    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
+    "meta": "15 min · Hungarian Culture",
+    "title": "The Golden Age of Hungarian Thermal Baths",
+    "teaser": "Hungary has over 1,000 natural thermal springs, and bathing culture has been part of daily life for centuries. From Roman times through the Ottoman Empire to today, these healing waters remain a cherished tradition.",
+    "url": "https://www.bbc.com/travel/article/20190827-budapests-age-old-bathing-culture"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Ancient Art of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women have passed down intricate embroidery patterns that tell stories of their villages and families. This beautiful tradition connects modern Hungary to its folk roots through colorful threads and meaningful symbols.",
-    "url": "https://www.bbcamerica.com/anglophenia/2014/10/hungarian-embroidery-ancient-craft-living-tradition"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp created the first scientific map of the Atlantic Ocean floor in the 1950s, discovering the Mid-Atlantic Ridge and revolutionizing our understanding of plate tectonics. Her story is one of persistence, brilliance, and overcoming barriers in a male-dominated field.",
+    "url": "https://www.nationalgeographic.com/science/article/marie-tharp-pioneered-mapping-ocean-floor"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "Late July is peak butterfly season on Hurricane Ridge! The alpine meadows are alive with colorful species like the Anise Swallowtail and Painted Lady butterflies dancing among the wildflowers. It's a magical time to visit the high country and enjoy the cool mountain air.",
-    "link_text": "Hurricane Ridge Visitor Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "July is peak pupping season for harbor seals in the Strait of Juan de Fuca! Mother seals can be spotted nursing their pups on rocky shores and beaches around Port Angeles. If you see a pup alone on the beach, it's likely just resting while mom hunts nearby—observing from a distance is the best way to help.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That's incredibly fast—about 20 beats every second!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute—almost unbelievably fast!",
-    "wrong_response": "These tiny birds have mighty hearts! A hummingbird's heart beats about 1,200 times per minute in flight—that's 20 times every second.",
-    "learn_more_text": "To support such a fast heart rate, hummingbirds must eat constantly, consuming about half their body weight in sugar daily. When they sleep at night, their heart rate drops to as low as 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
-    "learn_more_label": "More Hummingbird Facts — Cornell Lab"
+    "correct_response": "Wonderful! Yes, 1,200 beats per minute—that's about 20 times per second! Their tiny hearts work incredibly hard to power their amazing flying abilities.",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while flying—an absolutely astonishing rate!",
+    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute while flying! It's hard to imagine something so tiny working so fast.",
+    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat about half their body weight in sugar each day, visiting hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/lifehistory",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "virág",
+      "pillangó",
+      "madár",
+      "napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's perfect—you know your Hungarian!",
-    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi'). It's one of the most important words to know!",
-    "learn_more_text": "Hungarian is unique among European languages—it's part of the Finno-Ugric language family, making it more closely related to Finnish and Estonian than to any of its neighboring countries' languages. This makes it one of the most distinctive languages in Europe.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190924-why-is-hungarian-so-difficult",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Beautifully done! Pillangó is Hungarian for butterfly—such a lovely, lilting word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound almost as graceful as the creature itself? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
+    "learn_more_text": "Hungarian has many poetic nature words. The word 'pillangó' may come from 'pillant' (to glance) because butterflies seem to flit and glance from flower to flower.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Britannica on Hungarian"
   },
   "puzzle_3": {
-    "question": "What do sea otters do while sleeping to avoid drifting apart from their group?",
+    "question": "What type of tree is the largest living organism on Earth by volume?",
     "options": [
-      "Anchor to rocks with their tails",
-      "Sleep on the beach instead",
-      "Hold hands with each other",
-      "Form a circle and link paws"
+      "Coast Redwood",
+      "Douglas Fir",
+      "Giant Sequoia",
+      "Sitka Spruce"
     ],
     "correct_index": 2,
-    "correct_response": "Yes! Sea otters hold hands while sleeping—it's called 'rafting' and it's as adorable as it sounds. This keeps the group together in the ocean currents.",
-    "wrong_response": "Sea otters actually hold hands while they sleep! This sweet behavior, called 'rafting,' keeps them from drifting apart while floating on their backs.",
-    "learn_more_text": "A group of resting sea otters is called a 'raft,' and can include just a few otters or over 100 animals. They also wrap themselves in kelp like a blanket to stay anchored in one spot while they rest.",
-    "learn_more_url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter",
-    "learn_more_label": "Sea Otter Facts — Monterey Bay Aquarium"
+    "correct_response": "Absolutely right! The Giant Sequoia named 'General Sherman' is the largest living organism by volume—it weighs about 2.7 million pounds and is still growing!",
+    "wrong_response": "It's actually the Giant Sequoia! The largest one, named 'General Sherman' in California, weighs about 2.7 million pounds. While coast redwoods are taller, sequoias are more massive overall.",
+    "learn_more_text": "Giant Sequoias can live for over 3,000 years and their bark can be up to 3 feet thick, protecting them from fire and insects. They only grow naturally in a small area of California's Sierra Nevada mountains.",
+    "learn_more_url": "https://www.nps.gov/seki/learn/nature/giant-sequoias.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
     "title": "Bubble Shooter",
-    "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
+    "description": "A relaxing bubble puzzle game—aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-21T09:24:28.296011-07:00",
-  "date": "2026-07-21",
+  "generated_at": "2026-07-22T09:20:49.629456-07:00",
+  "date": "2026-07-22",
   "is_laundry_day": false
 }
