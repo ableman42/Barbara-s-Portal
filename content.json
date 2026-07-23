@@ -1,87 +1,87 @@
 {
-  "date_display": "Wednesday, July 22",
+  "date_display": "Thursday, July 23",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings can rotate in a full circle, allowing them to hover in place and even fly upside down for short distances. The Pacific Northwest is home to several species, including the beautiful rufous hummingbird that visits Port Angeles every summer.",
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Olympic Peninsula is home to both Anna's and Rufous hummingbirds during summer months.",
     "tag": "Local Wildlife"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and warning each other of dangers. This 'wood wide web' shows that forests are more connected than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels of the bird world have hearts that beat over 1,200 times per minute and memories that help them remember every flower they've visited. Discover the amazing abilities of these backyard visitors.",
+    "url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights"
   },
   "medium_read": {
-    "meta": "15 min · Hungarian Culture",
+    "meta": "15 min · History",
     "title": "The Golden Age of Hungarian Thermal Baths",
-    "teaser": "Hungary has over 1,000 natural thermal springs, and bathing culture has been part of daily life for centuries. From Roman times through the Ottoman Empire to today, these healing waters remain a cherished tradition.",
-    "url": "https://www.bbc.com/travel/article/20190827-budapests-age-old-bathing-culture"
+    "teaser": "Hungary has more thermal water springs than almost any other country, and bathing culture has been central to Hungarian life for over 2,000 years. From Roman times to the Ottoman era to today, these healing waters tell the story of a nation.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-land-spas-180963129/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp created the first scientific map of the Atlantic Ocean floor in the 1950s, discovering the Mid-Atlantic Ridge and revolutionizing our understanding of plate tectonics. Her story is one of persistence, brilliance, and overcoming barriers in a male-dominated field.",
-    "url": "https://www.nationalgeographic.com/science/article/marie-tharp-pioneered-mapping-ocean-floor"
+    "meta": "35 min · Natural History",
+    "title": "Olympic National Park: A Crown Jewel of Biodiversity",
+    "teaser": "From temperate rainforests to alpine peaks to wild Pacific coastline, the Olympic Peninsula contains more ecological diversity than almost anywhere on Earth. This is the story of how this unique landscape was preserved for future generations.",
+    "url": "https://www.nps.gov/olym/learn/nature/biodiversity.htm"
   },
   "port_angeles": {
     "icon": "🦭",
     "title": "Harbor Seal Pupping Season",
-    "description": "July is peak pupping season for harbor seals in the Strait of Juan de Fuca! Mother seals can be spotted nursing their pups on rocky shores and beaches around Port Angeles. If you see a pup alone on the beach, it's likely just resting while mom hunts nearby—observing from a distance is the best way to help.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "description": "July is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals often rest on beaches and rocks with their pups, teaching them to swim and hunt. The best viewing spots include Ediz Hook and Dungeness Spit, but remember to keep at least 100 yards away to avoid disturbing these new families.",
+    "link_text": "Harbor Seal Watching Tips",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/seal-and-sea-lion-viewing.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats about ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Wonderful! Yes, 1,200 beats per minute—that's about 20 times per second! Their tiny hearts work incredibly hard to power their amazing flying abilities.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while flying—an absolutely astonishing rate!",
-    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute while flying! It's hard to imagine something so tiny working so fast.",
-    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat about half their body weight in sugar each day, visiting hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Rufous_Hummingbird/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "correct_response": "That's right! Can you imagine — 1,200 beats per minute! Your heart is probably beating around 70 times per minute right now. These tiny birds are truly remarkable.",
+    "close_response": "You're very close! The answer is 1,200 beats per minute. That's about 20 times faster than a human heart at rest!",
+    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine a heart beating that fast, but hummingbirds need all that energy to power their incredible flying abilities.",
+    "learn_more_text": "To support their super-fast metabolism, hummingbirds must eat about half their body weight in sugar every day and visit hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "More About Hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "virág",
-      "pillangó",
-      "madár",
-      "napsugár"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Beautifully done! Pillangó is Hungarian for butterfly—such a lovely, lilting word for such a delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound almost as graceful as the creature itself? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
-    "learn_more_text": "Hungarian has many poetic nature words. The word 'pillangó' may come from 'pillant' (to glance) because butterflies seem to flit and glance from flower to flower.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Britannica on Hungarian"
+    "correct_response": "Beautiful! Pillangó is such a lovely word for these delicate creatures. The word comes from the verb 'pillanni' which means 'to blink' — perhaps because butterflies move so quickly!",
+    "wrong_response": "The answer is pillangó! It's such a musical word. Madár means bird, virág means flower, and csillag means star — all beautiful words too!",
+    "learn_more_text": "Hungary is home to about 160 species of butterflies, including the beautiful Scarce Swallowtail. Many Hungarian folk songs and poems feature pillangók as symbols of transformation and summer.",
+    "learn_more_url": "https://www.hungarianmuseum.com/hungarian-language-and-culture",
+    "learn_more_label": "Hungarian Language — Hungarian Museum"
   },
   "puzzle_3": {
-    "question": "What type of tree is the largest living organism on Earth by volume?",
+    "question": "What unique feature makes the Olympic Peninsula's rainforests special?",
     "options": [
-      "Coast Redwood",
-      "Douglas Fir",
-      "Giant Sequoia",
-      "Sitka Spruce"
+      "They're the driest rainforests on Earth",
+      "They're the only temperate rainforests in North America",
+      "They only rain at night",
+      "They have no trees over 50 feet tall"
     ],
-    "correct_index": 2,
-    "correct_response": "Absolutely right! The Giant Sequoia named 'General Sherman' is the largest living organism by volume—it weighs about 2.7 million pounds and is still growing!",
-    "wrong_response": "It's actually the Giant Sequoia! The largest one, named 'General Sherman' in California, weighs about 2.7 million pounds. While coast redwoods are taller, sequoias are more massive overall.",
-    "learn_more_text": "Giant Sequoias can live for over 3,000 years and their bark can be up to 3 feet thick, protecting them from fire and insects. They only grow naturally in a small area of California's Sierra Nevada mountains.",
-    "learn_more_url": "https://www.nps.gov/seki/learn/nature/giant-sequoias.htm",
-    "learn_more_label": "National Park Service"
+    "correct_index": 1,
+    "correct_response": "Exactly right! The Olympic Peninsula's temperate rainforests are incredibly rare — they're among only a handful of such ecosystems in the entire world. You're living next to something truly special!",
+    "wrong_response": "The answer is that they're the only temperate rainforests in North America! Unlike tropical rainforests, these forests thrive in cool, moist conditions and feature different species like Sitka spruce and western hemlock.",
+    "learn_more_text": "The Hoh Rainforest receives 12-14 feet of rain per year, creating a magical landscape of moss-draped trees, ferns, and enormous old-growth trees. Some trees in these forests are over 500 years old.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Temperate Rainforests — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
     "title": "Bubble Shooter",
-    "description": "A relaxing bubble puzzle game—aim and pop matching colored bubbles. Easy to pick up, fun to play!",
+    "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-22T09:20:49.629456-07:00",
-  "date": "2026-07-22",
+  "generated_at": "2026-07-23T09:38:32.710108-07:00",
+  "date": "2026-07-23",
   "is_laundry_day": false
 }
