@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, July 23",
+  "date_display": "Friday, July 24",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Olympic Peninsula is home to both Anna's and Rufous hummingbirds during summer months.",
-    "tag": "Local Wildlife"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by rapidly flapping their wings 50-80 times per second. The Anna's hummingbird, common in the Pacific Northwest, can even survive cold winters by lowering its body temperature at night to conserve energy.",
+    "tag": "Pacific Northwest Wildlife"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world have hearts that beat over 1,200 times per minute and memories that help them remember every flower they've visited. Discover the amazing abilities of these backyard visitors.",
-    "url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights"
+    "meta": "5 min · Gardening",
+    "title": "The Secret Life of Garden Soil",
+    "teaser": "There's a whole universe beneath your feet in the garden! Discover how a single teaspoon of healthy soil contains more living organisms than there are people on Earth.",
+    "url": "https://www.smithsonianmag.com/science-nature/secret-life-soil-180949723/"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Golden Age of Hungarian Thermal Baths",
-    "teaser": "Hungary has more thermal water springs than almost any other country, and bathing culture has been central to Hungarian life for over 2,000 years. From Roman times to the Ottoman era to today, these healing waters tell the story of a nation.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-land-spas-180963129/"
+    "meta": "15 min · Wildlife",
+    "title": "The Amazing Intelligence of Octopuses",
+    "teaser": "Scientists are discovering that octopuses can solve puzzles, recognize individual humans, and even display playfulness. These eight-armed wonders of the sea continue to surprise researchers with their problem-solving abilities.",
+    "url": "https://www.nationalgeographic.com/animals/article/octopus-intelligence"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "Olympic National Park: A Crown Jewel of Biodiversity",
-    "teaser": "From temperate rainforests to alpine peaks to wild Pacific coastline, the Olympic Peninsula contains more ecological diversity than almost anywhere on Earth. This is the story of how this unique landscape was preserved for future generations.",
-    "url": "https://www.nps.gov/olym/learn/nature/biodiversity.htm"
+    "meta": "35 min · History & Culture",
+    "title": "The Budapest Coffee House Culture: A Golden Age",
+    "teaser": "For centuries, Hungarian coffee houses were the heart of intellectual and cultural life in Budapest, where writers, artists, and thinkers gathered. This beautiful look back explores the elegant cafés that still serve as windows into Hungary's rich cultural heritage.",
+    "url": "https://www.bbc.com/travel/article/20190702-budapests-historic-coffee-house-culture"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "July is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals often rest on beaches and rocks with their pups, teaching them to swim and hunt. The best viewing spots include Ediz Hook and Dungeness Spit, but remember to keep at least 100 yards away to avoid disturbing these new families.",
-    "link_text": "Harbor Seal Watching Tips",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/seal-and-sea-lion-viewing.htm"
+    "icon": "🌊",
+    "title": "Gray Whales Feeding Near Port Angeles",
+    "description": "July is a wonderful time to spot gray whales feeding in the Strait of Juan de Fuca! Unlike most gray whales that migrate to Alaska, a small group spends the summer feeding in local waters, often visible from shore or on whale watching tours from the Port Angeles harbor.",
+    "link_text": "Learn about local whale watching",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/whale-watching.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute during flight.",
-    "answer": 1200,
+    "question": "A gray whale can weigh up to ___ tons when fully grown.",
+    "answer": 40,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's right! Can you imagine — 1,200 beats per minute! Your heart is probably beating around 70 times per minute right now. These tiny birds are truly remarkable.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute. That's about 20 times faster than a human heart at rest!",
-    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine a heart beating that fast, but hummingbirds need all that energy to power their incredible flying abilities.",
-    "learn_more_text": "To support their super-fast metabolism, hummingbirds must eat about half their body weight in sugar every day and visit hundreds of flowers. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "More About Hummingbirds — Audubon"
+    "close_range": 5,
+    "correct_response": "That's exactly right, Barbara! These gentle giants are truly impressive.",
+    "close_response": "You're very close! Gray whales can weigh up to 40 tons — about as much as six elephants!",
+    "wrong_response": "Gray whales can actually weigh up to 40 tons! That's as heavy as about six elephants all together.",
+    "learn_more_text": "Gray whales make one of the longest migrations of any mammal, traveling up to 12,000 miles round trip from Mexico to Alaska. The ones you might see near Port Angeles are part of a special group that stays local all summer!",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/gray-whale",
+    "learn_more_label": "More about gray whales — NOAA Fisheries"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
+      "Pillangó",
+      "Madár",
       "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Beautiful! Pillangó is such a lovely word for these delicate creatures. The word comes from the verb 'pillanni' which means 'to blink' — perhaps because butterflies move so quickly!",
-    "wrong_response": "The answer is pillangó! It's such a musical word. Madár means bird, virág means flower, and csillag means star — all beautiful words too!",
-    "learn_more_text": "Hungary is home to about 160 species of butterflies, including the beautiful Scarce Swallowtail. Many Hungarian folk songs and poems feature pillangók as symbols of transformation and summer.",
-    "learn_more_url": "https://www.hungarianmuseum.com/hungarian-language-and-culture",
-    "learn_more_label": "Hungarian Language — Hungarian Museum"
+    "correct_response": "Wonderfully done! Pillangó is such a lovely word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like it's fluttering?",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. The word 'pillangó' may come from an old word meaning 'to flutter' or 'to fly lightly.'",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200908-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About the Hungarian language — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What unique feature makes the Olympic Peninsula's rainforests special?",
+    "question": "What national park can you see from Port Angeles on a clear day across the water?",
     "options": [
-      "They're the driest rainforests on Earth",
-      "They're the only temperate rainforests in North America",
-      "They only rain at night",
-      "They have no trees over 50 feet tall"
+      "Mount Rainier National Park",
+      "North Cascades National Park",
+      "Victoria's Inner Harbour",
+      "Vancouver Island"
     ],
-    "correct_index": 1,
-    "correct_response": "Exactly right! The Olympic Peninsula's temperate rainforests are incredibly rare — they're among only a handful of such ecosystems in the entire world. You're living next to something truly special!",
-    "wrong_response": "The answer is that they're the only temperate rainforests in North America! Unlike tropical rainforests, these forests thrive in cool, moist conditions and feature different species like Sitka spruce and western hemlock.",
-    "learn_more_text": "The Hoh Rainforest receives 12-14 feet of rain per year, creating a magical landscape of moss-draped trees, ferns, and enormous old-growth trees. Some trees in these forests are over 500 years old.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Temperate Rainforests — Olympic National Park"
+    "correct_index": 3,
+    "correct_response": "Perfect! On clear days, the view of Vancouver Island across the Strait is absolutely beautiful. It's amazing to see another country right from your hometown!",
+    "wrong_response": "The answer is Vancouver Island! Though not a national park itself, this beautiful Canadian island is clearly visible across the Strait of Juan de Fuca on sunny days.",
+    "learn_more_text": "The Strait of Juan de Fuca is only about 15 miles wide at Port Angeles, so Vancouver Island feels close enough to touch on clear days. The strait was named after a Greek explorer who sailed for Spain in 1592.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "About the Strait — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-23T09:38:32.710108-07:00",
-  "date": "2026-07-23",
+  "generated_at": "2026-07-24T09:45:03.259517-07:00",
+  "date": "2026-07-24",
   "is_laundry_day": false
 }
