@@ -1,49 +1,49 @@
 {
-  "date_display": "Friday, July 24",
+  "date_display": "Saturday, July 25",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by rapidly flapping their wings 50-80 times per second. The Anna's hummingbird, common in the Pacific Northwest, can even survive cold winters by lowering its body temperature at night to conserve energy.",
-    "tag": "Pacific Northwest Wildlife"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat in a figure-eight pattern up to 80 times per second, allowing them to hover in place and even fly upside down for short distances. These tiny acrobats migrate thousands of miles each year despite weighing less than a nickel.",
+    "tag": "Bird life"
   },
   "short_read": {
-    "meta": "5 min · Gardening",
-    "title": "The Secret Life of Garden Soil",
-    "teaser": "There's a whole universe beneath your feet in the garden! Discover how a single teaspoon of healthy soil contains more living organisms than there are people on Earth.",
-    "url": "https://www.smithsonianmag.com/science-nature/secret-life-soil-180949723/"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Tide Pools",
+    "teaser": "Discover the colorful world that appears when the tide goes out along rocky shores. These miniature ocean worlds are full of surprising creatures right in your own backyard along the Strait.",
+    "url": "https://www.nps.gov/olym/learn/nature/tide-pool-etiquette.htm"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Amazing Intelligence of Octopuses",
-    "teaser": "Scientists are discovering that octopuses can solve puzzles, recognize individual humans, and even display playfulness. These eight-armed wonders of the sea continue to surprise researchers with their problem-solving abilities.",
-    "url": "https://www.nationalgeographic.com/animals/article/octopus-intelligence"
+    "meta": "15 min · Gardens",
+    "title": "How Gardens Help Us Age Well",
+    "teaser": "Scientists are discovering what gardeners have always known — tending plants is good for body, mind, and spirit. From strengthening hands to lifting moods, gardens offer gentle medicine at every age.",
+    "url": "https://www.bbc.com/future/article/20220113-the-health-benefits-of-gardening"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Budapest Coffee House Culture: A Golden Age",
-    "teaser": "For centuries, Hungarian coffee houses were the heart of intellectual and cultural life in Budapest, where writers, artists, and thinkers gathered. This beautiful look back explores the elegant cafés that still serve as windows into Hungary's rich cultural heritage.",
-    "url": "https://www.bbc.com/travel/article/20190702-budapests-historic-coffee-house-culture"
+    "meta": "35 min · Travel & Culture",
+    "title": "The Danube: Europe's River of Many Stories",
+    "teaser": "Journey along the legendary river that flows through ten countries, including Hungary. From Vienna's grand palaces to Budapest's thermal baths, the Danube has shaped European history, culture, and cuisine for thousands of years.",
+    "url": "https://www.smithsonianmag.com/travel/danube-river-europe-cultural-crossroads-180977891/"
   },
   "port_angeles": {
-    "icon": "🌊",
-    "title": "Gray Whales Feeding Near Port Angeles",
-    "description": "July is a wonderful time to spot gray whales feeding in the Strait of Juan de Fuca! Unlike most gray whales that migrate to Alaska, a small group spends the summer feeding in local waters, often visible from shore or on whale watching tours from the Port Angeles harbor.",
-    "link_text": "Learn about local whale watching",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/whale-watching.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "July is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge. These gentle creatures are often seen with their fawns in the early morning or late afternoon, peacefully munching on wildflowers against the backdrop of snow-capped peaks. They're surprisingly comfortable around people and make for beautiful photo opportunities.",
+    "link_text": "Hurricane Ridge Wildlife Guide",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A gray whale can weigh up to ___ tons when fully grown.",
-    "answer": 40,
+    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 5,
-    "correct_response": "That's exactly right, Barbara! These gentle giants are truly impressive.",
-    "close_response": "You're very close! Gray whales can weigh up to 40 tons — about as much as six elephants!",
-    "wrong_response": "Gray whales can actually weigh up to 40 tons! That's as heavy as about six elephants all together.",
-    "learn_more_text": "Gray whales make one of the longest migrations of any mammal, traveling up to 12,000 miles round trip from Mexico to Alaska. The ones you might see near Port Angeles are part of a special group that stays local all summer!",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/gray-whale",
-    "learn_more_label": "More about gray whales — NOAA Fisheries"
+    "close_range": 200,
+    "correct_response": "Amazing! You're right — 1,200 beats per minute! That tiny heart works incredibly hard to power such energetic flight.",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when they're active — that's 20 times every second!",
+    "wrong_response": "Those tiny hearts are remarkably fast — beating about 1,200 times per minute! That's what it takes to power their incredible hovering and backwards flight.",
+    "learn_more_text": "When a hummingbird is at rest, their heart rate slows to about 250 beats per minute. During sleep, they can enter a hibernation-like state called torpor where their heart rate drops to just 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.smithsonianmag.com/science-nature/how-does-a-hummingbirds-heart-work-180975018/",
+    "learn_more_label": "Hummingbird Hearts — Smithsonian"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Virág",
       "Pillangó",
       "Madár",
-      "Csillag"
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderfully done! Pillangó is such a lovely word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like it's fluttering?",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. The word 'pillangó' may come from an old word meaning 'to flutter' or 'to fly lightly.'",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200908-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About the Hungarian language — BBC Travel"
+    "correct_response": "Gyönyörű! That's right — pillangó means butterfly! Such a lovely, dancing word for such a lovely, dancing creature.",
+    "wrong_response": "The word is pillangó! Doesn't it sound like something fluttering? (Virág means flower, madár means bird, and méhecske means little bee.)",
+    "learn_more_text": "Hungary is home to over 180 species of butterflies, including the beautiful swallowtails and the rare Large Blue. Hungarian meadows filled with wildflowers create perfect habitats for these delicate creatures.",
+    "learn_more_url": "https://www.hungarianconservation.hu/butterflies",
+    "learn_more_label": "Hungarian Butterflies — Conservation Guide"
   },
   "puzzle_3": {
-    "question": "What national park can you see from Port Angeles on a clear day across the water?",
+    "question": "What color is a ruby-throated hummingbird's throat feathers?",
     "options": [
-      "Mount Rainier National Park",
-      "North Cascades National Park",
-      "Victoria's Inner Harbour",
-      "Vancouver Island"
+      "Blue",
+      "Iridescent red",
+      "Golden yellow",
+      "Emerald green"
     ],
-    "correct_index": 3,
-    "correct_response": "Perfect! On clear days, the view of Vancouver Island across the Strait is absolutely beautiful. It's amazing to see another country right from your hometown!",
-    "wrong_response": "The answer is Vancouver Island! Though not a national park itself, this beautiful Canadian island is clearly visible across the Strait of Juan de Fuca on sunny days.",
-    "learn_more_text": "The Strait of Juan de Fuca is only about 15 miles wide at Port Angeles, so Vancouver Island feels close enough to touch on clear days. The strait was named after a Greek explorer who sailed for Spain in 1592.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "About the Strait — Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Perfect! The male ruby-throated hummingbird has brilliant iridescent red throat feathers called a gorget. In certain light, it looks like he's wearing a glowing ruby necklace!",
+    "wrong_response": "The answer is iridescent red! That's why they're called 'ruby-throated.' The males have these brilliant red throat feathers that shimmer like jewels in the sunlight. The females have white throats.",
+    "learn_more_text": "Ruby-throated hummingbirds are the most common hummingbird in eastern North America and the only species that regularly nests east of the Mississippi River. These tiny migrants fly 500 miles non-stop across the Gulf of Mexico twice a year!",
+    "learn_more_url": "https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird",
+    "learn_more_label": "Ruby-throated Hummingbirds — Audubon"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-24T09:45:03.259517-07:00",
-  "date": "2026-07-24",
+  "generated_at": "2026-07-25T09:06:05.660158-07:00",
+  "date": "2026-07-25",
   "is_laundry_day": false
 }
