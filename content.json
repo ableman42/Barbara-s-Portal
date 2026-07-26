@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, July 25",
+  "date_display": "Sunday, July 26",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat in a figure-eight pattern up to 80 times per second, allowing them to hover in place and even fly upside down for short distances. These tiny acrobats migrate thousands of miles each year despite weighing less than a nickel.",
-    "tag": "Bird life"
+    "text": "In Hungarian, the Strait of Juan de Fuca would be called a 'szoros' — the same word Hungary uses for its famous straits and gorges. The Hungarian language has no word for 'have' — instead, Hungarians say something like 'to me there is' when expressing possession, making it one of Europe's most unique languages!",
+    "tag": "Hungarian language"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Tide Pools",
-    "teaser": "Discover the colorful world that appears when the tide goes out along rocky shores. These miniature ocean worlds are full of surprising creatures right in your own backyard along the Strait.",
-    "url": "https://www.nps.gov/olym/learn/nature/tide-pool-etiquette.htm"
+    "meta": "5 min · Wildlife",
+    "title": "How Hummingbirds Survive Cold Nights",
+    "teaser": "These tiny jewels of the sky have a remarkable trick for surviving chilly Pacific Northwest nights. They enter a hibernation-like state called torpor, slowing their heart rate from 1,200 beats per minute to just 50!",
+    "url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "How Gardens Help Us Age Well",
-    "teaser": "Scientists are discovering what gardeners have always known — tending plants is good for body, mind, and spirit. From strengthening hands to lifting moods, gardens offer gentle medicine at every age.",
-    "url": "https://www.bbc.com/future/article/20220113-the-health-benefits-of-gardening"
+    "meta": "15 min · Nature",
+    "title": "The Secret Lives of Tide Pools",
+    "teaser": "Olympic Peninsula tide pools are bustling cities in miniature, full of creatures with extraordinary survival skills. From starfish that can regrow their arms to anemones that live for decades, these small worlds reveal nature's incredible adaptability.",
+    "url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "The Danube: Europe's River of Many Stories",
-    "teaser": "Journey along the legendary river that flows through ten countries, including Hungary. From Vienna's grand palaces to Budapest's thermal baths, the Danube has shaped European history, culture, and cuisine for thousands of years.",
-    "url": "https://www.smithsonianmag.com/travel/danube-river-europe-cultural-crossroads-180977891/"
+    "meta": "35 min · History",
+    "title": "The Ancient Origins of Hungarian Folk Art",
+    "teaser": "Hungarian embroidery, pottery, and painted furniture carry patterns that stretch back centuries, connecting modern Hungary to its nomadic past. These beautiful traditions tell stories of village life, celebrations, and a culture that preserved its identity through art.",
+    "url": "https://www.smithsonianmag.com/travel/preserving-hungarys-vibrant-folk-art-traditions-180968947/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "July is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge. These gentle creatures are often seen with their fawns in the early morning or late afternoon, peacefully munching on wildflowers against the backdrop of snow-capped peaks. They're surprisingly comfortable around people and make for beautiful photo opportunities.",
-    "link_text": "Hurricane Ridge Wildlife Guide",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "title": "Olympic National Park's Roosevelt Elk",
+    "description": "July is peak viewing season for Roosevelt elk in Olympic National Park, just south of Port Angeles. These majestic animals, the largest of North America's four elk subspecies, were named after President Theodore Roosevelt who helped protect them from extinction. The Hoh Rain Forest and Hurricane Ridge are wonderful spots to observe these gentle giants.",
+    "link_text": "Learn about Roosevelt Elk",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "question": "A hummingbird's heart beats about ___ times per minute when they're active.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're right — 1,200 beats per minute! That tiny heart works incredibly hard to power such energetic flight.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when they're active — that's 20 times every second!",
-    "wrong_response": "Those tiny hearts are remarkably fast — beating about 1,200 times per minute! That's what it takes to power their incredible hovering and backwards flight.",
-    "learn_more_text": "When a hummingbird is at rest, their heart rate slows to about 250 beats per minute. During sleep, they can enter a hibernation-like state called torpor where their heart rate drops to just 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.smithsonianmag.com/science-nature/how-does-a-hummingbirds-heart-work-180975018/",
-    "learn_more_label": "Hummingbird Hearts — Smithsonian"
+    "correct_response": "Exactly right, Barbara! That's about 20 beats per second — absolutely incredible for such a tiny bird!",
+    "close_response": "Very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
+    "wrong_response": "These tiny birds are amazing — their hearts beat about 1,200 times per minute when active. That's faster than we can even imagine!",
+    "learn_more_text": "To fuel this incredibly fast metabolism, hummingbirds must visit hundreds of flowers each day and consume more than their body weight in nectar. At night, they enter torpor to conserve energy, slowing their heart rate to just 50 beats per minute.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "More about Hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
-      "Madár",
-      "Méhecske"
+      "madár",
+      "pillangó",
+      "virág",
+      "méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Gyönyörű! That's right — pillangó means butterfly! Such a lovely, dancing word for such a lovely, dancing creature.",
-    "wrong_response": "The word is pillangó! Doesn't it sound like something fluttering? (Virág means flower, madár means bird, and méhecske means little bee.)",
-    "learn_more_text": "Hungary is home to over 180 species of butterflies, including the beautiful swallowtails and the rare Large Blue. Hungarian meadows filled with wildflowers create perfect habitats for these delicate creatures.",
-    "learn_more_url": "https://www.hungarianconservation.hu/butterflies",
-    "learn_more_label": "Hungarian Butterflies — Conservation Guide"
+    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word! (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian has many poetic words for nature. The word 'pillangó' may come from an old word meaning 'to flutter' or 'to wave,' perfectly capturing how butterflies move through the air.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies.aspx",
+    "learn_more_label": "Hungarian Nature Words"
   },
   "puzzle_3": {
-    "question": "What color is a ruby-throated hummingbird's throat feathers?",
+    "question": "What special ability do starfish have that helps them survive in tide pools?",
     "options": [
-      "Blue",
-      "Iridescent red",
-      "Golden yellow",
-      "Emerald green"
+      "They can hold their breath for days",
+      "They can regrow lost arms",
+      "They can change colors instantly",
+      "They can burrow underground"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! The male ruby-throated hummingbird has brilliant iridescent red throat feathers called a gorget. In certain light, it looks like he's wearing a glowing ruby necklace!",
-    "wrong_response": "The answer is iridescent red! That's why they're called 'ruby-throated.' The males have these brilliant red throat feathers that shimmer like jewels in the sunlight. The females have white throats.",
-    "learn_more_text": "Ruby-throated hummingbirds are the most common hummingbird in eastern North America and the only species that regularly nests east of the Mississippi River. These tiny migrants fly 500 miles non-stop across the Gulf of Mexico twice a year!",
-    "learn_more_url": "https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird",
-    "learn_more_label": "Ruby-throated Hummingbirds — Audubon"
+    "correct_response": "Perfect! Starfish are amazing regenerators — they can regrow lost arms, and some species can even grow a whole new body from a single arm!",
+    "wrong_response": "Starfish have an incredible superpower — they can regrow their arms! Some species can even regenerate their entire body from just one arm. Nature is truly amazing!",
+    "learn_more_text": "The regeneration process can take months or even a year, but it allows starfish to survive encounters with predators and the harsh conditions of tide pool life. Olympic Peninsula tide pools are home to several starfish species, including the beautiful purple and ochre sea stars.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm",
+    "learn_more_label": "Tide Pool Creatures — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-25T09:06:05.660158-07:00",
-  "date": "2026-07-25",
-  "is_laundry_day": false
+  "generated_at": "2026-07-26T09:03:42.533572-07:00",
+  "date": "2026-07-26",
+  "is_laundry_day": true
 }
