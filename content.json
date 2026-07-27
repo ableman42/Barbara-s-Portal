@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, July 26",
+  "date_display": "Monday, July 27",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungarian, the Strait of Juan de Fuca would be called a 'szoros' — the same word Hungary uses for its famous straits and gorges. The Hungarian language has no word for 'have' — instead, Hungarians say something like 'to me there is' when expressing possession, making it one of Europe's most unique languages!",
-    "tag": "Hungarian language"
+    "text": "In Hungary, July 27th is traditionally associated with the 'Seven Sleepers' folk weather prediction. According to tradition, if it rains on this day, it will rain for the next seven weeks! This old weather folklore was taken quite seriously by Hungarian farmers planning their harvests.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "How Hummingbirds Survive Cold Nights",
-    "teaser": "These tiny jewels of the sky have a remarkable trick for surviving chilly Pacific Northwest nights. They enter a hibernation-like state called torpor, slowing their heart rate from 1,200 beats per minute to just 50!",
-    "url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights"
+    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
+    "teaser": "Harbor seals in the waters around Port Angeles have fascinating behaviors, from their underwater songs to their cozy haul-out spots on rocky shores. Learn what makes these charming marine mammals so special to the Pacific Northwest.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Secret Lives of Tide Pools",
-    "teaser": "Olympic Peninsula tide pools are bustling cities in miniature, full of creatures with extraordinary survival skills. From starfish that can regrow their arms to anemones that live for decades, these small worlds reveal nature's incredible adaptability.",
-    "url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm"
+    "meta": "15 min · Gardening",
+    "title": "The Ancient Art of Hungarian Kitchen Gardens",
+    "teaser": "For centuries, Hungarian households have cultivated beautiful kitchen gardens filled with peppers, tomatoes, and herbs that define traditional cuisine. This exploration of 'konyhakert' reveals how these gardens connect families to their heritage and the rhythms of the seasons.",
+    "url": "https://www.smithsonianmag.com/travel/hungary-land-paprika-180969113/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Ancient Origins of Hungarian Folk Art",
-    "teaser": "Hungarian embroidery, pottery, and painted furniture carry patterns that stretch back centuries, connecting modern Hungary to its nomadic past. These beautiful traditions tell stories of village life, celebrations, and a culture that preserved its identity through art.",
-    "url": "https://www.smithsonianmag.com/travel/preserving-hungarys-vibrant-folk-art-traditions-180968947/"
+    "meta": "35 min · Nature",
+    "title": "Olympic National Park: A Wilderness for All Seasons",
+    "teaser": "From temperate rainforests to alpine meadows and rugged coastline, Olympic National Park contains remarkable ecological diversity within its nearly one million acres. This comprehensive guide explores the natural wonders that make this Pacific Northwest treasure so extraordinary.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Olympic National Park's Roosevelt Elk",
-    "description": "July is peak viewing season for Roosevelt elk in Olympic National Park, just south of Port Angeles. These majestic animals, the largest of North America's four elk subspecies, were named after President Theodore Roosevelt who helped protect them from extinction. The Hoh Rain Forest and Hurricane Ridge are wonderful spots to observe these gentle giants.",
-    "link_text": "Learn about Roosevelt Elk",
-    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "icon": "🦅",
+    "title": "Bald Eagles Along the Strait",
+    "description": "July is an excellent time to spot bald eagles along the Strait of Juan de Fuca, especially near Ediz Hook and the waterfront. These magnificent birds are often seen perching in tall trees or soaring above the water, hunting for salmon and other fish in the rich waters.",
+    "link_text": "Learn about local eagles",
+    "link_url": "https://www.nps.gov/olym/learn/nature/birds.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute when they're active.",
-    "answer": 1200,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while at rest.",
+    "answer": 250,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That's about 20 beats per second — absolutely incredible for such a tiny bird!",
-    "close_response": "Very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
-    "wrong_response": "These tiny birds are amazing — their hearts beat about 1,200 times per minute when active. That's faster than we can even imagine!",
-    "learn_more_text": "To fuel this incredibly fast metabolism, hummingbirds must visit hundreds of flowers each day and consume more than their body weight in nectar. At night, they enter torpor to conserve energy, slowing their heart rate to just 50 beats per minute.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "More about Hummingbirds — Audubon"
+    "close_range": 50,
+    "correct_response": "Exactly right, Barbara! That tiny heart is working incredibly hard, even when the bird is just sitting still!",
+    "close_response": "Very close! A hummingbird's resting heart rate is about 250 beats per minute — amazing for such a tiny creature!",
+    "wrong_response": "A hummingbird's heart beats about 250 times per minute at rest — and over 1,200 times per minute when flying! Their hearts are truly remarkable little engines.",
+    "learn_more_text": "When actively flying, a hummingbird's heart rate can soar to more than 1,200 beats per minute! These tiny birds have the highest metabolism of all animals relative to their size.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "madár",
-      "pillangó",
-      "virág",
-      "méhecske"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word! (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian has many poetic words for nature. The word 'pillangó' may come from an old word meaning 'to flutter' or 'to wave,' perfectly capturing how butterflies move through the air.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies.aspx",
-    "learn_more_label": "Hungarian Nature Words"
+    "correct_response": "Wonderful! 'Pillangó' is indeed the Hungarian word for butterfly — such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? It's one of those words that seems to flutter off the tongue!",
+    "learn_more_text": "The word 'pillangó' may derive from an old Hungarian word related to fluttering or dancing. Hungary is home to over 200 species of butterflies, including the beautiful swallowtail.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What special ability do starfish have that helps them survive in tide pools?",
+    "question": "What unique feature helps sea otters avoid drifting away while they sleep?",
     "options": [
-      "They can hold their breath for days",
-      "They can regrow lost arms",
-      "They can change colors instantly",
-      "They can burrow underground"
+      "They anchor to underwater rocks",
+      "They hold hands with other otters",
+      "They sleep on the beach",
+      "They tie themselves to boats"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Starfish are amazing regenerators — they can regrow lost arms, and some species can even grow a whole new body from a single arm!",
-    "wrong_response": "Starfish have an incredible superpower — they can regrow their arms! Some species can even regenerate their entire body from just one arm. Nature is truly amazing!",
-    "learn_more_text": "The regeneration process can take months or even a year, but it allows starfish to survive encounters with predators and the harsh conditions of tide pool life. Olympic Peninsula tide pools are home to several starfish species, including the beautiful purple and ochre sea stars.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm",
-    "learn_more_label": "Tide Pool Creatures — Olympic National Park"
+    "correct_response": "Yes! Sea otters hold hands while sleeping to stay together — it's called a 'raft.' One of nature's sweetest behaviors!",
+    "wrong_response": "Sea otters actually hold hands while they sleep to keep from drifting apart! Groups of resting otters are called 'rafts,' and this adorable behavior keeps families together.",
+    "learn_more_text": "Sea otters often wrap themselves in kelp as well, creating a natural anchor. The Strait of Juan de Fuca is part of their historical range, though they're more common further north now.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
+    "learn_more_label": "National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-26T09:03:42.533572-07:00",
-  "date": "2026-07-26",
-  "is_laundry_day": true
+  "generated_at": "2026-07-27T10:00:31.937192-07:00",
+  "date": "2026-07-27",
+  "is_laundry_day": false
 }
