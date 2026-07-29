@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, July 28",
+  "date_display": "Wednesday, July 29",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Hungarian word for butterfly is 'pillangó' (pee-lon-go), which sounds like the fluttering motion of wings! Hungary is home to over 160 species of butterflies, and some traditional Hungarian folk costumes feature intricate butterfly embroidery as symbols of transformation and joy.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds can remember every flower they've visited and how long it will take each one to refill with nectar. These tiny birds also have incredible memories for migration routes, returning to the exact same feeders year after year, sometimes within days of their previous arrival date!",
+    "tag": "Bird behavior"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Salish Sea",
-    "teaser": "Harbor seals, like those you can spot from Port Angeles shores, have special whiskers that help them track fish in murky water. Learn about these charming marine neighbors and their surprising abilities.",
-    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Butterflies in Your Garden",
+    "teaser": "Butterflies taste with their feet and can see colors we can't even imagine. This delightful article reveals the hidden world of these gentle garden visitors.",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/butterflies"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Joy of Cutting Gardens: Growing Flowers for Your Home",
-    "teaser": "Discover how to create a beautiful cutting garden that provides fresh bouquets all summer long. This guide covers easy-to-grow flowers perfect for the Pacific Northwest climate.",
-    "url": "https://www.smithsonianmag.com/smart-news/how-to-start-a-cutting-garden-180977890/"
+    "meta": "15 min · History",
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp's hand-drawn maps in the 1950s revealed underwater mountains and valleys no one knew existed, changing our understanding of Earth forever. Her story is one of persistence, artistry, and scientific brilliance.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Ancient Art of Hungarian Porcelain: Herend's Story",
-    "teaser": "For nearly 200 years, the Herend porcelain factory has created exquisite hand-painted masterpieces that have graced royal tables across Europe. Journey through the history of Hungary's most treasured craft and the artisans who keep these traditions alive.",
-    "url": "https://www.bbc.com/travel/article/20190603-hungarys-hand-painted-porcelain"
+    "meta": "35 min · Culture & History",
+    "title": "The Enduring Traditions of Hungarian Folk Art",
+    "teaser": "From intricate embroidery to vibrant pottery, Hungarian folk art tells stories passed down through generations. This beautiful exploration celebrates the artisans keeping these traditions alive today.",
+    "url": "https://www.smithsonianmag.com/travel/hunting-for-hungarian-folk-art-132838457/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "This is peak season for spotting Olympic black-tailed deer at Hurricane Ridge, where they graze in the alpine meadows. These gentle creatures are smaller than their mainland cousins and are found only in the Pacific Northwest. Early morning and late afternoon are the best times to see them against the wildflower-filled meadows.",
-    "link_text": "Hurricane Ridge Wildlife Guide",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "Late July is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals give birth on rocky beaches and sandbars, and pups can swim within hours of being born. You might spot them hauled out on rocks near Ediz Hook or along the shoreline.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute when active.",
+    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is working incredibly hard — imagine 20 beats every single second!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when they're flying around.",
-    "wrong_response": "Those tiny hearts beat an amazing 1,200 times per minute — that's 20 beats every second! No wonder they need so much nectar for energy.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of any animal on Earth. At night, they enter a state called torpor, slowing their heart rate to just 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-night",
-    "learn_more_label": "Learn More — Audubon Society"
+    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! It's about 1,200 beats per minute — faster than we can even imagine!",
+    "wrong_response": "Their hearts beat an astonishing 1,200 times per minute! That's about 20 times per second to fuel their hovering flight.",
+    "learn_more_text": "To support this incredibly fast heartbeat, hummingbirds must eat half their body weight in sugar each day, visiting hundreds of flowers from dawn to dusk.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Napfény"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's perfect — you know your Hungarian greetings!",
-    "wrong_response": "The word for 'thank you' is 'köszönöm' (kuh-suh-nuhm). It's one of the most important words to know in any language!",
-    "learn_more_text": "Hungarian is a unique language that's not related to the surrounding European languages — it's part of the Finno-Ugric family, making it a linguistic cousin to Finnish and Estonian. The formal version of thank you is 'köszönöm szépen' (thank you very much).",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "correct_response": "Wonderful, Barbara! Pillangó is such a lovely, dancing word for such a lovely creature!",
+    "wrong_response": "It's 'pillangó' — doesn't it sound like something fluttering? (Virág means flower, madár means bird, and napfény means sunshine!)",
+    "learn_more_text": "Hungarian is a unique language unrelated to most European languages, belonging instead to the Finno-Ugric family. It's known for its beautiful, melodic sound and complex but logical structure.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-interesting",
     "learn_more_label": "About Hungarian — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What remarkable ability do salmon have that helps them return to their birthplace?",
+    "question": "What do Olympic marmots do for about eight months of the year?",
     "options": [
-      "They follow the North Star",
-      "They remember the scent of their home stream",
-      "They use Earth's magnetic field",
-      "They follow other fish"
+      "Migrate to lower elevations",
+      "Hibernate in burrows",
+      "Store food in rock crevices",
+      "Grow their winter coat"
     ],
     "correct_index": 1,
-    "correct_response": "That's right! Salmon have an incredible sense of smell that allows them to remember and recognize the unique chemical signature of the stream where they were born, even after years in the ocean.",
-    "wrong_response": "Salmon actually remember the unique scent of their home stream! They can detect the chemical signature of their birthplace even after spending years in the ocean, guiding them home to spawn.",
-    "learn_more_text": "Salmon in the Strait of Juan de Fuca use this amazing olfactory memory to navigate from the Pacific Ocean back to the exact streams in Olympic Peninsula rivers where they were born. Some travel over 900 miles to return home.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/fish/facts/salmon",
-    "learn_more_label": "Salmon Navigation — National Geographic"
+    "correct_response": "Perfect! These charming creatures hibernate through the long mountain winters, cuddled together in family groups to stay warm.",
+    "wrong_response": "They actually hibernate for about eight months! Olympic marmots are only active during the brief mountain summer, making the most of the warm months.",
+    "learn_more_text": "Olympic marmots are found nowhere else on Earth except the Olympic Peninsula. These social animals live in colonies and greet each other by touching noses!",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
+    "learn_more_label": "Meet the marmots — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-28T09:42:22.782274-07:00",
-  "date": "2026-07-28",
+  "generated_at": "2026-07-29T09:24:05.211927-07:00",
+  "date": "2026-07-29",
   "is_laundry_day": false
 }
