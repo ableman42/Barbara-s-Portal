@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, July 29",
+  "date_display": "Thursday, July 30",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds can remember every flower they've visited and how long it will take each one to refill with nectar. These tiny birds also have incredible memories for migration routes, returning to the exact same feeders year after year, sometimes within days of their previous arrival date!",
-    "tag": "Bird behavior"
+    "text": "Hungarian paprika, one of Hungary's most famous exports, comes in eight different varieties ranging from delicate and sweet to fiery hot. The town of Szeged is so famous for its paprika that it has a whole museum dedicated to this beloved spice, and paprika-making there is a cherished tradition passed down through generations.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Butterflies in Your Garden",
-    "teaser": "Butterflies taste with their feet and can see colors we can't even imagine. This delightful article reveals the hidden world of these gentle garden visitors.",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/butterflies"
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals in the Salish Sea are curious, intelligent animals that can dive up to 1,500 feet and hold their breath for 40 minutes. Learn about these charming marine mammals that call the waters near Port Angeles home.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
     "meta": "15 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp's hand-drawn maps in the 1950s revealed underwater mountains and valleys no one knew existed, changing our understanding of Earth forever. Her story is one of persistence, artistry, and scientific brilliance.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "title": "The Remarkable Story of the Hungarian Crown Jewels",
+    "teaser": "The Holy Crown of Hungary has survived wars, revolutions, and even spent decades hidden in Fort Knox. This treasured symbol of Hungarian heritage has one of the most adventurous histories of any royal regalia in the world.",
+    "url": "https://www.smithsonianmag.com/history/the-holy-crown-of-hungary-12879638/"
   },
   "long_read": {
-    "meta": "35 min · Culture & History",
-    "title": "The Enduring Traditions of Hungarian Folk Art",
-    "teaser": "From intricate embroidery to vibrant pottery, Hungarian folk art tells stories passed down through generations. This beautiful exploration celebrates the artisans keeping these traditions alive today.",
-    "url": "https://www.smithsonianmag.com/travel/hunting-for-hungarian-folk-art-132838457/"
+    "meta": "35 min · Wildlife",
+    "title": "Roosevelt Elk: Guardians of the Rain Forest",
+    "teaser": "The majestic Roosevelt elk that roam Olympic National Park are the largest variety of elk in North America, named after President Theodore Roosevelt. Discover how these magnificent animals shape the temperate rainforest ecosystem and how conservation efforts saved them from extinction.",
+    "url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "Late July is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals give birth on rocky beaches and sandbars, and pups can swim within hours of being born. You might spot them hauled out on rocks near Ediz Hook or along the shoreline.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
+    "icon": "🦀",
+    "title": "Crabbing Season on the Pier",
+    "description": "Late July is prime time for Dungeness crabbing off the Port Angeles City Pier. You can watch local crabbers pull up their pots, and on a clear day, you'll enjoy stunning views of the strait and Victoria across the water. The pier is also a wonderful spot for a gentle stroll and to watch the ferries come and go.",
+    "link_text": "Learn about the City Pier",
+    "link_url": "https://www.cityofpa.us/facilities/facility/details/City-Pier-12"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! It's about 1,200 beats per minute — faster than we can even imagine!",
-    "wrong_response": "Their hearts beat an astonishing 1,200 times per minute! That's about 20 times per second to fuel their hovering flight.",
-    "learn_more_text": "To support this incredibly fast heartbeat, hummingbirds must eat half their body weight in sugar each day, visiting hundreds of flowers from dawn to dusk.",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon Society"
+    "correct_response": "Exactly right, Barbara! That's an amazing 20 beats per second — hummingbirds truly are incredible little creatures!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while hovering — that's incredibly fast!",
+    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute while hovering — that's roughly 20 times every second! These tiny birds have remarkable hearts to power their hovering flight.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any warm-blooded animal, and their hearts can beat even faster during courtship dives. At rest, their heart rate drops to a much slower 250 beats per minute.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/birds/facts/hummingbirds",
+    "learn_more_label": "More about hummingbirds — National Geographic"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "In Hungarian, which word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napfény"
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Pillangó is such a lovely, dancing word for such a lovely creature!",
-    "wrong_response": "It's 'pillangó' — doesn't it sound like something fluttering? (Virág means flower, madár means bird, and napfény means sunshine!)",
-    "learn_more_text": "Hungarian is a unique language unrelated to most European languages, belonging instead to the Finno-Ugric family. It's known for its beautiful, melodic sound and complex but logical structure.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-interesting",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Wonderful, Ildiko! Pillangó is indeed the Hungarian word for butterfly — such a beautiful, delicate word for a beautiful, delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, flowing word! (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The word 'pillangó' comes from the verb 'pillanni' which means 'to glance' or 'to flutter,' perfectly capturing the quick, fluttering movement of a butterfly's wings. Hungary is home to over 200 species of butterflies.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What do Olympic marmots do for about eight months of the year?",
+    "question": "What is the deepest lake in North America?",
     "options": [
-      "Migrate to lower elevations",
-      "Hibernate in burrows",
-      "Store food in rock crevices",
-      "Grow their winter coat"
+      "Lake Superior",
+      "Crater Lake",
+      "Lake Tahoe",
+      "Great Slave Lake"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! These charming creatures hibernate through the long mountain winters, cuddled together in family groups to stay warm.",
-    "wrong_response": "They actually hibernate for about eight months! Olympic marmots are only active during the brief mountain summer, making the most of the warm months.",
-    "learn_more_text": "Olympic marmots are found nowhere else on Earth except the Olympic Peninsula. These social animals live in colonies and greet each other by touching noses!",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
-    "learn_more_label": "Meet the marmots — Olympic National Park"
+    "correct_response": "Perfect! Crater Lake in Oregon reaches an incredible depth of 1,943 feet, making it the deepest in North America. Its deep blue waters are some of the clearest and purest in the world!",
+    "wrong_response": "It's Crater Lake in Oregon! At 1,943 feet deep, this stunning volcanic lake is the deepest in North America. Its water is so pure and clear that you can see down over 100 feet on a calm day.",
+    "learn_more_text": "Crater Lake was formed about 7,700 years ago when Mount Mazama collapsed after a massive volcanic eruption. The lake is fed entirely by rain and snowfall, with no rivers flowing in or out, which keeps its water exceptionally pure.",
+    "learn_more_url": "https://www.nps.gov/crla/learn/nature/geography.htm",
+    "learn_more_label": "Explore Crater Lake — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-29T09:24:05.211927-07:00",
-  "date": "2026-07-29",
+  "generated_at": "2026-07-30T09:37:54.148480-07:00",
+  "date": "2026-07-30",
   "is_laundry_day": false
 }
