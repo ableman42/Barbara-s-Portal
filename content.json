@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, July 30",
+  "date_display": "Friday, July 31",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, one of Hungary's most famous exports, comes in eight different varieties ranging from delicate and sweet to fiery hot. The town of Szeged is so famous for its paprika that it has a whole museum dedicated to this beloved spice, and paprika-making there is a cherished tradition passed down through generations.",
+    "text": "Hungarian paprika isn't just one spice—there are eight official varieties ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for its paprika that it has a whole museum dedicated to this beloved red spice, which has been central to Hungarian cooking since the 1700s.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals in the Salish Sea are curious, intelligent animals that can dive up to 1,500 feet and hold their breath for 40 minutes. Learn about these charming marine mammals that call the waters near Port Angeles home.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "How Hummingbirds Hover in Place",
+    "teaser": "These tiny aerial acrobats can beat their wings up to 80 times per second and fly backwards—feats no other bird can match. Scientists have discovered the secret is in their unique shoulder joints and figure-eight wing pattern.",
+    "url": "https://www.bbc.com/news/science-environment-16599776"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Remarkable Story of the Hungarian Crown Jewels",
-    "teaser": "The Holy Crown of Hungary has survived wars, revolutions, and even spent decades hidden in Fort Knox. This treasured symbol of Hungarian heritage has one of the most adventurous histories of any royal regalia in the world.",
-    "url": "https://www.smithsonianmag.com/history/the-holy-crown-of-hungary-12879638/"
+    "meta": "15 min · Pacific Northwest",
+    "title": "The Temperate Rainforests of Olympic National Park",
+    "teaser": "The Hoh and Quinault rainforests receive up to 14 feet of rain each year, creating a magical world of moss-draped trees and delicate ferns. These rare ecosystems are among the few temperate rainforests left in the world.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "Roosevelt Elk: Guardians of the Rain Forest",
-    "teaser": "The majestic Roosevelt elk that roam Olympic National Park are the largest variety of elk in North America, named after President Theodore Roosevelt. Discover how these magnificent animals shape the temperate rainforest ecosystem and how conservation efforts saved them from extinction.",
-    "url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "meta": "35 min · History",
+    "title": "The Language of Flowers in Victorian Times",
+    "teaser": "In the 1800s, people sent secret messages through carefully chosen bouquets, with each flower carrying specific meanings. A red rose meant love, while yellow carnations conveyed disappointment—whole conversations happened without a single word spoken.",
+    "url": "https://www.smithsonianmag.com/history/the-meaning-of-flowers-in-the-victorian-era-180983849/"
   },
   "port_angeles": {
-    "icon": "🦀",
-    "title": "Crabbing Season on the Pier",
-    "description": "Late July is prime time for Dungeness crabbing off the Port Angeles City Pier. You can watch local crabbers pull up their pots, and on a clear day, you'll enjoy stunning views of the strait and Victoria across the water. The pier is also a wonderful spot for a gentle stroll and to watch the ferries come and go.",
-    "link_text": "Learn about the City Pier",
-    "link_url": "https://www.cityofpa.us/facilities/facility/details/City-Pier-12"
+    "icon": "🦭",
+    "title": "Harbor Seals at Ediz Hook",
+    "description": "July and August are wonderful months to spot harbor seals hauled out on the beaches at Ediz Hook. These playful marine mammals often rest in groups along the sandy spit, especially during low tide when they can bask in the summer sun. Bring binoculars for the best viewing while keeping a respectful distance!",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That's an amazing 20 beats per second — hummingbirds truly are incredible little creatures!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while hovering — that's incredibly fast!",
-    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute while hovering — that's roughly 20 times every second! These tiny birds have remarkable hearts to power their hovering flight.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any warm-blooded animal, and their hearts can beat even faster during courtship dives. At rest, their heart rate drops to a much slower 250 beats per minute.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/birds/facts/hummingbirds",
-    "learn_more_label": "More about hummingbirds — National Geographic"
+    "correct_response": "That's right, Barbara! Their tiny hearts work incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! The answer is 1200 beats per minute—their hearts are as fast as their wings!",
+    "wrong_response": "Their hearts actually beat about 1200 times per minute! That's about 20 times per second—faster than we can even imagine!",
+    "learn_more_text": "Despite their racing hearts, hummingbirds can live 3-5 years in the wild, and some species have been recorded living over 12 years. At night, they enter a hibernation-like state called torpor to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "In Hungarian, which word means 'butterfly'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
-      "Méhecske"
+      "Pillangó",
+      "Madár",
+      "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is indeed the Hungarian word for butterfly — such a beautiful, delicate word for a beautiful, delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, flowing word! (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The word 'pillangó' comes from the verb 'pillanni' which means 'to glance' or 'to flutter,' perfectly capturing the quick, fluttering movement of a butterfly's wings. Hungary is home to over 200 species of butterflies.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "About butterflies — Britannica"
+    "correct_response": "Wonderful, Ildiko! 'Pillangó' is such a lovely, musical word for these delicate creatures!",
+    "wrong_response": "The word is 'pillangó'! Doesn't it sound beautiful? It almost sounds like the fluttering of wings. (Virág means flower, madár means bird, and csillag means star.)",
+    "learn_more_text": "Hungarian has many beautiful nature words, often combining sounds that echo what they describe. The language is unique in Europe, belonging to the Finno-Ugric family rather than Indo-European languages.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191119-why-is-hungarian-so-endlessly-enchanting",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What is the deepest lake in North America?",
+    "question": "What color are the flowers of most lavender plants?",
     "options": [
-      "Lake Superior",
-      "Crater Lake",
-      "Lake Tahoe",
-      "Great Slave Lake"
+      "Yellow",
+      "White",
+      "Purple",
+      "Pink"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfect! Crater Lake in Oregon reaches an incredible depth of 1,943 feet, making it the deepest in North America. Its deep blue waters are some of the clearest and purest in the world!",
-    "wrong_response": "It's Crater Lake in Oregon! At 1,943 feet deep, this stunning volcanic lake is the deepest in North America. Its water is so pure and clear that you can see down over 100 feet on a calm day.",
-    "learn_more_text": "Crater Lake was formed about 7,700 years ago when Mount Mazama collapsed after a massive volcanic eruption. The lake is fed entirely by rain and snowfall, with no rivers flowing in or out, which keeps its water exceptionally pure.",
-    "learn_more_url": "https://www.nps.gov/crla/learn/nature/geography.htm",
-    "learn_more_label": "Explore Crater Lake — National Park Service"
+    "correct_index": 2,
+    "correct_response": "Yes, purple it is! Though lavender can also come in white and pink varieties, that beautiful purple is what gives the plant its name.",
+    "wrong_response": "It's purple! In fact, the color 'lavender' is named after the flower's lovely purple-blue hue. Some varieties do come in white and pink, but purple is the classic color.",
+    "learn_more_text": "Lavender has been treasured for over 2,500 years, used by ancient Egyptians, Romans, and Greeks for bathing, cooking, and perfume. Its calming scent is still one of the most popular in aromatherapy today.",
+    "learn_more_url": "https://www.nationalgeographic.com/travel/article/lavender-fields-around-world",
+    "learn_more_label": "National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-30T09:37:54.148480-07:00",
-  "date": "2026-07-30",
+  "generated_at": "2026-07-31T09:47:18.694116-07:00",
+  "date": "2026-07-31",
   "is_laundry_day": false
 }
