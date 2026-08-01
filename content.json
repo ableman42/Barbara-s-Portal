@@ -1,49 +1,49 @@
 {
-  "date_display": "Friday, July 31",
+  "date_display": "Saturday, August 1",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice—there are eight official varieties ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for its paprika that it has a whole museum dedicated to this beloved red spice, which has been central to Hungarian cooking since the 1700s.",
-    "tag": "Hungarian culture"
+    "text": "August 1st marks the beginning of blackberry season in the Pacific Northwest! The wild Himalayan blackberries that grow abundantly around Port Angeles ripen in early August, and while they're considered invasive, they produce delicious fruit that local wildlife and people alike enjoy. Olympic National Park rangers often see black bears feasting on these berries this time of year.",
+    "tag": "Local Nature"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "How Hummingbirds Hover in Place",
-    "teaser": "These tiny aerial acrobats can beat their wings up to 80 times per second and fly backwards—feats no other bird can match. Scientists have discovered the secret is in their unique shoulder joints and figure-eight wing pattern.",
-    "url": "https://www.bbc.com/news/science-environment-16599776"
+    "meta": "5 min · Gardening",
+    "title": "The Secret Life of Garden Snails",
+    "teaser": "These slow-moving garden visitors have fascinating abilities, including thousands of tiny teeth and the skill to find their way home from far distances. Discover what makes these shelled creatures more remarkable than you might think.",
+    "url": "https://www.bbcearth.com/news/the-secret-life-of-garden-snails"
   },
   "medium_read": {
-    "meta": "15 min · Pacific Northwest",
-    "title": "The Temperate Rainforests of Olympic National Park",
-    "teaser": "The Hoh and Quinault rainforests receive up to 14 feet of rain each year, creating a magical world of moss-draped trees and delicate ferns. These rare ecosystems are among the few temperate rainforests left in the world.",
-    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
+    "meta": "15 min · Wildlife",
+    "title": "Gray Whales Return to Pacific Northwest Waters",
+    "teaser": "Every summer, gray whales migrate through the Strait of Juan de Fuca, some staying to feed in the rich waters near Port Angeles. Learn about their incredible journey and why these gentle giants choose the Olympic Peninsula as their summer feeding ground.",
+    "url": "https://www.nps.gov/olym/learn/nature/gray-whales.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Language of Flowers in Victorian Times",
-    "teaser": "In the 1800s, people sent secret messages through carefully chosen bouquets, with each flower carrying specific meanings. A red rose meant love, while yellow carnations conveyed disappointment—whole conversations happened without a single word spoken.",
-    "url": "https://www.smithsonianmag.com/history/the-meaning-of-flowers-in-the-victorian-era-180983849/"
+    "title": "The Women Who Preserved America's Wilderness",
+    "teaser": "Long before the National Park Service, pioneering women fought to protect America's wild places, including the Olympic Mountains. This is the inspiring story of the conservationists whose vision helped create the parks we treasure today.",
+    "url": "https://www.smithsonianmag.com/history/women-who-fought-to-protect-americas-public-lands-180971670/"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seals at Ediz Hook",
-    "description": "July and August are wonderful months to spot harbor seals hauled out on the beaches at Ediz Hook. These playful marine mammals often rest in groups along the sandy spit, especially during low tide when they can bask in the summer sun. Bring binoculars for the best viewing while keeping a respectful distance!",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer in Hurricane Ridge",
+    "description": "August is a wonderful time to spot black-tailed deer frolicking in the wildflower meadows of Hurricane Ridge. These gentle creatures are especially active in early morning and evening, and fawns born in late spring are now exploring alongside their mothers. The drive up Hurricane Ridge Road offers stunning views of both wildlife and the Olympic Mountains.",
+    "link_text": "Hurricane Ridge Wildlife Guide",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! Their tiny hearts work incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! The answer is 1200 beats per minute—their hearts are as fast as their wings!",
-    "wrong_response": "Their hearts actually beat about 1200 times per minute! That's about 20 times per second—faster than we can even imagine!",
-    "learn_more_text": "Despite their racing hearts, hummingbirds can live 3-5 years in the wild, and some species have been recorded living over 12 years. At night, they enter a hibernation-like state called torpor to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Amazing! You're absolutely right — 1,200 beats per minute! That's about 20 times per second!",
+    "close_response": "You're very close! A hummingbird's tiny heart beats an incredible 1,200 times per minute during flight.",
+    "wrong_response": "Those tiny hearts work incredibly hard — up to 1,200 beats per minute! That helps power their amazing hovering flight.",
+    "learn_more_text": "Rufous hummingbirds migrate through Port Angeles each August on their way south. Despite weighing less than a nickel, they travel up to 2,000 miles!",
+    "learn_more_url": "https://www.audubon.org/field-guide/bird/rufous-hummingbird",
+    "learn_more_label": "Learn More — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! 'Pillangó' is such a lovely, musical word for these delicate creatures!",
-    "wrong_response": "The word is 'pillangó'! Doesn't it sound beautiful? It almost sounds like the fluttering of wings. (Virág means flower, madár means bird, and csillag means star.)",
-    "learn_more_text": "Hungarian has many beautiful nature words, often combining sounds that echo what they describe. The language is unique in Europe, belonging to the Finno-Ugric family rather than Indo-European languages.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191119-why-is-hungarian-so-endlessly-enchanting",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a beautiful, dancing word for a beautiful, dancing creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound just as graceful as the creature itself?",
+    "learn_more_text": "The word 'pillangó' likely comes from an old Hungarian root meaning 'to flutter.' Hungary is home to over 160 species of butterflies, including the beautiful swallowtail.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies-hungarian.aspx",
+    "learn_more_label": "Hungarian Nature — Reference Guide"
   },
   "puzzle_3": {
-    "question": "What color are the flowers of most lavender plants?",
+    "question": "What was the first national park in the world?",
     "options": [
-      "Yellow",
-      "White",
-      "Purple",
-      "Pink"
+      "Yosemite National Park",
+      "Olympic National Park",
+      "Yellowstone National Park",
+      "Grand Canyon National Park"
     ],
     "correct_index": 2,
-    "correct_response": "Yes, purple it is! Though lavender can also come in white and pink varieties, that beautiful purple is what gives the plant its name.",
-    "wrong_response": "It's purple! In fact, the color 'lavender' is named after the flower's lovely purple-blue hue. Some varieties do come in white and pink, but purple is the classic color.",
-    "learn_more_text": "Lavender has been treasured for over 2,500 years, used by ancient Egyptians, Romans, and Greeks for bathing, cooking, and perfume. Its calming scent is still one of the most popular in aromatherapy today.",
-    "learn_more_url": "https://www.nationalgeographic.com/travel/article/lavender-fields-around-world",
-    "learn_more_label": "National Geographic"
+    "correct_response": "Perfect! Yellowstone became the world's first national park in 1872, creating a model that inspired protected areas worldwide — including your beautiful Olympic National Park!",
+    "wrong_response": "Yellowstone National Park was the first, established in 1872! It started a global movement to protect wild places, which eventually led to Olympic National Park's creation in 1938.",
+    "learn_more_text": "The idea of protecting land 'for the benefit and enjoyment of the people' was revolutionary. Today, there are over 400 national park sites in the United States alone.",
+    "learn_more_url": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
+    "learn_more_label": "Learn More — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-07-31T09:47:18.694116-07:00",
-  "date": "2026-07-31",
+  "generated_at": "2026-08-01T09:02:56.081459-07:00",
+  "date": "2026-08-01",
   "is_laundry_day": false
 }
