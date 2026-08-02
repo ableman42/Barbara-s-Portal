@@ -1,49 +1,49 @@
 {
-  "date_display": "Saturday, August 1",
+  "date_display": "Sunday, August 2",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "August 1st marks the beginning of blackberry season in the Pacific Northwest! The wild Himalayan blackberries that grow abundantly around Port Angeles ripen in early August, and while they're considered invasive, they produce delicious fruit that local wildlife and people alike enjoy. Olympic National Park rangers often see black bears feasting on these berries this time of year.",
-    "tag": "Local Nature"
+    "text": "Hungarian is one of the few languages in the world that uses the unique letter 'ő' (o with double accents). When Hungarians answer the phone, they traditionally say 'Hallom' (I hear you) rather than 'hello.' The Hungarian language is also famous for having one of the longest words in the world: 'Megszentségteleníthetetlenségeskedéseitekért' with 44 letters!",
+    "tag": "Hungarian language"
   },
   "short_read": {
-    "meta": "5 min · Gardening",
+    "meta": "5 min · Gardens",
     "title": "The Secret Life of Garden Snails",
-    "teaser": "These slow-moving garden visitors have fascinating abilities, including thousands of tiny teeth and the skill to find their way home from far distances. Discover what makes these shelled creatures more remarkable than you might think.",
-    "url": "https://www.bbcearth.com/news/the-secret-life-of-garden-snails"
+    "teaser": "Those little snails in your garden are more remarkable than you might think—they have thousands of tiny teeth and can sleep for three years! Discover the surprising world of these patient garden companions.",
+    "url": "https://www.bbc.com/future/article/20170831-the-unexpected-things-snails-can-do"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
-    "title": "Gray Whales Return to Pacific Northwest Waters",
-    "teaser": "Every summer, gray whales migrate through the Strait of Juan de Fuca, some staying to feed in the rich waters near Port Angeles. Learn about their incredible journey and why these gentle giants choose the Olympic Peninsula as their summer feeding ground.",
-    "url": "https://www.nps.gov/olym/learn/nature/gray-whales.htm"
+    "title": "How Hummingbirds Became Nature's Helicopters",
+    "teaser": "Hummingbirds can fly backwards, hover in place, and beat their wings up to 80 times per second. Scientists have discovered the incredible evolutionary journey that gave these tiny birds their amazing aerial abilities.",
+    "url": "https://www.nationalgeographic.com/animals/article/hummingbirds-evolution-flight"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Women Who Preserved America's Wilderness",
-    "teaser": "Long before the National Park Service, pioneering women fought to protect America's wild places, including the Olympic Mountains. This is the inspiring story of the conservationists whose vision helped create the parks we treasure today.",
-    "url": "https://www.smithsonianmag.com/history/women-who-fought-to-protect-americas-public-lands-180971670/"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp's revolutionary maps revealed underwater mountains and valleys no one knew existed, changing our understanding of Earth forever. Her story is one of perseverance, scientific brilliance, and seeing what others couldn't imagine.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer in Hurricane Ridge",
-    "description": "August is a wonderful time to spot black-tailed deer frolicking in the wildflower meadows of Hurricane Ridge. These gentle creatures are especially active in early morning and evening, and fawns born in late spring are now exploring alongside their mothers. The drive up Hurricane Ridge Road offers stunning views of both wildlife and the Olympic Mountains.",
-    "link_text": "Hurricane Ridge Wildlife Guide",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦅",
+    "title": "Eagles Over the Strait",
+    "description": "August is a wonderful time to spot bald eagles along the Strait of Juan de Fuca as they hunt for salmon. The Ediz Hook area and Dungeness Spit are particularly good viewing spots where you can often see these magnificent birds soaring overhead or perched in shoreline trees.",
+    "link_text": "Learn about local eagles",
+    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
   },
   "puzzle_1": {
     "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right — 1,200 beats per minute! That's about 20 times per second!",
-    "close_response": "You're very close! A hummingbird's tiny heart beats an incredible 1,200 times per minute during flight.",
-    "wrong_response": "Those tiny hearts work incredibly hard — up to 1,200 beats per minute! That helps power their amazing hovering flight.",
-    "learn_more_text": "Rufous hummingbirds migrate through Port Angeles each August on their way south. Despite weighing less than a nickel, they travel up to 2,000 miles!",
-    "learn_more_url": "https://www.audubon.org/field-guide/bird/rufous-hummingbird",
-    "learn_more_label": "Learn More — Audubon Society"
+    "close_range": 100,
+    "correct_response": "Amazing! You're absolutely right—1,200 beats per minute! That tiny heart works incredibly hard to power those amazing wings.",
+    "close_response": "You're so close! The actual number is 1,200 beats per minute—that's about 20 times faster than a human heart!",
+    "wrong_response": "That tiny hummingbird heart actually beats an incredible 1,200 times per minute during flight—about 20 times faster than ours!",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in sugar every day and visit hundreds of flowers. They have the highest metabolism of any animal on Earth.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
+    "learn_more_label": "More about hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Virág",
       "Pillangó",
       "Madár",
-      "Csillag"
+      "Napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly — such a beautiful, dancing word for a beautiful, dancing creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound just as graceful as the creature itself?",
-    "learn_more_text": "The word 'pillangó' likely comes from an old Hungarian root meaning 'to flutter.' Hungary is home to over 160 species of butterflies, including the beautiful swallowtail.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/butterflies-hungarian.aspx",
-    "learn_more_label": "Hungarian Nature — Reference Guide"
+    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, lilting word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound just as graceful as the creature itself? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
+    "learn_more_text": "Many Hungarian words are beautifully descriptive. 'Pillangó' may come from an old word meaning 'fluttering one,' perfectly capturing the butterfly's gentle flight through summer gardens.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/nature-words.aspx",
+    "learn_more_label": "Hungarian nature words — Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What was the first national park in the world?",
+    "question": "What do scientists call the study of birds?",
     "options": [
-      "Yosemite National Park",
-      "Olympic National Park",
-      "Yellowstone National Park",
-      "Grand Canyon National Park"
+      "Entomology",
+      "Ornithology",
+      "Herpetology",
+      "Ichthyology"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Yellowstone became the world's first national park in 1872, creating a model that inspired protected areas worldwide — including your beautiful Olympic National Park!",
-    "wrong_response": "Yellowstone National Park was the first, established in 1872! It started a global movement to protect wild places, which eventually led to Olympic National Park's creation in 1938.",
-    "learn_more_text": "The idea of protecting land 'for the benefit and enjoyment of the people' was revolutionary. Today, there are over 400 national park sites in the United States alone.",
-    "learn_more_url": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm",
-    "learn_more_label": "Learn More — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Perfect! Ornithology is the study of birds, from the Greek word 'ornis' meaning bird. The Olympic Peninsula is a wonderful place for bird watching!",
+    "wrong_response": "The study of birds is called ornithology, from the Greek word 'ornis.' Entomology studies insects, herpetology studies reptiles, and ichthyology studies fish—all fascinating fields!",
+    "learn_more_text": "The Olympic Peninsula is home to over 300 bird species, making it a paradise for ornithologists and bird lovers alike. From eagles to sandpipers, the variety of habitats supports an amazing diversity of birdlife.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/birds.htm",
+    "learn_more_label": "Birds of Olympic National Park — NPS"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-01T09:02:56.081459-07:00",
-  "date": "2026-08-01",
+  "generated_at": "2026-08-02T09:02:23.963031-07:00",
+  "date": "2026-08-02",
   "is_laundry_day": false
 }
