@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head><!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "81c77886f48b4ed2a9518c5f3eabe6b5"}'></script><!-- End Cloudflare Web Analytics -->
@@ -309,7 +308,7 @@ if (document.readyState === 'loading') {
 <!-- Always visible, every page            -->
 <!-- ══════════════════════════════════════ -->
 <button class="call-me-fab" id="call-me-fab" onclick="sendCallMeAlert()">
-  💡 I have an idea, please call when you can
+  💡 Send Sean a note
 </button>
 
 <!-- ══════════════════════════════════════ -->
@@ -622,7 +621,7 @@ if (document.readyState === 'loading') {
 <div class="modal-overlay" id="pv-modal">
   <div class="modal">
     <div class="modal-header">
-      <h2>Park View Villas — May 2026</h2>
+      <h2>Park View Villas — August 2026</h2>
       <button class="modal-close" onclick="closePvModal()">×</button>
     </div>
     <div class="modal-body">
@@ -668,7 +667,7 @@ async function sendCallMeAlert() {
     fab.innerHTML = '✓ Sean will call you soon!';
   } catch(e) {
     fab.disabled = false;
-    fab.innerHTML = '💡 I have an idea, please call when you can';
+    fab.innerHTML = '💡 Send Sean a note';
     alert('Something went wrong — please try again!');
   }
 }
@@ -742,40 +741,36 @@ loadMeals();
 
 // ── PARK VIEW DATA ──
 const pvItems = [
-  { date:'2026-05-29', time:'2:00pm',  name:'Scavenger Treasure Hunt with Bert & Marti', type:'event' },
-  { date:'2026-05-29', time:'3:00pm',  name:'Happy Hour — Music by Buck Ellard "Radio DJ Host & Lead Singer"', type:'music' },
-  { date:'2026-06-02', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-06-02', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
-  { date:'2026-06-03', time:'3:00pm',  name:'Happy Hour — Music by OPUS (Olympic Peninsula Ukulele Strummers)', type:'music' },
-  { date:'2026-06-04', time:'2:00pm',  name:'Explore: Dungeness River Nature Center', type:'outing' },
-  { date:'2026-06-04', time:'3:00pm',  name:'Pictionary & Soda Pop with Anthony', type:'event' },
-  { date:'2026-06-05', time:'3:00pm',  name:'Happy Hour — Accordion Music by Kip Tullin', type:'music' },
-  { date:'2026-06-09', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-06-09', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
-  { date:'2026-06-10', time:'3:00pm',  name:'Happy Hour — Music by The Secords', type:'music' },
-  { date:'2026-06-11', time:'12:00pm', name:'Explore: Mariner Café & Sequim Goodwill', type:'outing' },
-  { date:'2026-06-11', time:'3:00pm',  name:'Mammals Amongst Us with Marti & Bert', type:'event' },
-  { date:'2026-06-12', time:'3:00pm',  name:'Happy Hour — Music by Dan & Anna', type:'music' },
-  { date:'2026-06-15', time:'2:00pm',  name:'Ice Cream & Flag Trivia', type:'event' },
-  { date:'2026-06-16', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-06-16', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
-  { date:'2026-06-17', time:'2:00pm',  name:'Food Demo with Brian', type:'event' },
-  { date:'2026-06-17', time:'3:00pm',  name:'Happy Hour — Music by The Dusty Trail Trio', type:'music' },
-  { date:'2026-06-18', time:'2:00pm',  name:'Explore: Country Aire (Organic Foods & Deli)', type:'outing' },
-  { date:'2026-06-18', time:'3:00pm',  name:"Flower Centerpieces with Charity — Father's Day Luncheon Prep", type:'event' },
-  { date:'2026-06-19', time:'11:30am', name:"Friends & Family Father's Day BBQ Luncheon", type:'event' },
-  { date:'2026-06-19', time:'3:00pm',  name:'Happy Hour — Oldies Music by Diane Romero', type:'music' },
-  { date:'2026-06-22', time:'2:00pm',  name:'Cow Folk & Cornbread with Megan & Tammy', type:'event' },
-  { date:'2026-06-23', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-06-23', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
-  { date:'2026-06-23', time:'3:00pm',  name:'National Pink Day — Dress in Pink & Shirley Temples with Megan & Tammy', type:'event' },
-  { date:'2026-06-24', time:'3:00pm',  name:'Happy Hour — Music by Dennis Blair', type:'music' },
-  { date:'2026-06-25', time:'2:00pm',  name:'Explore: Elwha Casino with Tammy B.', type:'outing' },
-  { date:'2026-06-25', time:'2:00pm',  name:'Hot Dogs, Sodas & Beers with Keith', type:'event' },
-  { date:'2026-06-26', time:'3:00pm',  name:'Happy Hour — Music by Buck Ellard (Radio Host & Lead Singer)', type:'music' },
-  { date:'2026-06-29', time:'2:00pm',  name:'Italian Sodas by the Lagoon with Megan & Tammy', type:'event' },
-  { date:'2026-06-30', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
-  { date:'2026-06-30', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+  { date:'2026-08-03', time:'3:00pm',  name:"1950s & 60s Doo Wop Dancing with Meg & Tam", type:'event' },
+  { date:'2026-08-04', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-08-04', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+  { date:'2026-08-05', time:'3:00pm',  name:'Happy Hour & Music: OPUS "Olympic Peninsula Ukulele Strummers"', type:'music' },
+  { date:'2026-08-06', time:'2:00pm',  name:'Explore: Country Aire — "Popular Deli with Delicious Sandwiches"', type:'outing' },
+  { date:'2026-08-06', time:'3:00pm',  name:"Friends & Family Root Beer Floats & '50s & '60s Vinyl Records with Megan & Tammy", type:'event' },
+  { date:'2026-08-07', time:'3:00pm',  name:'Happy Hour & Music: Dan & Anna', type:'music' },
+  { date:'2026-08-10', time:'2:00pm',  name:'Ice Cream & Trivia', type:'event' },
+  { date:'2026-08-11', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-08-11', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+  { date:'2026-08-12', time:'3:00pm',  name:'Happy Hour & Music: The Secords', type:'music' },
+  { date:'2026-08-13', time:'12:00pm', name:'Explore: Mariner Café & Ross', type:'outing' },
+  { date:'2026-08-13', time:'2:00pm',  name:'Hot Dogs, Sodas & Beers with Keith', type:'event' },
+  { date:'2026-08-14', time:'3:00pm',  name:'Happy Hour & Music: Juan de Fuca Harmony Group — Luau Cocktails', type:'music' },
+  { date:'2026-08-17', time:'3:00pm',  name:'Line Dancing with Meg & Tam', type:'event' },
+  { date:'2026-08-18', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-08-18', time:'2:00pm',  name:'Shopping Trip: Safeway', type:'outing' },
+  { date:'2026-08-19', time:'3:00pm',  name:'Happy Hour: Cow Folk & Cornbread — "Games & Laughter" with Meg & Tam', type:'music' },
+  { date:'2026-08-20', time:'2:00pm',  name:'Explore: Port Angeles Goodwill', type:'outing' },
+  { date:'2026-08-21', time:'3:00pm',  name:'Happy Hour & Music: Ty Schlung', type:'music' },
+  { date:'2026-08-25', time:'10:00am', name:'Medical Shuttle & Quick Express', type:'outing' },
+  { date:'2026-08-25', time:'2:00pm',  name:'Shopping Trip: Walmart', type:'outing' },
+  { date:'2026-08-26', time:'2:00pm',  name:'Food Demo with Brian: Aqua Fresca', type:'event' },
+  { date:'2026-08-26', time:'3:00pm',  name:'Happy Hour & Music: Dennis Blair', type:'music' },
+  { date:'2026-08-27', time:'2:00pm',  name:'Explore: Elwha Casino with Tammy B.', type:'outing' },
+  { date:'2026-08-27', time:'2:00pm',  name:'Pictionary & Soda Pops with Anthony', type:'event' },
+  { date:'2026-08-27', time:'3:00pm',  name:'Summer Flower Arrangements with Charity', type:'event' },
+  { date:'2026-08-28', time:'3:00pm',  name:'Happy Hour & Music: Buck Ellard — "Radio Host & Country Lead Singer"', type:'music' },
+  { date:'2026-08-30', time:'2:00pm',  name:'Margaritas & Jimmy Buffett with Beach Trivia', type:'event' },
+  { date:'2026-08-31', time:'2:00pm',  name:'Ice Cream Treats Outside & Reminisce', type:'event' },
 ].sort((a,b) => a.date !== b.date ? a.date.localeCompare(b.date) : a.time.localeCompare(b.time));
 
 function pvIcon(t) { return t==='outing'?'🚌':t==='music'?'🎵':'🎉'; }
