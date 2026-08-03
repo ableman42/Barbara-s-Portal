@@ -1,49 +1,49 @@
 {
-  "date_display": "Sunday, August 2",
+  "date_display": "Monday, August 3",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian is one of the few languages in the world that uses the unique letter 'ő' (o with double accents). When Hungarians answer the phone, they traditionally say 'Hallom' (I hear you) rather than 'hello.' The Hungarian language is also famous for having one of the longest words in the world: 'Megszentségteleníthetetlenségeskedéseitekért' with 44 letters!",
-    "tag": "Hungarian language"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the beautiful Rufous Hummingbird, which migrates through the Olympic Peninsula each summer.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
-    "meta": "5 min · Gardens",
-    "title": "The Secret Life of Garden Snails",
-    "teaser": "Those little snails in your garden are more remarkable than you might think—they have thousands of tiny teeth and can sleep for three years! Discover the surprising world of these patient garden companions.",
-    "url": "https://www.bbc.com/future/article/20170831-the-unexpected-things-snails-can-do"
+    "meta": "5 min · Wildlife",
+    "title": "The Amazing Secret Life of Hummingbirds",
+    "teaser": "These tiny jeweled birds have hearts that beat over 1,200 times per minute and memories sharp enough to remember every flower they've visited. Discover the surprising abilities of nature's smallest aviators.",
+    "url": "https://www.npr.org/2023/08/18/1194589374/hummingbirds-memory-flowers-nectar"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "How Hummingbirds Became Nature's Helicopters",
-    "teaser": "Hummingbirds can fly backwards, hover in place, and beat their wings up to 80 times per second. Scientists have discovered the incredible evolutionary journey that gave these tiny birds their amazing aerial abilities.",
-    "url": "https://www.nationalgeographic.com/animals/article/hummingbirds-evolution-flight"
+    "meta": "15 min · History",
+    "title": "The Woman Who Saved Hungary's Historic Gardens",
+    "teaser": "Meet the passionate gardener who dedicated her life to preserving Hungary's centuries-old botanical treasures after World War II. Her work saved rare plants and garden designs that might otherwise have been lost forever.",
+    "url": "https://www.smithsonianmag.com/travel/hungarys-historic-gardens-180974539/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp's revolutionary maps revealed underwater mountains and valleys no one knew existed, changing our understanding of Earth forever. Her story is one of perseverance, scientific brilliance, and seeing what others couldn't imagine.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "meta": "35 min · Nature",
+    "title": "Olympic National Park: Where Rainforest Meets the Sea",
+    "teaser": "From temperate rainforests to rugged coastline, Olympic National Park contains an incredible diversity of ecosystems all within your backyard. This beautiful exploration reveals why this peninsula is unlike anywhere else on Earth.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Eagles Over the Strait",
-    "description": "August is a wonderful time to spot bald eagles along the Strait of Juan de Fuca as they hunt for salmon. The Ediz Hook area and Dungeness Spit are particularly good viewing spots where you can often see these magnificent birds soaring overhead or perched in shoreline trees.",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "August is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals often rest with their pups on rocky shores and beaches near Port Angeles. If you spot one, remember to watch from at least 100 yards away so the mothers feel safe caring for their babies.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.porttownsendmarinemammalcenter.org/harbor-seals"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats about ___ times per minute when active.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Amazing! You're absolutely right—1,200 beats per minute! That tiny heart works incredibly hard to power those amazing wings.",
-    "close_response": "You're so close! The actual number is 1,200 beats per minute—that's about 20 times faster than a human heart!",
-    "wrong_response": "That tiny hummingbird heart actually beats an incredible 1,200 times per minute during flight—about 20 times faster than ours!",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in sugar every day and visit hundreds of flowers. They have the highest metabolism of any animal on Earth.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
-    "learn_more_label": "More about hummingbirds — Audubon"
+    "close_range": 200,
+    "correct_response": "That's exactly right, Barbara! Can you imagine a heart beating that fast?",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — amazingly fast!",
+    "wrong_response": "It's hard to imagine, but a hummingbird's tiny heart beats about 1,200 times per minute! That's about 20 beats every second.",
+    "learn_more_text": "To power their incredible flying abilities, hummingbirds have the fastest metabolism of all animals. They must eat about half their body weight in sugar every day just to survive!",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -51,29 +51,29 @@
       "Virág",
       "Pillangó",
       "Madár",
-      "Napsugár"
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, lilting word for such a delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound just as graceful as the creature itself? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
-    "learn_more_text": "Many Hungarian words are beautifully descriptive. 'Pillangó' may come from an old word meaning 'fluttering one,' perfectly capturing the butterfly's gentle flight through summer gardens.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/nature-words.aspx",
-    "learn_more_label": "Hungarian nature words — Hungarian Reference"
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a lovely word for such a lovely creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like it's fluttering? (Virág means flower, madár means bird, and méhecske means little bee.)",
+    "learn_more_text": "Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail. Many Hungarian gardens are designed specifically to attract these colorful visitors.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What do scientists call the study of birds?",
+    "question": "What is the only national park in the United States that contains both mountains and ocean coastline?",
     "options": [
-      "Entomology",
-      "Ornithology",
-      "Herpetology",
-      "Ichthyology"
+      "Acadia National Park",
+      "Olympic National Park",
+      "Channel Islands National Park",
+      "Glacier Bay National Park"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Ornithology is the study of birds, from the Greek word 'ornis' meaning bird. The Olympic Peninsula is a wonderful place for bird watching!",
-    "wrong_response": "The study of birds is called ornithology, from the Greek word 'ornis.' Entomology studies insects, herpetology studies reptiles, and ichthyology studies fish—all fascinating fields!",
-    "learn_more_text": "The Olympic Peninsula is home to over 300 bird species, making it a paradise for ornithologists and bird lovers alike. From eagles to sandpipers, the variety of habitats supports an amazing diversity of birdlife.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/birds.htm",
-    "learn_more_label": "Birds of Olympic National Park — NPS"
+    "correct_response": "Yes! You're living right next to one of America's most diverse and spectacular national parks. Olympic has it all — mountains, rainforests, and wild Pacific beaches!",
+    "wrong_response": "It's Olympic National Park, right in your own backyard! It's the only U.S. national park with both glacier-capped mountains and wild ocean coastline, making it truly special.",
+    "learn_more_text": "Olympic National Park protects nearly a million acres and contains three distinct ecosystems: subalpine forest and wildflower meadow, temperate forest, and rugged Pacific coastline. UNESCO designated it as both an International Biosphere Reserve and a World Heritage Site.",
+    "learn_more_url": "https://www.nps.gov/olym/index.htm",
+    "learn_more_label": "Explore the park — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-02T09:02:23.963031-07:00",
-  "date": "2026-08-02",
+  "generated_at": "2026-08-03T10:10:53.362090-07:00",
+  "date": "2026-08-03",
   "is_laundry_day": false
 }
