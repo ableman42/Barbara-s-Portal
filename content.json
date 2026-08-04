@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, August 3",
+  "date_display": "Tuesday, August 4",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the beautiful Rufous Hummingbird, which migrates through the Olympic Peninsula each summer.",
-    "tag": "Local Wildlife"
+    "text": "In Hungarian, the word for butterfly is 'pillangó' (pronounced pee-lon-go), which comes from an old word meaning 'fluttering.' Hungary is home to over 160 species of butterflies, including the stunning Swallowtail that graces gardens just like yours in summertime!",
+    "tag": "Hungarian language"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Amazing Secret Life of Hummingbirds",
-    "teaser": "These tiny jeweled birds have hearts that beat over 1,200 times per minute and memories sharp enough to remember every flower they've visited. Discover the surprising abilities of nature's smallest aviators.",
-    "url": "https://www.npr.org/2023/08/18/1194589374/hummingbirds-memory-flowers-nectar"
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals are regular visitors to the Strait of Juan de Fuca, and they're much more fascinating than you might think. Learn about their underwater singing, their whiskers that detect fish movements, and how they nap while floating upright!",
+    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Woman Who Saved Hungary's Historic Gardens",
-    "teaser": "Meet the passionate gardener who dedicated her life to preserving Hungary's centuries-old botanical treasures after World War II. Her work saved rare plants and garden designs that might otherwise have been lost forever.",
-    "url": "https://www.smithsonianmag.com/travel/hungarys-historic-gardens-180974539/"
+    "meta": "15 min · Gardening",
+    "title": "The Hidden Language of Flowers in Victorian Gardens",
+    "teaser": "Victorians used flowers to send secret messages, and many of the blooms in your garden once had special meanings. Discover what your favorite flowers were 'saying' in the 1800s and how this charming tradition continues today.",
+    "url": "https://www.smithsonianmag.com/history/the-secret-victorian-language-of-flowers-130258913/"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Olympic National Park: Where Rainforest Meets the Sea",
-    "teaser": "From temperate rainforests to rugged coastline, Olympic National Park contains an incredible diversity of ecosystems all within your backyard. This beautiful exploration reveals why this peninsula is unlike anywhere else on Earth.",
-    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
+    "meta": "35 min · History",
+    "title": "The Budapest Coffee House Culture That Shaped a Nation",
+    "teaser": "For centuries, Budapest's grand coffee houses were the heart of Hungarian intellectual and artistic life, where writers, poets, and revolutionaries gathered over cakes and coffee. This beautifully illustrated journey explores how these elegant cafés became cultural institutions and many still thrive today.",
+    "url": "https://www.bbc.com/travel/article/20190305-budapests-most-beautiful-cafes"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "August is peak pupping season for harbor seals along the Strait of Juan de Fuca! Mother seals often rest with their pups on rocky shores and beaches near Port Angeles. If you spot one, remember to watch from at least 100 yards away so the mothers feel safe caring for their babies.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.porttownsendmarinemammalcenter.org/harbor-seals"
+    "icon": "🦅",
+    "title": "Bald Eagles Nesting Along the Strait",
+    "description": "August is a wonderful time to spot bald eagles along the Strait of Juan de Fuca, as parent eagles are still teaching their young to fish. Ediz Hook and the waterfront near the ferry terminal are excellent viewing spots, especially in early morning. Bring binoculars and you might see them diving for salmon!",
+    "link_text": "Eagle viewing tips",
+    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute when active.",
+    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's exactly right, Barbara! Can you imagine a heart beating that fast?",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — amazingly fast!",
-    "wrong_response": "It's hard to imagine, but a hummingbird's tiny heart beats about 1,200 times per minute! That's about 20 beats every second.",
-    "learn_more_text": "To power their incredible flying abilities, hummingbirds have the fastest metabolism of all animals. They must eat about half their body weight in sugar every day just to survive!",
-    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
-    "learn_more_label": "Read more — Audubon Society"
+    "correct_response": "Exactly right, Barbara! That tiny heart is working incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — your heart is probably beating around 70 times per minute right now!",
+    "wrong_response": "These tiny dynamos have hearts that beat about 1,200 times per minute! That's roughly 20 beats every single second to fuel their incredible hovering flight.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any bird, and their hearts can even beat faster — up to 1,260 times per minute — when they're especially active. At night when they sleep, their heart rate drops to about 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'welcome'?",
     "options": [
-      "Virág",
-      "Pillangó",
-      "Madár",
-      "Méhecske"
+      "Köszönöm",
+      "Isten hozta",
+      "Viszlát",
+      "Jó reggelt"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a lovely word for such a lovely creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like it's fluttering? (Virág means flower, madár means bird, and méhecske means little bee.)",
-    "learn_more_text": "Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail. Many Hungarian gardens are designed specifically to attract these colorful visitors.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly",
-    "learn_more_label": "About butterflies — Britannica"
+    "correct_response": "Isten hozta — exactly right! This beautiful phrase literally means 'God brought you' and is such a warm way to welcome someone.",
+    "wrong_response": "The answer is 'Isten hozta' — what a lovely phrase! It literally means 'God brought you,' making every guest feel truly meant to be there. (Köszönöm means thank you, Viszlát means goodbye, and Jó reggelt means good morning.)",
+    "learn_more_text": "Hungarian greetings are often quite poetic. While 'Isten hozta' is traditional, Hungarians also use 'Isten hozott' for welcoming one person or 'Isten hozta' for multiple people, showing respect through grammar itself.",
+    "learn_more_url": "https://www.hungarianreference.com/Greetings/basic-greetings.aspx",
+    "learn_more_label": "Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What is the only national park in the United States that contains both mountains and ocean coastline?",
+    "question": "What special ability do sea otters have that helps them stay warm in cold Pacific waters?",
     "options": [
-      "Acadia National Park",
-      "Olympic National Park",
-      "Channel Islands National Park",
-      "Glacier Bay National Park"
+      "They migrate to warmer waters in winter",
+      "They have the densest fur of any animal",
+      "They can heat their bodies like electric blankets",
+      "They build underwater warming shelters"
     ],
     "correct_index": 1,
-    "correct_response": "Yes! You're living right next to one of America's most diverse and spectacular national parks. Olympic has it all — mountains, rainforests, and wild Pacific beaches!",
-    "wrong_response": "It's Olympic National Park, right in your own backyard! It's the only U.S. national park with both glacier-capped mountains and wild ocean coastline, making it truly special.",
-    "learn_more_text": "Olympic National Park protects nearly a million acres and contains three distinct ecosystems: subalpine forest and wildflower meadow, temperate forest, and rugged Pacific coastline. UNESCO designated it as both an International Biosphere Reserve and a World Heritage Site.",
-    "learn_more_url": "https://www.nps.gov/olym/index.htm",
-    "learn_more_label": "Explore the park — National Park Service"
+    "correct_response": "Wonderful! Sea otters have the densest fur of any animal — up to one million hairs per square inch! That's why you often see them grooming so carefully, keeping air trapped in their fur for insulation.",
+    "wrong_response": "Sea otters actually have the densest fur of any animal on Earth — up to one million hairs per square inch! Unlike seals and whales, they don't have blubber, so they rely entirely on their incredibly thick fur coat and must groom it constantly to stay warm in our cold waters.",
+    "learn_more_text": "Sea otters spend a huge portion of their day grooming their fur to maintain its insulating properties. They also have a super-fast metabolism and must eat about 25% of their body weight in food each day to stay warm!",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
+    "learn_more_label": "National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-03T10:10:53.362090-07:00",
-  "date": "2026-08-03",
+  "generated_at": "2026-08-04T09:53:54.471472-07:00",
+  "date": "2026-08-04",
   "is_laundry_day": false
 }
