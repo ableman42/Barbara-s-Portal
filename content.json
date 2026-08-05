@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, August 4",
+  "date_display": "Wednesday, August 5",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungarian, the word for butterfly is 'pillangó' (pronounced pee-lon-go), which comes from an old word meaning 'fluttering.' Hungary is home to over 160 species of butterflies, including the stunning Swallowtail that graces gardens just like yours in summertime!",
-    "tag": "Hungarian language"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the Rufous hummingbird, one of the feistiest species despite being no bigger than a ping pong ball.",
+    "tag": "Pacific Northwest Birds"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals are regular visitors to the Strait of Juan de Fuca, and they're much more fascinating than you might think. Learn about their underwater singing, their whiskers that detect fish movements, and how they nap while floating upright!",
-    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
+    "title": "The Secret Lives of Deer on the Olympic Peninsula",
+    "teaser": "Black-tailed deer are some of the most common residents of the Olympic Peninsula, yet they lead surprisingly complex social lives. Learn about their seasonal habits and how they've adapted to life in the temperate rainforest.",
+    "url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Hidden Language of Flowers in Victorian Gardens",
-    "teaser": "Victorians used flowers to send secret messages, and many of the blooms in your garden once had special meanings. Discover what your favorite flowers were 'saying' in the 1800s and how this charming tradition continues today.",
-    "url": "https://www.smithsonianmag.com/history/the-secret-victorian-language-of-flowers-130258913/"
+    "meta": "15 min · Gardens",
+    "title": "How Plants Know When It's Time to Bloom",
+    "teaser": "Scientists have discovered that plants can actually measure the length of day and night to time their flowering perfectly. This fascinating article explores the internal clocks that help gardens burst into color at just the right moment.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-do-plants-know-when-to-flower-180975740/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Budapest Coffee House Culture That Shaped a Nation",
-    "teaser": "For centuries, Budapest's grand coffee houses were the heart of Hungarian intellectual and artistic life, where writers, poets, and revolutionaries gathered over cakes and coffee. This beautifully illustrated journey explores how these elegant cafés became cultural institutions and many still thrive today.",
-    "url": "https://www.bbc.com/travel/article/20190305-budapests-most-beautiful-cafes"
+    "title": "The Women Who Preserved America's Wildflowers",
+    "teaser": "In the early 1900s, a movement of dedicated botanists and conservationists worked to save America's native wildflowers from extinction. Their legacy lives on in the beautiful meadows and forests we enjoy today, including those right here in Olympic National Park.",
+    "url": "https://www.npr.org/sections/thesalt/2017/04/16/523742944/how-women-saved-americas-wildflowers"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagles Nesting Along the Strait",
-    "description": "August is a wonderful time to spot bald eagles along the Strait of Juan de Fuca, as parent eagles are still teaching their young to fish. Ediz Hook and the waterfront near the ferry terminal are excellent viewing spots, especially in early morning. Bring binoculars and you might see them diving for salmon!",
-    "link_text": "Eagle viewing tips",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "August is peak pupping season for harbor seals in the Strait of Juan de Fuca! These adorable pups are born able to swim and can often be spotted with their mothers near Ediz Hook and along the waterfront. Remember to admire them from a distance of at least 100 yards to keep both you and the seals safe.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.seattle.gov/animals/seals-and-sea-lions"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "answer": 1260,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That tiny heart is working incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — your heart is probably beating around 70 times per minute right now!",
-    "wrong_response": "These tiny dynamos have hearts that beat about 1,200 times per minute! That's roughly 20 beats every single second to fuel their incredible hovering flight.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any bird, and their hearts can even beat faster — up to 1,260 times per minute — when they're especially active. At night when they sleep, their heart rate drops to about 50 beats per minute to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Amazing! You're right — a hummingbird's tiny heart beats incredibly fast to power those rapid wings!",
+    "close_response": "You're very close! These tiny birds have hearts that beat around 1,260 times per minute — that's more than 20 times per second!",
+    "wrong_response": "These remarkable little birds have hearts that beat about 1,260 times per minute while hovering — that's incredibly fast to fuel all that energy!",
+    "learn_more_text": "A hummingbird's metabolism is so fast that they must eat approximately every 10 minutes and consume up to half their body weight in sugar daily. At night, they enter a hibernation-like state called torpor to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More Hummingbird Facts — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'welcome'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Isten hozta",
-      "Viszlát",
-      "Jó reggelt"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Isten hozta — exactly right! This beautiful phrase literally means 'God brought you' and is such a warm way to welcome someone.",
-    "wrong_response": "The answer is 'Isten hozta' — what a lovely phrase! It literally means 'God brought you,' making every guest feel truly meant to be there. (Köszönöm means thank you, Viszlát means goodbye, and Jó reggelt means good morning.)",
-    "learn_more_text": "Hungarian greetings are often quite poetic. While 'Isten hozta' is traditional, Hungarians also use 'Isten hozott' for welcoming one person or 'Isten hozta' for multiple people, showing respect through grammar itself.",
-    "learn_more_url": "https://www.hungarianreference.com/Greetings/basic-greetings.aspx",
-    "learn_more_label": "Hungarian Reference"
+    "correct_response": "Wonderfully done! Pillangó is indeed the Hungarian word for butterfly — such a musical word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungary is home to over 160 species of butterflies, including the stunning Swallowtail. Many Hungarian gardens traditionally include butterfly-friendly flowers like lavender and buddleia.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly",
+    "learn_more_label": "About Butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What special ability do sea otters have that helps them stay warm in cold Pacific waters?",
+    "question": "Which tree is known as the 'Tree of Life' by indigenous peoples of the Pacific Northwest?",
     "options": [
-      "They migrate to warmer waters in winter",
-      "They have the densest fur of any animal",
-      "They can heat their bodies like electric blankets",
-      "They build underwater warming shelters"
+      "Douglas Fir",
+      "Sitka Spruce",
+      "Western Red Cedar",
+      "Big Leaf Maple"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Sea otters have the densest fur of any animal — up to one million hairs per square inch! That's why you often see them grooming so carefully, keeping air trapped in their fur for insulation.",
-    "wrong_response": "Sea otters actually have the densest fur of any animal on Earth — up to one million hairs per square inch! Unlike seals and whales, they don't have blubber, so they rely entirely on their incredibly thick fur coat and must groom it constantly to stay warm in our cold waters.",
-    "learn_more_text": "Sea otters spend a huge portion of their day grooming their fur to maintain its insulating properties. They also have a super-fast metabolism and must eat about 25% of their body weight in food each day to stay warm!",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
-    "learn_more_label": "National Geographic"
+    "correct_index": 2,
+    "correct_response": "Perfect! The Western Red Cedar was called the 'Tree of Life' because it provided so much — from canoes and longhouses to clothing and medicine. It's still deeply revered today.",
+    "wrong_response": "The Western Red Cedar earned the name 'Tree of Life' from indigenous peoples because every part of the tree was used — for canoes, homes, clothing, baskets, and medicine. These magnificent trees can live over 1,000 years!",
+    "learn_more_text": "Western Red Cedars in the Olympic Peninsula can grow over 200 feet tall and 20 feet in diameter. Their naturally rot-resistant wood made them invaluable for building ocean-going canoes.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-red-cedar.htm",
+    "learn_more_label": "Western Red Cedar — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-04T09:53:54.471472-07:00",
-  "date": "2026-08-04",
+  "generated_at": "2026-08-05T09:43:32.709913-07:00",
+  "date": "2026-08-05",
   "is_laundry_day": false
 }
