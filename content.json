@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, August 7",
+  "date_display": "Saturday, August 8",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the beautiful Rufous hummingbird, which migrates through Port Angeles each summer.",
-    "tag": "Local Wildlife"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat in a figure-eight pattern, allowing them to hover in place and even fly upside down for short distances. A hummingbird's heart can beat up to 1,260 times per minute.",
+    "tag": "Bird wonder"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jeweled visitors to our gardens have hearts that beat over 1,200 times per minute. Discover the amazing adaptations that make hummingbirds nature's little helicopters.",
-    "url": "https://www.allaboutbirds.org/news/the-spectacular-science-behind-hummingbird-flight/"
+    "title": "The Secret Lives of Tide Pools",
+    "teaser": "Tide pools along the Pacific coast are like tiny worlds, home to colorful sea stars, hermit crabs, and anemones. Learn how these remarkable creatures survive the rhythm of the tides.",
+    "url": "https://www.nps.gov/articles/000/tide-pools.htm"
   },
   "medium_read": {
-    "meta": "15 min · Travel & Culture",
-    "title": "Hungary's Lake Balaton: The Heart of Summer",
-    "teaser": "Lake Balaton has been Hungary's favorite summer destination for generations, where families gather to swim, sail, and enjoy lakeside traditions. This beautiful freshwater lake holds centuries of Hungarian memories and culture.",
-    "url": "https://www.nationalgeographic.com/travel/article/lake-balaton-hungary-travel"
+    "meta": "15 min · History",
+    "title": "The Magyar Migrations: How Hungarians Found Their Home",
+    "teaser": "The story of how the Hungarian people journeyed from the Ural Mountains to settle in the heart of Europe over a thousand years ago is a fascinating tale of adventure and survival. Discover the origins of Hungarian culture and language.",
+    "url": "https://www.smithsonianmag.com/history/the-magyar-migrations-180951668/"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "Olympic Peninsula: Where Rainforest Meets the Sea",
-    "teaser": "The Olympic Peninsula is one of the most ecologically diverse places on Earth, home to temperate rainforests, alpine peaks, and wild coastlines. Learn how this remarkable landscape right in your backyard came to be.",
-    "url": "https://www.nps.gov/olym/learn/nature/natural-features-and-ecosystems.htm"
+    "meta": "35 min · Wildlife",
+    "title": "The Return of Wolves to the Olympic Peninsula",
+    "teaser": "After nearly a century of absence, gray wolves are slowly returning to the Olympic Peninsula, bringing both wonder and complexity to the ecosystem. This is the story of their journey home and what it means for the forests you love.",
+    "url": "https://www.npca.org/articles/2471-wolves-return-to-olympic-peninsula"
   },
   "port_angeles": {
-    "icon": "🦀",
-    "title": "Dungeness Spit National Wildlife Refuge",
-    "description": "Just east of Port Angeles, Dungeness Spit stretches over 5 miles into the Strait of Juan de Fuca, making it one of the longest natural sand spits in the world. It's a haven for over 250 species of birds, harbor seals, and countless tide pool creatures. The gentle walk along the spit offers stunning views of the Olympics and Vancouver Island.",
-    "link_text": "Visit Dungeness NWR",
-    "link_url": "https://www.fws.gov/refuge/dungeness"
+    "icon": "🦌",
+    "title": "Deer in the Garden",
+    "description": "August is prime time to spot black-tailed deer around Port Angeles, especially in the early morning and evening hours. These gentle browsers are native to the Olympic Peninsula and can often be seen near the edges of forests and meadows, even occasionally wandering through residential gardens at Park View Villas!",
+    "link_text": "Learn about local deer",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
   },
   "puzzle_1": {
-    "question": "A gray whale can hold its breath for up to ___ minutes while diving for food.",
-    "answer": 15,
+    "question": "A hummingbird visits about ___ flowers per day to find enough nectar for energy.",
+    "answer": 1000,
     "answer_is_number": true,
-    "close_range": 3,
-    "correct_response": "That's exactly right, Barbara! Gray whales are remarkable divers.",
-    "close_response": "Very close! Gray whales can actually hold their breath for about 15 minutes.",
-    "wrong_response": "Gray whales can hold their breath for about 15 minutes — that's a long time underwater!",
-    "learn_more_text": "Gray whales migrate past Port Angeles every year, traveling between Alaska and Mexico — one of the longest migrations of any mammal on Earth, covering up to 12,000 miles round trip.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/gray-whale",
-    "learn_more_label": "Learn More — NOAA Fisheries"
+    "close_range": 200,
+    "correct_response": "Wonderful! Yes, these tiny dynamos visit around 1,000 flowers every day — what incredible energy!",
+    "close_response": "You're very close! These busy little birds actually visit about 1,000 flowers daily to fuel their amazing flight.",
+    "wrong_response": "These tireless little fliers visit about 1,000 flowers each day! That's a lot of gardens to explore.",
+    "learn_more_text": "Hummingbirds need to consume half their body weight in sugar daily and can visit over 1,000 flowers to meet their energy needs. Their metabolism is so fast they must eat every 10-15 minutes!",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Napsugár"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful word for such a beautiful creature.",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a lovely, musical word!",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most European languages. Many Hungarian words have a poetic quality, like 'pillangó' which almost sounds like the flutter of butterfly wings.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Learn More — Britannica"
+    "correct_response": "Köszönöm! That's right, Ildiko — a beautiful word you know well!",
+    "wrong_response": "The answer is 'köszönöm' — such a warm and essential Hungarian word! (Szia means hello, igen means yes, and viszlát means goodbye.)",
+    "learn_more_text": "Hungarian is a unique language from the Finno-Ugric family, unrelated to most European languages. It's known for its beautiful sounds and complex grammar with 18 grammatical cases.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-challenging-for-language-learners",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What do gardeners call the practice of planting different crops together to help them grow better?",
+    "question": "What type of marine mammal is commonly spotted in the Strait of Juan de Fuca near Port Angeles?",
     "options": [
-      "Companion planting",
-      "Crop rotation",
-      "Double digging",
-      "Intercropping"
+      "Sea lions",
+      "Orcas (killer whales)",
+      "Walruses",
+      "Manatees"
     ],
-    "correct_index": 0,
-    "correct_response": "Perfect! Companion planting is a wonderful gardening technique — tomatoes and basil are famous garden friends!",
-    "wrong_response": "That's called companion planting! For example, marigolds planted near tomatoes can help keep pests away naturally.",
-    "learn_more_text": "Companion planting has been used for centuries — Native Americans traditionally grew corn, beans, and squash together in 'Three Sisters' gardens, where each plant helped the others thrive.",
-    "learn_more_url": "https://www.almanac.com/companion-planting-guide-vegetables",
-    "learn_more_label": "Planting Guide — Old Farmer's Almanac"
+    "correct_index": 1,
+    "correct_response": "Yes! Orcas are regular visitors to the Strait, including both resident pods that eat salmon and transient orcas that hunt seals. What a privilege to live where these magnificent creatures swim!",
+    "wrong_response": "The answer is orcas! These magnificent black and white whales swim through the Strait regularly, and you might spot them from the shore on a lucky day. Sea lions do visit too, but orcas are the most iconic.",
+    "learn_more_text": "The Southern Resident orcas are an endangered population that frequents the Strait of Juan de Fuca, following salmon runs. The best viewing months are often May through September.",
+    "learn_more_url": "https://www.npca.org/articles/1056-orcas-of-the-salish-sea",
+    "learn_more_label": "National Parks Conservation"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-07T08:58:54.730422-07:00",
-  "date": "2026-08-07",
+  "generated_at": "2026-08-08T08:32:32.577513-07:00",
+  "date": "2026-08-08",
   "is_laundry_day": false
 }
