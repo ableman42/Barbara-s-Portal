@@ -1,49 +1,49 @@
 {
-  "date_display": "Saturday, August 8",
+  "date_display": "Sunday, August 9",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat in a figure-eight pattern, allowing them to hover in place and even fly upside down for short distances. A hummingbird's heart can beat up to 1,260 times per minute.",
-    "tag": "Bird wonder"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats need to eat every 10-15 minutes to fuel their incredible energy needs.",
+    "tag": "Bird life"
   },
   "short_read": {
     "meta": "5 min · Nature",
     "title": "The Secret Lives of Tide Pools",
-    "teaser": "Tide pools along the Pacific coast are like tiny worlds, home to colorful sea stars, hermit crabs, and anemones. Learn how these remarkable creatures survive the rhythm of the tides.",
-    "url": "https://www.nps.gov/articles/000/tide-pools.htm"
+    "teaser": "Tide pools along the Pacific Coast are miniature worlds filled with colorful sea stars, anemones, and tiny crabs. Discover what makes these rocky shoreline habitats so special and resilient.",
+    "url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Magyar Migrations: How Hungarians Found Their Home",
-    "teaser": "The story of how the Hungarian people journeyed from the Ural Mountains to settle in the heart of Europe over a thousand years ago is a fascinating tale of adventure and survival. Discover the origins of Hungarian culture and language.",
-    "url": "https://www.smithsonianmag.com/history/the-magyar-migrations-180951668/"
+    "meta": "15 min · Travel & Culture",
+    "title": "Budapest's Thermal Baths: A Living Tradition",
+    "teaser": "For over 2,000 years, Hungarians have gathered in thermal baths to relax, socialize, and heal. This beautiful photo essay explores the history and architecture of Budapest's famous bathhouses.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-baths-180953473/"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Return of Wolves to the Olympic Peninsula",
-    "teaser": "After nearly a century of absence, gray wolves are slowly returning to the Olympic Peninsula, bringing both wonder and complexity to the ecosystem. This is the story of their journey home and what it means for the forests you love.",
-    "url": "https://www.npca.org/articles/2471-wolves-return-to-olympic-peninsula"
+    "meta": "35 min · Natural History",
+    "title": "The Olympic Peninsula: Where Rainforest Meets the Sea",
+    "teaser": "The Olympic Peninsula is one of the most ecologically diverse places on Earth, home to ancient rainforests, glacier-capped mountains, and rugged coastline. Learn how this unique landscape was formed and why it's unlike anywhere else.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Deer in the Garden",
-    "description": "August is prime time to spot black-tailed deer around Port Angeles, especially in the early morning and evening hours. These gentle browsers are native to the Olympic Peninsula and can often be seen near the edges of forests and meadows, even occasionally wandering through residential gardens at Park View Villas!",
-    "link_text": "Learn about local deer",
-    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "August is peak harbor seal pupping season in the Strait of Juan de Fuca! Mother seals often rest with their pups on beaches and rocks near Port Angeles. Remember to keep at least 100 yards away so mothers don't abandon their babies.",
+    "link_text": "Learn about harbor seals",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/phoca-vitulina"
   },
   "puzzle_1": {
-    "question": "A hummingbird visits about ___ flowers per day to find enough nectar for energy.",
-    "answer": 1000,
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute when active.",
+    "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Wonderful! Yes, these tiny dynamos visit around 1,000 flowers every day — what incredible energy!",
-    "close_response": "You're very close! These busy little birds actually visit about 1,000 flowers daily to fuel their amazing flight.",
-    "wrong_response": "These tireless little fliers visit about 1,000 flowers each day! That's a lot of gardens to explore.",
-    "learn_more_text": "Hummingbirds need to consume half their body weight in sugar daily and can visit over 1,000 flowers to meet their energy needs. Their metabolism is so fast they must eat every 10-15 minutes!",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard — faster than you can even count!",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 beats every second!",
+    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute when the bird is active. That's more than 20 times faster than a human heart!",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must consume about half their body weight in sugar each day, visiting hundreds of flowers from dawn to dusk.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'thank you'?",
@@ -51,29 +51,29 @@
       "Szia",
       "Köszönöm",
       "Igen",
-      "Viszlát"
+      "Kérem"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's right, Ildiko — a beautiful word you know well!",
-    "wrong_response": "The answer is 'köszönöm' — such a warm and essential Hungarian word! (Szia means hello, igen means yes, and viszlát means goodbye.)",
-    "learn_more_text": "Hungarian is a unique language from the Finno-Ugric family, unrelated to most European languages. It's known for its beautiful sounds and complex grammar with 18 grammatical cases.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-challenging-for-language-learners",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Köszönöm, that's right! You know your Hungarian well, Ildiko!",
+    "wrong_response": "The word for 'thank you' is 'köszönöm' (or the shorter 'köszi'). Szia means 'hi,' igen means 'yes,' and kérem means 'please.'",
+    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric family, making it related to Finnish and Estonian rather than neighboring Slavic languages.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "About Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "What type of marine mammal is commonly spotted in the Strait of Juan de Fuca near Port Angeles?",
+    "question": "What type of tree is the most common in Olympic National Park's temperate rainforest?",
     "options": [
-      "Sea lions",
-      "Orcas (killer whales)",
-      "Walruses",
-      "Manatees"
+      "Douglas fir",
+      "Western red cedar",
+      "Sitka spruce",
+      "Western hemlock"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes! Orcas are regular visitors to the Strait, including both resident pods that eat salmon and transient orcas that hunt seals. What a privilege to live where these magnificent creatures swim!",
-    "wrong_response": "The answer is orcas! These magnificent black and white whales swim through the Strait regularly, and you might spot them from the shore on a lucky day. Sea lions do visit too, but orcas are the most iconic.",
-    "learn_more_text": "The Southern Resident orcas are an endangered population that frequents the Strait of Juan de Fuca, following salmon runs. The best viewing months are often May through September.",
-    "learn_more_url": "https://www.npca.org/articles/1056-orcas-of-the-salish-sea",
-    "learn_more_label": "National Parks Conservation"
+    "correct_index": 2,
+    "correct_response": "Beautiful! Sitka spruce trees dominate the rainforest, growing over 300 feet tall in the misty valleys. Their ability to thrive in wet conditions makes them perfect for this rainy climate.",
+    "wrong_response": "It's the Sitka spruce! These magnificent trees can grow over 300 feet tall and are perfectly adapted to the Olympic rainforest's wet climate. Some are over 500 years old.",
+    "learn_more_text": "The Hoh Rain Forest in Olympic National Park receives up to 14 feet of rain annually, making it one of the wettest places in the continental United States and creating ideal conditions for these towering spruce trees.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic rainforests — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-08T08:32:32.577513-07:00",
-  "date": "2026-08-08",
-  "is_laundry_day": false
+  "generated_at": "2026-08-09T08:34:20.751542-07:00",
+  "date": "2026-08-09",
+  "is_laundry_day": true
 }
