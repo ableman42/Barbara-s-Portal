@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, August 9",
+  "date_display": "Monday, August 10",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats need to eat every 10-15 minutes to fuel their incredible energy needs.",
-    "tag": "Bird life"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings up to 80 times per second. These tiny acrobats have exceptional memories and can remember every flower they've visited and how long it takes each one to refill with nectar.",
+    "tag": "Birds"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Tide Pools",
-    "teaser": "Tide pools along the Pacific Coast are miniature worlds filled with colorful sea stars, anemones, and tiny crabs. Discover what makes these rocky shoreline habitats so special and resilient.",
-    "url": "https://www.nps.gov/olym/learn/nature/tide-pools.htm"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals in Puget Sound",
+    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're more social and playful than you might think. Learn about their daily routines, favorite resting spots, and how to spot them from shore.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Travel & Culture",
-    "title": "Budapest's Thermal Baths: A Living Tradition",
-    "teaser": "For over 2,000 years, Hungarians have gathered in thermal baths to relax, socialize, and heal. This beautiful photo essay explores the history and architecture of Budapest's famous bathhouses.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-baths-180953473/"
+    "meta": "15 min · History",
+    "title": "Hungarian Folk Art: The Language of Embroidery",
+    "teaser": "Traditional Hungarian embroidery tells stories through symbols and colors that have been passed down for centuries. Each region of Hungary developed its own distinctive patterns, creating a beautiful tapestry of cultural expression.",
+    "url": "https://www.smithsonianmag.com/travel/hungary-folk-art-180975436/"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "The Olympic Peninsula: Where Rainforest Meets the Sea",
-    "teaser": "The Olympic Peninsula is one of the most ecologically diverse places on Earth, home to ancient rainforests, glacier-capped mountains, and rugged coastline. Learn how this unique landscape was formed and why it's unlike anywhere else.",
+    "meta": "35 min · Nature",
+    "title": "The Magnificent Rain Forests of Olympic National Park",
+    "teaser": "Just south of Port Angeles, some of the most enchanting temperate rain forests in the world thrive with moss-draped trees and lush ferns. This journey explores the unique ecosystem where Roosevelt elk roam and ancient trees tell thousand-year-old stories.",
     "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "August is peak harbor seal pupping season in the Strait of Juan de Fuca! Mother seals often rest with their pups on beaches and rocks near Port Angeles. Remember to keep at least 100 yards away so mothers don't abandon their babies.",
-    "link_text": "Learn about harbor seals",
-    "link_url": "https://wdfw.wa.gov/species-habitats/species/phoca-vitulina"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "August is peak butterfly season at Hurricane Ridge! On sunny days, you can spot dozens of species including the beautiful Olympic Marble butterfly, found only in the Olympic Mountains. The alpine meadows are alive with color as butterflies dance among the wildflowers.",
+    "link_text": "Hurricane Ridge butterflies",
+    "link_url": "https://www.nps.gov/olym/learn/nature/butterflies.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute when active.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard — faster than you can even count!",
-    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 beats every second!",
-    "wrong_response": "Those tiny hearts are amazing — they beat about 1,200 times per minute when the bird is active. That's more than 20 times faster than a human heart!",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must consume about half their body weight in sugar each day, visiting hundreds of flowers from dawn to dusk.",
+    "correct_response": "Amazing! Yes, 1,200 beats per minute — that's about 20 times faster than a human heart at rest!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute when flying — an incredible pace!",
+    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute during flight — that's faster than any other bird!",
+    "learn_more_text": "Despite their tiny size, hummingbirds have the highest metabolism of any animal on Earth. To fuel this incredible energy, they must eat half their body weight in sugar every day.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "Szia",
       "Köszönöm",
-      "Igen",
-      "Kérem"
+      "Szia",
+      "Kérem",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm, that's right! You know your Hungarian well, Ildiko!",
-    "wrong_response": "The word for 'thank you' is 'köszönöm' (or the shorter 'köszi'). Szia means 'hi,' igen means 'yes,' and kérem means 'please.'",
-    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric family, making it related to Finnish and Estonian rather than neighboring Slavic languages.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "About Hungarian language — BBC"
+    "correct_response": "Szia! That's right! It's a casual, friendly greeting you can use for both hello and goodbye.",
+    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah) — it's a warm, casual way to say both hello and goodbye to friends.",
+    "learn_more_text": "Hungarian is a unique language that's part of the Finno-Ugric family, making it quite different from neighboring European languages. It has 14 vowel sounds and uses extensive suffixes to modify word meanings.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-is-hungarian-the-worlds-most-difficult-language",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Park's temperate rainforest?",
+    "question": "What type of tree is most common in Olympic National Park's rain forests?",
     "options": [
-      "Douglas fir",
-      "Western red cedar",
-      "Sitka spruce",
-      "Western hemlock"
+      "Douglas Fir",
+      "Redwood",
+      "Sitka Spruce",
+      "Cedar"
     ],
     "correct_index": 2,
-    "correct_response": "Beautiful! Sitka spruce trees dominate the rainforest, growing over 300 feet tall in the misty valleys. Their ability to thrive in wet conditions makes them perfect for this rainy climate.",
-    "wrong_response": "It's the Sitka spruce! These magnificent trees can grow over 300 feet tall and are perfectly adapted to the Olympic rainforest's wet climate. Some are over 500 years old.",
-    "learn_more_text": "The Hoh Rain Forest in Olympic National Park receives up to 14 feet of rain annually, making it one of the wettest places in the continental United States and creating ideal conditions for these towering spruce trees.",
+    "correct_response": "Wonderful! Sitka Spruce trees dominate the rain forests, growing up to 300 feet tall and living for 700 years. They love the moist, mild climate near the coast!",
+    "wrong_response": "The answer is Sitka Spruce! These magnificent trees thrive in the misty rain forests, creating the magical green canopies draped with moss.",
+    "learn_more_text": "The Hoh Rain Forest in Olympic National Park receives 140-170 inches of rain per year, making it one of the wettest places in the continental United States. This abundance of moisture creates an enchanted world of green.",
     "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic rainforests — National Park Service"
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-09T08:34:20.751542-07:00",
-  "date": "2026-08-09",
-  "is_laundry_day": true
+  "generated_at": "2026-08-10T09:01:26.555358-07:00",
+  "date": "2026-08-10",
+  "is_laundry_day": false
 }
