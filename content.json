@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, August 11",
+  "date_display": "Wednesday, August 12",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian is one of the few languages in Europe that isn't part of the Indo-European language family—it's actually related to Finnish and Estonian! The Hungarian word for 'butterfly' is 'pillangó,' which sounds a bit like the flutter of wings. Many Hungarians believe that if a butterfly lands on you, it brings good luck and joy.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can beat their wings up to 80 times per second, creating that characteristic humming sound. These tiny acrobats also have an incredible memory, remembering every flower they've visited and how long it will take for each to refill with nectar.",
+    "tag": "Bird life"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Social Lives of Hummingbirds",
-    "teaser": "Hummingbirds aren't just solitary nectar-sippers—scientists have discovered they actually remember every flower they've visited and for how long. These tiny birds have remarkable memories and even recognize individual humans who feed them!",
-    "url": "https://www.audubon.org/news/the-remarkable-memory-hummingbirds"
+    "title": "Why Do Trees Grow So Tall in the Pacific Northwest?",
+    "teaser": "The Douglas firs and Western red cedars around Port Angeles reach extraordinary heights thanks to a perfect combination of mild winters, summer fog, and rich soil. Discover what makes the Olympic Peninsula a giant tree paradise.",
+    "url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "How Gardens Help Us Age with Grace and Joy",
-    "teaser": "Gardening offers far more than beautiful blooms—it's a pathway to better memory, reduced stress, and a deeper sense of purpose as we age. This gentle exploration shows how tending plants tends to our hearts and minds in remarkable ways.",
-    "url": "https://www.bbc.com/future/article/20220315-why-gardening-makes-us-feel-better"
+    "meta": "15 min · Animals",
+    "title": "The Secret Lives of Orcas in the Salish Sea",
+    "teaser": "The orca pods that swim through the Strait of Juan de Fuca have distinct cultures, languages, and family traditions passed down through generations. Learn about the fascinating social world of these intelligent marine mammals that call your waters home.",
+    "url": "https://www.npca.org/articles/2691-get-to-know-the-orcas-of-the-salish-sea"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Silk Road: Ancient Highway of Culture and Commerce",
-    "teaser": "For over 1,500 years, the Silk Road connected East and West, carrying not just silk and spices but ideas, art, and innovations that shaped civilizations. This beautifully illustrated journey explores the merchants, travelers, and dreamers who traversed these ancient routes.",
-    "url": "https://www.smithsonianmag.com/travel/the-silk-road-180978146/"
+    "title": "Hungarian Folk Art: The Stories in the Stitches",
+    "teaser": "Traditional Hungarian embroidery tells stories through intricate patterns, each region with its own distinctive style and meaning. This beautiful exploration reveals how generations of Hungarian women preserved their culture, identity, and artistry through needle and thread.",
+    "url": "https://www.smithsonianmag.com/travel/hungary-folk-art-traditions-180968435/"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season at Ediz Hook",
-    "description": "August is a wonderful time to spot harbor seal pups at Ediz Hook! These adorable youngsters are learning to swim and fish alongside their mothers in the protected waters. The best viewing times are during low tide in the early morning or late afternoon—bring binoculars and watch from a respectful distance.",
-    "link_text": "Learn about harbor seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "August is a wonderful time to spot black-tailed deer at Hurricane Ridge, especially in the early morning or late afternoon. These gentle creatures are often seen grazing in the meadows alongside the wildflowers, and the fawns born in June are now old enough to explore with their mothers. The Olympic marmots are also very active this time of year!",
+    "link_text": "Hurricane Ridge Wildlife",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute when it's actively flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right—1,200 beats per minute! That tiny heart works incredibly hard to power those rapid wings.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute. That's about 20 times faster than a human heart—remarkable for such a tiny bird!",
-    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine such a tiny heart beating so fast, but that's what powers their incredible hovering flight.",
-    "learn_more_text": "To fuel this incredibly fast heartbeat, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily and can remember each one they've been to!",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More Hummingbird Facts — Audubon"
+    "correct_response": "Wonderful! That's right — 1,200 beats per minute! That tiny heart works incredibly hard to power such amazing flight.",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "A hummingbird's heart actually beats about 1,200 times per minute! That's incredibly fast — about 20 beats every single second to fuel their energetic lifestyle.",
+    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to support their incredibly fast metabolism and hovering flight.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "virág",
+      "pillangó",
+      "madár",
+      "napraforgó"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's exactly right! Such a lovely word to express gratitude.",
-    "wrong_response": "The answer is 'Köszönöm'! It's pronounced 'kuh-suh-num' and is one of the most important words to know in Hungarian.",
-    "learn_more_text": "Hungarian has many beautiful expressions of gratitude. A shorter, casual version is 'köszi,' while 'köszönöm szépen' means 'thank you very much.' The language is known for its warmth and politeness.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191113-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "Hungarian Language — BBC Travel"
+    "correct_response": "Beautiful! Pillangó is indeed butterfly in Hungarian — such a lovely, poetic-sounding word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound musical? (Virág means flower, madár means bird, and napraforgó means sunflower.)",
+    "learn_more_text": "The word 'pillangó' comes from an old Hungarian root meaning 'to flutter.' Many Hungarian nature words have similarly poetic origins, reflecting the deep connection between the language and the natural world.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/hungarian-nature-vocabulary.aspx",
+    "learn_more_label": "Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Park?",
+    "question": "What type of tree can live for over 1,000 years in the Olympic National Forest?",
     "options": [
       "Douglas Fir",
       "Western Hemlock",
-      "Sitka Spruce",
-      "Western Red Cedar"
+      "Western Red Cedar",
+      "Sitka Spruce"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Western Hemlock is indeed the most abundant tree in Olympic National Park. These beautiful evergreens thrive in the moist Pacific Northwest climate and can live for over 500 years!",
-    "wrong_response": "The answer is Western Hemlock! While Douglas Fir, Sitka Spruce, and Western Red Cedar all grow beautifully in the park, Western Hemlock is the most common, especially in the temperate rainforests.",
-    "learn_more_text": "Western Hemlocks are shade-tolerant trees with graceful, drooping branch tips. They're a keystone species in the Olympic forests, providing food and shelter for countless birds, mammals, and insects.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/trees-and-shrubs.htm",
-    "learn_more_label": "Olympic Trees — National Park Service"
+    "correct_index": 2,
+    "correct_response": "Yes! Western red cedars can live well over 1,000 years in the Olympic Peninsula. Some ancient cedars near Port Angeles are estimated to be 1,200 years old — they were saplings when Vikings were sailing!",
+    "wrong_response": "The answer is Western red cedar! These magnificent trees can live over 1,000 years in the Olympic forests. Some ancient cedars growing near Port Angeles were already hundreds of years old when European explorers first arrived.",
+    "learn_more_text": "Western red cedars were sacred to Coast Salish peoples, who called them 'the tree of life.' They used every part — the rot-resistant wood for longhouses and canoes, the bark for clothing and baskets, and the roots for rope.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/western-red-cedar.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-11T09:02:11.514427-07:00",
-  "date": "2026-08-11",
+  "generated_at": "2026-08-12T09:00:41.515463-07:00",
+  "date": "2026-08-12",
   "is_laundry_day": false
 }
