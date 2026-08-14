@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, August 13",
+  "date_display": "Friday, August 14",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungarian, the word for butterfly is 'pillangó' (pronounced pee-lahn-go), which comes from a charming old folk belief that butterflies were attracted to flickering flames. The word relates to 'pillant' meaning 'glimpse' or 'flicker,' capturing how butterflies seem to dance through the air like little flames.",
-    "tag": "Hungarian language"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-8 pattern up to 80 times per second. These tiny acrobats visit hundreds of flowers each day, remembering every single one they've been to.",
+    "tag": "Birds"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "How Hummingbirds Navigate Thousands of Miles",
-    "teaser": "These tiny birds, weighing less than a nickel, travel from Mexico to Alaska every year using an incredible internal compass. Scientists have discovered they can even remember every flower they've visited on their journey.",
-    "url": "https://www.smithsonianmag.com/science-nature/how-hummingbirds-navigate-migration-180979987/"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees actually communicate with each other through underground fungal networks, sharing nutrients and warning each other of danger. This 'wood wide web' shows that forests are more connected than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · History & Culture",
-    "title": "The Gardens of Hungarian Castles Through the Centuries",
-    "teaser": "From medieval herb gardens to grand baroque landscapes, Hungary's historic estates showcase centuries of gardening traditions. Many of these beautiful gardens are being lovingly restored today, revealing forgotten plant varieties and design secrets.",
-    "url": "https://www.bbc.com/travel/article/20190715-hungarys-historic-gardens"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "After nearly disappearing from the Strait of Juan de Fuca, sea otters are making a remarkable comeback thanks to conservation efforts. Their return is transforming kelp forests and bringing the ecosystem back into balance in ways scientists are still discovering.",
+    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Secret Lives of Pacific Northwest Tide Pools",
-    "teaser": "The rocky shores of the Olympic Peninsula host miniature worlds where sea stars, anemones, and tiny fish navigate the rhythm of the tides. This beautifully illustrated guide explores the fascinating creatures that make their homes between land and sea.",
-    "url": "https://www.nationalgeographic.com/animals/article/tide-pool-creatures-survival"
+    "meta": "35 min · History",
+    "title": "The Lost Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women passed down intricate embroidery patterns that told stories of their villages and families. This beautiful exploration traces how these folk art traditions are being preserved and celebrated by a new generation of artists.",
+    "url": "https://www.bbc.com/travel/article/20190514-hungarys-vanishing-folk-art"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer at Dusk",
-    "description": "August evenings are perfect for spotting black-tailed deer at Olympic National Park's Heart O' the Hills area, just outside Port Angeles. These gentle deer are most active at dawn and dusk, often seen grazing in meadows with their fawns, who still have their spotted summer coats.",
-    "link_text": "Olympic National Park Wildlife",
-    "link_url": "https://www.nps.gov/olym/learn/nature/animals.htm"
+    "title": "Black-Tailed Deer in Hurricane Ridge",
+    "description": "August is prime time to spot Olympic black-tailed deer grazing in the wildflower meadows of Hurricane Ridge. These gentle deer are unique to the Pacific Northwest and are often seen with their fawns during late summer. Early morning or late afternoon visits offer the best viewing opportunities.",
+    "link_text": "Hurricane Ridge Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Wonderful! That's right — 1,200 beats per minute! That's about 20 times per second, which helps power their amazing hovering flight.",
-    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute when flying — that's incredibly fast!",
-    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute during flight — that's one of the fastest heart rates in the animal kingdom!",
-    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to fuel their energy-intensive hovering flight and incredibly fast wing beats.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More About Hummingbirds — Audubon"
+    "correct_response": "Amazing! You're absolutely right — that tiny heart is working incredibly hard!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are truly remarkable — they beat about 1,200 times per minute to fuel their incredible flying abilities!",
+    "learn_more_text": "To power their high-energy lifestyle, hummingbirds must eat about half their body weight in sugar every day, visiting hundreds of flowers from dawn to dusk.",
+    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Virág",
-      "Pillangó",
-      "Napraforgó"
-    ],
-    "correct_index": 2,
-    "correct_response": "Beautiful! Pillangó is indeed butterfly! The word has such a lovely, dancing sound, just like the creature itself.",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — such a musical word! (Madár means bird, virág means flower, and napraforgó means sunflower.)",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European group. Its words often have poetic origins rooted in nature and folk traditions.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200831-why-hungarian-is-so-challenging-for-language-learners",
-    "learn_more_label": "Hungarian Language — BBC Travel"
-  },
-  "puzzle_3": {
-    "question": "What color are a flamingo's feathers when they are born?",
-    "options": [
-      "Pink",
-      "Gray or white",
-      "Orange",
-      "Yellow"
+      "madár",
+      "pillangó",
+      "virág",
+      "csillag"
     ],
     "correct_index": 1,
-    "correct_response": "That's right! Baby flamingos are born with gray or white feathers and only turn pink from eating algae and shrimp rich in carotenoids. It takes about two years for them to develop their signature pink color!",
-    "wrong_response": "Flamingo chicks are actually born with gray or white feathers! They gradually turn pink over about two years from eating algae and tiny shrimp that contain natural pink pigments called carotenoids.",
-    "learn_more_text": "The pinker a flamingo is, the healthier it tends to be — bright pink coloring signals that the bird is eating well and is likely to be a more attractive mate. Some flamingos can even be orange or red depending on their diet!",
-    "learn_more_url": "https://www.smithsonianmag.com/science-nature/why-are-flamingos-pink-134867883/",
-    "learn_more_label": "Why Flamingos Are Pink — Smithsonian"
+    "correct_response": "Wonderfully done! Pillangó is such a lovely, dancing word for such a lovely, dancing creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like the flutter of wings?",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from other European languages. Many Hungarian words are beautifully descriptive and poetic.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What is the Strait of Juan de Fuca named after?",
+    "options": [
+      "A Spanish explorer",
+      "A Greek navigator",
+      "A British captain",
+      "A Native American chief"
+    ],
+    "correct_index": 1,
+    "correct_response": "Excellent! Ioannis Phokas was a Greek navigator who sailed for Spain and claimed to have discovered this strait in 1592, though historians still debate whether he actually sailed these waters!",
+    "wrong_response": "The strait is named after Ioannis Phokas, a Greek navigator sailing under the Spanish name Juan de Fuca. He claimed to have discovered it in 1592, though the strait wasn't verified by Europeans until 200 years later!",
+    "learn_more_text": "British captain Charles Barkley is credited with confirming the existence of the strait in 1787 and naming it after Juan de Fuca. The waterway connects the Pacific Ocean to Puget Sound and is about 96 miles long.",
+    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-13T09:00:39.904182-07:00",
-  "date": "2026-08-13",
+  "generated_at": "2026-08-14T08:54:47.451530-07:00",
+  "date": "2026-08-14",
   "is_laundry_day": false
 }
