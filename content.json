@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, August 14",
+  "date_display": "Saturday, August 15",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-8 pattern up to 80 times per second. These tiny acrobats visit hundreds of flowers each day, remembering every single one they've been to.",
-    "tag": "Birds"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings rotate in a full circle, allowing them to hover in place and zip in any direction. A hummingbird's heart beats up to 1,200 times per minute during flight.",
+    "tag": "Bird Life"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees actually communicate with each other through underground fungal networks, sharing nutrients and warning each other of danger. This 'wood wide web' shows that forests are more connected than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "The Secret Lives of Garden Snails",
+    "teaser": "These tiny mollusks can sleep for up to three years and have thousands of teeth arranged on a tongue-like ribbon. Discover the surprisingly fascinating world right under your garden leaves.",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/snails"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "After nearly disappearing from the Strait of Juan de Fuca, sea otters are making a remarkable comeback thanks to conservation efforts. Their return is transforming kelp forests and bringing the ecosystem back into balance in ways scientists are still discovering.",
-    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
+    "meta": "15 min · Travel & History",
+    "title": "Budapest's Thermal Baths: A Journey Through History",
+    "teaser": "Hungary's capital is built on over 100 thermal springs that have been enjoyed since Roman times. Explore the beautiful architecture and healing traditions of these iconic Hungarian gathering places.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-baths-180969187/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Lost Art of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women passed down intricate embroidery patterns that told stories of their villages and families. This beautiful exploration traces how these folk art traditions are being preserved and celebrated by a new generation of artists.",
-    "url": "https://www.bbc.com/travel/article/20190514-hungarys-vanishing-folk-art"
+    "meta": "35 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "Once hunted nearly to extinction, sea otters are slowly making a comeback along the Olympic Coast. This is the story of their recovery and the critical role they play in keeping kelp forests healthy.",
+    "url": "https://www.npca.org/articles/2454-the-return-of-sea-otters"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer in Hurricane Ridge",
-    "description": "August is prime time to spot Olympic black-tailed deer grazing in the wildflower meadows of Hurricane Ridge. These gentle deer are unique to the Pacific Northwest and are often seen with their fawns during late summer. Early morning or late afternoon visits offer the best viewing opportunities.",
-    "link_text": "Hurricane Ridge Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "title": "Wildlife Watching at Dungeness Spit",
+    "description": "August is prime time for spotting black-tailed deer at Dungeness National Wildlife Refuge, just east of Port Angeles. The 5.5-mile sand spit is also home to over 250 species of birds, harbor seals, and stunning views of the Strait. Early morning walks offer the best wildlife viewing opportunities.",
+    "link_text": "Visit Dungeness NWR",
+    "link_url": "https://www.fws.gov/refuge/dungeness"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute.",
-    "answer": 1200,
+    "question": "A hummingbird can beat its wings about ___ times per second.",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right — that tiny heart is working incredibly hard!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are truly remarkable — they beat about 1,200 times per minute to fuel their incredible flying abilities!",
-    "learn_more_text": "To power their high-energy lifestyle, hummingbirds must eat about half their body weight in sugar every day, visiting hundreds of flowers from dawn to dusk.",
-    "learn_more_url": "https://www.audubon.org/news/15-fun-facts-about-hummingbirds",
+    "close_range": 20,
+    "correct_response": "Exactly right! Those tiny wings are a blur of motion — no wonder they hum!",
+    "close_response": "Very close! Hummingbird wings beat about 80 times per second — almost too fast to see!",
+    "wrong_response": "Hummingbird wings beat about 80 times per second — that's nearly 5,000 beats per minute! Amazing little creatures.",
+    "learn_more_text": "Different hummingbird species have different wing speeds. The Giant Hummingbird beats its wings only 10-15 times per second, while the tiny Amethyst Woodstar can reach 100 beats per second!",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
     "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "madár",
-      "pillangó",
-      "virág",
-      "csillag"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderfully done! Pillangó is such a lovely, dancing word for such a lovely, dancing creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound like the flutter of wings?",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from other European languages. Many Hungarian words are beautifully descriptive and poetic.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-is-hungarian-so-difficult-to-learn",
+    "correct_response": "Köszönöm! You got it right — that's wonderful!",
+    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi'). 'Szia' means hello, 'igen' means yes, and 'viszlát' means goodbye!",
+    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric language family, more closely related to Finnish and Estonian than to neighboring German, Slovak, or Romanian.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-tough-for-foreigners",
     "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What is the Strait of Juan de Fuca named after?",
+    "question": "What animal is known as the 'gardener of the forest' because it buries acorns that grow into oak trees?",
     "options": [
-      "A Spanish explorer",
-      "A Greek navigator",
-      "A British captain",
-      "A Native American chief"
+      "Gray squirrel",
+      "Black bear",
+      "Blue jay",
+      "Chipmunk"
     ],
-    "correct_index": 1,
-    "correct_response": "Excellent! Ioannis Phokas was a Greek navigator who sailed for Spain and claimed to have discovered this strait in 1592, though historians still debate whether he actually sailed these waters!",
-    "wrong_response": "The strait is named after Ioannis Phokas, a Greek navigator sailing under the Spanish name Juan de Fuca. He claimed to have discovered it in 1592, though the strait wasn't verified by Europeans until 200 years later!",
-    "learn_more_text": "British captain Charles Barkley is credited with confirming the existence of the strait in 1787 and naming it after Juan de Fuca. The waterway connects the Pacific Ocean to Puget Sound and is about 96 miles long.",
-    "learn_more_url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "National Park Service"
+    "correct_index": 2,
+    "correct_response": "Yes! Blue jays cache thousands of acorns each fall and forget many of them, planting future oak forests. They're nature's gardeners!",
+    "wrong_response": "It's the blue jay! These clever birds hide thousands of acorns for winter but forget where many are buried, inadvertently planting oak trees across the landscape.",
+    "learn_more_text": "A single blue jay can carry up to five acorns at once — three in its crop, one in its mouth, and one in the tip of its bill. They can transport acorns up to 2.5 miles from the parent tree.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Blue_Jay/overview",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-14T08:54:47.451530-07:00",
-  "date": "2026-08-14",
+  "generated_at": "2026-08-15T08:23:35.738024-07:00",
+  "date": "2026-08-15",
   "is_laundry_day": false
 }
