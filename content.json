@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, August 15",
+  "date_display": "Sunday, August 16",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings rotate in a full circle, allowing them to hover in place and zip in any direction. A hummingbird's heart beats up to 1,200 times per minute during flight.",
-    "tag": "Bird Life"
+    "text": "In Hungary, it's traditional to celebrate your 'name day' in addition to your birthday. Each day of the year is associated with specific names, and Ildikó's name day is celebrated on November 13th. This double celebration tradition means Hungarians often get twice the cake and twice the well-wishes!",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Snails",
-    "teaser": "These tiny mollusks can sleep for up to three years and have thousands of teeth arranged on a tongue-like ribbon. Discover the surprisingly fascinating world right under your garden leaves.",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/snails"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and even warning each other of danger. It's like a 'wood wide web' beneath our feet!",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Travel & History",
-    "title": "Budapest's Thermal Baths: A Journey Through History",
-    "teaser": "Hungary's capital is built on over 100 thermal springs that have been enjoyed since Roman times. Explore the beautiful architecture and healing traditions of these iconic Hungarian gathering places.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-baths-180969187/"
+    "meta": "15 min · Wildlife",
+    "title": "The Remarkable Intelligence of Crows",
+    "teaser": "Crows can recognize human faces, use tools, and even hold 'funerals' for their dead. These fascinating birds, common in the Pacific Northwest, are among the smartest creatures on Earth.",
+    "url": "https://www.audubon.org/news/how-smart-are-crows"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "Once hunted nearly to extinction, sea otters are slowly making a comeback along the Olympic Coast. This is the story of their recovery and the critical role they play in keeping kelp forests healthy.",
-    "url": "https://www.npca.org/articles/2454-the-return-of-sea-otters"
+    "meta": "35 min · History",
+    "title": "The Lost Gardens of Babylon",
+    "teaser": "Were the Hanging Gardens of Babylon real or myth? New archaeological evidence suggests these ancient wonders may have actually existed in a different location than previously thought. A captivating mystery from the ancient world unfolds.",
+    "url": "https://www.nationalgeographic.com/history/article/hanging-gardens-of-babylon"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Wildlife Watching at Dungeness Spit",
-    "description": "August is prime time for spotting black-tailed deer at Dungeness National Wildlife Refuge, just east of Port Angeles. The 5.5-mile sand spit is also home to over 250 species of birds, harbor seals, and stunning views of the Strait. Early morning walks offer the best wildlife viewing opportunities.",
-    "link_text": "Visit Dungeness NWR",
-    "link_url": "https://www.fws.gov/refuge/dungeness"
+    "icon": "🦭",
+    "title": "Harbor Seals of the Strait",
+    "description": "August is prime time to spot harbor seals hauling out on rocks near Ediz Hook and along the Strait of Juan de Fuca. These gentle marine mammals can often be seen basking in the sun, and the mothers are teaching their pups to hunt and swim this time of year. Bring binoculars for the best views!",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird can beat its wings about ___ times per second.",
-    "answer": 80,
+    "question": "A hummingbird's heart can beat up to ___ times per minute.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 20,
-    "correct_response": "Exactly right! Those tiny wings are a blur of motion — no wonder they hum!",
-    "close_response": "Very close! Hummingbird wings beat about 80 times per second — almost too fast to see!",
-    "wrong_response": "Hummingbird wings beat about 80 times per second — that's nearly 5,000 beats per minute! Amazing little creatures.",
-    "learn_more_text": "Different hummingbird species have different wing speeds. The Giant Hummingbird beats its wings only 10-15 times per second, while the tiny Amethyst Woodstar can reach 100 beats per second!",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
+    "close_range": 100,
+    "correct_response": "Wonderful! Yes, 1,200 beats per minute — that's about 20 times faster than a human heart!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — incredibly fast for such a tiny bird!",
+    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine a heart beating that fast, but it fuels their amazing hovering flight.",
+    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat about half their body weight in nectar every day. When they sleep, their heart rate can drop to as low as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
     "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! You got it right — that's wonderful!",
-    "wrong_response": "The word is 'köszönöm' (or the shorter 'köszi'). 'Szia' means hello, 'igen' means yes, and 'viszlát' means goodbye!",
-    "learn_more_text": "Hungarian is unique among European languages — it's part of the Finno-Ugric language family, more closely related to Finnish and Estonian than to neighboring German, Slovak, or Romanian.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191117-why-hungarian-is-so-tough-for-foreigners",
+    "correct_response": "Perfect! Pillangó is the beautiful Hungarian word for butterfly — doesn't it sound lovely?",
+    "wrong_response": "The answer is 'pillangó'! Virág means flower, madár means bird, and napsugár means sunbeam — all beautiful words!",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. Its closest linguistic relatives are Finnish and Estonian, making it quite different from neighboring languages.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-is-hungarian-so-hard-to-learn",
     "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What animal is known as the 'gardener of the forest' because it buries acorns that grow into oak trees?",
+    "question": "What type of tree is the oldest living organism on Earth?",
     "options": [
-      "Gray squirrel",
-      "Black bear",
-      "Blue jay",
-      "Chipmunk"
+      "Sequoia",
+      "Oak",
+      "Bristlecone Pine",
+      "Cedar"
     ],
     "correct_index": 2,
-    "correct_response": "Yes! Blue jays cache thousands of acorns each fall and forget many of them, planting future oak forests. They're nature's gardeners!",
-    "wrong_response": "It's the blue jay! These clever birds hide thousands of acorns for winter but forget where many are buried, inadvertently planting oak trees across the landscape.",
-    "learn_more_text": "A single blue jay can carry up to five acorns at once — three in its crop, one in its mouth, and one in the tip of its bill. They can transport acorns up to 2.5 miles from the parent tree.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Blue_Jay/overview",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "correct_response": "Exactly right! Bristlecone pines can live over 5,000 years — the oldest known tree is named Methuselah and is 4,855 years old!",
+    "wrong_response": "It's the Bristlecone Pine! These incredible trees grow in harsh mountain conditions and can live over 5,000 years, making them Earth's oldest living organisms.",
+    "learn_more_text": "The oldest bristlecone pine, nicknamed Methuselah, grows in California's White Mountains. Its exact location is kept secret to protect it, but it was already ancient when the pyramids were built!",
+    "learn_more_url": "https://www.nationalgeographic.com/environment/article/bristlecone-pine-oldest-tree",
+    "learn_more_label": "National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-15T08:23:35.738024-07:00",
-  "date": "2026-08-15",
+  "generated_at": "2026-08-16T08:24:52.519021-07:00",
+  "date": "2026-08-16",
   "is_laundry_day": false
 }
