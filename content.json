@@ -1,78 +1,78 @@
 {
-  "date_display": "Sunday, August 16",
+  "date_display": "Monday, August 17",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, it's traditional to celebrate your 'name day' in addition to your birthday. Each day of the year is associated with specific names, and Ildikó's name day is celebrated on November 13th. This double celebration tradition means Hungarians often get twice the cake and twice the well-wishes!",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds have an incredible memory and can remember every flower they've visited and how long it will take each flower to refill with nectar. They can even remember which flowers they visited a year ago during their migration! This amazing spatial memory helps them efficiently gather the nectar they need for their high-energy lifestyle.",
+    "tag": "Bird Intelligence"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through underground fungal networks, sharing nutrients and even warning each other of danger. It's like a 'wood wide web' beneath our feet!",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "The Secret Lives of Hummingbirds in the Pacific Northwest",
+    "teaser": "Anna's and Rufous hummingbirds are year-round neighbors in the Olympic Peninsula, with personalities as vibrant as their feathers. Learn why these tiny birds are tougher than they look and how they survive Pacific Northwest winters.",
+    "url": "https://www.seattleaudubon.org/sas/about/blog-birdwatch/blog-anna-hummingbird.html"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Remarkable Intelligence of Crows",
-    "teaser": "Crows can recognize human faces, use tools, and even hold 'funerals' for their dead. These fascinating birds, common in the Pacific Northwest, are among the smartest creatures on Earth.",
-    "url": "https://www.audubon.org/news/how-smart-are-crows"
+    "meta": "15 min · History",
+    "title": "The Hungarian Embroidery Tradition: Threads Through Time",
+    "teaser": "For centuries, Hungarian women have passed down intricate embroidery patterns that tell stories of villages, regions, and families. These beautiful textiles are more than decoration—they're a living connection to heritage and community.",
+    "url": "https://www.smithsonianmag.com/arts-culture/traditional-hungarian-embroidery-180972345/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Lost Gardens of Babylon",
-    "teaser": "Were the Hanging Gardens of Babylon real or myth? New archaeological evidence suggests these ancient wonders may have actually existed in a different location than previously thought. A captivating mystery from the ancient world unfolds.",
-    "url": "https://www.nationalgeographic.com/history/article/hanging-gardens-of-babylon"
+    "meta": "35 min · Wildlife",
+    "title": "The Return of Sea Otters to the Olympic Coast",
+    "teaser": "Once hunted to near extinction, sea otters are slowly returning to Washington's coastal waters, bringing dramatic changes to kelp forests and marine ecosystems. Their story is one of resilience, conservation success, and the delicate balance of ocean life.",
+    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seals of the Strait",
-    "description": "August is prime time to spot harbor seals hauling out on rocks near Ediz Hook and along the Strait of Juan de Fuca. These gentle marine mammals can often be seen basking in the sun, and the mothers are teaching their pups to hunt and swim this time of year. Bring binoculars for the best views!",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at the Olympic Discovery Trail",
+    "description": "Late summer is peak butterfly season along the Olympic Discovery Trail! Watch for painted ladies, admirals, and swallowtails dancing among the wildflowers. The section near Port Angeles Harbor is especially beautiful right now, with native plants attracting dozens of species.",
+    "link_text": "Olympic Discovery Trail Info",
+    "link_url": "https://www.olympicdiscoverytrail.org/"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute.",
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Wonderful! Yes, 1,200 beats per minute — that's about 20 times faster than a human heart!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — incredibly fast for such a tiny bird!",
-    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine a heart beating that fast, but it fuels their amazing hovering flight.",
-    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat about half their body weight in nectar every day. When they sleep, their heart rate can drop to as low as 50 beats per minute to conserve energy.",
+    "close_range": 200,
+    "correct_response": "That's exactly right! It's hard to imagine such a tiny heart beating that fast, but hummingbirds are truly remarkable little creatures.",
+    "close_response": "You're very close! A hummingbird's heart actually beats about 1,200 times per minute during flight—that's 20 times per second!",
+    "wrong_response": "A hummingbird's heart beats an incredible 1,200 times per minute while flying! By comparison, our hearts beat only about 60-100 times per minute at rest.",
+    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds have the highest metabolism of any animal. They must eat every 10-15 minutes and consume up to half their body weight in nectar each day!",
     "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
     "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napsugár"
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Pillangó is the beautiful Hungarian word for butterfly — doesn't it sound lovely?",
-    "wrong_response": "The answer is 'pillangó'! Virág means flower, madár means bird, and napsugár means sunbeam — all beautiful words!",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. Its closest linguistic relatives are Finnish and Estonian, making it quite different from neighboring languages.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191201-why-is-hungarian-so-hard-to-learn",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly—such a lovely, flowing word for such a delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family and is unrelated to the Germanic and Romance languages around it. Many Hungarian words have a melodic, flowing quality like pillangó.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Encyclopedia Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is the oldest living organism on Earth?",
+    "question": "What do sea otters use to crack open shellfish while floating on their backs?",
     "options": [
-      "Sequoia",
-      "Oak",
-      "Bristlecone Pine",
-      "Cedar"
+      "Their teeth",
+      "Rocks or stones",
+      "Driftwood pieces",
+      "Nearby dock pilings"
     ],
-    "correct_index": 2,
-    "correct_response": "Exactly right! Bristlecone pines can live over 5,000 years — the oldest known tree is named Methuselah and is 4,855 years old!",
-    "wrong_response": "It's the Bristlecone Pine! These incredible trees grow in harsh mountain conditions and can live over 5,000 years, making them Earth's oldest living organisms.",
-    "learn_more_text": "The oldest bristlecone pine, nicknamed Methuselah, grows in California's White Mountains. Its exact location is kept secret to protect it, but it was already ancient when the pyramids were built!",
-    "learn_more_url": "https://www.nationalgeographic.com/environment/article/bristlecone-pine-oldest-tree",
+    "correct_index": 1,
+    "correct_response": "Yes! Sea otters are one of the few animals that use tools. They often keep a favorite rock in a pouch of loose skin under their forearm and use it like an anvil to crack open clams and sea urchins!",
+    "wrong_response": "Sea otters actually use rocks or stones as tools! They balance them on their chests while floating and bang shellfish against them to crack them open. Some otters even have a favorite rock they keep with them!",
+    "learn_more_text": "Sea otters are among the most intelligent marine mammals and are skilled tool users. They've been observed using rocks not just for food, but also to dislodge prey from crevices in kelp forests.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
     "learn_more_label": "National Geographic"
   },
   "game": {
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-16T08:24:52.519021-07:00",
-  "date": "2026-08-16",
+  "generated_at": "2026-08-17T08:27:25.122243-07:00",
+  "date": "2026-08-17",
   "is_laundry_day": false
 }
