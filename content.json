@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, August 17",
+  "date_display": "Tuesday, August 18",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds have an incredible memory and can remember every flower they've visited and how long it will take each flower to refill with nectar. They can even remember which flowers they visited a year ago during their migration! This amazing spatial memory helps them efficiently gather the nectar they need for their high-energy lifestyle.",
-    "tag": "Bird Intelligence"
+    "text": "Hungarian paprika, Hungary's most famous spice, comes in eight different varieties ranging from delicate and sweet to fiery hot. The town of Kalocsa has been growing and grinding paprika peppers since the 16th century, and the spice is so important to Hungarian culture that it has its own museum!",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Hummingbirds in the Pacific Northwest",
-    "teaser": "Anna's and Rufous hummingbirds are year-round neighbors in the Olympic Peninsula, with personalities as vibrant as their feathers. Learn why these tiny birds are tougher than they look and how they survive Pacific Northwest winters.",
-    "url": "https://www.seattleaudubon.org/sas/about/blog-birdwatch/blog-anna-hummingbird.html"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals in the Strait of Juan de Fuca are more social than we thought, with mothers teaching their pups the best fishing spots. Learn about the fascinating behaviors of these charming marine mammals right in your backyard.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Hungarian Embroidery Tradition: Threads Through Time",
-    "teaser": "For centuries, Hungarian women have passed down intricate embroidery patterns that tell stories of villages, regions, and families. These beautiful textiles are more than decoration—they're a living connection to heritage and community.",
-    "url": "https://www.smithsonianmag.com/arts-culture/traditional-hungarian-embroidery-180972345/"
+    "meta": "15 min · Gardens",
+    "title": "How Plants Talk to Each Other",
+    "teaser": "Scientists have discovered that plants communicate through underground fungal networks, sharing nutrients and even warning each other about pests. This hidden world beneath our gardens is more connected and alive than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Return of Sea Otters to the Olympic Coast",
-    "teaser": "Once hunted to near extinction, sea otters are slowly returning to Washington's coastal waters, bringing dramatic changes to kelp forests and marine ecosystems. Their story is one of resilience, conservation success, and the delicate balance of ocean life.",
-    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
+    "meta": "35 min · History",
+    "title": "The Forgotten Female Botanists Who Changed Science",
+    "teaser": "From the Amazon rainforest to the mountains of Tibet, women explorers collected and documented plants that became the foundation of modern botany. Their stories of courage, curiosity, and dedication are finally being told.",
+    "url": "https://www.nationalgeographic.com/science/article/women-botanists-explorers-history"
   },
   "port_angeles": {
     "icon": "🦋",
-    "title": "Butterfly Season at the Olympic Discovery Trail",
-    "description": "Late summer is peak butterfly season along the Olympic Discovery Trail! Watch for painted ladies, admirals, and swallowtails dancing among the wildflowers. The section near Port Angeles Harbor is especially beautiful right now, with native plants attracting dozens of species.",
-    "link_text": "Olympic Discovery Trail Info",
-    "link_url": "https://www.olympicdiscoverytrail.org/"
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "Late summer is prime time to spot beautiful butterflies at Hurricane Ridge, including the Clodius Parnassian with its delicate white wings. These high-altitude butterflies dance among the wildflowers on sunny days, making the subalpine meadows even more magical. The cooler mornings of late August are perfect for a gentle visit.",
+    "link_text": "Hurricane Ridge conditions",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while flying.",
-    "answer": 1200,
+    "question": "The Olympic Peninsula receives about ___ feet of rain per year in its rainforest areas, making it one of the wettest places in the continental United States.",
+    "answer": 12,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's exactly right! It's hard to imagine such a tiny heart beating that fast, but hummingbirds are truly remarkable little creatures.",
-    "close_response": "You're very close! A hummingbird's heart actually beats about 1,200 times per minute during flight—that's 20 times per second!",
-    "wrong_response": "A hummingbird's heart beats an incredible 1,200 times per minute while flying! By comparison, our hearts beat only about 60-100 times per minute at rest.",
-    "learn_more_text": "To power their incredibly fast wing beats (up to 80 times per second), hummingbirds have the highest metabolism of any animal. They must eat every 10-15 minutes and consume up to half their body weight in nectar each day!",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 2,
+    "correct_response": "That's right, Barbara! The Hoh Rainforest gets about 12 feet of rainfall each year — that's why everything is so lush and green!",
+    "close_response": "You're very close! The rainforest gets about 12 feet of rain annually — enough to create those magical moss-covered trees!",
+    "wrong_response": "The Olympic rainforests receive about 12 feet of rain each year — that incredible rainfall creates the beautiful, misty green world we love!",
+    "learn_more_text": "The Hoh Rainforest is one of the largest temperate rainforests in the U.S., where massive Sitka spruces and western hemlocks are draped in thick carpets of moss thanks to all that Pacific moisture.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
+    "learn_more_label": "Visit the Hoh — NPS"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
-      "Méhecske"
+      "Pillangó",
+      "Madár",
+      "Napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly—such a lovely, flowing word for such a delicate creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family and is unrelated to the Germanic and Romance languages around it. Many Hungarian words have a melodic, flowing quality like pillangó.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Encyclopedia Britannica"
+    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly — such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound just as delicate as the creature itself?",
+    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages around it. Many Hungarian words, like pillangó, have a musical, flowing quality.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191203-why-hungarian-is-so-difficult-to-learn",
+    "learn_more_label": "Hungarian language — BBC"
   },
   "puzzle_3": {
-    "question": "What do sea otters use to crack open shellfish while floating on their backs?",
+    "question": "What do hummingbirds use to remember which flowers they've already visited?",
     "options": [
-      "Their teeth",
-      "Rocks or stones",
-      "Driftwood pieces",
-      "Nearby dock pilings"
+      "Their sense of smell",
+      "Their excellent spatial memory",
+      "Marking flowers with saliva",
+      "Following other hummingbirds"
     ],
     "correct_index": 1,
-    "correct_response": "Yes! Sea otters are one of the few animals that use tools. They often keep a favorite rock in a pouch of loose skin under their forearm and use it like an anvil to crack open clams and sea urchins!",
-    "wrong_response": "Sea otters actually use rocks or stones as tools! They balance them on their chests while floating and bang shellfish against them to crack them open. Some otters even have a favorite rock they keep with them!",
-    "learn_more_text": "Sea otters are among the most intelligent marine mammals and are skilled tool users. They've been observed using rocks not just for food, but also to dislodge prey from crevices in kelp forests.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
-    "learn_more_label": "National Geographic"
+    "correct_response": "Yes! Hummingbirds have remarkable spatial memory and can remember every flower they've visited, when they visited it, and when it will have nectar again. Such intelligent little creatures!",
+    "wrong_response": "Hummingbirds rely on their excellent spatial memory to track which flowers they've visited. They can remember thousands of flowers and know exactly when each one will have fresh nectar!",
+    "learn_more_text": "Hummingbirds have the largest brain-to-body ratio of any bird, and they can remember migration routes, feeding sites, and individual flowers for years. Some can recall thousands of flowers and when each one will refill with nectar.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-remember-everything",
+    "learn_more_label": "Hummingbird intelligence — Audubon"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-17T08:27:25.122243-07:00",
-  "date": "2026-08-17",
+  "generated_at": "2026-08-18T08:34:31.976351-07:00",
+  "date": "2026-08-18",
   "is_laundry_day": false
 }
