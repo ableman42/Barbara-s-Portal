@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, August 18",
+  "date_display": "Wednesday, August 19",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, Hungary's most famous spice, comes in eight different varieties ranging from delicate and sweet to fiery hot. The town of Kalocsa has been growing and grinding paprika peppers since the 16th century, and the spice is so important to Hungarian culture that it has its own museum!",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. Their hearts beat up to 1,200 times per minute while flying.",
+    "tag": "Bird life"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals in the Strait of Juan de Fuca are more social than we thought, with mothers teaching their pups the best fishing spots. Learn about the fascinating behaviors of these charming marine mammals right in your backyard.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're more clever than you might think. Learn about their amazing diving abilities and how mothers recognize their pups by voice alone.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "How Plants Talk to Each Other",
-    "teaser": "Scientists have discovered that plants communicate through underground fungal networks, sharing nutrients and even warning each other about pests. This hidden world beneath our gardens is more connected and alive than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "15 min · Gardening",
+    "title": "The Joy of Growing Dahlias: A Gardener's Delight",
+    "teaser": "Dahlias bloom from midsummer through fall, bringing spectacular color when many other flowers are fading. This guide covers everything from choosing varieties to creating stunning bouquets from your own garden.",
+    "url": "https://www.smithsonianmag.com/smart-news/why-dahlias-are-having-a-moment-180978426/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Forgotten Female Botanists Who Changed Science",
-    "teaser": "From the Amazon rainforest to the mountains of Tibet, women explorers collected and documented plants that became the foundation of modern botany. Their stories of courage, curiosity, and dedication are finally being told.",
-    "url": "https://www.nationalgeographic.com/science/article/women-botanists-explorers-history"
+    "meta": "35 min · Travel & History",
+    "title": "The Danube: Europe's Grand Highway of Culture",
+    "teaser": "The Danube River flows through ten countries, connecting countless cultures and histories along its 1,770-mile journey. This beautiful exploration traces the river from Germany's Black Forest through Hungary's heartland to the Black Sea.",
+    "url": "https://www.nationalgeographic.com/travel/article/danube-river-europe-culture-history"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Season at Hurricane Ridge",
-    "description": "Late summer is prime time to spot beautiful butterflies at Hurricane Ridge, including the Clodius Parnassian with its delicate white wings. These high-altitude butterflies dance among the wildflowers on sunny days, making the subalpine meadows even more magical. The cooler mornings of late August are perfect for a gentle visit.",
-    "link_text": "Hurricane Ridge conditions",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer in Olympic National Park",
+    "description": "August is a wonderful time to spot Columbian black-tailed deer in the forests and meadows around Port Angeles. These graceful animals are most active during dawn and dusk, and you might see fawns still staying close to their mothers. The Hurricane Ridge area often offers excellent viewing opportunities.",
+    "link_text": "Learn about local deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "The Olympic Peninsula receives about ___ feet of rain per year in its rainforest areas, making it one of the wettest places in the continental United States.",
-    "answer": 12,
+    "question": "A hummingbird's heart can beat up to ___ times per minute while flying.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 2,
-    "correct_response": "That's right, Barbara! The Hoh Rainforest gets about 12 feet of rainfall each year — that's why everything is so lush and green!",
-    "close_response": "You're very close! The rainforest gets about 12 feet of rain annually — enough to create those magical moss-covered trees!",
-    "wrong_response": "The Olympic rainforests receive about 12 feet of rain each year — that incredible rainfall creates the beautiful, misty green world we love!",
-    "learn_more_text": "The Hoh Rainforest is one of the largest temperate rainforests in the U.S., where massive Sitka spruces and western hemlocks are draped in thick carpets of moss thanks to all that Pacific moisture.",
-    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
-    "learn_more_label": "Visit the Hoh — NPS"
+    "close_range": 100,
+    "correct_response": "Exactly right! Isn't it amazing how such a tiny bird has such a powerful heart?",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — that's incredibly fast!",
+    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart at rest.",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of all animals. To fuel their high-energy lifestyle, they must eat approximately every 10-15 minutes and visit hundreds of flowers each day.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napsugár"
+      "Pillangó",
+      "Virág",
+      "Szitakötő"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly — such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound just as delicate as the creature itself?",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than the Indo-European languages around it. Many Hungarian words, like pillangó, have a musical, flowing quality.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191203-why-hungarian-is-so-difficult-to-learn",
-    "learn_more_label": "Hungarian language — BBC"
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The answer is 'pillangó'! Madár means bird, virág means flower, and szitakötő means dragonfly.",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from 'pillanni' (to flutter) combined with a suffix. Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What do hummingbirds use to remember which flowers they've already visited?",
+    "question": "What did Olympic National Park become famous for protecting in 1938?",
     "options": [
-      "Their sense of smell",
-      "Their excellent spatial memory",
-      "Marking flowers with saliva",
-      "Following other hummingbirds"
+      "Ancient coral reefs",
+      "Gold deposits",
+      "Old-growth rainforests",
+      "Volcanic peaks"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes! Hummingbirds have remarkable spatial memory and can remember every flower they've visited, when they visited it, and when it will have nectar again. Such intelligent little creatures!",
-    "wrong_response": "Hummingbirds rely on their excellent spatial memory to track which flowers they've visited. They can remember thousands of flowers and know exactly when each one will have fresh nectar!",
-    "learn_more_text": "Hummingbirds have the largest brain-to-body ratio of any bird, and they can remember migration routes, feeding sites, and individual flowers for years. Some can recall thousands of flowers and when each one will refill with nectar.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-remember-everything",
-    "learn_more_label": "Hummingbird intelligence — Audubon"
+    "correct_index": 2,
+    "correct_response": "Perfect! The temperate rainforests of Olympic National Park are among the finest in the world, with some trees over 1,000 years old!",
+    "wrong_response": "The answer is old-growth rainforests! Olympic National Park protects some of the last remaining temperate rainforests in North America, right in your backyard.",
+    "learn_more_text": "Olympic National Park's Hoh Rain Forest receives 12-14 feet of rain annually, creating a magical world of moss-draped maples and massive Sitka spruce trees. It's one of the wettest places in the continental United States.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Explore rainforests — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-18T08:34:31.976351-07:00",
-  "date": "2026-08-18",
+  "generated_at": "2026-08-19T08:34:27.109497-07:00",
+  "date": "2026-08-19",
   "is_laundry_day": false
 }
