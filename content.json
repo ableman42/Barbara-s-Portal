@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, August 19",
+  "date_display": "Thursday, August 20",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. Their hearts beat up to 1,200 times per minute while flying.",
-    "tag": "Bird life"
+    "text": "Hungarian embroidery is one of the most colorful folk art traditions in Europe, with each region having its own distinctive patterns and colors. The town of Kalocsa is especially famous for its vibrant floral designs in red, blue, and yellow, which decorate everything from tablecloths to traditional costumes. These beautiful patterns have been passed down through generations of Hungarian women.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're more clever than you might think. Learn about their amazing diving abilities and how mothers recognize their pups by voice alone.",
-    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees in a forest communicate with each other through an underground network of fungi. Mother trees even nurture their young seedlings by sending them nutrients through these natural pathways.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Joy of Growing Dahlias: A Gardener's Delight",
-    "teaser": "Dahlias bloom from midsummer through fall, bringing spectacular color when many other flowers are fading. This guide covers everything from choosing varieties to creating stunning bouquets from your own garden.",
-    "url": "https://www.smithsonianmag.com/smart-news/why-dahlias-are-having-a-moment-180978426/"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "After nearly disappearing from Washington waters, sea otters are making a remarkable comeback along the Olympic Coast. Their return is helping restore the health of kelp forests and the entire marine ecosystem.",
+    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
   },
   "long_read": {
-    "meta": "35 min · Travel & History",
-    "title": "The Danube: Europe's Grand Highway of Culture",
-    "teaser": "The Danube River flows through ten countries, connecting countless cultures and histories along its 1,770-mile journey. This beautiful exploration traces the river from Germany's Black Forest through Hungary's heartland to the Black Sea.",
-    "url": "https://www.nationalgeographic.com/travel/article/danube-river-europe-culture-history"
+    "meta": "35 min · History",
+    "title": "The Lighthouse Keepers of the Strait of Juan de Fuca",
+    "teaser": "For over a century, brave families tended the lighthouses that guided ships through the treacherous waters between Washington and Vancouver Island. Their stories of isolation, dedication, and dramatic rescues paint a vivid picture of maritime life in the Pacific Northwest.",
+    "url": "https://www.nps.gov/articles/000/lighthouse-keepers.htm"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer in Olympic National Park",
-    "description": "August is a wonderful time to spot Columbian black-tailed deer in the forests and meadows around Port Angeles. These graceful animals are most active during dawn and dusk, and you might see fawns still staying close to their mothers. The Hurricane Ridge area often offers excellent viewing opportunities.",
-    "link_text": "Learn about local deer",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "title": "Roosevelt Elk in Olympic National Park",
+    "description": "August is a wonderful time to spot Roosevelt elk in the Hoh Rain Forest and along the coastal areas of Olympic National Park. These magnificent animals, named after President Theodore Roosevelt, are the largest of the four surviving subspecies of elk in North America. Early morning and evening hours offer the best viewing opportunities.",
+    "link_text": "Learn about Roosevelt Elk",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart can beat up to ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
-    "close_range": 100,
-    "correct_response": "Exactly right! Isn't it amazing how such a tiny bird has such a powerful heart?",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — that's incredibly fast!",
-    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart at rest.",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of all animals. To fuel their high-energy lifestyle, they must eat approximately every 10-15 minutes and visit hundreds of flowers each day.",
+    "close_range": 200,
+    "correct_response": "That's right, Barbara! Hummingbirds have incredibly fast heartbeats to power their amazing flying abilities!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's amazingly fast!",
+    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute! That's what gives them the energy to hover and dart so quickly.",
+    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day and visit hundreds of flowers. Their metabolism is so fast that they can starve to death in just a few hours if they can't find food.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Szitakötő"
+      "Szia",
+      "Köszönöm",
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The answer is 'pillangó'! Madár means bird, virág means flower, and szitakötő means dragonfly.",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from 'pillanni' (to flutter) combined with a suffix. Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "About butterflies — Britannica"
+    "correct_response": "Köszönöm! That's absolutely right, Barbara! Such a lovely word to know.",
+    "wrong_response": "The word for 'thank you' in Hungarian is 'köszönöm' — such a beautiful and important word in any language!",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most other European languages. It's known for its long words and complex grammar, but also for its beautiful sound and expressive nature.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191224-why-hungarian-is-so-hard-to-learn",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What did Olympic National Park become famous for protecting in 1938?",
+    "question": "What unique feature helps harbor seals, common in the Strait of Juan de Fuca, see clearly underwater?",
     "options": [
-      "Ancient coral reefs",
-      "Gold deposits",
-      "Old-growth rainforests",
-      "Volcanic peaks"
+      "They have built-in goggles",
+      "Their eyes can change shape",
+      "They close their eyes and use whiskers",
+      "They produce natural eye drops"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! The temperate rainforests of Olympic National Park are among the finest in the world, with some trees over 1,000 years old!",
-    "wrong_response": "The answer is old-growth rainforests! Olympic National Park protects some of the last remaining temperate rainforests in North America, right in your backyard.",
-    "learn_more_text": "Olympic National Park's Hoh Rain Forest receives 12-14 feet of rain annually, creating a magical world of moss-draped maples and massive Sitka spruce trees. It's one of the wettest places in the continental United States.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Explore rainforests — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Harbor seals can actually change the shape of their lenses to see clearly both in and out of water — nature's amazing engineering!",
+    "wrong_response": "Harbor seals have a remarkable ability to change the shape of their eye lenses, allowing them to see clearly both underwater and on land. It's one of nature's most clever adaptations!",
+    "learn_more_text": "Harbor seals are year-round residents of the Strait of Juan de Fuca and can often be spotted resting on rocks near Port Angeles. Their whiskers are also incredibly sensitive, helping them detect fish movements even in murky water.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-19T08:34:27.109497-07:00",
-  "date": "2026-08-19",
+  "generated_at": "2026-08-20T08:36:03.599136-07:00",
+  "date": "2026-08-20",
   "is_laundry_day": false
 }
