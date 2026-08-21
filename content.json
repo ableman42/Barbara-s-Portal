@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, August 20",
+  "date_display": "Friday, August 21",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian embroidery is one of the most colorful folk art traditions in Europe, with each region having its own distinctive patterns and colors. The town of Kalocsa is especially famous for its vibrant floral designs in red, blue, and yellow, which decorate everything from tablecloths to traditional costumes. These beautiful patterns have been passed down through generations of Hungarian women.",
+    "text": "Hungary is home to over 1,500 natural thermal springs, more than any other country in the world! The tradition of thermal bathing in Hungary dates back over 2,000 years to Roman times, and Budapest is the only capital city with healing thermal springs.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
     "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees in a forest communicate with each other through an underground network of fungi. Mother trees even nurture their young seedlings by sending them nutrients through these natural pathways.",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warning signals. This 'Wood Wide Web' shows that forests are communities, not just collections of individual trees.",
     "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
     "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "After nearly disappearing from Washington waters, sea otters are making a remarkable comeback along the Olympic Coast. Their return is helping restore the health of kelp forests and the entire marine ecosystem.",
-    "url": "https://www.nps.gov/olym/learn/nature/sea-otters.htm"
+    "teaser": "Once hunted nearly to extinction, sea otters are making a remarkable comeback along the Pacific coast. These playful marine mammals are not just adorable—they're essential to keeping kelp forests healthy and thriving.",
+    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Lighthouse Keepers of the Strait of Juan de Fuca",
-    "teaser": "For over a century, brave families tended the lighthouses that guided ships through the treacherous waters between Washington and Vancouver Island. Their stories of isolation, dedication, and dramatic rescues paint a vivid picture of maritime life in the Pacific Northwest.",
-    "url": "https://www.nps.gov/articles/000/lighthouse-keepers.htm"
+    "title": "The Beauty and History of Hungary's Tokaj Wine Region",
+    "teaser": "For centuries, Hungary's Tokaj region has produced some of the world's most prized sweet wines, favored by kings and emperors. This journey through the vineyards explores the landscape, traditions, and remarkable winemaking heritage that earned Tokaj UNESCO World Heritage status.",
+    "url": "https://www.bbc.com/travel/article/20190924-hungarys-liquid-gold"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Roosevelt Elk in Olympic National Park",
-    "description": "August is a wonderful time to spot Roosevelt elk in the Hoh Rain Forest and along the coastal areas of Olympic National Park. These magnificent animals, named after President Theodore Roosevelt, are the largest of the four surviving subspecies of elk in North America. Early morning and evening hours offer the best viewing opportunities.",
-    "link_text": "Learn about Roosevelt Elk",
-    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "title": "Black-Tailed Deer Season in Port Angeles",
+    "description": "August is a wonderful time to spot black-tailed deer around Port Angeles, especially in the early morning and evening hours. These gentle creatures are often seen grazing near the edges of forests and meadows, and their fawns are losing their spots as they grow. Keep an eye out during walks around Park View Villas!",
+    "link_text": "Learn about local deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! Hummingbirds have incredibly fast heartbeats to power their amazing flying abilities!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute — that's amazingly fast!",
-    "wrong_response": "A hummingbird's tiny heart actually beats about 1,200 times per minute! That's what gives them the energy to hover and dart so quickly.",
-    "learn_more_text": "To fuel this incredible heart rate, hummingbirds must eat about half their body weight in nectar each day and visit hundreds of flowers. Their metabolism is so fast that they can starve to death in just a few hours if they can't find food.",
+    "correct_response": "Exactly right! That's an incredibly fast heartbeat—about 20 times per second!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while flying.",
+    "wrong_response": "Those tiny hearts work incredibly hard! A hummingbird's heart beats about 1,200 times per minute during flight—that's roughly 20 beats every second!",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their high-energy lifestyle, they must consume about half their body weight in nectar each day and visit hundreds of flowers.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Viszlát"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's absolutely right, Barbara! Such a lovely word to know.",
-    "wrong_response": "The word for 'thank you' in Hungarian is 'köszönöm' — such a beautiful and important word in any language!",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from most other European languages. It's known for its long words and complex grammar, but also for its beautiful sound and expressive nature.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191224-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Wonderful! Pillangó is indeed Hungarian for butterfly—such a beautiful, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language that belongs to the Finno-Ugric family, making it quite different from neighboring European languages. It's known for its beautiful, flowing sound and expressive vocabulary.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191202-why-is-hungarian-so-difficult-to-learn",
+    "learn_more_label": "Learn more — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What unique feature helps harbor seals, common in the Strait of Juan de Fuca, see clearly underwater?",
+    "question": "What ocean animal holds hands with its partner while sleeping to avoid drifting apart?",
     "options": [
-      "They have built-in goggles",
-      "Their eyes can change shape",
-      "They close their eyes and use whiskers",
-      "They produce natural eye drops"
+      "Dolphins",
+      "Sea otters",
+      "Seals",
+      "Manatees"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Harbor seals can actually change the shape of their lenses to see clearly both in and out of water — nature's amazing engineering!",
-    "wrong_response": "Harbor seals have a remarkable ability to change the shape of their eye lenses, allowing them to see clearly both underwater and on land. It's one of nature's most clever adaptations!",
-    "learn_more_text": "Harbor seals are year-round residents of the Strait of Juan de Fuca and can often be spotted resting on rocks near Port Angeles. Their whiskers are also incredibly sensitive, helping them detect fish movements even in murky water.",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "NOAA Fisheries"
+    "correct_response": "That's right! Sea otters hold hands while they sleep—one of nature's most heartwarming behaviors. They also wrap themselves in kelp to stay anchored!",
+    "wrong_response": "It's sea otters! These adorable creatures hold hands while sleeping so they don't drift apart from each other. They sometimes also wrap themselves in kelp forests to stay in place.",
+    "learn_more_text": "Sea otters are among the smallest marine mammals but have the densest fur of any animal—up to one million hairs per square inch! This thick fur keeps them warm in the cold Pacific waters.",
+    "learn_more_url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter",
+    "learn_more_label": "Discover more — Monterey Bay Aquarium"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-20T08:36:03.599136-07:00",
-  "date": "2026-08-20",
+  "generated_at": "2026-08-21T08:36:13.446845-07:00",
+  "date": "2026-08-21",
   "is_laundry_day": false
 }
