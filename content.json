@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, August 21",
+  "date_display": "Saturday, August 22",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungary is home to over 1,500 natural thermal springs, more than any other country in the world! The tradition of thermal bathing in Hungary dates back over 2,000 years to Roman times, and Budapest is the only capital city with healing thermal springs.",
+    "text": "Hungarian shepherds developed a unique breed of dog called the Puli, famous for its distinctive corded coat that looks like dreadlocks. These intelligent herding dogs were so valued that a shepherd would pay a full year's salary to acquire one. The cords naturally form as the dog matures and help protect them from harsh weather and predators.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warning signals. This 'Wood Wide Web' shows that forests are communities, not just collections of individual trees.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "How Hummingbirds Get Their Incredible Colors",
+    "teaser": "Hummingbirds don't actually have colorful feathers—their brilliant hues come from microscopic structures that bend light like tiny prisms. Scientists have discovered the remarkable physics behind these dazzling displays.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-hummingbirds-get-their-colors-180979748/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "Once hunted nearly to extinction, sea otters are making a remarkable comeback along the Pacific coast. These playful marine mammals are not just adorable—they're essential to keeping kelp forests healthy and thriving.",
-    "url": "https://www.nationalgeographic.com/animals/article/sea-otters-return-pacific-northwest"
+    "meta": "15 min · History",
+    "title": "The Libraries That Survived the Ancient World",
+    "teaser": "Before the internet and printing presses, great libraries preserved humanity's knowledge on fragile scrolls and tablets. Discover the fascinating stories of ancient libraries from Alexandria to Nineveh and how their contents were saved or lost to time.",
+    "url": "https://www.bbc.com/culture/article/20200309-the-worlds-most-historic-libraries"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Beauty and History of Hungary's Tokaj Wine Region",
-    "teaser": "For centuries, Hungary's Tokaj region has produced some of the world's most prized sweet wines, favored by kings and emperors. This journey through the vineyards explores the landscape, traditions, and remarkable winemaking heritage that earned Tokaj UNESCO World Heritage status.",
-    "url": "https://www.bbc.com/travel/article/20190924-hungarys-liquid-gold"
+    "meta": "35 min · Nature",
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate through underground fungal networks, sharing nutrients and warning each other of danger. This groundbreaking research reveals that forests are far more social and intelligent than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer Season in Port Angeles",
-    "description": "August is a wonderful time to spot black-tailed deer around Port Angeles, especially in the early morning and evening hours. These gentle creatures are often seen grazing near the edges of forests and meadows, and their fawns are losing their spots as they grow. Keep an eye out during walks around Park View Villas!",
-    "link_text": "Learn about local deer",
-    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season Continues",
+    "description": "Late August is still prime time to spot harbor seal pups along the shores of the Strait of Juan de Fuca. Ediz Hook and the rocky beaches near Dungeness are favorite haul-out spots where mothers nurse their pups. Remember to watch from a distance—these adorable babies need space to rest and bond with their mothers.",
+    "link_text": "Marine Mammal Viewing Tips",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/wildlife-viewing.htm"
   },
   "puzzle_1": {
     "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That's an incredibly fast heartbeat—about 20 times per second!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute while flying.",
-    "wrong_response": "Those tiny hearts work incredibly hard! A hummingbird's heart beats about 1,200 times per minute during flight—that's roughly 20 beats every second!",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of any animal on Earth. To fuel their high-energy lifestyle, they must consume about half their body weight in nectar each day and visit hundreds of flowers.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "correct_response": "Amazing! You know your hummingbird facts! That tiny heart works incredibly hard to power their hovering flight.",
+    "close_response": "Very close! Their hearts beat about 1,200 times per minute—that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are amazing—they beat about 1,200 times per minute during flight, which helps power their incredible hovering abilities!",
+    "learn_more_text": "To support such a rapid heartbeat, hummingbirds must eat constantly, consuming up to twice their body weight in nectar each day. Their metabolism is so fast that they enter a hibernation-like state called torpor at night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "More Hummingbird Facts — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'thank you'?",
     "options": [
-      "Virág",
-      "Pillangó",
-      "Madár",
-      "Méhecske"
+      "Szia",
+      "Köszönöm",
+      "Viszlát",
+      "Igen"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed Hungarian for butterfly—such a beautiful, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is a unique language that belongs to the Finno-Ugric family, making it quite different from neighboring European languages. It's known for its beautiful, flowing sound and expressive vocabulary.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191202-why-is-hungarian-so-difficult-to-learn",
-    "learn_more_label": "Learn more — BBC Travel"
+    "correct_response": "Köszönöm! That's right! Such a beautiful word to express gratitude.",
+    "wrong_response": "The answer is 'Köszönöm'—such a lovely word! 'Szia' means hello, 'Viszlát' means goodbye, and 'Igen' means yes.",
+    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite different from surrounding European languages. It's related to Finnish and Estonian rather than German, Slavic, or Romance languages.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190903-the-language-that-doesnt-use-no",
+    "learn_more_label": "Hungarian Language — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What ocean animal holds hands with its partner while sleeping to avoid drifting apart?",
+    "question": "What is the largest species of seal found in the Strait of Juan de Fuca?",
     "options": [
-      "Dolphins",
-      "Sea otters",
-      "Seals",
-      "Manatees"
+      "Harbor seal",
+      "Elephant seal",
+      "Steller sea lion",
+      "Northern fur seal"
     ],
-    "correct_index": 1,
-    "correct_response": "That's right! Sea otters hold hands while they sleep—one of nature's most heartwarming behaviors. They also wrap themselves in kelp to stay anchored!",
-    "wrong_response": "It's sea otters! These adorable creatures hold hands while sleeping so they don't drift apart from each other. They sometimes also wrap themselves in kelp forests to stay in place.",
-    "learn_more_text": "Sea otters are among the smallest marine mammals but have the densest fur of any animal—up to one million hairs per square inch! This thick fur keeps them warm in the cold Pacific waters.",
-    "learn_more_url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter",
-    "learn_more_label": "Discover more — Monterey Bay Aquarium"
+    "correct_index": 2,
+    "correct_response": "Wonderful! Steller sea lions are magnificent creatures—males can weigh up to 2,500 pounds and are often seen on the rocks near Race Rocks and Protection Island!",
+    "wrong_response": "The answer is Steller sea lion! While harbor seals are common, these impressive sea lions are the largest pinnipeds in our area, with males weighing up to 2,500 pounds.",
+    "learn_more_text": "Steller sea lions are named after Georg Wilhelm Steller, the naturalist on Vitus Bering's 1741 expedition to Alaska. Their population in the Pacific Northwest has been recovering after being listed as endangered, and they're now a thrilling sight around the Olympic Peninsula.",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/steller-sea-lion",
+    "learn_more_label": "About Steller Sea Lions — NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-21T08:36:13.446845-07:00",
-  "date": "2026-08-21",
+  "generated_at": "2026-08-22T08:23:58.809790-07:00",
+  "date": "2026-08-22",
   "is_laundry_day": false
 }
