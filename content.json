@@ -1,79 +1,79 @@
 {
-  "date_display": "Sunday, August 23",
+  "date_display": "Monday, August 24",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, sunflowers are called 'napraforgó,' which literally means 'sun-turner' because the flower heads follow the sun across the sky during the day. Hungary is actually one of the world's largest producers of sunflower seeds, with vast golden fields that bloom in late summer.",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat up to 80 times per second, creating the humming sound that gives them their name. These tiny jewels of the bird world can remember every flower they've visited and how long it will take for the nectar to refill.",
+    "tag": "Amazing Birds"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the bird world have hearts that beat up to 1,200 times per minute and can fly backwards. Learn about the amazing hummingbirds that visit Pacific Northwest gardens each summer.",
-    "url": "https://www.audubon.org/news/how-hummingbirds-are-so-good-flying"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Garden Butterflies",
+    "teaser": "Discover how butterflies taste with their feet and why they puddle together on wet ground. This charming look at garden visitors reveals their surprising behaviors and how to welcome them to your yard.",
+    "url": "https://www.npr.org/2024/06/15/butterfly-garden-guide-native-plants"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp's hand-drawn maps in the 1950s revealed underwater mountains and valleys no one knew existed, changing our understanding of Earth forever. Her story is one of persistence, curiosity, and scientific breakthrough.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "meta": "15 min · History & Culture",
+    "title": "The Ancient Art of Hungarian Embroidery",
+    "teaser": "From the vibrant flowers of Kalocsa to the intricate patterns of Matyó stitching, Hungarian embroidery tells the story of generations. This beautiful tradition continues to inspire artists and preserve cultural memory through needle and thread.",
+    "url": "https://www.smithsonianmag.com/travel/hungarian-folk-art-embroidery-traditions-180975412/"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "The Wisdom of Old-Growth Forests",
-    "teaser": "Ancient trees in the Pacific Northwest hold secrets about communication, cooperation, and survival that scientists are only beginning to understand. This fascinating exploration reveals how forests are more connected than we ever imagined.",
-    "url": "https://www.nationalgeographic.com/environment/article/tree-communication-cooperation-forests"
+    "meta": "35 min · Natural History",
+    "title": "The Wild Olympic Peninsula: A Natural Treasure",
+    "teaser": "From ancient rainforests to rocky coastlines, the Olympic Peninsula is one of the most diverse ecosystems in North America. This comprehensive guide explores the plants, animals, and landscapes that make this corner of Washington so extraordinary.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Roosevelt Elk at Hurricane Ridge",
-    "description": "August is a wonderful time to spot Roosevelt elk grazing in the meadows at Hurricane Ridge. These magnificent animals, named after President Theodore Roosevelt, are native to the Olympic Peninsula and can weigh up to 1,000 pounds. Early morning or late afternoon offers the best viewing opportunities.",
-    "link_text": "Hurricane Ridge Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season",
+    "description": "Late August is a wonderful time to spot harbor seal pups along the Strait of Juan de Fuca! These curious youngsters are learning to swim and fish alongside their mothers. Remember to watch from a distance—seals need space to rest and care for their babies.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.portangeles.org/wildlife"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat up to ___ times per second.",
-    "answer": 80,
+    "question": "A baby harbor seal can swim just ___ hours after being born.",
+    "answer": 2,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "Wonderful! That's right — 80 beats per second creates that distinctive humming sound we hear when they zip by!",
-    "close_response": "You're very close! The answer is 80 times per second — that incredible speed creates their humming sound!",
-    "wrong_response": "The answer is 80 times per second! That's what creates the humming sound that gives them their name.",
-    "learn_more_text": "Hummingbirds have the fastest wing-beat of any bird, and they're the only birds that can fly backwards and even upside down. Their heart rate can reach 1,200 beats per minute during flight!",
-    "learn_more_url": "https://www.audubon.org/news/13-fun-facts-about-hummingbirds",
-    "learn_more_label": "More Hummingbird Facts — Audubon"
+    "close_range": 1,
+    "correct_response": "That's right, Barbara! These little swimmers are ready to go almost immediately—nature is amazing!",
+    "close_response": "Very close! Harbor seal pups can actually swim within about 2 hours of birth. Remarkable little creatures!",
+    "wrong_response": "Harbor seal pups are ready to swim in just 2 hours! They're born knowing how to swim instinctively.",
+    "learn_more_text": "Harbor seals give birth on land but their pups are born ready for the water. Unlike many mammals, seal pups don't need to learn to swim—they know how from birth!",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "More about harbor seals — NOAA Fisheries"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Viszlát",
-      "Igen"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Kert"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm! That's absolutely right — a beautiful word you probably use often!",
-    "wrong_response": "The answer is 'köszönöm'! Szia means 'hi,' viszlát means 'goodbye,' and igen means 'yes.'",
-    "learn_more_text": "Hungarian is a unique language in Europe, part of the Finno-Ugric family rather than Indo-European. It's considered one of the most difficult languages to learn because of its complex grammar and 18 grammatical cases!",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191204-why-is-hungarian-so-difficult-to-learn",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Beautiful, Barbara! Pillangó is such a lovely word for such a lovely creature!",
+    "wrong_response": "The word is 'pillangó'—doesn't it sound as delicate as the butterfly itself? (Virág means flower, madár means bird, and kert means garden!)",
+    "learn_more_text": "The Hungarian word 'pillangó' comes from an old word meaning 'to flutter.' Hungary is home to over 160 species of butterflies, including the stunning Swallowtail.",
+    "learn_more_url": "https://www.hungarianforfun.com/nature-vocabulary",
+    "learn_more_label": "Hungarian nature words — Hungarian for Fun"
   },
   "puzzle_3": {
-    "question": "What is the Strait of Juan de Fuca named after?",
+    "question": "Which tree is known as the 'nurse log' tree in Olympic rainforests because fallen logs become nurseries for new seedlings?",
     "options": [
-      "A Spanish explorer",
-      "A Greek navigator who sailed for Spain",
-      "A Native American chief",
-      "An early American president"
+      "Douglas Fir",
+      "Western Hemlock",
+      "Sitka Spruce",
+      "Red Cedar"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfectly done! Juan de Fuca was actually a Greek navigator named Ioannis Phokas who sailed under a Spanish name in 1592!",
-    "wrong_response": "It was named after a Greek navigator named Ioannis Phokas who sailed under the Spanish name Juan de Fuca in 1592. He claimed to have discovered the passage between the Pacific Ocean and the inland sea.",
-    "learn_more_text": "The strait you can see from Port Angeles connects the Pacific Ocean to Puget Sound and the Salish Sea. It's about 96 miles long and forms part of the border between Washington State and Vancouver Island, British Columbia.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
-    "learn_more_label": "Learn More — Olympic National Park"
+    "correct_index": 2,
+    "correct_response": "Wonderful! Sitka Spruce seedlings often grow on fallen logs in the rainforest, creating magical 'colonnades' of trees in a row!",
+    "wrong_response": "It's the Sitka Spruce! These trees often grow on 'nurse logs'—fallen trees that provide nutrients and elevation. Eventually the old log decomposes, leaving a colonnade of trees standing in a row like natural columns.",
+    "learn_more_text": "In the Hoh Rainforest and other Olympic Peninsula forests, you can see rows of Sitka Spruce growing from ancient nurse logs. The young trees benefit from the nutrients and moisture in the decaying wood while staying above the soggy forest floor.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Olympic rainforests — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-23T08:25:00.292437-07:00",
-  "date": "2026-08-23",
-  "is_laundry_day": true
+  "generated_at": "2026-08-24T08:41:17.288151-07:00",
+  "date": "2026-08-24",
+  "is_laundry_day": false
 }
