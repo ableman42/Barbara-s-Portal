@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, August 24",
+  "date_display": "Tuesday, August 25",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! Their wings beat up to 80 times per second, creating the humming sound that gives them their name. These tiny jewels of the bird world can remember every flower they've visited and how long it will take for the nectar to refill.",
-    "tag": "Amazing Birds"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have the highest metabolism of all animals and must eat about half their body weight in sugar daily.",
+    "tag": "Birds"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Garden Butterflies",
-    "teaser": "Discover how butterflies taste with their feet and why they puddle together on wet ground. This charming look at garden visitors reveals their surprising behaviors and how to welcome them to your yard.",
-    "url": "https://www.npr.org/2024/06/15/butterfly-garden-guide-native-plants"
+    "title": "The Secret Lives of Seals in the Salish Sea",
+    "teaser": "Harbor seals and their larger cousins, elephant seals, are year-round residents of the waters around Port Angeles. Learn about their playful personalities and surprising intelligence.",
+    "url": "https://www.nps.gov/articles/000/seals-of-olympic-coast.htm"
   },
   "medium_read": {
-    "meta": "15 min · History & Culture",
-    "title": "The Ancient Art of Hungarian Embroidery",
-    "teaser": "From the vibrant flowers of Kalocsa to the intricate patterns of Matyó stitching, Hungarian embroidery tells the story of generations. This beautiful tradition continues to inspire artists and preserve cultural memory through needle and thread.",
-    "url": "https://www.smithsonianmag.com/travel/hungarian-folk-art-embroidery-traditions-180975412/"
+    "meta": "15 min · History",
+    "title": "The Lost Art of Hungarian Embroidery",
+    "teaser": "Hungarian embroidery traditions date back centuries, with each region developing its own distinctive patterns and colors. This beautiful craft is experiencing a renaissance as younger generations rediscover their heritage.",
+    "url": "https://www.smithsonianmag.com/travel/discovering-hungarys-folk-art-traditions-180969847/"
   },
   "long_read": {
-    "meta": "35 min · Natural History",
-    "title": "The Wild Olympic Peninsula: A Natural Treasure",
-    "teaser": "From ancient rainforests to rocky coastlines, the Olympic Peninsula is one of the most diverse ecosystems in North America. This comprehensive guide explores the plants, animals, and landscapes that make this corner of Washington so extraordinary.",
+    "meta": "35 min · Travel & Culture",
+    "title": "Olympic National Park: A Journey Through Three Ecosystems",
+    "teaser": "From alpine peaks to temperate rainforests to wild Pacific coastline, Olympic National Park contains three distinct ecosystems within its boundaries. Discover the incredible diversity right in Barbara's backyard.",
     "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season",
-    "description": "Late August is a wonderful time to spot harbor seal pups along the Strait of Juan de Fuca! These curious youngsters are learning to swim and fish alongside their mothers. Remember to watch from a distance—seals need space to rest and care for their babies.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.portangeles.org/wildlife"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "August is a wonderful time to spot black-tailed deer and their fawns grazing in the meadows at Hurricane Ridge. The deer are most active in early morning and evening, often approaching visitors with gentle curiosity. They're unique to the Pacific Northwest and smaller than their white-tailed cousins.",
+    "link_text": "Hurricane Ridge Visitor Guide",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A baby harbor seal can swim just ___ hours after being born.",
-    "answer": 2,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 1,
-    "correct_response": "That's right, Barbara! These little swimmers are ready to go almost immediately—nature is amazing!",
-    "close_response": "Very close! Harbor seal pups can actually swim within about 2 hours of birth. Remarkable little creatures!",
-    "wrong_response": "Harbor seal pups are ready to swim in just 2 hours! They're born knowing how to swim instinctively.",
-    "learn_more_text": "Harbor seals give birth on land but their pups are born ready for the water. Unlike many mammals, seal pups don't need to learn to swim—they know how from birth!",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "More about harbor seals — NOAA Fisheries"
+    "close_range": 200,
+    "correct_response": "That's exactly right, Barbara! Their tiny hearts beat incredibly fast to fuel their amazing flying abilities.",
+    "close_response": "You're very close! Their hearts beat about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "Their hearts actually beat about 1,200 times per minute! That's what it takes to power those incredible wings.",
+    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to deliver oxygen to their wing muscles during their energy-intensive hovering flight.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Kert"
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Beautiful, Barbara! Pillangó is such a lovely word for such a lovely creature!",
-    "wrong_response": "The word is 'pillangó'—doesn't it sound as delicate as the butterfly itself? (Virág means flower, madár means bird, and kert means garden!)",
-    "learn_more_text": "The Hungarian word 'pillangó' comes from an old word meaning 'to flutter.' Hungary is home to over 160 species of butterflies, including the stunning Swallowtail.",
-    "learn_more_url": "https://www.hungarianforfun.com/nature-vocabulary",
-    "learn_more_label": "Hungarian nature words — Hungarian for Fun"
+    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The word is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from an old word meaning 'to flutter.' Hungary is home to over 200 species of butterflies, including the beautiful swallowtail.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Britannica — Hungarian Language"
   },
   "puzzle_3": {
-    "question": "Which tree is known as the 'nurse log' tree in Olympic rainforests because fallen logs become nurseries for new seedlings?",
+    "question": "What unique feature helps sea otters stay in one place while they sleep?",
     "options": [
-      "Douglas Fir",
-      "Western Hemlock",
-      "Sitka Spruce",
-      "Red Cedar"
+      "They anchor to rocks with their tails",
+      "They hold hands or wrap themselves in kelp",
+      "They sleep standing up",
+      "They sleep on beaches"
     ],
-    "correct_index": 2,
-    "correct_response": "Wonderful! Sitka Spruce seedlings often grow on fallen logs in the rainforest, creating magical 'colonnades' of trees in a row!",
-    "wrong_response": "It's the Sitka Spruce! These trees often grow on 'nurse logs'—fallen trees that provide nutrients and elevation. Eventually the old log decomposes, leaving a colonnade of trees standing in a row like natural columns.",
-    "learn_more_text": "In the Hoh Rainforest and other Olympic Peninsula forests, you can see rows of Sitka Spruce growing from ancient nurse logs. The young trees benefit from the nutrients and moisture in the decaying wood while staying above the soggy forest floor.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Olympic rainforests — National Park Service"
+    "correct_index": 1,
+    "correct_response": "Yes! Sea otters often hold hands with each other or wrap themselves in kelp to keep from drifting apart while sleeping. It's one of nature's sweetest sights!",
+    "wrong_response": "Sea otters actually hold hands with each other or wrap themselves in kelp! This keeps them from drifting away from their group while they rest.",
+    "learn_more_text": "Sea otters in the waters around Port Angeles form groups called rafts, sometimes numbering over 100 individuals. They spend most of their lives in the water and have the densest fur of any animal.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
+    "learn_more_label": "National Geographic — Sea Otters"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-24T08:41:17.288151-07:00",
-  "date": "2026-08-24",
+  "generated_at": "2026-08-25T08:45:04.646203-07:00",
+  "date": "2026-08-25",
   "is_laundry_day": false
 }
