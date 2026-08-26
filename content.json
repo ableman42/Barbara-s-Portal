@@ -1,49 +1,49 @@
 {
-  "date_display": "Tuesday, August 25",
+  "date_display": "Wednesday, August 26",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. These tiny acrobats have the highest metabolism of all animals and must eat about half their body weight in sugar daily.",
-    "tag": "Birds"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have found a passage between the Pacific and Atlantic oceans, though this mythical waterway didn't exist—but his name lives on in your beautiful local waters!",
+    "tag": "Local History"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Seals in the Salish Sea",
-    "teaser": "Harbor seals and their larger cousins, elephant seals, are year-round residents of the waters around Port Angeles. Learn about their playful personalities and surprising intelligence.",
-    "url": "https://www.nps.gov/articles/000/seals-of-olympic-coast.htm"
+    "title": "Why Do Hummingbirds Hum?",
+    "teaser": "These tiny jewels of the bird world don't actually hum with their voices—the sound comes from something surprising! Discover the delightful physics behind one of nature's most enchanting sounds.",
+    "url": "https://www.smithsonianmag.com/science-nature/why-do-hummingbirds-hum-180969704/"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Lost Art of Hungarian Embroidery",
-    "teaser": "Hungarian embroidery traditions date back centuries, with each region developing its own distinctive patterns and colors. This beautiful craft is experiencing a renaissance as younger generations rediscover their heritage.",
-    "url": "https://www.smithsonianmag.com/travel/discovering-hungarys-folk-art-traditions-180969847/"
+    "meta": "15 min · Gardens",
+    "title": "The Secret Language of Flowers in Victorian Times",
+    "teaser": "In the 1800s, people sent elaborate messages through carefully chosen bouquets—each bloom had a specific meaning. Learn how a simple nosegay could convey love, friendship, or even a gentle warning in this charming tradition.",
+    "url": "https://www.npr.org/sections/npr-history-dept/2015/05/16/407178747/the-secret-victorian-language-of-flowers"
   },
   "long_read": {
     "meta": "35 min · Travel & Culture",
-    "title": "Olympic National Park: A Journey Through Three Ecosystems",
-    "teaser": "From alpine peaks to temperate rainforests to wild Pacific coastline, Olympic National Park contains three distinct ecosystems within its boundaries. Discover the incredible diversity right in Barbara's backyard.",
-    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
+    "title": "Hungary's Thermal Baths: A Living Tradition",
+    "teaser": "From Roman times to today, Hungary's thermal springs have been gathering places for healing, conversation, and community. This beautiful exploration takes you through the history and culture of Budapest's magnificent bathhouses.",
+    "url": "https://www.bbc.com/travel/article/20190312-budapests-healing-obsession-with-thermal-baths"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "August is a wonderful time to spot black-tailed deer and their fawns grazing in the meadows at Hurricane Ridge. The deer are most active in early morning and evening, often approaching visitors with gentle curiosity. They're unique to the Pacific Northwest and smaller than their white-tailed cousins.",
-    "link_text": "Hurricane Ridge Visitor Guide",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season Ending",
+    "description": "Late August marks the end of harbor seal pupping season in the Strait of Juan de Fuca. The adorable pups born this summer are now learning to fish on their own, and you might spot them playing near the shore at Ediz Hook or along the waterfront.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "A hummingbird's wings can beat ___ times per second during normal flight.",
+    "answer": 50,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's exactly right, Barbara! Their tiny hearts beat incredibly fast to fuel their amazing flying abilities.",
-    "close_response": "You're very close! Their hearts beat about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "Their hearts actually beat about 1,200 times per minute! That's what it takes to power those incredible wings.",
-    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to deliver oxygen to their wing muscles during their energy-intensive hovering flight.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "close_range": 10,
+    "correct_response": "Exactly right, Barbara! Those tiny wings are incredibly fast—almost too quick for our eyes to see!",
+    "close_response": "You're very close! The answer is 50 beats per second—amazingly fast for such a tiny bird!",
+    "wrong_response": "Those little wings beat about 50 times per second—that's what creates their distinctive humming sound!",
+    "learn_more_text": "During courtship dives, male hummingbirds can beat their wings up to 200 times per second! This incredible speed requires a heart rate of over 1,200 beats per minute.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "More hummingbird facts — Cornell Lab"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The word is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from an old word meaning 'to flutter.' Hungary is home to over 200 species of butterflies, including the beautiful swallowtail.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Britannica — Hungarian Language"
+    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful, lyrical word for these delicate creatures!",
+    "wrong_response": "The word is 'pillangó'—such a lovely sound for such a lovely insect! (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is full of charming compound words and diminutives. The word 'pillangó' may come from 'pille' (flake or scale) referring to the delicate scales on butterfly wings.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/animals.aspx",
+    "learn_more_label": "Hungarian nature words — Reference"
   },
   "puzzle_3": {
-    "question": "What unique feature helps sea otters stay in one place while they sleep?",
+    "question": "What percentage of the Olympic Peninsula is protected as national park or forest?",
     "options": [
-      "They anchor to rocks with their tails",
-      "They hold hands or wrap themselves in kelp",
-      "They sleep standing up",
-      "They sleep on beaches"
+      "About 30%",
+      "About 50%",
+      "About 70%",
+      "About 90%"
     ],
-    "correct_index": 1,
-    "correct_response": "Yes! Sea otters often hold hands with each other or wrap themselves in kelp to keep from drifting apart while sleeping. It's one of nature's sweetest sights!",
-    "wrong_response": "Sea otters actually hold hands with each other or wrap themselves in kelp! This keeps them from drifting away from their group while they rest.",
-    "learn_more_text": "Sea otters in the waters around Port Angeles form groups called rafts, sometimes numbering over 100 individuals. They spend most of their lives in the water and have the densest fur of any animal.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter",
-    "learn_more_label": "National Geographic — Sea Otters"
+    "correct_index": 3,
+    "correct_response": "Yes! About 90% is protected—you live in one of the most pristine wilderness areas in America! Olympic National Park and Olympic National Forest preserve nearly the entire peninsula.",
+    "wrong_response": "Actually, about 90% of the Olympic Peninsula is protected! You're surrounded by one of America's greatest wilderness treasures—Olympic National Park and Olympic National Forest cover almost the entire area.",
+    "learn_more_text": "This remarkable conservation means the Olympic Peninsula has some of the last intact temperate rainforests in the world, along with wild coastlines and mountain meadows that look much as they did centuries ago.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/index.htm",
+    "learn_more_label": "Olympic nature — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-25T08:45:04.646203-07:00",
-  "date": "2026-08-25",
+  "generated_at": "2026-08-26T09:20:00.339553-07:00",
+  "date": "2026-08-26",
   "is_laundry_day": false
 }
