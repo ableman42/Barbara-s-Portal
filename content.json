@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, August 26",
+  "date_display": "Thursday, August 27",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek navigator who sailed for Spain in 1592. He claimed to have found a passage between the Pacific and Atlantic oceans, though this mythical waterway didn't exist—but his name lives on in your beautiful local waters!",
-    "tag": "Local History"
+    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for paprika that it has its own paprika museum and an annual paprika festival every October.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "Why Do Hummingbirds Hum?",
-    "teaser": "These tiny jewels of the bird world don't actually hum with their voices—the sound comes from something surprising! Discover the delightful physics behind one of nature's most enchanting sounds.",
-    "url": "https://www.smithsonianmag.com/science-nature/why-do-hummingbirds-hum-180969704/"
+    "title": "How Hummingbirds Navigate Thousands of Miles",
+    "teaser": "These tiny birds, weighing less than a nickel, can remember every flower they've visited and return to the same gardens year after year. Scientists are discovering their remarkable navigation abilities involve stars, sun, and even Earth's magnetic field.",
+    "url": "https://www.allaboutbirds.org/news/how-do-hummingbirds-migrate/"
   },
   "medium_read": {
-    "meta": "15 min · Gardens",
-    "title": "The Secret Language of Flowers in Victorian Times",
-    "teaser": "In the 1800s, people sent elaborate messages through carefully chosen bouquets—each bloom had a specific meaning. Learn how a simple nosegay could convey love, friendship, or even a gentle warning in this charming tradition.",
-    "url": "https://www.npr.org/sections/npr-history-dept/2015/05/16/407178747/the-secret-victorian-language-of-flowers"
+    "meta": "15 min · Olympic Peninsula",
+    "title": "The Enchanted Valley: Crown Jewel of Olympic National Park",
+    "teaser": "Deep in the heart of Olympic National Park lies a pristine valley so beautiful it earned the name 'Valley of 10,000 Waterfalls.' This remote paradise showcases the lush rainforest ecosystem that makes the Olympic Peninsula so special.",
+    "url": "https://www.nps.gov/olym/planyourvisit/the-enchanted-valley.htm"
   },
   "long_read": {
-    "meta": "35 min · Travel & Culture",
-    "title": "Hungary's Thermal Baths: A Living Tradition",
-    "teaser": "From Roman times to today, Hungary's thermal springs have been gathering places for healing, conversation, and community. This beautiful exploration takes you through the history and culture of Budapest's magnificent bathhouses.",
-    "url": "https://www.bbc.com/travel/article/20190312-budapests-healing-obsession-with-thermal-baths"
+    "meta": "35 min · History",
+    "title": "The Secret Gardeners of Wartime Britain",
+    "teaser": "During World War II, ordinary British citizens transformed their flower gardens into vegetable plots in a campaign called 'Dig for Victory.' This heartwarming story reveals how community gardens not only fed a nation but lifted spirits during the darkest days of war.",
+    "url": "https://www.bbc.com/news/uk-england-43040833"
   },
   "port_angeles": {
     "icon": "🦭",
-    "title": "Harbor Seal Pupping Season Ending",
-    "description": "Late August marks the end of harbor seal pupping season in the Strait of Juan de Fuca. The adorable pups born this summer are now learning to fish on their own, and you might spot them playing near the shore at Ediz Hook or along the waterfront.",
+    "title": "Harbor Seal Pupping Season Ends",
+    "description": "Late August marks the end of harbor seal pupping season in the Strait of Juan de Fuca. The adorable pups born this summer are now learning to fish on their own and can often be spotted lounging on the rocks near Ediz Hook, their spotted coats glistening in the sun.",
     "link_text": "Learn about local seals",
-    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat ___ times per second during normal flight.",
-    "answer": 50,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "Exactly right, Barbara! Those tiny wings are incredibly fast—almost too quick for our eyes to see!",
-    "close_response": "You're very close! The answer is 50 beats per second—amazingly fast for such a tiny bird!",
-    "wrong_response": "Those little wings beat about 50 times per second—that's what creates their distinctive humming sound!",
-    "learn_more_text": "During courtship dives, male hummingbirds can beat their wings up to 200 times per second! This incredible speed requires a heart rate of over 1,200 beats per minute.",
+    "close_range": 200,
+    "correct_response": "Exactly right! That's an incredibly fast heartbeat — about 20 beats every second!",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute while hovering — that's amazingly fast!",
+    "wrong_response": "It's hard to imagine, but a hummingbird's heart beats about 1,200 times per minute! That tiny heart works incredibly hard.",
+    "learn_more_text": "To power their energy-intensive hovering flight, hummingbirds have the fastest heart rate of all birds. At rest, their heart rate drops to about 250 beats per minute, and they enter a hibernation-like state called torpor to conserve energy at night.",
     "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "More hummingbird facts — Cornell Lab"
+    "learn_more_label": "More about hummingbirds — Cornell Lab"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "pillangó",
+      "madár",
+      "virág",
+      "napraforgó"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is such a beautiful, lyrical word for these delicate creatures!",
-    "wrong_response": "The word is 'pillangó'—such a lovely sound for such a lovely insect! (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "Hungarian is full of charming compound words and diminutives. The word 'pillangó' may come from 'pille' (flake or scale) referring to the delicate scales on butterfly wings.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/animals.aspx",
-    "learn_more_label": "Hungarian nature words — Reference"
+    "correct_index": 0,
+    "correct_response": "Wonderful! 'Pillangó' is such a lovely, lyrical word for these delicate creatures!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as graceful as a butterfly's flight? (Madár means bird, virág means flower, and napraforgó means sunflower.)",
+    "learn_more_text": "Hungarian is a unique language unrelated to most European languages — it's part of the Finno-Ugric family. Many Hungarian words are beautifully descriptive, like 'pillangó,' which may come from an old word meaning 'to flutter.'",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "About Hungarian language — Britannica"
   },
   "puzzle_3": {
-    "question": "What percentage of the Olympic Peninsula is protected as national park or forest?",
+    "question": "What do gardeners call the practice of planting different crops in the same space across seasons?",
     "options": [
-      "About 30%",
-      "About 50%",
-      "About 70%",
-      "About 90%"
+      "Companion planting",
+      "Succession planting",
+      "Crop rotation",
+      "Intercropping"
     ],
-    "correct_index": 3,
-    "correct_response": "Yes! About 90% is protected—you live in one of the most pristine wilderness areas in America! Olympic National Park and Olympic National Forest preserve nearly the entire peninsula.",
-    "wrong_response": "Actually, about 90% of the Olympic Peninsula is protected! You're surrounded by one of America's greatest wilderness treasures—Olympic National Park and Olympic National Forest cover almost the entire area.",
-    "learn_more_text": "This remarkable conservation means the Olympic Peninsula has some of the last intact temperate rainforests in the world, along with wild coastlines and mountain meadows that look much as they did centuries ago.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/index.htm",
-    "learn_more_label": "Olympic nature — National Park Service"
+    "correct_index": 2,
+    "correct_response": "Perfect! Crop rotation is an ancient practice that keeps soil healthy and helps prevent pests. Farmers have used this wisdom for thousands of years!",
+    "wrong_response": "The answer is crop rotation — changing what you plant in each spot each season. This smart practice helps soil stay nutritious and naturally reduces pests without chemicals!",
+    "learn_more_text": "Crop rotation has been practiced since ancient Roman times. Different plants use and replenish different nutrients, so rotating crops like beans (which add nitrogen) with tomatoes (which need nitrogen) keeps gardens thriving naturally.",
+    "learn_more_url": "https://www.smithsonianmag.com/history/the-ancient-practice-that-could-feed-the-world-180976955/",
+    "learn_more_label": "History of crop rotation — Smithsonian"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-26T09:20:00.339553-07:00",
-  "date": "2026-08-26",
+  "generated_at": "2026-08-27T17:17:48.341365-07:00",
+  "date": "2026-08-27",
   "is_laundry_day": false
 }
