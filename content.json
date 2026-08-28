@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, August 27",
+  "date_display": "Friday, August 28",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged is so famous for paprika that it has its own paprika museum and an annual paprika festival every October.",
+    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged and Kalocsa are so famous for paprika production that they host annual festivals celebrating this beloved red spice that's essential to dishes like goulash and chicken paprikash.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "How Hummingbirds Navigate Thousands of Miles",
-    "teaser": "These tiny birds, weighing less than a nickel, can remember every flower they've visited and return to the same gardens year after year. Scientists are discovering their remarkable navigation abilities involve stars, sun, and even Earth's magnetic field.",
-    "url": "https://www.allaboutbirds.org/news/how-do-hummingbirds-migrate/"
+    "title": "How Hummingbirds Hover in Place",
+    "teaser": "These tiny acrobats can beat their wings up to 80 times per second and are the only birds that can fly backwards. Scientists have discovered the fascinating mechanics behind their incredible hovering ability.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-incredible-physics-of-hummingbird-flight-180975498/"
   },
   "medium_read": {
-    "meta": "15 min · Olympic Peninsula",
-    "title": "The Enchanted Valley: Crown Jewel of Olympic National Park",
-    "teaser": "Deep in the heart of Olympic National Park lies a pristine valley so beautiful it earned the name 'Valley of 10,000 Waterfalls.' This remote paradise showcases the lush rainforest ecosystem that makes the Olympic Peninsula so special.",
-    "url": "https://www.nps.gov/olym/planyourvisit/the-enchanted-valley.htm"
+    "meta": "15 min · History",
+    "title": "The Library of Alexandria: What Really Happened",
+    "teaser": "The ancient world's greatest library didn't burn down in one dramatic fire as many believe. The true story of how this treasure trove of knowledge was lost is more gradual and complex than legend suggests.",
+    "url": "https://www.bbc.com/culture/article/20200420-the-burning-of-the-library-of-alexandria"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Secret Gardeners of Wartime Britain",
-    "teaser": "During World War II, ordinary British citizens transformed their flower gardens into vegetable plots in a campaign called 'Dig for Victory.' This heartwarming story reveals how community gardens not only fed a nation but lifted spirits during the darkest days of war.",
-    "url": "https://www.bbc.com/news/uk-england-43040833"
+    "meta": "35 min · Wildlife",
+    "title": "The Secret Lives of Orcas in the Pacific Northwest",
+    "teaser": "The orcas of the Salish Sea have distinct cultures, languages, and family bonds that last a lifetime. This deep dive explores the Southern Resident killer whales that call the waters near Port Angeles home.",
+    "url": "https://www.nationalgeographic.com/animals/article/orcas-whales-southern-resident-killer-whales-endangered"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season Ends",
-    "description": "Late August marks the end of harbor seal pupping season in the Strait of Juan de Fuca. The adorable pups born this summer are now learning to fish on their own and can often be spotted lounging on the rocks near Ediz Hook, their spotted coats glistening in the sun.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seal.htm"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "August is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge, especially in the early morning or evening. These gentle creatures are native to the Olympic Peninsula and are often quite comfortable around visitors, making for delightful wildlife viewing opportunities just a short drive from Port Angeles.",
+    "link_text": "Hurricane Ridge Wildlife",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That's an incredibly fast heartbeat — about 20 beats every second!",
-    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute while hovering — that's amazingly fast!",
-    "wrong_response": "It's hard to imagine, but a hummingbird's heart beats about 1,200 times per minute! That tiny heart works incredibly hard.",
-    "learn_more_text": "To power their energy-intensive hovering flight, hummingbirds have the fastest heart rate of all birds. At rest, their heart rate drops to about 250 beats per minute, and they enter a hibernation-like state called torpor to conserve energy at night.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "More about hummingbirds — Cornell Lab"
+    "correct_response": "That's right, Barbara! An amazing 1,200 beats per minute — their tiny hearts work incredibly hard!",
+    "close_response": "Very close! A hummingbird's heart actually beats about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "A hummingbird's heart beats about 1,200 times per minute! That tiny heart works so hard to power their incredible hovering flight.",
+    "learn_more_text": "To support their high-energy lifestyle, hummingbirds must eat about half their body weight in sugar daily, visiting hundreds of flowers. Their metabolism is so fast that they enter a hibernation-like state called torpor at night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "pillangó",
-      "madár",
-      "virág",
-      "napraforgó"
-    ],
-    "correct_index": 0,
-    "correct_response": "Wonderful! 'Pillangó' is such a lovely, lyrical word for these delicate creatures!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound as graceful as a butterfly's flight? (Madár means bird, virág means flower, and napraforgó means sunflower.)",
-    "learn_more_text": "Hungarian is a unique language unrelated to most European languages — it's part of the Finno-Ugric family. Many Hungarian words are beautifully descriptive, like 'pillangó,' which may come from an old word meaning 'to flutter.'",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "About Hungarian language — Britannica"
-  },
-  "puzzle_3": {
-    "question": "What do gardeners call the practice of planting different crops in the same space across seasons?",
-    "options": [
-      "Companion planting",
-      "Succession planting",
-      "Crop rotation",
-      "Intercropping"
+      "Köszönöm",
+      "Tessék",
+      "Szia",
+      "Viszlát"
     ],
     "correct_index": 2,
-    "correct_response": "Perfect! Crop rotation is an ancient practice that keeps soil healthy and helps prevent pests. Farmers have used this wisdom for thousands of years!",
-    "wrong_response": "The answer is crop rotation — changing what you plant in each spot each season. This smart practice helps soil stay nutritious and naturally reduces pests without chemicals!",
-    "learn_more_text": "Crop rotation has been practiced since ancient Roman times. Different plants use and replenish different nutrients, so rotating crops like beans (which add nitrogen) with tomatoes (which need nitrogen) keeps gardens thriving naturally.",
-    "learn_more_url": "https://www.smithsonianmag.com/history/the-ancient-practice-that-could-feed-the-world-180976955/",
-    "learn_more_label": "History of crop rotation — Smithsonian"
+    "correct_response": "Szia! That's exactly right, Barbara! It's one of the most useful words — perfect for both coming and going.",
+    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah)! It's the friendly, informal way to say both hello and goodbye in Hungarian.",
+    "learn_more_text": "Szia is the informal version used with friends and family, while 'Viszlát' is specifically goodbye. For more formal situations, Hungarians say 'Jó napot' (good day) for hello.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190901-where-does-hungarian-come-from",
+    "learn_more_label": "BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What do orcas in the Pacific Northwest primarily use to communicate and navigate?",
+    "options": [
+      "Body language",
+      "Echolocation and vocalizations",
+      "Scent marking",
+      "Light patterns"
+    ],
+    "correct_index": 1,
+    "correct_response": "Perfect! Orcas use echolocation and a complex system of calls, whistles, and clicks — each pod even has its own unique dialect!",
+    "wrong_response": "It's echolocation and vocalizations! Each orca pod has its own unique dialect of calls, passed down through generations like a family language.",
+    "learn_more_text": "Scientists can identify individual orca pods just by listening to their calls. The Southern Resident orcas near Port Angeles have dialects so distinct that researchers call them 'acoustic clans' — they're truly speaking different languages!",
+    "learn_more_url": "https://www.whaleresearch.com/orca-sound",
+    "learn_more_label": "Center for Whale Research"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-27T17:17:48.341365-07:00",
-  "date": "2026-08-27",
+  "generated_at": "2026-08-28T16:55:25.699793-07:00",
+  "date": "2026-08-28",
   "is_laundry_day": false
 }
