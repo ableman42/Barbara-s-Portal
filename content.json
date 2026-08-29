@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, August 28",
+  "date_display": "Saturday, August 29",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice — there are eight official grades ranging from delicate and sweet to fiery hot! The town of Szeged and Kalocsa are so famous for paprika production that they host annual festivals celebrating this beloved red spice that's essential to dishes like goulash and chicken paprikash.",
+    "text": "Hungarian paprika isn't just a spice—it's a national treasure! Hungary has eight different grades of paprika, ranging from delicate and sweet to fiery hot. The town of Kalocsa is known as the 'Paprika Capital' and celebrates with colorful festivals every autumn.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "How Hummingbirds Hover in Place",
-    "teaser": "These tiny acrobats can beat their wings up to 80 times per second and are the only birds that can fly backwards. Scientists have discovered the fascinating mechanics behind their incredible hovering ability.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-incredible-physics-of-hummingbird-flight-180975498/"
+    "meta": "5 min · Olympic Wildlife",
+    "title": "The Secret Lives of Olympic Marmots",
+    "teaser": "These charming, whistle-calling creatures are found nowhere else on Earth except the Olympic Mountains. Learn about their unique behaviors and how they survive the long mountain winters.",
+    "url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Library of Alexandria: What Really Happened",
-    "teaser": "The ancient world's greatest library didn't burn down in one dramatic fire as many believe. The true story of how this treasure trove of knowledge was lost is more gradual and complex than legend suggests.",
-    "url": "https://www.bbc.com/culture/article/20200420-the-burning-of-the-library-of-alexandria"
+    "meta": "15 min · Nature",
+    "title": "How Trees Secretly Talk to Each Other",
+    "teaser": "Scientists have discovered that trees communicate through an underground network of fungi, sharing nutrients and even warning each other of danger. This 'wood wide web' reveals forests are far more social than we ever imagined.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Secret Lives of Orcas in the Pacific Northwest",
-    "teaser": "The orcas of the Salish Sea have distinct cultures, languages, and family bonds that last a lifetime. This deep dive explores the Southern Resident killer whales that call the waters near Port Angeles home.",
-    "url": "https://www.nationalgeographic.com/animals/article/orcas-whales-southern-resident-killer-whales-endangered"
+    "meta": "35 min · History",
+    "title": "The Grand Tour: How Travel Shaped the Modern World",
+    "teaser": "For centuries, young Europeans embarked on epic journeys across the continent to complete their education through travel. This fascinating tradition shaped art, architecture, and our very concept of tourism.",
+    "url": "https://www.nationalgeographic.com/travel/article/grand-tour-history-of-travel"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "August is a wonderful time to spot black-tailed deer grazing in the meadows at Hurricane Ridge, especially in the early morning or evening. These gentle creatures are native to the Olympic Peninsula and are often quite comfortable around visitors, making for delightful wildlife viewing opportunities just a short drive from Port Angeles.",
-    "link_text": "Hurricane Ridge Wildlife",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season Continues",
+    "description": "Late summer is still a great time to spot harbor seal pups along the Strait of Juan de Fuca. These adorable youngsters are learning to swim and fish alongside their mothers. Ediz Hook and the waterfront are wonderful spots for gentle seal-watching—just remember to keep a respectful distance!",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute.",
+    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while hovering.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right, Barbara! An amazing 1,200 beats per minute — their tiny hearts work incredibly hard!",
-    "close_response": "Very close! A hummingbird's heart actually beats about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "A hummingbird's heart beats about 1,200 times per minute! That tiny heart works so hard to power their incredible hovering flight.",
-    "learn_more_text": "To support their high-energy lifestyle, hummingbirds must eat about half their body weight in sugar daily, visiting hundreds of flowers. Their metabolism is so fast that they enter a hibernation-like state called torpor at night to conserve energy.",
-    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Amazing! You're absolutely right—1,200 beats per minute! That tiny heart works incredibly hard.",
+    "close_response": "You're very close! The answer is 1,200 beats per minute—that's about 20 times per second!",
+    "wrong_response": "Those tiny hearts are remarkable—they beat about 1,200 times per minute while hovering! That's faster than we can even imagine.",
+    "learn_more_text": "A hummingbird's heart is about the size of a pencil eraser, yet it beats so fast to power those incredible wings that beat 50-80 times per second. When resting at night, their heart rate drops to as low as 50 beats per minute to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Tessék",
-      "Szia",
-      "Viszlát"
+      "Pillangó",
+      "Virág",
+      "Madár",
+      "Napsugár"
     ],
-    "correct_index": 2,
-    "correct_response": "Szia! That's exactly right, Barbara! It's one of the most useful words — perfect for both coming and going.",
-    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah)! It's the friendly, informal way to say both hello and goodbye in Hungarian.",
-    "learn_more_text": "Szia is the informal version used with friends and family, while 'Viszlát' is specifically goodbye. For more formal situations, Hungarians say 'Jó napot' (good day) for hello.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190901-where-does-hungarian-come-from",
-    "learn_more_label": "BBC Travel"
+    "correct_index": 0,
+    "correct_response": "Gyönyörű! (Beautiful!) Pillangó is indeed the Hungarian word for butterfly—such a lovely, musical word!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
+    "learn_more_text": "Hungarian is a unique language that isn't related to most European languages—it's part of the Finno-Ugric family. Many Hungarian words are wonderfully descriptive, like pillangó, which seems to flutter off the tongue just like the creature it describes.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Learn more — Britannica"
   },
   "puzzle_3": {
-    "question": "What do orcas in the Pacific Northwest primarily use to communicate and navigate?",
+    "question": "What is the Olympic Peninsula's temperate rainforest one of?",
     "options": [
-      "Body language",
-      "Echolocation and vocalizations",
-      "Scent marking",
-      "Light patterns"
+      "The driest places in Washington",
+      "The only rainforests in the Northern Hemisphere",
+      "One of the few temperate rainforests in North America",
+      "A tropical ecosystem"
     ],
-    "correct_index": 1,
-    "correct_response": "Perfect! Orcas use echolocation and a complex system of calls, whistles, and clicks — each pod even has its own unique dialect!",
-    "wrong_response": "It's echolocation and vocalizations! Each orca pod has its own unique dialect of calls, passed down through generations like a family language.",
-    "learn_more_text": "Scientists can identify individual orca pods just by listening to their calls. The Southern Resident orcas near Port Angeles have dialects so distinct that researchers call them 'acoustic clans' — they're truly speaking different languages!",
-    "learn_more_url": "https://www.whaleresearch.com/orca-sound",
-    "learn_more_label": "Center for Whale Research"
+    "correct_index": 2,
+    "correct_response": "Wonderful! You're right—it's one of the few temperate rainforests in North America, and we're lucky to have it right here! The Hoh and Quinault rainforests receive over 12 feet of rain annually.",
+    "wrong_response": "The Olympic Peninsula is home to one of the few temperate rainforests in North America! Unlike tropical rainforests, these rare ecosystems thrive in cool, wet climates and are draped in moss and ferns.",
+    "learn_more_text": "The Olympic National Park contains some of the largest remaining stands of ancient temperate rainforest in the United States. These forests are filled with Sitka spruce, western hemlock, and bigleaf maple trees covered in thick carpets of moss.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Explore more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-28T16:55:25.699793-07:00",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T11:13:33.568607-07:00",
+  "date": "2026-08-29",
   "is_laundry_day": false
 }
