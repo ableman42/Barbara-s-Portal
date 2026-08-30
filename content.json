@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, August 29",
+  "date_display": "Sunday, August 30",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just a spice—it's a national treasure! Hungary has eight different grades of paprika, ranging from delicate and sweet to fiery hot. The town of Kalocsa is known as the 'Paprika Capital' and celebrates with colorful festivals every autumn.",
+    "text": "Hungarian paprika isn't just one spice—it comes in eight different varieties ranging from mild and sweet to hot and pungent! The town of Szeged is so famous for its paprika that it has an entire museum dedicated to this beloved spice, which has been central to Hungarian cuisine since the 16th century.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Olympic Wildlife",
-    "title": "The Secret Lives of Olympic Marmots",
-    "teaser": "These charming, whistle-calling creatures are found nowhere else on Earth except the Olympic Mountains. Learn about their unique behaviors and how they survive the long mountain winters.",
-    "url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
+    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're more social and playful than many people realize. Learn about their surprising behaviors and how to spot them along the Olympic Peninsula shoreline.",
+    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
   },
   "medium_read": {
     "meta": "15 min · Nature",
-    "title": "How Trees Secretly Talk to Each Other",
-    "teaser": "Scientists have discovered that trees communicate through an underground network of fungi, sharing nutrients and even warning each other of danger. This 'wood wide web' reveals forests are far more social than we ever imagined.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "title": "The Ancient Art of Seed Saving",
+    "teaser": "For thousands of years, gardeners have saved seeds from their best plants to grow the next season's garden. This beautiful tradition connects us to history and helps preserve rare plant varieties for future generations.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-seed-savers-180972135/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Grand Tour: How Travel Shaped the Modern World",
-    "teaser": "For centuries, young Europeans embarked on epic journeys across the continent to complete their education through travel. This fascinating tradition shaped art, architecture, and our very concept of tourism.",
-    "url": "https://www.nationalgeographic.com/travel/article/grand-tour-history-of-travel"
+    "title": "The Forgotten Gardens of Ellis Island",
+    "teaser": "While millions of immigrants passed through Ellis Island seeking new lives in America, few knew about the remarkable gardens that surrounded the buildings. These gardens provided comfort, beauty, and a touch of home to those in transition—including many Hungarian families.",
+    "url": "https://www.nps.gov/elis/learn/historyculture/ellis-island-landscape.htm"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season Continues",
-    "description": "Late summer is still a great time to spot harbor seal pups along the Strait of Juan de Fuca. These adorable youngsters are learning to swim and fish alongside their mothers. Ediz Hook and the waterfront are wonderful spots for gentle seal-watching—just remember to keep a respectful distance!",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
+    "icon": "🦅",
+    "title": "Eagles Returning to Their Winter Roosts",
+    "description": "As August ends, bald eagles begin gathering along the Elwha River and Ediz Hook for their winter season. Port Angeles becomes one of the best places in Washington to observe these magnificent birds, with some spots hosting dozens of eagles at once during the cooler months ahead.",
+    "link_text": "Elwha River Eagle Viewing",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/elwha-area.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's heart beats about ___ times per minute while hovering.",
+    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You're absolutely right—1,200 beats per minute! That tiny heart works incredibly hard.",
-    "close_response": "You're very close! The answer is 1,200 beats per minute—that's about 20 times per second!",
-    "wrong_response": "Those tiny hearts are remarkable—they beat about 1,200 times per minute while hovering! That's faster than we can even imagine.",
-    "learn_more_text": "A hummingbird's heart is about the size of a pencil eraser, yet it beats so fast to power those incredible wings that beat 50-80 times per second. When resting at night, their heart rate drops to as low as 50 beats per minute to conserve energy.",
+    "correct_response": "Amazing! Yes, 1,200 beats per minute—that tiny heart works incredibly hard to power those rapid wings!",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—an astonishing pace!",
+    "wrong_response": "Those tiny hearts are working overtime! A hummingbird's heart beats about 1,200 times per minute while flying—compare that to a human's 60-100 beats per minute!",
+    "learn_more_text": "Hummingbirds have the fastest metabolism of all animals, and their hearts can slow to just 50 beats per minute when they go into torpor at night to conserve energy. These remarkable birds are frequent visitors to gardens throughout Port Angeles during summer months.",
     "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
     "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
+      "Madár",
       "Pillangó",
       "Virág",
-      "Madár",
-      "Napsugár"
+      "Méhecske"
     ],
-    "correct_index": 0,
-    "correct_response": "Gyönyörű! (Beautiful!) Pillangó is indeed the Hungarian word for butterfly—such a lovely, musical word!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound beautiful? (Virág means flower, madár means bird, and napsugár means sunbeam.)",
-    "learn_more_text": "Hungarian is a unique language that isn't related to most European languages—it's part of the Finno-Ugric family. Many Hungarian words are wonderfully descriptive, like pillangó, which seems to flutter off the tongue just like the creature it describes.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Learn more — Britannica"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, delicate-sounding word for such a delicate creature!",
+    "wrong_response": "The answer is pillangó! It's such a beautiful word. (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian language is full of wonderfully descriptive words for nature. Pillangó comes from an old word meaning 'to flutter,' perfectly capturing how butterflies move through the air.",
+    "learn_more_url": "https://www.hungarianreference.com/Nature/",
+    "learn_more_label": "Hungarian nature words — Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What is the Olympic Peninsula's temperate rainforest one of?",
+    "question": "What type of tree produces acorns?",
     "options": [
-      "The driest places in Washington",
-      "The only rainforests in the Northern Hemisphere",
-      "One of the few temperate rainforests in North America",
-      "A tropical ecosystem"
+      "Maple",
+      "Pine",
+      "Oak",
+      "Cedar"
     ],
     "correct_index": 2,
-    "correct_response": "Wonderful! You're right—it's one of the few temperate rainforests in North America, and we're lucky to have it right here! The Hoh and Quinault rainforests receive over 12 feet of rain annually.",
-    "wrong_response": "The Olympic Peninsula is home to one of the few temperate rainforests in North America! Unlike tropical rainforests, these rare ecosystems thrive in cool, wet climates and are draped in moss and ferns.",
-    "learn_more_text": "The Olympic National Park contains some of the largest remaining stands of ancient temperate rainforest in the United States. These forests are filled with Sitka spruce, western hemlock, and bigleaf maple trees covered in thick carpets of moss.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Explore more — Olympic National Park"
+    "correct_response": "Perfect! Oak trees produce acorns, and they're vital food sources for squirrels, deer, and many other animals. The Olympic Peninsula has beautiful Garry oak trees, some over 300 years old!",
+    "wrong_response": "It's oak trees that produce acorns! These nutritious nuts feed countless animals and can even be prepared for human consumption. The Garry oaks on the Olympic Peninsula are treasured native trees.",
+    "learn_more_text": "Garry oak ecosystems are rare and precious habitats in the Pacific Northwest, supporting more species of plants and animals than any other terrestrial ecosystem in the region. Many of these majestic oaks grow right here around Port Angeles and the San Juan Islands.",
+    "learn_more_url": "https://www.nps.gov/articles/garry-oak-ecosystems.htm",
+    "learn_more_label": "Learn about Garry oaks — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-29T11:13:33.568607-07:00",
-  "date": "2026-08-29",
+  "generated_at": "2026-08-30T11:29:41.918512-07:00",
+  "date": "2026-08-30",
   "is_laundry_day": false
 }
