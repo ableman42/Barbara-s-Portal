@@ -1,67 +1,67 @@
 {
-  "date_display": "Sunday, August 30",
+  "date_display": "Monday, August 31",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice—it comes in eight different varieties ranging from mild and sweet to hot and pungent! The town of Szeged is so famous for its paprika that it has an entire museum dedicated to this beloved spice, which has been central to Hungarian cuisine since the 16th century.",
-    "tag": "Hungarian culture"
+    "text": "Hungarian is one of the few languages in Europe that isn't part of the Indo-European language family—it's related to Finnish and Estonian instead! The Hungarian word 'virág' (meaning flower) sounds almost musical, and Hungary is famous for its beautiful gardens and love of flowers.",
+    "tag": "Hungarian language"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals are year-round residents of the Strait of Juan de Fuca, and they're more social and playful than many people realize. Learn about their surprising behaviors and how to spot them along the Olympic Peninsula shoreline.",
-    "url": "https://www.nps.gov/olym/learn/nature/marine-mammals.htm"
+    "title": "Harbor Seals of the Pacific Northwest",
+    "teaser": "These playful marine mammals are common visitors to the Strait of Juan de Fuca, often seen lounging on rocks or popping their heads up curiously. Learn about their fascinating behaviors and how they've adapted to life in the Salish Sea.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Ancient Art of Seed Saving",
-    "teaser": "For thousands of years, gardeners have saved seeds from their best plants to grow the next season's garden. This beautiful tradition connects us to history and helps preserve rare plant varieties for future generations.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-seed-savers-180972135/"
+    "meta": "15 min · Gardening",
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels of the garden have hearts that beat over 1,200 times per minute and can remember every flower they've visited. Discover the amazing world of hummingbirds and how to welcome them to your garden.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54301398/"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Forgotten Gardens of Ellis Island",
-    "teaser": "While millions of immigrants passed through Ellis Island seeking new lives in America, few knew about the remarkable gardens that surrounded the buildings. These gardens provided comfort, beauty, and a touch of home to those in transition—including many Hungarian families.",
-    "url": "https://www.nps.gov/elis/learn/historyculture/ellis-island-landscape.htm"
+    "title": "The Story of Budapest's Thermal Baths",
+    "teaser": "For over 2,000 years, Hungarians have cherished their thermal bath culture, from Roman times through Ottoman rule to today's grand bathhouses. This journey through history explores how these healing waters became such an important part of Hungarian life and culture.",
+    "url": "https://www.bbc.com/travel/article/20190416-budapests-most-beautiful-bath-houses"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Eagles Returning to Their Winter Roosts",
-    "description": "As August ends, bald eagles begin gathering along the Elwha River and Ediz Hook for their winter season. Port Angeles becomes one of the best places in Washington to observe these magnificent birds, with some spots hosting dozens of eagles at once during the cooler months ahead.",
-    "link_text": "Elwha River Eagle Viewing",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/elwha-area.htm"
+    "icon": "🦌",
+    "title": "Black-tailed Deer Season at Hurricane Ridge",
+    "description": "Late August is a beautiful time to spot Olympic black-tailed deer at Hurricane Ridge, especially in the early morning hours. These graceful animals are often seen grazing in the meadows, and their fawns are still sporting their spots this time of year!",
+    "link_text": "Hurricane Ridge Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
-    "answer": 1200,
+    "question": "A hummingbird's wings can beat up to ___ times per second!",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Amazing! Yes, 1,200 beats per minute—that tiny heart works incredibly hard to power those rapid wings!",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute during flight—an astonishing pace!",
-    "wrong_response": "Those tiny hearts are working overtime! A hummingbird's heart beats about 1,200 times per minute while flying—compare that to a human's 60-100 beats per minute!",
-    "learn_more_text": "Hummingbirds have the fastest metabolism of all animals, and their hearts can slow to just 50 beats per minute when they go into torpor at night to conserve energy. These remarkable birds are frequent visitors to gardens throughout Port Angeles during summer months.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "Read more — Audubon Society"
+    "close_range": 10,
+    "correct_response": "That's right! Incredible, isn't it? Those tiny wings move so fast they create that lovely humming sound we hear.",
+    "close_response": "You're very close! The answer is 80 beats per second—almost too fast for our eyes to see!",
+    "wrong_response": "Those tiny wings actually beat about 80 times per second! That's why they make that distinctive humming sound.",
+    "learn_more_text": "A hummingbird's rapid wing beats allow them to hover in place and even fly backwards—the only birds that can do this! Their wing muscles make up about 30% of their total body weight.",
+    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
+    "learn_more_label": "Cornell Lab of Ornithology"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
       "Virág",
-      "Méhecske"
+      "Pillangó",
+      "Madár",
+      "Napsugár"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed butterfly—such a lovely, delicate-sounding word for such a delicate creature!",
-    "wrong_response": "The answer is pillangó! It's such a beautiful word. (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian language is full of wonderfully descriptive words for nature. Pillangó comes from an old word meaning 'to flutter,' perfectly capturing how butterflies move through the air.",
-    "learn_more_url": "https://www.hungarianreference.com/Nature/",
-    "learn_more_label": "Hungarian nature words — Hungarian Reference"
+    "correct_response": "Wonderful! Pillangó is such a pretty word for such a pretty creature, isn't it?",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and napsugár means sunshine.)",
+    "learn_more_text": "Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail. Hungarian gardens have long celebrated these delicate visitors with flower plantings designed to attract them.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree produces acorns?",
+    "question": "What tree produces the acorns that are a favorite food of squirrels and deer?",
     "options": [
       "Maple",
       "Pine",
@@ -69,11 +69,11 @@
       "Cedar"
     ],
     "correct_index": 2,
-    "correct_response": "Perfect! Oak trees produce acorns, and they're vital food sources for squirrels, deer, and many other animals. The Olympic Peninsula has beautiful Garry oak trees, some over 300 years old!",
-    "wrong_response": "It's oak trees that produce acorns! These nutritious nuts feed countless animals and can even be prepared for human consumption. The Garry oaks on the Olympic Peninsula are treasured native trees.",
-    "learn_more_text": "Garry oak ecosystems are rare and precious habitats in the Pacific Northwest, supporting more species of plants and animals than any other terrestrial ecosystem in the region. Many of these majestic oaks grow right here around Port Angeles and the San Juan Islands.",
-    "learn_more_url": "https://www.nps.gov/articles/garry-oak-ecosystems.htm",
-    "learn_more_label": "Learn about Garry oaks — National Park Service"
+    "correct_response": "Yes! Oak trees produce acorns, and they're absolutely vital for wildlife on the Olympic Peninsula and beyond. A single oak can produce thousands of acorns in a good year!",
+    "wrong_response": "It's the oak tree! These magnificent trees produce acorns that feed everything from squirrels and deer to jays and woodpeckers. They're true pillars of the forest ecosystem.",
+    "learn_more_text": "Oak trees can live for hundreds of years, and some of the oaks in Olympic National Forest are over 300 years old. Native Americans traditionally ground acorns into flour for cooking.",
+    "learn_more_url": "https://www.nps.gov/articles/000/oak-trees.htm",
+    "learn_more_label": "National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-30T11:29:41.918512-07:00",
-  "date": "2026-08-30",
+  "generated_at": "2026-08-31T13:42:39.712277-07:00",
+  "date": "2026-08-31",
   "is_laundry_day": false
 }
