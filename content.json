@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, August 31",
+  "date_display": "Tuesday, September 1",
   "quote": {
-    "text": "In every walk with nature, one receives far more than he seeks.",
-    "author": "John Muir"
+    "text": "September is a second spring when every leaf is a flower.",
+    "author": "Albert Camus"
   },
   "fun_fact": {
-    "text": "Hungarian is one of the few languages in Europe that isn't part of the Indo-European language family—it's related to Finnish and Estonian instead! The Hungarian word 'virág' (meaning flower) sounds almost musical, and Hungary is famous for its beautiful gardens and love of flowers.",
-    "tag": "Hungarian language"
+    "text": "In Hungary, September 1st traditionally marks the beginning of the school year, called \"Tanévnyitó\" (opening of the school year). Children often bring flowers to their teachers on this day, and it's considered a fresh start full of possibilities and new learning adventures.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Wildlife",
-    "title": "Harbor Seals of the Pacific Northwest",
-    "teaser": "These playful marine mammals are common visitors to the Strait of Juan de Fuca, often seen lounging on rocks or popping their heads up curiously. Learn about their fascinating behaviors and how they've adapted to life in the Salish Sea.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "title": "How Hummingbirds Are Nature's Tiny Acrobats",
+    "teaser": "These remarkable birds can fly backwards, upside down, and hover in place — the only birds that can do all three. Learn about the incredible flight mechanics that make hummingbirds such amazing aerial performers.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-hummingbirds-are-natures-tiny-acrobats-180975168/"
   },
   "medium_read": {
-    "meta": "15 min · Gardening",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the garden have hearts that beat over 1,200 times per minute and can remember every flower they've visited. Discover the amazing world of hummingbirds and how to welcome them to your garden.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-54301398/"
+    "meta": "15 min · Nature",
+    "title": "The Secret Lives of Mosses in the Pacific Northwest",
+    "teaser": "The lush forests of the Olympic Peninsula are carpeted with hundreds of species of moss, each with its own story. This gentle exploration reveals how these ancient plants create miniature worlds and support entire ecosystems.",
+    "url": "https://www.nps.gov/olym/learn/nature/mosses-and-liverworts.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Story of Budapest's Thermal Baths",
-    "teaser": "For over 2,000 years, Hungarians have cherished their thermal bath culture, from Roman times through Ottoman rule to today's grand bathhouses. This journey through history explores how these healing waters became such an important part of Hungarian life and culture.",
-    "url": "https://www.bbc.com/travel/article/20190416-budapests-most-beautiful-bath-houses"
+    "title": "The Silk Road: Ancient Highway of Culture and Commerce",
+    "teaser": "For thousands of years, the Silk Road connected East and West, carrying not just silk but ideas, art, and innovations across continents. This fascinating journey traces the routes that brought together diverse cultures and changed the world.",
+    "url": "https://www.nationalgeographic.com/history/article/silk-road"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-tailed Deer Season at Hurricane Ridge",
-    "description": "Late August is a beautiful time to spot Olympic black-tailed deer at Hurricane Ridge, especially in the early morning hours. These graceful animals are often seen grazing in the meadows, and their fawns are still sporting their spots this time of year!",
-    "link_text": "Hurricane Ridge Info",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "icon": "🦅",
+    "title": "Bald Eagles Gather for Salmon Season",
+    "description": "September marks the beginning of salmon spawning season in the Elwha River, and bald eagles from across the region gather to feast. You might spot dozens of these magnificent birds perched in trees along the river, waiting for their next meal — one of nature's most impressive spectacles right in our backyard.",
+    "link_text": "Elwha River restoration",
+    "link_url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat up to ___ times per second!",
-    "answer": 80,
+    "question": "A hummingbird's heart can beat up to ___ times per minute during flight.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "That's right! Incredible, isn't it? Those tiny wings move so fast they create that lovely humming sound we hear.",
-    "close_response": "You're very close! The answer is 80 beats per second—almost too fast for our eyes to see!",
-    "wrong_response": "Those tiny wings actually beat about 80 times per second! That's why they make that distinctive humming sound.",
-    "learn_more_text": "A hummingbird's rapid wing beats allow them to hover in place and even fly backwards—the only birds that can do this! Their wing muscles make up about 30% of their total body weight.",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/lifehistory",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 200,
+    "correct_response": "Exactly right! That tiny heart works incredibly hard — faster than almost any other animal on Earth!",
+    "close_response": "Very close! A hummingbird's heart beats about 1,200 times per minute when flying — that's 20 times per second!",
+    "wrong_response": "It's actually about 1,200 beats per minute! That's faster than you can count, powering those amazing wings that beat up to 80 times per second.",
+    "learn_more_text": "To fuel this incredible metabolism, hummingbirds must eat about half their body weight in sugar each day, visiting hundreds of flowers. Their heart rate can slow to 250 beats per minute when they rest at night.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "Learn more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
-      "Pillangó",
       "Madár",
-      "Napsugár"
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a pretty word for such a pretty creature, isn't it?",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely? (Virág means flower, madár means bird, and napsugár means sunshine.)",
-    "learn_more_text": "Hungary is home to over 200 species of butterflies, including the beautiful Swallowtail. Hungarian gardens have long celebrated these delicate visitors with flower plantings designed to attract them.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "Britannica"
+    "correct_response": "Wonderful! Pillangó is such a beautiful, delicate-sounding word for such a beautiful, delicate creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound lovely? (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "Hungarian is a unique language, part of the Finno-Ugric family, which makes it quite different from neighboring European languages. Many Hungarian words have a musical, flowing quality that reflects the culture's love of poetry and song.",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Learn more — Britannica"
   },
   "puzzle_3": {
-    "question": "What tree produces the acorns that are a favorite food of squirrels and deer?",
+    "question": "What is the name of the strait of water visible from Port Angeles?",
     "options": [
-      "Maple",
-      "Pine",
-      "Oak",
-      "Cedar"
+      "Puget Sound",
+      "Georgia Strait",
+      "Strait of Juan de Fuca",
+      "Hood Canal"
     ],
     "correct_index": 2,
-    "correct_response": "Yes! Oak trees produce acorns, and they're absolutely vital for wildlife on the Olympic Peninsula and beyond. A single oak can produce thousands of acorns in a good year!",
-    "wrong_response": "It's the oak tree! These magnificent trees produce acorns that feed everything from squirrels and deer to jays and woodpeckers. They're true pillars of the forest ecosystem.",
-    "learn_more_text": "Oak trees can live for hundreds of years, and some of the oaks in Olympic National Forest are over 300 years old. Native Americans traditionally ground acorns into flour for cooking.",
-    "learn_more_url": "https://www.nps.gov/articles/000/oak-trees.htm",
-    "learn_more_label": "National Park Service"
+    "correct_response": "Perfect! The Strait of Juan de Fuca is our beautiful waterway, named after a Greek explorer who sailed for Spain in 1592. On clear days, you can see Vancouver Island across the water!",
+    "wrong_response": "It's the Strait of Juan de Fuca! This beautiful waterway separates the Olympic Peninsula from Vancouver Island and connects the Pacific Ocean to Puget Sound. It was named after a Greek explorer sailing for Spain.",
+    "learn_more_text": "The Strait is about 96 miles long and provides critical habitat for orcas, gray whales, seals, and countless seabirds. The waters here are some of the richest marine ecosystems in the world.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/strait-of-juan-de-fuca.htm",
+    "learn_more_label": "Learn more — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-08-31T13:42:39.712277-07:00",
-  "date": "2026-08-31",
+  "generated_at": "2026-09-01T11:15:15.914403-07:00",
+  "date": "2026-09-01",
   "is_laundry_day": false
 }
