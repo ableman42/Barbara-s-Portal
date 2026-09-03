@@ -1,49 +1,49 @@
 {
-  "date_display": "Wednesday, September 2",
+  "date_display": "Thursday, September 3",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika, the spice that defines so much of Hungarian cuisine, was actually brought to Hungary by the Turks in the 16th century. Today, Hungary produces some of the world's finest paprika, especially from the town of Szeged and Kalocsa. The spice transformed Hungarian cooking so completely that most people now think of it as originally Hungarian!",
-    "tag": "Hungarian culture"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the Rufous hummingbird, which migrates through Port Angeles each fall on its way to Mexico.",
+    "tag": "Local Wildlife"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "Why Do Hummingbirds Hum?",
-    "teaser": "These tiny jewels of the bird world create their distinctive sound not with their voices, but with their incredibly fast wing beats. Discover the fascinating physics behind the hummingbird's signature sound.",
-    "url": "https://www.smithsonianmag.com/science-nature/why-do-hummingbirds-hum-180960117/"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Sea Stars",
+    "teaser": "Sea stars have no brain or blood, yet they can regenerate lost arms and even clone themselves. Discover the fascinating abilities of these colorful creatures that live right in the Strait of Juan de Fuca.",
+    "url": "https://www.nps.gov/articles/sea-stars.htm"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Secret Lives of Tide Pools",
-    "teaser": "The rocky shores of the Pacific Northwest are home to miniature worlds teeming with colorful sea stars, anemones, and other fascinating creatures. Learn how these tough little animals survive between two worlds of land and sea.",
-    "url": "https://www.nps.gov/olym/learn/nature/tide-pool-life.htm"
+    "meta": "15 min · History",
+    "title": "The Beautiful Castles of Hungary",
+    "teaser": "From medieval fortresses to baroque palaces, Hungary's castles tell stories of kings, queens, and centuries of history. This photo journey explores some of the country's most stunning architectural treasures.",
+    "url": "https://www.smithsonianmag.com/travel/hungarys-most-beautiful-castles-180969847/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Victorian Language of Flowers",
-    "teaser": "In the 19th century, people communicated entire conversations through carefully chosen flower arrangements, with each bloom carrying a specific meaning. This charming practice allowed Victorians to express feelings they couldn't speak aloud.",
-    "url": "https://www.smithsonianmag.com/smart-news/8-flowers-and-their-secret-meanings-180967915/"
+    "meta": "35 min · Culture & Travel",
+    "title": "The Ancient Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian women have passed down intricate embroidery traditions, each region with its own distinctive patterns and colors. This exploration reveals how these beautiful folk arts continue to thrive today.",
+    "url": "https://www.bbc.com/travel/article/20200115-hungarys-vanishing-folk-art"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "September is a wonderful time to spot black-tailed deer at Hurricane Ridge, as they're especially active during the early fall. These graceful animals are often seen grazing in the meadows, and bucks begin showing off their antlers this time of year. The cooler weather makes for perfect viewing conditions on the ridge.",
-    "link_text": "Hurricane Ridge Wildlife Guide",
+    "title": "Roosevelt Elk at Hurricane Ridge",
+    "description": "Early September is a wonderful time to spot Roosevelt elk at Hurricane Ridge as they begin their autumn rutting season. These majestic animals, named after President Theodore Roosevelt, can weigh up to 1,000 pounds and are often seen grazing in the meadows. Bring binoculars for the best viewing!",
+    "link_text": "Hurricane Ridge Wildlife",
     "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's wings can beat up to ___ times per second during normal flight.",
-    "answer": 80,
+    "question": "A hummingbird's heart beats approximately ___ times per minute.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "Exactly right! That's incredibly fast — faster than our eyes can even see!",
-    "close_response": "You're very close! The answer is 80 beats per second — almost too fast to imagine!",
-    "wrong_response": "The answer is 80 times per second! That's so fast it creates the humming sound we hear.",
-    "learn_more_text": "During courtship dives, some hummingbird species can beat their wings even faster — up to 200 times per second! Their wing muscles make up about 30% of their body weight.",
-    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
-    "learn_more_label": "Cornell Lab of Ornithology"
+    "close_range": 200,
+    "correct_response": "Absolutely right, Barbara! That tiny heart works incredibly hard to power all that hovering and flying!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — imagine how fast that little heart is working!",
+    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart — amazing for such a tiny bird!",
+    "learn_more_text": "To support their super-fast metabolism and rapid wing beats, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily and can remember every flower they've visited!",
+    "learn_more_url": "https://www.audubon.org/news/10-fun-facts-about-hummingbirds",
+    "learn_more_label": "More About Hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
@@ -54,26 +54,26 @@
       "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is indeed the Hungarian word for butterfly — such a pretty word for a pretty creature!",
-    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee.",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from the word 'pilláz' meaning 'to flutter.' Hungary is home to about 160 species of butterflies, including the beautiful Swallowtail.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "Britannica"
+    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly — such a lovely, musical word!",
+    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee. Pillangó is such a beautiful word for butterfly!",
+    "learn_more_text": "The Hungarian language is unique in Europe, belonging to the Finno-Ugric family rather than the Indo-European family. This means Hungarian is more closely related to Finnish and Estonian than to neighboring languages like German or Romanian.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20200203-the-language-that-few-can-speak",
+    "learn_more_label": "Hungarian Language — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What ocean mammal can hold its breath for up to 90 minutes?",
+    "question": "What is the deepest part of the Strait of Juan de Fuca?",
     "options": [
-      "Harbor seal",
-      "Sea otter",
-      "Sperm whale",
-      "Orca"
+      "150 feet",
+      "320 feet",
+      "650 feet",
+      "900 feet"
     ],
     "correct_index": 2,
-    "correct_response": "That's right! Sperm whales are incredible divers, descending to amazing depths in search of giant squid. They're the deep-diving champions of the whale world!",
-    "wrong_response": "It's the sperm whale! These amazing creatures dive deeper than any other whale — sometimes over a mile down — holding their breath for up to 90 minutes while hunting for giant squid.",
-    "learn_more_text": "Sperm whales have the largest brain of any animal on Earth, weighing up to 20 pounds. They use echolocation to hunt in the dark depths of the ocean, producing the loudest sounds made by any animal.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/mammals/facts/sperm-whale",
-    "learn_more_label": "National Geographic"
+    "correct_response": "Exactly right! At 650 feet deep, the Strait has some surprisingly deep channels — deep enough to hide all sorts of marine life!",
+    "wrong_response": "The deepest part is actually 650 feet! That's deeper than a 60-story building is tall, and it creates important habitat for deep-water fish and marine mammals.",
+    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and is about 96 miles long. Its deep waters and strong currents create rich feeding grounds for orcas, gray whales, and countless seabirds.",
+    "learn_more_url": "https://www.noaa.gov/education/resource-collections/marine-life/strait-juan-de-fuca",
+    "learn_more_label": "Strait of Juan de Fuca — NOAA"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-02T11:28:35.845196-07:00",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T11:24:39.271255-07:00",
+  "date": "2026-09-03",
   "is_laundry_day": false
 }
