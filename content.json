@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, September 3",
+  "date_display": "Friday, September 4",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in mid-air by flapping their wings in a figure-eight pattern up to 80 times per second. The Pacific Northwest is home to the Rufous hummingbird, which migrates through Port Angeles each fall on its way to Mexico.",
-    "tag": "Local Wildlife"
+    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed for Spain under a Spanish name! His real name was Ioannis Phokas, but he became known as Juan de Fuca when he claimed to have discovered the passage in 1592.",
+    "tag": "Local history"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Lives of Sea Stars",
-    "teaser": "Sea stars have no brain or blood, yet they can regenerate lost arms and even clone themselves. Discover the fascinating abilities of these colorful creatures that live right in the Strait of Juan de Fuca.",
-    "url": "https://www.nps.gov/articles/sea-stars.htm"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels of the sky can fly backwards and their hearts beat up to 1,200 times per minute! Learn about the amazing adaptations that make hummingbirds such special visitors to Pacific Northwest gardens.",
+    "url": "https://www.nationalgeographic.com/animals/birds/facts/hummingbirds"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Beautiful Castles of Hungary",
-    "teaser": "From medieval fortresses to baroque palaces, Hungary's castles tell stories of kings, queens, and centuries of history. This photo journey explores some of the country's most stunning architectural treasures.",
-    "url": "https://www.smithsonianmag.com/travel/hungarys-most-beautiful-castles-180969847/"
+    "meta": "15 min · Nature",
+    "title": "Olympic National Park's Incredible Biodiversity",
+    "teaser": "From temperate rainforests to alpine meadows, the Olympic Peninsula contains ecosystems found nowhere else on Earth. Discover why this treasure in your backyard is one of the most ecologically diverse places in North America.",
+    "url": "https://www.nps.gov/olym/learn/nature/biodiversity.htm"
   },
   "long_read": {
-    "meta": "35 min · Culture & Travel",
-    "title": "The Ancient Art of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian women have passed down intricate embroidery traditions, each region with its own distinctive patterns and colors. This exploration reveals how these beautiful folk arts continue to thrive today.",
-    "url": "https://www.bbc.com/travel/article/20200115-hungarys-vanishing-folk-art"
+    "meta": "35 min · History",
+    "title": "The Great Migration of Monarchs",
+    "teaser": "Every year, millions of monarch butterflies travel up to 3,000 miles in one of nature's most remarkable journeys. This beautifully illustrated article follows their ancient migration route and the mystery of how they navigate.",
+    "url": "https://www.smithsonianmag.com/science-nature/monarch-butterflies-migrate-3000-miles-here-how-180972800/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Roosevelt Elk at Hurricane Ridge",
-    "description": "Early September is a wonderful time to spot Roosevelt elk at Hurricane Ridge as they begin their autumn rutting season. These majestic animals, named after President Theodore Roosevelt, can weigh up to 1,000 pounds and are often seen grazing in the meadows. Bring binoculars for the best viewing!",
-    "link_text": "Hurricane Ridge Wildlife",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "title": "Black-Tailed Deer Season in Port Angeles",
+    "description": "September is a wonderful time to spot black-tailed deer around Port Angeles, especially in the early morning or evening hours. These graceful animals are preparing for fall and are often seen near the edges of forests and meadows throughout the Olympic Peninsula.",
+    "link_text": "Learn about local deer",
+    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute.",
-    "answer": 1200,
+    "question": "A ruby-throated hummingbird's wings beat about ___ times per second during normal flight.",
+    "answer": 53,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "Absolutely right, Barbara! That tiny heart works incredibly hard to power all that hovering and flying!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute — imagine how fast that little heart is working!",
-    "wrong_response": "The answer is 1,200 beats per minute! That's about 20 times faster than a human heart — amazing for such a tiny bird!",
-    "learn_more_text": "To support their super-fast metabolism and rapid wing beats, hummingbirds must eat about half their body weight in nectar each day. They visit hundreds of flowers daily and can remember every flower they've visited!",
-    "learn_more_url": "https://www.audubon.org/news/10-fun-facts-about-hummingbirds",
-    "learn_more_label": "More About Hummingbirds — Audubon"
+    "close_range": 10,
+    "correct_response": "Exactly right! That's about 3,180 beats per minute — so fast they create that lovely humming sound!",
+    "close_response": "Very close! The answer is 53 beats per second — that's about 3,180 times per minute!",
+    "wrong_response": "The answer is 53 beats per second! That's so fast it creates the humming sound we hear when they fly by.",
+    "learn_more_text": "Hummingbirds can beat their wings even faster during courtship displays — up to 200 beats per second! This incredible speed requires tremendous energy, which is why they need to eat constantly.",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
+    "learn_more_label": "Read more — Audubon Society"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Madár",
-      "Pillangó",
-      "Virág",
-      "Méhecske"
+      "pillangó",
+      "madár",
+      "virág",
+      "méhecske"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful, Ildiko! Pillangó is indeed butterfly — such a lovely, musical word!",
-    "wrong_response": "The answer is pillangó! Madár means bird, virág means flower, and méhecske means little bee. Pillangó is such a beautiful word for butterfly!",
-    "learn_more_text": "The Hungarian language is unique in Europe, belonging to the Finno-Ugric family rather than the Indo-European family. This means Hungarian is more closely related to Finnish and Estonian than to neighboring languages like German or Romanian.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200203-the-language-that-few-can-speak",
-    "learn_more_label": "Hungarian Language — BBC Travel"
+    "correct_index": 0,
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for these delicate creatures!",
+    "wrong_response": "The answer is 'pillangó' — such a lovely, musical word! (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from an old word meaning 'to flutter' or 'to flicker,' perfectly describing how butterflies move through the air. Hungary is home to over 200 butterfly species!",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What is the deepest part of the Strait of Juan de Fuca?",
+    "question": "What do gardeners call the practice of planting flowers and herbs that attract beneficial insects like butterflies and bees?",
     "options": [
-      "150 feet",
-      "320 feet",
-      "650 feet",
-      "900 feet"
+      "Companion planting",
+      "Pollinator gardening",
+      "Crop rotation",
+      "Green mulching"
     ],
-    "correct_index": 2,
-    "correct_response": "Exactly right! At 650 feet deep, the Strait has some surprisingly deep channels — deep enough to hide all sorts of marine life!",
-    "wrong_response": "The deepest part is actually 650 feet! That's deeper than a 60-story building is tall, and it creates important habitat for deep-water fish and marine mammals.",
-    "learn_more_text": "The Strait of Juan de Fuca connects the Pacific Ocean to Puget Sound and is about 96 miles long. Its deep waters and strong currents create rich feeding grounds for orcas, gray whales, and countless seabirds.",
-    "learn_more_url": "https://www.noaa.gov/education/resource-collections/marine-life/strait-juan-de-fuca",
-    "learn_more_label": "Strait of Juan de Fuca — NOAA"
+    "correct_index": 1,
+    "correct_response": "Perfect! Pollinator gardening helps support bees, butterflies, and hummingbirds — and makes for a beautiful, lively garden!",
+    "wrong_response": "The answer is pollinator gardening! It's a wonderful way to help butterflies, bees, and other beneficial insects while enjoying beautiful blooms. Companion planting is also beneficial, but it focuses on plants helping each other grow.",
+    "learn_more_text": "Native plants are especially valuable for pollinator gardens because local insects have evolved alongside them. In the Pacific Northwest, plants like Oregon grape, salal, and red flowering currant are excellent choices.",
+    "learn_more_url": "https://www.nps.gov/subjects/pollinators/pollinator-gardening.htm",
+    "learn_more_label": "Pollinator gardening tips — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-03T11:24:39.271255-07:00",
-  "date": "2026-09-03",
+  "generated_at": "2026-09-04T11:11:36.062696-07:00",
+  "date": "2026-09-04",
   "is_laundry_day": false
 }
