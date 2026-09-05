@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, September 4",
+  "date_display": "Saturday, September 5",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed for Spain under a Spanish name! His real name was Ioannis Phokas, but he became known as Juan de Fuca when he claimed to have discovered the passage in 1592.",
-    "tag": "Local history"
+    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. September is a wonderful time to see them in the Pacific Northwest as they fuel up before their long migration south.",
+    "tag": "Bird life"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Hummingbirds",
-    "teaser": "These tiny jewels of the sky can fly backwards and their hearts beat up to 1,200 times per minute! Learn about the amazing adaptations that make hummingbirds such special visitors to Pacific Northwest gardens.",
-    "url": "https://www.nationalgeographic.com/animals/birds/facts/hummingbirds"
+    "meta": "5 min · Nature",
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warning signals. It's like a natural internet connecting the forest!",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "Olympic National Park's Incredible Biodiversity",
-    "teaser": "From temperate rainforests to alpine meadows, the Olympic Peninsula contains ecosystems found nowhere else on Earth. Discover why this treasure in your backyard is one of the most ecologically diverse places in North America.",
-    "url": "https://www.nps.gov/olym/learn/nature/biodiversity.htm"
+    "meta": "15 min · Gardens & History",
+    "title": "The Hidden History of America's Victory Gardens",
+    "teaser": "During World War II, American families grew over 40% of the nation's vegetables in backyard victory gardens. This heartwarming story shows how communities came together through gardening, creating beauty and abundance even in difficult times.",
+    "url": "https://www.nationalgeographic.com/culture/article/victory-gardens-during-world-war-ii"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Great Migration of Monarchs",
-    "teaser": "Every year, millions of monarch butterflies travel up to 3,000 miles in one of nature's most remarkable journeys. This beautifully illustrated article follows their ancient migration route and the mystery of how they navigate.",
-    "url": "https://www.smithsonianmag.com/science-nature/monarch-butterflies-migrate-3000-miles-here-how-180972800/"
+    "meta": "35 min · Wildlife",
+    "title": "The Return of Wolves to Yellowstone",
+    "teaser": "When wolves were reintroduced to Yellowstone National Park after 70 years, something magical happened—the entire ecosystem transformed in unexpected ways. This is the remarkable story of how one species can heal an entire landscape.",
+    "url": "https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer Season in Port Angeles",
-    "description": "September is a wonderful time to spot black-tailed deer around Port Angeles, especially in the early morning or evening hours. These graceful animals are preparing for fall and are often seen near the edges of forests and meadows throughout the Olympic Peninsula.",
-    "link_text": "Learn about local deer",
-    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season Winds Down",
+    "description": "September is the tail end of harbor seal pupping season along the Strait of Juan de Fuca. You might still spot mothers with their pups resting on the rocks near Ediz Hook or along the shoreline. Remember to keep a respectful distance—at least 100 yards—so these wonderful marine mammals feel safe.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
   },
   "puzzle_1": {
-    "question": "A ruby-throated hummingbird's wings beat about ___ times per second during normal flight.",
-    "answer": 53,
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 10,
-    "correct_response": "Exactly right! That's about 3,180 beats per minute — so fast they create that lovely humming sound!",
-    "close_response": "Very close! The answer is 53 beats per second — that's about 3,180 times per minute!",
-    "wrong_response": "The answer is 53 beats per second! That's so fast it creates the humming sound we hear when they fly by.",
-    "learn_more_text": "Hummingbirds can beat their wings even faster during courtship displays — up to 200 beats per second! This incredible speed requires tremendous energy, which is why they need to eat constantly.",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-fly",
-    "learn_more_label": "Read more — Audubon Society"
+    "close_range": 200,
+    "correct_response": "That's exactly right, Barbara! Amazing that such a tiny heart can beat so fast!",
+    "close_response": "You're very close! Their heart beats about 1,200 times per minute—incredibly fast for such a tiny bird!",
+    "wrong_response": "Their heart actually beats about 1,200 times per minute! That's about 20 beats every single second—no wonder they need so much nectar for energy!",
+    "learn_more_text": "A hummingbird's heart rate can slow to 250 beats per minute when they go into torpor at night to conserve energy. This incredible adaptation helps them survive cool nights when food isn't available.",
+    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
+    "learn_more_label": "More hummingbird facts — Cornell Lab"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "pillangó",
       "madár",
+      "pillangó",
       "virág",
-      "méhecske"
-    ],
-    "correct_index": 0,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for these delicate creatures!",
-    "wrong_response": "The answer is 'pillangó' — such a lovely, musical word! (Madár means bird, virág means flower, and méhecske means little bee.)",
-    "learn_more_text": "The Hungarian word 'pillangó' is thought to come from an old word meaning 'to flutter' or 'to flicker,' perfectly describing how butterflies move through the air. Hungary is home to over 200 butterfly species!",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly-insect",
-    "learn_more_label": "About butterflies — Britannica"
-  },
-  "puzzle_3": {
-    "question": "What do gardeners call the practice of planting flowers and herbs that attract beneficial insects like butterflies and bees?",
-    "options": [
-      "Companion planting",
-      "Pollinator gardening",
-      "Crop rotation",
-      "Green mulching"
+      "napraforgó"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Pollinator gardening helps support bees, butterflies, and hummingbirds — and makes for a beautiful, lively garden!",
-    "wrong_response": "The answer is pollinator gardening! It's a wonderful way to help butterflies, bees, and other beneficial insects while enjoying beautiful blooms. Companion planting is also beneficial, but it focuses on plants helping each other grow.",
-    "learn_more_text": "Native plants are especially valuable for pollinator gardens because local insects have evolved alongside them. In the Pacific Northwest, plants like Oregon grape, salal, and red flowering currant are excellent choices.",
-    "learn_more_url": "https://www.nps.gov/subjects/pollinators/pollinator-gardening.htm",
-    "learn_more_label": "Pollinator gardening tips — National Park Service"
+    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—such a lovely, musical word! (Madár means bird, virág means flower, and napraforgó means sunflower.)",
+    "learn_more_text": "Hungarian is unique among European languages because it's part of the Finno-Ugric language family, making it related to Finnish and Estonian rather than other neighboring languages. Many Hungarian words have a musical, flowing quality.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20191224-why-hungarian-is-so-tough-for-english-speakers",
+    "learn_more_label": "About Hungarian — BBC Travel"
+  },
+  "puzzle_3": {
+    "question": "What type of tree is the most common in Olympic National Park's temperate rainforests?",
+    "options": [
+      "Douglas fir",
+      "Western hemlock",
+      "Sitka spruce",
+      "Western red cedar"
+    ],
+    "correct_index": 2,
+    "correct_response": "Perfect! Sitka spruce trees thrive in the misty valleys of the Olympic rainforest, growing to truly magnificent sizes in that perfect, wet climate.",
+    "wrong_response": "It's actually the Sitka spruce! These magnificent trees can grow over 300 feet tall in the Hoh and Quinault rainforests, draped with moss and ferns in those magical, misty valleys.",
+    "learn_more_text": "The Sitka spruce in Olympic National Park can live for over 700 years and create cathedral-like groves. The temperate rainforest receives 12-14 feet of rain annually, creating one of the most lush ecosystems on Earth.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "learn_more_label": "Rainforest info — Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-04T11:11:36.062696-07:00",
-  "date": "2026-09-04",
+  "generated_at": "2026-09-05T10:12:35.001218-07:00",
+  "date": "2026-09-05",
   "is_laundry_day": false
 }
