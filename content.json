@@ -1,79 +1,79 @@
 {
-  "date_display": "Saturday, September 5",
+  "date_display": "Sunday, September 6",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hummingbirds are the only birds that can fly backwards! They can also hover in place by flapping their wings in a figure-eight pattern up to 80 times per second. September is a wonderful time to see them in the Pacific Northwest as they fuel up before their long migration south.",
-    "tag": "Bird life"
+    "text": "In Hungary, September 6th marks the traditional end of harvest season, when families would celebrate with special pastries called 'rétes' (strudel) filled with apples, cherries, or poppyseeds. These delicate, paper-thin pastries were often shared with neighbors as a symbol of gratitude for the abundance of the earth.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and warning signals. It's like a natural internet connecting the forest!",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "meta": "5 min · Wildlife",
+    "title": "The Secret Social Lives of Harbor Seals",
+    "teaser": "Harbor seals in the Strait of Juan de Fuca have complex friendships that last for years, returning to the same haul-out spots to meet their companions. Scientists have discovered these playful marine mammals actually recognize each other's voices underwater.",
+    "url": "https://www.nps.gov/articles/000/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Gardens & History",
-    "title": "The Hidden History of America's Victory Gardens",
-    "teaser": "During World War II, American families grew over 40% of the nation's vegetables in backyard victory gardens. This heartwarming story shows how communities came together through gardening, creating beauty and abundance even in difficult times.",
-    "url": "https://www.nationalgeographic.com/culture/article/victory-gardens-during-world-war-ii"
+    "meta": "15 min · Gardening",
+    "title": "The Ancient Art of Saving Seeds",
+    "teaser": "For thousands of years, gardeners have saved seeds from their best plants to grow again next season, preserving flavors and varieties that might otherwise be lost. This heartwarming guide shows how easy it is to become part of this living tradition.",
+    "url": "https://www.smithsonianmag.com/innovation/saving-seeds-180968224/"
   },
   "long_read": {
-    "meta": "35 min · Wildlife",
-    "title": "The Return of Wolves to Yellowstone",
-    "teaser": "When wolves were reintroduced to Yellowstone National Park after 70 years, something magical happened—the entire ecosystem transformed in unexpected ways. This is the remarkable story of how one species can heal an entire landscape.",
-    "url": "https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/"
+    "meta": "35 min · Nature",
+    "title": "The Enchanted Rainforests of the Olympic Peninsula",
+    "teaser": "The moss-draped temperate rainforests near Port Angeles are among the most magical places on Earth, where ancient trees create cathedral-like spaces and rainfall nurtures an ecosystem found almost nowhere else. This beautiful exploration reveals why these forests feel like stepping into another world.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦭",
-    "title": "Harbor Seal Pupping Season Winds Down",
-    "description": "September is the tail end of harbor seal pupping season along the Strait of Juan de Fuca. You might still spot mothers with their pups resting on the rocks near Ediz Hook or along the shoreline. Remember to keep a respectful distance—at least 100 yards—so these wonderful marine mammals feel safe.",
-    "link_text": "Learn about local seals",
-    "link_url": "https://www.nps.gov/olym/learn/nature/harbor-seals.htm"
+    "icon": "🦋",
+    "title": "Butterfly Season at Hurricane Ridge",
+    "description": "Early September brings a final flutter of beautiful butterflies to Hurricane Ridge's wildflower meadows. Look for the vibrant orange-and-black Mylitta Crescents and delicate Pale Swallowtails dancing among the late-blooming asters and lupines before autumn settles in.",
+    "link_text": "Hurricane Ridge wildlife guide",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
-    "answer": 1200,
+    "question": "The Olympic National Park, just south of Port Angeles, protects nearly ___ miles of wild Pacific coastline.",
+    "answer": 73,
     "answer_is_number": true,
-    "close_range": 200,
-    "correct_response": "That's exactly right, Barbara! Amazing that such a tiny heart can beat so fast!",
-    "close_response": "You're very close! Their heart beats about 1,200 times per minute—incredibly fast for such a tiny bird!",
-    "wrong_response": "Their heart actually beats about 1,200 times per minute! That's about 20 beats every single second—no wonder they need so much nectar for energy!",
-    "learn_more_text": "A hummingbird's heart rate can slow to 250 beats per minute when they go into torpor at night to conserve energy. This incredible adaptation helps them survive cool nights when food isn't available.",
-    "learn_more_url": "https://www.allaboutbirds.org/news/10-fun-facts-about-hummingbirds/",
-    "learn_more_label": "More hummingbird facts — Cornell Lab"
+    "close_range": 5,
+    "correct_response": "Perfect! That's right — 73 miles of beautiful, rugged coastline!",
+    "close_response": "You're very close! The park protects 73 miles of wild Pacific coast.",
+    "wrong_response": "The answer is 73 miles — a stunning stretch of wilderness coastline protected forever!",
+    "learn_more_text": "This pristine coastline includes sandy beaches, dramatic sea stacks, tide pools teeming with life, and some of the last truly wild shoreline in the continental United States.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-coastal-areas-of-olympic-national-park.htm",
+    "learn_more_label": "Explore the Coast — National Park Service"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "madár",
-      "pillangó",
-      "virág",
-      "napraforgó"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful, Barbara! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—such a lovely, musical word! (Madár means bird, virág means flower, and napraforgó means sunflower.)",
-    "learn_more_text": "Hungarian is unique among European languages because it's part of the Finno-Ugric language family, making it related to Finnish and Estonian rather than other neighboring languages. Many Hungarian words have a musical, flowing quality.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20191224-why-hungarian-is-so-tough-for-english-speakers",
-    "learn_more_label": "About Hungarian — BBC Travel"
+    "correct_response": "Gyönyörű! That's right — 'pillangó' is the Hungarian word for butterfly!",
+    "wrong_response": "The answer is 'pillangó' — such a beautiful word for such a delicate creature! (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The word 'pillangó' comes from an old Hungarian root meaning 'to flutter' or 'to fly lightly,' perfectly capturing the graceful movement of these lovely insects.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly",
+    "learn_more_label": "About Butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What type of tree is the most common in Olympic National Park's temperate rainforests?",
+    "question": "What type of tree can live for over 1,000 years in the Pacific Northwest rainforests?",
     "options": [
-      "Douglas fir",
-      "Western hemlock",
-      "Sitka spruce",
-      "Western red cedar"
+      "Douglas Fir",
+      "Western Red Cedar",
+      "Maple",
+      "Alder"
     ],
-    "correct_index": 2,
-    "correct_response": "Perfect! Sitka spruce trees thrive in the misty valleys of the Olympic rainforest, growing to truly magnificent sizes in that perfect, wet climate.",
-    "wrong_response": "It's actually the Sitka spruce! These magnificent trees can grow over 300 feet tall in the Hoh and Quinault rainforests, draped with moss and ferns in those magical, misty valleys.",
-    "learn_more_text": "The Sitka spruce in Olympic National Park can live for over 700 years and create cathedral-like groves. The temperate rainforest receives 12-14 feet of rain annually, creating one of the most lush ecosystems on Earth.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "Rainforest info — Olympic National Park"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Western Red Cedar can indeed live for over 1,000 years — some ancient cedars in the Olympic Peninsula are over 1,500 years old!",
+    "wrong_response": "The answer is Western Red Cedar — these magnificent trees can live for over 1,000 years, with some ancient giants in the Olympic forests reaching 1,500 years old!",
+    "learn_more_text": "Indigenous peoples of the Pacific Northwest call Western Red Cedar the 'Tree of Life' because it provided materials for canoes, longhouses, clothing, medicine, and countless other necessities for thousands of years.",
+    "learn_more_url": "https://www.fs.usda.gov/detail/olympic/learning/nature-science/?cid=fsbdev7_020694",
+    "learn_more_label": "Ancient Trees — US Forest Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-05T10:12:35.001218-07:00",
-  "date": "2026-09-05",
-  "is_laundry_day": false
+  "generated_at": "2026-09-06T10:32:48.165305-07:00",
+  "date": "2026-09-06",
+  "is_laundry_day": true
 }
