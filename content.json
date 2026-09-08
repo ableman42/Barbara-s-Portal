@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, September 7",
+  "date_display": "Tuesday, September 8",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Harbor seals, which you can often spot in the Strait of Juan de Fuca, can hold their breath for up to 30 minutes while diving for fish! They're excellent swimmers but also love to 'haul out' onto rocks and beaches to rest and warm up in the sun, just like sunbathers.",
-    "tag": "Local Wildlife"
+    "text": "Hungarian paprika isn't just one spice—there are eight different grades, ranging from delicate and sweet to bold and spicy! The town of Szeged and Kalocsa are famous for producing the world's finest paprika, which has been a cornerstone of Hungarian cooking for over 300 years.",
+    "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "How Gardens Help Us Age Gracefully",
-    "teaser": "Researchers have found that gardening provides unique benefits for older adults, from gentle exercise to the joy of nurturing living things. This warm article explores why getting your hands in the soil is so good for body and soul.",
-    "url": "https://www.bbc.com/future/article/20200401-why-gardens-are-good-for-health-and-wellbeing"
+    "title": "The Secret Language of Trees",
+    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and even warning each other of danger. It's like a hidden internet beneath the forest floor!",
+    "url": "https://www.bbc.com/earth/story/20141111-plants-have-a-hidden-internet"
   },
   "medium_read": {
-    "meta": "15 min · History",
-    "title": "The Secret Language of Hungarian Embroidery",
-    "teaser": "Every region of Hungary developed its own distinctive embroidery patterns, creating a visual language that told stories through flowers, colors, and stitches. This fascinating article reveals how these beautiful folk art traditions carried meaning from generation to generation.",
-    "url": "https://www.smithsonianmag.com/travel/exploring-hungarys-enchanting-folk-art-180972838/"
+    "meta": "15 min · Wildlife",
+    "title": "The Return of Sea Otters to the Pacific Northwest",
+    "teaser": "After nearly being hunted to extinction, sea otters are making a remarkable comeback along the Pacific coast. Their return is transforming coastal ecosystems in surprising and wonderful ways.",
+    "url": "https://www.smithsonianmag.com/science-nature/return-sea-otter-180968909/"
   },
   "long_read": {
-    "meta": "35 min · Nature & Science",
-    "title": "The Hidden Life of Old-Growth Forests",
-    "teaser": "Scientists studying ancient forests like those in Olympic National Park have discovered that trees communicate and even care for each other through underground fungal networks. This captivating piece explores the secret world beneath the forest floor.",
-    "url": "https://www.nationalgeographic.com/science/article/can-trees-really-talk-to-each-other"
+    "meta": "35 min · History",
+    "title": "The Lost Art of Hungarian Embroidery",
+    "teaser": "For centuries, Hungarian villages each developed their own distinctive embroidery patterns, creating a rich tapestry of regional folk art. Today, dedicated artisans are working to preserve these beautiful traditions for future generations.",
+    "url": "https://www.smithsonianmag.com/travel/hungarys-disappearing-folk-art-180955589/"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Deer Spotting Season Begins",
-    "description": "Early September is a wonderful time to see black-tailed deer in the meadows around Port Angeles, especially at dawn and dusk. The Hurricane Ridge meadows are particularly good viewing spots as the deer prepare for autumn. Bring binoculars and enjoy watching these graceful animals from a respectful distance!",
-    "link_text": "Hurricane Ridge Wildlife Guide",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm"
+    "title": "Roosevelt Elk in the Valley",
+    "description": "September is a wonderful time to spot Roosevelt elk in the Elwha Valley as they begin their fall mating season. These magnificent animals—the largest elk species in North America—were named after President Theodore Roosevelt and can often be seen grazing in meadows near Hurricane Ridge.",
+    "link_text": "Learn about local elk viewing",
+    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
   },
   "puzzle_1": {
-    "question": "A black-tailed deer's antlers can grow up to ___ inches long.",
-    "answer": 24,
+    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 4,
-    "correct_response": "Exactly right, Barbara! Those antlers can get quite impressive — up to two feet long!",
-    "close_response": "Very close! Black-tailed deer antlers can grow up to about 24 inches long — that's two feet!",
-    "wrong_response": "These beautiful deer can grow antlers up to 24 inches long — quite impressive for our local deer!",
-    "learn_more_text": "Black-tailed deer are found throughout the Pacific Northwest and are smaller than their mule deer cousins. Only the males (bucks) grow antlers, which they shed and regrow each year.",
-    "learn_more_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus",
-    "learn_more_label": "Washington Department of Fish & Wildlife"
+    "close_range": 200,
+    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute—an astonishing pace!",
+    "wrong_response": "Those tiny hearts are amazing! A hummingbird's heart beats about 1,200 times per minute while flying.",
+    "learn_more_text": "To support this incredible heart rate, hummingbirds must visit hundreds of flowers each day to consume their weight in nectar. Their metabolism is so fast that they can starve to death in just a few hours without food!",
+    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-hover",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'thank you'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Szia",
-      "Köszönöm",
-      "Igen",
-      "Jó napot"
+      "Virág",
+      "Pillangó",
+      "Madár",
+      "Csillag"
     ],
     "correct_index": 1,
-    "correct_response": "Köszönöm, Barbara — that's perfect! You know your Hungarian well!",
-    "wrong_response": "The word for 'thank you' is köszönöm! 'Szia' means 'hi' or 'bye,' 'igen' means 'yes,' and 'jó napot' means 'good day.'",
-    "learn_more_text": "Hungarian is a unique language that's part of the Finno-Ugric family, making it quite different from most other European languages. It's known for its beautiful sounds and complex but logical grammar.",
-    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
-    "learn_more_label": "Britannica Encyclopedia"
+    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely?",
+    "learn_more_text": "The word 'pillangó' comes from an old Hungarian word meaning 'to flutter.' Hungary is home to over 200 species of butterflies, including the stunning Swallowtail.",
+    "learn_more_url": "https://www.britannica.com/animal/butterfly",
+    "learn_more_label": "Encyclopedia Britannica"
   },
   "puzzle_3": {
-    "question": "Which flower is often called the 'Queen of the Garden'?",
+    "question": "What sea creature can regenerate its arms if they're lost to predators?",
     "options": [
-      "Tulip",
-      "Sunflower",
-      "Rose",
-      "Dahlia"
+      "Sea urchin",
+      "Sea cucumber",
+      "Starfish",
+      "Jellyfish"
     ],
     "correct_index": 2,
-    "correct_response": "Beautifully done! The rose has been cherished for thousands of years and truly deserves its royal title as the Queen of the Garden.",
-    "wrong_response": "It's the rose! This beloved flower has been cultivated for over 5,000 years and appears in art, poetry, and gardens around the world.",
-    "learn_more_text": "Roses have been grown in gardens since ancient times, and there are now over 30,000 varieties. They come in almost every color except true blue, and many have the most wonderful fragrances.",
-    "learn_more_url": "https://www.rhs.org.uk/plants/roses/growing-guide",
-    "learn_more_label": "Royal Horticultural Society"
+    "correct_response": "That's right! Starfish are amazing—they can even regenerate a whole new body from just one arm!",
+    "wrong_response": "It's the starfish! These remarkable creatures can regrow lost arms, and sometimes a whole new starfish can grow from a single severed arm.",
+    "learn_more_text": "The starfish you might see in tide pools along the Strait of Juan de Fuca include the beautiful purple and orange ochre sea stars. They play a vital role in keeping tide pool ecosystems balanced.",
+    "learn_more_url": "https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1",
+    "learn_more_label": "National Geographic"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-07T12:02:03.401502-07:00",
-  "date": "2026-09-07",
+  "generated_at": "2026-09-08T11:24:02.333310-07:00",
+  "date": "2026-09-08",
   "is_laundry_day": false
 }
