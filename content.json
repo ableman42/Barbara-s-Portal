@@ -1,79 +1,79 @@
 {
-  "date_display": "Tuesday, September 8",
+  "date_display": "Wednesday, September 9",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just one spice—there are eight different grades, ranging from delicate and sweet to bold and spicy! The town of Szeged and Kalocsa are famous for producing the world's finest paprika, which has been a cornerstone of Hungarian cooking for over 300 years.",
+    "text": "In Hungary, September 9th traditionally marks the beginning of grape harvest season. Families would gather in vineyards to pick grapes for wine-making, often celebrating with music and feasts that lasted well into the evening.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "The Secret Language of Trees",
-    "teaser": "Scientists have discovered that trees communicate with each other through an underground network of fungi, sharing nutrients and even warning each other of danger. It's like a hidden internet beneath the forest floor!",
-    "url": "https://www.bbc.com/earth/story/20141111-plants-have-a-hidden-internet"
+    "meta": "5 min · Gardens",
+    "title": "The Secret Life of Garden Snails",
+    "teaser": "These little gastropods can have over 14,000 teeth and navigate using two pairs of tentacles. Learn how these fascinating creatures help gardens thrive in surprising ways.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-secret-life-of-snails-180978393/"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Return of Sea Otters to the Pacific Northwest",
-    "teaser": "After nearly being hunted to extinction, sea otters are making a remarkable comeback along the Pacific coast. Their return is transforming coastal ecosystems in surprising and wonderful ways.",
-    "url": "https://www.smithsonianmag.com/science-nature/return-sea-otter-180968909/"
+    "meta": "15 min · Nature",
+    "title": "The Ancient Forests of the Olympic Peninsula",
+    "teaser": "Massive Sitka spruce and western red cedars in the Olympic rainforest can live over 500 years. Discover how these gentle giants create entire ecosystems in their branches.",
+    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
   },
   "long_read": {
     "meta": "35 min · History",
-    "title": "The Lost Art of Hungarian Embroidery",
-    "teaser": "For centuries, Hungarian villages each developed their own distinctive embroidery patterns, creating a rich tapestry of regional folk art. Today, dedicated artisans are working to preserve these beautiful traditions for future generations.",
-    "url": "https://www.smithsonianmag.com/travel/hungarys-disappearing-folk-art-180955589/"
+    "title": "The Women Who Mapped the Ocean Floor",
+    "teaser": "Marie Tharp's hand-drawn maps in the 1950s revealed underwater mountain ranges and changed our understanding of Earth. Her detective work proved continents actually move, revolutionizing geology.",
+    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Roosevelt Elk in the Valley",
-    "description": "September is a wonderful time to spot Roosevelt elk in the Elwha Valley as they begin their fall mating season. These magnificent animals—the largest elk species in North America—were named after President Theodore Roosevelt and can often be seen grazing in meadows near Hurricane Ridge.",
-    "link_text": "Learn about local elk viewing",
-    "link_url": "https://www.nps.gov/olym/learn/nature/roosevelt-elk.htm"
+    "icon": "🦅",
+    "title": "Bald Eagle Season Begins",
+    "description": "September marks the return of bald eagles to the Strait of Juan de Fuca for salmon season. Over the next few months, dozens of these magnificent birds gather along the shoreline, and Ediz Hook is one of the best spots to watch them fish and soar.",
+    "link_text": "Learn about local eagles",
+    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute during flight.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Exactly right! That tiny heart is working incredibly hard to power those amazing wings!",
-    "close_response": "You're very close! The answer is 1,200 beats per minute—an astonishing pace!",
-    "wrong_response": "Those tiny hearts are amazing! A hummingbird's heart beats about 1,200 times per minute while flying.",
-    "learn_more_text": "To support this incredible heart rate, hummingbirds must visit hundreds of flowers each day to consume their weight in nectar. Their metabolism is so fast that they can starve to death in just a few hours without food!",
-    "learn_more_url": "https://www.audubon.org/news/how-do-hummingbirds-hover",
-    "learn_more_label": "Audubon Society"
+    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts beat incredibly fast to power those rapid wings.",
+    "close_response": "You're very close! These tiny birds have hearts that beat about 1,200 times per minute — that's 20 times per second!",
+    "wrong_response": "These remarkable little birds have hearts that beat about 1,200 times per minute while flying! That's what powers their incredible hovering ability.",
+    "learn_more_text": "To compare, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to fuel their unique ability to hover and fly backwards.",
+    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
+    "learn_more_label": "More hummingbird facts — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Virág",
       "Pillangó",
+      "Virág",
       "Madár",
       "Csillag"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Pillangó is such a beautiful word for such a beautiful creature!",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó'—doesn't it sound lovely?",
-    "learn_more_text": "The word 'pillangó' comes from an old Hungarian word meaning 'to flutter.' Hungary is home to over 200 species of butterflies, including the stunning Swallowtail.",
+    "correct_index": 0,
+    "correct_response": "Gyönyörű! That's right — pillangó is butterfly in Hungarian! Such a lovely, musical word.",
+    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? Virág means flower, madár means bird, and csillag means star.",
+    "learn_more_text": "The word 'pillangó' may come from an old Hungarian word meaning 'fluttering one.' Hungary is home to over 200 species of butterflies, including the stunning swallowtails.",
     "learn_more_url": "https://www.britannica.com/animal/butterfly",
-    "learn_more_label": "Encyclopedia Britannica"
+    "learn_more_label": "About butterflies — Britannica"
   },
   "puzzle_3": {
-    "question": "What sea creature can regenerate its arms if they're lost to predators?",
+    "question": "What tree produces the largest seed cones in the world?",
     "options": [
-      "Sea urchin",
-      "Sea cucumber",
-      "Starfish",
-      "Jellyfish"
+      "Douglas Fir",
+      "Redwood",
+      "Coulter Pine",
+      "Giant Sequoia"
     ],
     "correct_index": 2,
-    "correct_response": "That's right! Starfish are amazing—they can even regenerate a whole new body from just one arm!",
-    "wrong_response": "It's the starfish! These remarkable creatures can regrow lost arms, and sometimes a whole new starfish can grow from a single severed arm.",
-    "learn_more_text": "The starfish you might see in tide pools along the Strait of Juan de Fuca include the beautiful purple and orange ochre sea stars. They play a vital role in keeping tide pool ecosystems balanced.",
-    "learn_more_url": "https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1",
-    "learn_more_label": "National Geographic"
+    "correct_response": "Wonderful! The Coulter pine produces massive cones that can weigh up to 10 pounds — they're sometimes called 'widowmakers' because they're so heavy!",
+    "wrong_response": "It's actually the Coulter pine! These California natives produce enormous cones weighing up to 10 pounds with thick, sharp scales.",
+    "learn_more_text": "Coulter pine cones can measure over a foot long and are armed with sharp, curved spines. They're found in the mountains of Southern California and northern Baja California.",
+    "learn_more_url": "https://www.fs.usda.gov/detail/cleveland/learning/nature-science/?cid=stelprdb5394663",
+    "learn_more_label": "About Coulter pines — US Forest Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-08T11:24:02.333310-07:00",
-  "date": "2026-09-08",
+  "generated_at": "2026-09-09T11:22:51.394377-07:00",
+  "date": "2026-09-09",
   "is_laundry_day": false
 }
