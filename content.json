@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, September 9",
+  "date_display": "Thursday, September 10",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, September 9th traditionally marks the beginning of grape harvest season. Families would gather in vineyards to pick grapes for wine-making, often celebrating with music and feasts that lasted well into the evening.",
+    "text": "Hungarian paprika isn't just a spice—it's a national treasure! Hungary has eight different types of paprika, ranging from delicate and sweet to fiery hot. The town of Szeged is so famous for its paprika that it hosts an annual paprika festival every October.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Gardens",
-    "title": "The Secret Life of Garden Snails",
-    "teaser": "These little gastropods can have over 14,000 teeth and navigate using two pairs of tentacles. Learn how these fascinating creatures help gardens thrive in surprising ways.",
-    "url": "https://www.smithsonianmag.com/science-nature/the-secret-life-of-snails-180978393/"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Harbor Seals",
+    "teaser": "Harbor seals, like those you might spot in the Strait of Juan de Fuca, can hold their breath for up to 30 minutes and dive nearly 1,500 feet deep. Learn about the fascinating behaviors of these charming marine mammals.",
+    "url": "https://www.nps.gov/articles/harbor-seals.htm"
   },
   "medium_read": {
-    "meta": "15 min · Nature",
-    "title": "The Ancient Forests of the Olympic Peninsula",
-    "teaser": "Massive Sitka spruce and western red cedars in the Olympic rainforest can live over 500 years. Discover how these gentle giants create entire ecosystems in their branches.",
-    "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm"
+    "meta": "15 min · History & Culture",
+    "title": "Budapest's Thermal Baths: A Living Tradition",
+    "teaser": "For over 2,000 years, Hungarians have been soaking in therapeutic thermal waters, a tradition that continues today in Budapest's magnificent bathhouses. Discover the history and culture behind this beloved Hungarian ritual.",
+    "url": "https://www.smithsonianmag.com/travel/budapest-best-thermal-baths-180968465/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Women Who Mapped the Ocean Floor",
-    "teaser": "Marie Tharp's hand-drawn maps in the 1950s revealed underwater mountain ranges and changed our understanding of Earth. Her detective work proved continents actually move, revolutionizing geology.",
-    "url": "https://www.smithsonianmag.com/history/seeing-believing-how-marie-tharp-changed-geology-forever-180960192/"
+    "meta": "35 min · Nature & Wildlife",
+    "title": "Olympic National Park: Where Wilderness Meets Wonder",
+    "teaser": "From temperate rainforests to alpine peaks to wild Pacific coastline, Olympic National Park contains an incredible diversity of ecosystems right in your backyard. This gorgeous exploration reveals why it's one of America's greatest natural treasures.",
+    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Bald Eagle Season Begins",
-    "description": "September marks the return of bald eagles to the Strait of Juan de Fuca for salmon season. Over the next few months, dozens of these magnificent birds gather along the shoreline, and Ediz Hook is one of the best spots to watch them fish and soar.",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦋",
+    "title": "Butterfly Garden at the Clallam County Courthouse",
+    "description": "The beautiful butterfly garden at the Clallam County Courthouse attracts dozens of butterfly species throughout late summer and early fall. September is a wonderful time to visit and watch monarchs, swallowtails, and painted ladies fluttering among the native flowers. It's a peaceful spot right in downtown Port Angeles.",
+    "link_text": "Clallam County Parks",
+    "link_url": "https://www.clallam.net/Parks/"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts beat incredibly fast to power those rapid wings.",
-    "close_response": "You're very close! These tiny birds have hearts that beat about 1,200 times per minute — that's 20 times per second!",
-    "wrong_response": "These remarkable little birds have hearts that beat about 1,200 times per minute while flying! That's what powers their incredible hovering ability.",
-    "learn_more_text": "To compare, a human heart beats about 60-100 times per minute at rest. Hummingbirds need this rapid heartbeat to fuel their unique ability to hover and fly backwards.",
-    "learn_more_url": "https://www.audubon.org/news/fun-facts-about-hummingbirds",
-    "learn_more_label": "More hummingbird facts — Audubon"
+    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those fast-beating wings.",
+    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—that's 20 times per second!",
+    "wrong_response": "Those tiny hearts are truly amazing—they beat about 1,200 times per minute! That's what it takes to power those remarkable hovering abilities.",
+    "learn_more_text": "Rufous hummingbirds pass through the Olympic Peninsula during migration and are known for their incredible journeys—some travel over 3,000 miles from Alaska to Mexico!",
+    "learn_more_url": "https://www.audubon.org/field-guide/bird/rufous-hummingbird",
+    "learn_more_label": "Audubon Guide"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'butterfly'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
-      "Pillangó",
-      "Virág",
-      "Madár",
-      "Csillag"
+      "Köszönöm",
+      "Szia",
+      "Igen",
+      "Tessék"
     ],
-    "correct_index": 0,
-    "correct_response": "Gyönyörű! That's right — pillangó is butterfly in Hungarian! Such a lovely, musical word.",
-    "wrong_response": "The Hungarian word for butterfly is 'pillangó' — doesn't it sound beautiful? Virág means flower, madár means bird, and csillag means star.",
-    "learn_more_text": "The word 'pillangó' may come from an old Hungarian word meaning 'fluttering one.' Hungary is home to over 200 species of butterflies, including the stunning swallowtails.",
-    "learn_more_url": "https://www.britannica.com/animal/butterfly",
-    "learn_more_label": "About butterflies — Britannica"
+    "correct_index": 1,
+    "correct_response": "Szia! That's right! It's such a friendly, versatile word—perfect for both hellos and goodbyes.",
+    "wrong_response": "The answer is 'Szia' (pronounced 'SEE-ah')—it's the informal way Hungarians say both hello and goodbye to friends and family!",
+    "learn_more_text": "Hungarian is a unique language—it's part of the Finno-Ugric family, making it completely different from neighboring European languages. It's known for its beautiful sounds and complex grammar.",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190904-is-hungarian-the-hardest-language",
+    "learn_more_label": "BBC Travel"
   },
   "puzzle_3": {
-    "question": "What tree produces the largest seed cones in the world?",
+    "question": "What type of tree is the oldest living thing in Olympic National Park?",
     "options": [
       "Douglas Fir",
-      "Redwood",
-      "Coulter Pine",
-      "Giant Sequoia"
+      "Western Red Cedar",
+      "Sitka Spruce",
+      "Western Hemlock"
     ],
-    "correct_index": 2,
-    "correct_response": "Wonderful! The Coulter pine produces massive cones that can weigh up to 10 pounds — they're sometimes called 'widowmakers' because they're so heavy!",
-    "wrong_response": "It's actually the Coulter pine! These California natives produce enormous cones weighing up to 10 pounds with thick, sharp scales.",
-    "learn_more_text": "Coulter pine cones can measure over a foot long and are armed with sharp, curved spines. They're found in the mountains of Southern California and northern Baja California.",
-    "learn_more_url": "https://www.fs.usda.gov/detail/cleveland/learning/nature-science/?cid=stelprdb5394663",
-    "learn_more_label": "About Coulter pines — US Forest Service"
+    "correct_index": 1,
+    "correct_response": "Wonderful! Western Red Cedars can live over 1,000 years in the Olympic Peninsula. These magnificent giants were sacred to Native peoples and provided materials for canoes, houses, and clothing.",
+    "wrong_response": "It's the Western Red Cedar! Some in the park are over 1,000 years old. These majestic trees have witnessed centuries of history on the Olympic Peninsula.",
+    "learn_more_text": "The Quinault Rain Forest in Olympic National Park is home to some of the largest Western Red Cedars in the world. Indigenous peoples called them 'Long Life Maker' for their many uses.",
+    "learn_more_url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm",
+    "learn_more_label": "Olympic National Park"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-09T11:22:51.394377-07:00",
-  "date": "2026-09-09",
+  "generated_at": "2026-09-10T11:12:10.153796-07:00",
+  "date": "2026-09-10",
   "is_laundry_day": false
 }
