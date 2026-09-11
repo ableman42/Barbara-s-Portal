@@ -1,79 +1,79 @@
 {
-  "date_display": "Thursday, September 10",
+  "date_display": "Friday, September 11",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika isn't just a spice—it's a national treasure! Hungary has eight different types of paprika, ranging from delicate and sweet to fiery hot. The town of Szeged is so famous for its paprika that it hosts an annual paprika festival every October.",
+    "text": "Hungarian paprika comes in eight different varieties, ranging from sweet and mild to fiery hot! The town of Szeged is so famous for paprika that it hosts an annual festival celebrating this beloved spice, which has been a cornerstone of Hungarian cuisine for over 400 years.",
     "tag": "Hungarian culture"
   },
   "short_read": {
     "meta": "5 min · Nature",
-    "title": "The Secret Lives of Harbor Seals",
-    "teaser": "Harbor seals, like those you might spot in the Strait of Juan de Fuca, can hold their breath for up to 30 minutes and dive nearly 1,500 feet deep. Learn about the fascinating behaviors of these charming marine mammals.",
-    "url": "https://www.nps.gov/articles/harbor-seals.htm"
+    "title": "How Hummingbirds Fly in the Rain",
+    "teaser": "Despite their tiny size, hummingbirds have remarkable adaptations that allow them to fly even during rainstorms. Scientists discovered their secret involves special feather structure and incredible mid-air maneuvers.",
+    "url": "https://www.smithsonianmag.com/science-nature/how-do-hummingbirds-fly-in-the-rain-180969957/"
   },
   "medium_read": {
-    "meta": "15 min · History & Culture",
-    "title": "Budapest's Thermal Baths: A Living Tradition",
-    "teaser": "For over 2,000 years, Hungarians have been soaking in therapeutic thermal waters, a tradition that continues today in Budapest's magnificent bathhouses. Discover the history and culture behind this beloved Hungarian ritual.",
-    "url": "https://www.smithsonianmag.com/travel/budapest-best-thermal-baths-180968465/"
+    "meta": "15 min · Wildlife",
+    "title": "The Secret Lives of Orcas in the Salish Sea",
+    "teaser": "The orcas that swim through the Strait of Juan de Fuca have complex family structures and unique dialects passed down through generations. Learn about the three distinct orca populations that call these waters home and the scientists working to protect them.",
+    "url": "https://www.npca.org/articles/2654-the-orcas-of-puget-sound"
   },
   "long_read": {
-    "meta": "35 min · Nature & Wildlife",
-    "title": "Olympic National Park: Where Wilderness Meets Wonder",
-    "teaser": "From temperate rainforests to alpine peaks to wild Pacific coastline, Olympic National Park contains an incredible diversity of ecosystems right in your backyard. This gorgeous exploration reveals why it's one of America's greatest natural treasures.",
-    "url": "https://www.nationalgeographic.com/travel/national-parks/article/olympic-national-park"
+    "meta": "35 min · History",
+    "title": "The Ancient Art of Hungarian Embroidery",
+    "teaser": "Hungarian embroidery tells stories through intricate patterns that vary from region to region, each with its own symbolic meanings and traditions. This beautiful craft has been preserved by generations of artisans who continue to stitch their heritage into modern life.",
+    "url": "https://www.nationalgeographic.com/travel/article/hungarian-folk-art-embroidery-tradition"
   },
   "port_angeles": {
-    "icon": "🦋",
-    "title": "Butterfly Garden at the Clallam County Courthouse",
-    "description": "The beautiful butterfly garden at the Clallam County Courthouse attracts dozens of butterfly species throughout late summer and early fall. September is a wonderful time to visit and watch monarchs, swallowtails, and painted ladies fluttering among the native flowers. It's a peaceful spot right in downtown Port Angeles.",
-    "link_text": "Clallam County Parks",
-    "link_url": "https://www.clallam.net/Parks/"
+    "icon": "🦌",
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "September is a wonderful time to spot black-tailed deer at Hurricane Ridge, as they're actively feeding before winter. These graceful creatures are often seen grazing in the meadows during early morning or late afternoon, and they're surprisingly comfortable around visitors.",
+    "link_text": "Hurricane Ridge Wildlife",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats about ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "Amazing! You know your hummingbird facts! Their tiny hearts work incredibly hard to power those fast-beating wings.",
-    "close_response": "You're very close! A hummingbird's heart beats about 1,200 times per minute—that's 20 times per second!",
-    "wrong_response": "Those tiny hearts are truly amazing—they beat about 1,200 times per minute! That's what it takes to power those remarkable hovering abilities.",
-    "learn_more_text": "Rufous hummingbirds pass through the Olympic Peninsula during migration and are known for their incredible journeys—some travel over 3,000 miles from Alaska to Mexico!",
-    "learn_more_url": "https://www.audubon.org/field-guide/bird/rufous-hummingbird",
-    "learn_more_label": "Audubon Guide"
+    "correct_response": "That's right! Their tiny hearts work incredibly hard to power those amazing wings!",
+    "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
+    "wrong_response": "It's an amazing 1,200 beats per minute! That tiny heart works incredibly hard to keep those wings humming.",
+    "learn_more_text": "To power their hovering flight and rapid wing beats (up to 80 times per second), hummingbirds have the highest metabolism of any animal. They must consume about half their body weight in sugar daily just to survive.",
+    "learn_more_url": "https://www.audubon.org/news/why-do-hummingbirds-hum",
+    "learn_more_label": "More About Hummingbirds — Audubon"
   },
   "puzzle_2": {
     "question": "Which Hungarian word means 'hello' or 'goodbye'?",
     "options": [
       "Köszönöm",
       "Szia",
-      "Igen",
-      "Tessék"
+      "Szeretlek",
+      "Kérem"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! That's right! It's such a friendly, versatile word—perfect for both hellos and goodbyes.",
-    "wrong_response": "The answer is 'Szia' (pronounced 'SEE-ah')—it's the informal way Hungarians say both hello and goodbye to friends and family!",
-    "learn_more_text": "Hungarian is a unique language—it's part of the Finno-Ugric family, making it completely different from neighboring European languages. It's known for its beautiful sounds and complex grammar.",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190904-is-hungarian-the-hardest-language",
-    "learn_more_label": "BBC Travel"
+    "correct_response": "Szia! You got it right! It's one of the most useful words in Hungarian — friendly and casual.",
+    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah)! It's a warm, informal way to say both hello and goodbye in Hungarian.",
+    "learn_more_text": "Szia is the informal version — for more formal situations, Hungarians say 'Sziasztok' (to multiple people) or 'Jó napot' (good day). The formal goodbye is 'Viszontlátásra,' which literally means 'until I see you again.'",
+    "learn_more_url": "https://www.bbc.com/travel/article/20190924-why-is-hungarian-so-difficult",
+    "learn_more_label": "Hungarian Language — BBC Travel"
   },
   "puzzle_3": {
-    "question": "What type of tree is the oldest living thing in Olympic National Park?",
+    "question": "What special ability do harbor seals have that helps them hunt in the dark waters of the Strait of Juan de Fuca?",
     "options": [
-      "Douglas Fir",
-      "Western Red Cedar",
-      "Sitka Spruce",
-      "Western Hemlock"
+      "They use echolocation like dolphins",
+      "Their whiskers can detect fish movements from several feet away",
+      "They glow in the dark",
+      "They have night vision like cats"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! Western Red Cedars can live over 1,000 years in the Olympic Peninsula. These magnificent giants were sacred to Native peoples and provided materials for canoes, houses, and clothing.",
-    "wrong_response": "It's the Western Red Cedar! Some in the park are over 1,000 years old. These majestic trees have witnessed centuries of history on the Olympic Peninsula.",
-    "learn_more_text": "The Quinault Rain Forest in Olympic National Park is home to some of the largest Western Red Cedars in the world. Indigenous peoples called them 'Long Life Maker' for their many uses.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/old-growth-forests.htm",
-    "learn_more_label": "Olympic National Park"
+    "correct_response": "Wonderful! Harbor seals have incredibly sensitive whiskers that can detect the tiny water movements made by fish, even in complete darkness!",
+    "wrong_response": "Their secret is in their whiskers! These sensitive whiskers can detect the tiniest water movements made by fish from several feet away, even in murky or dark water.",
+    "learn_more_text": "Each whisker on a harbor seal's face is packed with nerve endings and can move independently. Scientists have found they can track the hydrodynamic trail left by a fish up to 30 seconds after it swam by — like following an underwater scent trail!",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "About Harbor Seals — NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-10T11:12:10.153796-07:00",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T11:16:01.002477-07:00",
+  "date": "2026-09-11",
   "is_laundry_day": false
 }
