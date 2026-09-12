@@ -1,79 +1,79 @@
 {
-  "date_display": "Friday, September 11",
+  "date_display": "Saturday, September 12",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "Hungarian paprika comes in eight different varieties, ranging from sweet and mild to fiery hot! The town of Szeged is so famous for paprika that it hosts an annual festival celebrating this beloved spice, which has been a cornerstone of Hungarian cuisine for over 400 years.",
+    "text": "Hungarian shepherds bred the Puli dog with its distinctive corded coat that resembles dreadlocks. These intelligent herding dogs were so valued that a good Puli could cost a shepherd's entire year's salary! The cords naturally form as the dog matures and help protect them from harsh weather and wolf bites.",
     "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Nature",
-    "title": "How Hummingbirds Fly in the Rain",
-    "teaser": "Despite their tiny size, hummingbirds have remarkable adaptations that allow them to fly even during rainstorms. Scientists discovered their secret involves special feather structure and incredible mid-air maneuvers.",
-    "url": "https://www.smithsonianmag.com/science-nature/how-do-hummingbirds-fly-in-the-rain-180969957/"
+    "meta": "5 min · Wildlife",
+    "title": "Why Do Hummingbirds Hum?",
+    "teaser": "These tiny jewels of the bird world create their distinctive sound not with their voices, but with their incredible wings. Discover the fascinating science behind the hum and why these birds are engineering marvels of nature.",
+    "url": "https://www.audubon.org/news/why-do-hummingbirds-hum"
   },
   "medium_read": {
-    "meta": "15 min · Wildlife",
-    "title": "The Secret Lives of Orcas in the Salish Sea",
-    "teaser": "The orcas that swim through the Strait of Juan de Fuca have complex family structures and unique dialects passed down through generations. Learn about the three distinct orca populations that call these waters home and the scientists working to protect them.",
-    "url": "https://www.npca.org/articles/2654-the-orcas-of-puget-sound"
+    "meta": "15 min · Gardens",
+    "title": "The Secret Language of Flowers in Victorian Gardens",
+    "teaser": "In the 1800s, every flower carried a hidden message, from roses declaring love to lavender expressing devotion. This charming tradition transformed gardens into living letters and gave new meaning to every bouquet.",
+    "url": "https://www.smithsonianmag.com/history/the-secret-victorian-language-of-flowers-135271784/"
   },
   "long_read": {
-    "meta": "35 min · History",
-    "title": "The Ancient Art of Hungarian Embroidery",
-    "teaser": "Hungarian embroidery tells stories through intricate patterns that vary from region to region, each with its own symbolic meanings and traditions. This beautiful craft has been preserved by generations of artisans who continue to stitch their heritage into modern life.",
-    "url": "https://www.nationalgeographic.com/travel/article/hungarian-folk-art-embroidery-tradition"
+    "meta": "35 min · Natural History",
+    "title": "The Ancient Forests of the Olympic Peninsula",
+    "teaser": "The temperate rainforests near Port Angeles are among the oldest and most remarkable ecosystems on Earth, where trees live for centuries and moss drapes like velvet curtains. National Geographic explores these cathedral-like groves that have witnessed hundreds of years of Pacific Northwest history.",
+    "url": "https://www.nationalgeographic.com/travel/article/olympic-national-park-washington-rainforest"
   },
   "port_angeles": {
-    "icon": "🦌",
-    "title": "Black-Tailed Deer at Hurricane Ridge",
-    "description": "September is a wonderful time to spot black-tailed deer at Hurricane Ridge, as they're actively feeding before winter. These graceful creatures are often seen grazing in the meadows during early morning or late afternoon, and they're surprisingly comfortable around visitors.",
-    "link_text": "Hurricane Ridge Wildlife",
-    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
+    "icon": "🦭",
+    "title": "Harbor Seal Pupping Season Wraps Up",
+    "description": "September marks the end of harbor seal pupping season along the Strait of Juan de Fuca. By now, most of the adorable pups born this summer have learned to fish on their own and are exploring the waters near Port Angeles. You might spot them hauled out on rocks at low tide, resting between feeding sessions.",
+    "link_text": "Learn about local seals",
+    "link_url": "https://www.fisheries.noaa.gov/species/harbor-seal"
   },
   "puzzle_1": {
-    "question": "A hummingbird's heart beats approximately ___ times per minute while flying.",
+    "question": "A hummingbird's heart beats approximately ___ times per minute while in flight.",
     "answer": 1200,
     "answer_is_number": true,
     "close_range": 200,
-    "correct_response": "That's right! Their tiny hearts work incredibly hard to power those amazing wings!",
+    "correct_response": "Exactly right, Barbara! That tiny heart works incredibly hard to power those amazing wings!",
     "close_response": "You're very close! The answer is 1,200 beats per minute — that's about 20 times per second!",
-    "wrong_response": "It's an amazing 1,200 beats per minute! That tiny heart works incredibly hard to keep those wings humming.",
-    "learn_more_text": "To power their hovering flight and rapid wing beats (up to 80 times per second), hummingbirds have the highest metabolism of any animal. They must consume about half their body weight in sugar daily just to survive.",
-    "learn_more_url": "https://www.audubon.org/news/why-do-hummingbirds-hum",
-    "learn_more_label": "More About Hummingbirds — Audubon"
+    "wrong_response": "The answer is 1,200 beats per minute! It's hard to imagine such a tiny heart beating so fast, but it's what gives hummingbirds their incredible flying abilities.",
+    "learn_more_text": "To put this in perspective, a human heart beats about 60-100 times per minute at rest. A hummingbird's metabolic rate is so high that they must eat constantly and enter a hibernation-like state called torpor at night to conserve energy.",
+    "learn_more_url": "https://www.audubon.org/news/how-hummingbirds-survive-cold-nights",
+    "learn_more_label": "Hummingbird Facts — Audubon"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'hello' or 'goodbye' in an informal, friendly way?",
     "options": [
       "Köszönöm",
       "Szia",
-      "Szeretlek",
-      "Kérem"
+      "Igen",
+      "Viszlát"
     ],
     "correct_index": 1,
-    "correct_response": "Szia! You got it right! It's one of the most useful words in Hungarian — friendly and casual.",
-    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah)! It's a warm, informal way to say both hello and goodbye in Hungarian.",
-    "learn_more_text": "Szia is the informal version — for more formal situations, Hungarians say 'Sziasztok' (to multiple people) or 'Jó napot' (good day). The formal goodbye is 'Viszontlátásra,' which literally means 'until I see you again.'",
-    "learn_more_url": "https://www.bbc.com/travel/article/20190924-why-is-hungarian-so-difficult",
-    "learn_more_label": "Hungarian Language — BBC Travel"
+    "correct_response": "Wonderful, Ildiko! Szia is such a warm, friendly greeting — perfect for friends and family!",
+    "wrong_response": "The answer is 'Szia'! It's one of the most common informal greetings in Hungarian, used with friends and people you know well. Köszönöm means 'thank you,' Igen means 'yes,' and Viszlát is a more formal goodbye.",
+    "learn_more_text": "Szia comes from the word 'szolga' meaning servant, originally meaning 'at your service.' Like many greetings around the world, it started as a formal phrase but became casual and friendly over time!",
+    "learn_more_url": "https://www.hungarianreference.com/Greetings/basic-greetings.aspx",
+    "learn_more_label": "Hungarian Greetings — Hungarian Reference"
   },
   "puzzle_3": {
-    "question": "What special ability do harbor seals have that helps them hunt in the dark waters of the Strait of Juan de Fuca?",
+    "question": "Which famous explorer mapped much of the Pacific Northwest coast, including the waters near Port Angeles, in the 1790s?",
     "options": [
-      "They use echolocation like dolphins",
-      "Their whiskers can detect fish movements from several feet away",
-      "They glow in the dark",
-      "They have night vision like cats"
+      "Lewis and Clark",
+      "Sir Francis Drake",
+      "Captain George Vancouver",
+      "John C. Frémont"
     ],
-    "correct_index": 1,
-    "correct_response": "Wonderful! Harbor seals have incredibly sensitive whiskers that can detect the tiny water movements made by fish, even in complete darkness!",
-    "wrong_response": "Their secret is in their whiskers! These sensitive whiskers can detect the tiniest water movements made by fish from several feet away, even in murky or dark water.",
-    "learn_more_text": "Each whisker on a harbor seal's face is packed with nerve endings and can move independently. Scientists have found they can track the hydrodynamic trail left by a fish up to 30 seconds after it swam by — like following an underwater scent trail!",
-    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
-    "learn_more_label": "About Harbor Seals — NOAA Fisheries"
+    "correct_index": 2,
+    "correct_response": "That's right! Captain George Vancouver charted these waters in 1792, and the city of Vancouver is named in his honor. His detailed maps and journals documented the beauty of the Strait of Juan de Fuca and Puget Sound.",
+    "wrong_response": "The answer is Captain George Vancouver! He explored and mapped the Pacific Northwest coast in 1792, creating detailed charts of the waters you see from Port Angeles. Both Vancouver, British Columbia, and Vancouver, Washington are named after him.",
+    "learn_more_text": "Vancouver's expedition included the artist-botanist Archibald Menzies, who documented the region's incredible plants and wildlife. Their detailed records give us a window into what the Olympic Peninsula looked like over 230 years ago.",
+    "learn_more_url": "https://www.nps.gov/articles/000/george-vancouver.htm",
+    "learn_more_label": "Captain Vancouver — National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-11T11:16:01.002477-07:00",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T10:42:27.157137-07:00",
+  "date": "2026-09-12",
   "is_laundry_day": false
 }
