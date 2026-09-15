@@ -1,79 +1,79 @@
 {
-  "date_display": "Monday, September 14",
+  "date_display": "Tuesday, September 15",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "In Hungary, September 14th is traditionally when people start harvesting grapes for wine-making season. The country has been producing wine for over 2,000 years, with Tokaji wine being one of the world's oldest sweet wines, dating back to the 1500s.",
-    "tag": "Hungarian culture"
+    "text": "The Olympic Peninsula receives more rainfall than almost anywhere else in the continental United States, with some areas getting over 140 inches per year! This creates temperate rainforests where moss drapes the trees like green velvet curtains. The Hoh Rainforest, just a short drive from Port Angeles, is one of the most magical places to experience this lush wonderland.",
+    "tag": "Olympic Peninsula"
   },
   "short_read": {
-    "meta": "5 min · Wildlife",
-    "title": "The Secret Lives of Banana Slugs",
-    "teaser": "These bright yellow mollusks are the Pacific Northwest's gentle forest gardeners. Learn why they're so important to the Olympic Peninsula's ecosystem and why they can grow up to 10 inches long!",
-    "url": "https://www.nps.gov/olym/learn/nature/banana-slug.htm"
+    "meta": "5 min · Nature",
+    "title": "The Secret Lives of Hummingbirds",
+    "teaser": "These tiny jewels can fly backwards and their hearts beat over 1,200 times per minute! Learn about the amazing abilities of these garden visitors.",
+    "url": "https://www.smithsonianmag.com/science-nature/the-truth-about-hummingbirds-9194443/"
   },
   "medium_read": {
     "meta": "15 min · History",
-    "title": "The Fascinating History of the Strait of Juan de Fuca",
-    "teaser": "Named after a Greek sailor who may have never actually sailed it, this waterway connects Port Angeles to the Pacific. Its discovery story involves international intrigue, competing explorers, and indigenous peoples who knew it all along.",
-    "url": "https://www.nps.gov/articles/000/strait-of-juan-de-fuca.htm"
+    "title": "The Golden Age of Hungarian Thermal Baths",
+    "teaser": "Budapest's thermal baths have been healing and delighting visitors for over 2,000 years, from Roman times through the Ottoman era to today. Discover the rich history and culture of these beautiful bathing traditions.",
+    "url": "https://www.bbc.com/travel/article/20190924-budapests-remarkable-history-of-healing"
   },
   "long_read": {
-    "meta": "35 min · Nature",
-    "title": "Olympic National Park: Three Ecosystems in One",
-    "teaser": "From temperate rainforests to alpine peaks to rugged coastlines, discover how one park contains such remarkable diversity. This beautiful exploration takes you through the unique plants and animals that make each ecosystem special.",
-    "url": "https://www.smithsonianmag.com/travel/olympic-national-park-three-parks-one-180960661/"
+    "meta": "35 min · Wildlife",
+    "title": "The Return of the Gray Whales",
+    "teaser": "Every year, gray whales make one of the longest migrations on Earth, traveling along the Pacific Coast past the Strait of Juan de Fuca. This is the story of their incredible journey and remarkable recovery from near extinction.",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/gray-whale"
   },
   "port_angeles": {
     "icon": "🦌",
-    "title": "Black-Tailed Deer Season",
-    "description": "September is when you might see more Columbian black-tailed deer near Park View Villas, as they move to lower elevations for fall. These gentle creatures are unique to the Pacific Northwest and are smaller than their white-tailed cousins. Keep an eye out during your morning walks!",
-    "link_text": "Learn about local deer",
-    "link_url": "https://wdfw.wa.gov/species-habitats/species/odocoileus-hemionus-columbianus"
+    "title": "Black-Tailed Deer at Hurricane Ridge",
+    "description": "September is a wonderful time to spot the Olympic black-tailed deer at Hurricane Ridge, as they're often seen grazing in the meadows before winter arrives. These gentle creatures are unique to the Pacific Northwest and are smaller and darker than other deer species. Bring binoculars and you might see does with their nearly-grown fawns!",
+    "link_text": "Hurricane Ridge Info",
+    "link_url": "https://www.nps.gov/olym/planyourvisit/hurricane-ridge.htm"
   },
   "puzzle_1": {
-    "question": "A banana slug can be up to ___ inches long, making it one of the largest slugs in North America.",
-    "answer": 10,
+    "question": "A hummingbird can beat its wings up to ___ times per second during normal flight.",
+    "answer": 80,
     "answer_is_number": true,
-    "close_range": 2,
-    "correct_response": "That's exactly right, Barbara! These gentle giants can reach 10 inches — about as long as a pencil!",
-    "close_response": "You're very close! These amazing mollusks can reach up to 10 inches long.",
-    "wrong_response": "These remarkable creatures can actually grow up to 10 inches long — that's nearly a foot! They're the second-largest terrestrial slug in the world.",
-    "learn_more_text": "Banana slugs are decomposers that help recycle nutrients in the forest. They're bright yellow to warn predators that they taste terrible!",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/banana-slug.htm",
-    "learn_more_label": "More about banana slugs — National Park Service"
+    "close_range": 10,
+    "correct_response": "Exactly right! Those tiny wings are a blur of motion — no wonder they hum!",
+    "close_response": "You're very close! The answer is 80 beats per second — almost too fast to imagine!",
+    "wrong_response": "It's actually about 80 times per second — faster than we can even see! That's what creates their humming sound.",
+    "learn_more_text": "During courtship dives, male hummingbirds can beat their wings up to 200 times per second! This incredible speed allows them to hover perfectly in place while feeding from flowers.",
+    "learn_more_url": "https://www.audubon.org/news/14-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'grandmother'?",
     "options": [
-      "Köszönöm",
-      "Szia",
-      "Igen",
-      "Tessék"
+      "Anya",
+      "Testvér",
+      "Nagymama",
+      "Barát"
     ],
-    "correct_index": 1,
-    "correct_response": "Szia! You got it right, Ildiko! It's one of the most versatile and friendly words in Hungarian.",
-    "wrong_response": "The answer is 'Szia' (pronounced SEE-ah) — it's a warm, informal way to say both hello and goodbye to friends and family!",
-    "learn_more_text": "Szia comes from the word 'szolga' meaning servant, originally part of the phrase 'your humble servant.' The more formal version is 'Sziasztok' when greeting multiple people.",
-    "learn_more_url": "https://www.hungarianreference.com/Greetings.aspx",
-    "learn_more_label": "Hungarian greetings — Hungarian Reference"
+    "correct_index": 2,
+    "correct_response": "Wonderful! Nagymama is such a sweet word — 'nagy' means big or great, and 'mama' means mother!",
+    "wrong_response": "The answer is Nagymama! It combines 'nagy' (great) with 'mama' (mother) — a beautiful way to honor grandmothers.",
+    "learn_more_text": "In Hungarian families, it's also common to hear 'Nagyanya' for grandmother, while 'Anya' means mother, 'Testvér' means sibling, and 'Barát' means friend. Hungarian is unique because it's not related to most other European languages!",
+    "learn_more_url": "https://www.britannica.com/topic/Hungarian-language",
+    "learn_more_label": "Britannica"
   },
   "puzzle_3": {
-    "question": "What is the Olympic Peninsula's temperate rainforest known for receiving each year?",
+    "question": "What do harbor seals use their whiskers for?",
     "options": [
-      "The most sunshine in Washington",
-      "Over 140 inches of rain",
-      "The earliest spring flowers",
-      "The warmest temperatures"
+      "Detecting temperature changes",
+      "Sensing vibrations from fish movement",
+      "Measuring water depth",
+      "Communication with other seals"
     ],
     "correct_index": 1,
-    "correct_response": "Wonderful! The Hoh Rainforest gets over 140 inches of rain annually — that's nearly 12 feet! This creates those magical misty forests with hanging moss that make our area so special.",
-    "wrong_response": "Actually, the Olympic rainforests receive over 140 inches of rain each year — that's what makes them so lush and green! The Hoh Rainforest is one of the wettest places in the continental United States.",
-    "learn_more_text": "All that rain creates perfect conditions for Sitka spruce and western hemlock trees to grow over 200 feet tall, and for moss and ferns to drape every surface in green.",
-    "learn_more_url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
-    "learn_more_label": "About temperate rainforests — Olympic National Park"
+    "correct_response": "Perfect! Harbor seals have super-sensitive whiskers that can detect the tiniest movements in the water, helping them hunt fish even in murky conditions!",
+    "wrong_response": "Actually, they use their whiskers to sense vibrations from fish swimming nearby! These sensitive whiskers help them hunt even when they can't see well.",
+    "learn_more_text": "Harbor seals are common visitors to the Strait of Juan de Fuca and can often be spotted lounging on rocks near Port Angeles. Their whiskers are so sensitive they can follow the trail of a fish that swam by 30 seconds earlier!",
+    "learn_more_url": "https://www.fisheries.noaa.gov/species/harbor-seal",
+    "learn_more_label": "NOAA Fisheries"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-14T12:45:35.351363-07:00",
-  "date": "2026-09-14",
+  "generated_at": "2026-09-15T11:45:59.318875-07:00",
+  "date": "2026-09-15",
   "is_laundry_day": false
 }
