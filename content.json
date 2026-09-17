@@ -1,79 +1,79 @@
 {
-  "date_display": "Wednesday, September 16",
+  "date_display": "Thursday, September 17",
   "quote": {
     "text": "In every walk with nature, one receives far more than he seeks.",
     "author": "John Muir"
   },
   "fun_fact": {
-    "text": "The Strait of Juan de Fuca, which you can see from Port Angeles, was named after a Greek sailor who sailed for Spain in 1592. He claimed to have found the waterway connecting the Pacific Ocean to the Atlantic—though this Northwest Passage didn't actually exist, his name stuck to this beautiful strait!",
-    "tag": "Local History"
+    "text": "The Hungarian word 'Ildikó' (Barbara's Hungarian name!) comes from the ancient Huns and means 'warrior woman' or 'fighter.' Saint Ildikó was a princess who married Attila the Hun in the 5th century, making it a name with over 1,500 years of history!",
+    "tag": "Hungarian culture"
   },
   "short_read": {
-    "meta": "5 min · Gardens",
-    "title": "How Plants Know When It's Time to Bloom",
-    "teaser": "Scientists have discovered that plants can actually measure day length using special proteins that act like tiny clocks. It's nature's way of making sure flowers appear at just the right time of year!",
-    "url": "https://www.smithsonianmag.com/science-nature/how-do-plants-know-when-to-flower-180983994/"
+    "meta": "5 min · Nature",
+    "title": "How Trees Talk to Each Other",
+    "teaser": "Scientists have discovered that trees communicate through an underground network of fungi, sharing nutrients and warning each other of danger. It's like a 'wood wide web' right beneath our feet!",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "medium_read": {
     "meta": "15 min · Wildlife",
-    "title": "The Secret Lives of Harbor Seals in the Pacific Northwest",
-    "teaser": "Harbor seals are year-round residents of the waters around Port Angeles, and they're much more intelligent and social than most people realize. Learn about their family bonds, communication skills, and how they navigate the cold waters of the Strait.",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/harbor-seal"
+    "title": "The Secret Lives of Orcas in the Pacific Northwest",
+    "teaser": "The orcas swimming through the Strait of Juan de Fuca have complex family bonds and unique dialects that identify their pods. Learn about the resident and transient orcas that call your waters home.",
+    "url": "https://www.npca.org/articles/2535-the-orcas-of-the-pacific-northwest"
   },
   "long_read": {
-    "meta": "35 min · History & Culture",
-    "title": "The Flavors of Hungary: A Culinary Journey",
-    "teaser": "From paprika-laden stews to delicate pastries, Hungarian cuisine tells the story of a nation at the crossroads of empires. This beautiful exploration celebrates the dishes, traditions, and family memories that make Hungarian food so special.",
-    "url": "https://www.bbc.com/travel/article/20190326-hungarys-spectacular-food"
+    "meta": "35 min · Travel & History",
+    "title": "The Gardens of Budapest: A Journey Through Hungarian Horticulture",
+    "teaser": "From the historic botanical gardens to the modern parks along the Danube, Budapest's green spaces tell the story of Hungarian culture and resilience. Discover the beauty and history of gardens in your homeland.",
+    "url": "https://www.nationalgeographic.com/travel/article/budapest-hungary-thermal-baths-gardens-culture"
   },
   "port_angeles": {
-    "icon": "🦅",
-    "title": "Eagle Migration Season on the Peninsula",
-    "description": "September is prime time for watching bald eagles along the Dungeness Spit and Ediz Hook! These majestic birds gather to feed on salmon returning to spawn. Early morning and late afternoon offer the best viewing opportunities as eagles soar above the water hunting for fish.",
-    "link_text": "Learn about local eagles",
-    "link_url": "https://www.nps.gov/olym/learn/nature/bald-eagle.htm"
+    "icon": "🦌",
+    "title": "Deer Rutting Season Begins",
+    "description": "September marks the beginning of rutting season for the black-tailed deer around Port Angeles and the Olympic Peninsula. You might spot bucks with their antlers in full velvet, preparing for the autumn mating season. Early morning and dusk are the best times to watch for them near the edges of meadows.",
+    "link_text": "Learn about Olympic deer",
+    "link_url": "https://www.nps.gov/olym/learn/nature/black-tailed-deer.htm"
   },
   "puzzle_1": {
-    "question": "A bald eagle's nest, called an eyrie, can weigh up to ___ pounds—about as much as a small car!",
-    "answer": 2000,
+    "question": "A hummingbird's heart beats approximately ___ times per minute when active.",
+    "answer": 1200,
     "answer_is_number": true,
-    "close_range": 500,
-    "correct_response": "Exactly right! Those eagle nests are incredibly massive—built year after year until they become enormous structures!",
-    "close_response": "You're very close! The answer is 2,000 pounds—these nests can truly become gigantic over the years!",
-    "wrong_response": "The answer is 2,000 pounds! Hard to imagine, isn't it? Eagles add to their nests year after year, making them some of the largest nests in the bird world.",
-    "learn_more_text": "Bald eagles return to the same nest each year, adding more sticks and branches. The largest recorded bald eagle nest was in Florida—it measured 9.5 feet wide and 20 feet deep!",
-    "learn_more_url": "https://www.allaboutbirds.org/guide/Bald_Eagle/lifehistory",
-    "learn_more_label": "More about eagles — Cornell Lab"
+    "close_range": 200,
+    "correct_response": "That's right, Barbara! Amazingly fast — like a tiny helicopter engine!",
+    "close_response": "You're very close! The answer is around 1,200 beats per minute — incredibly fast!",
+    "wrong_response": "These tiny birds are remarkable! A hummingbird's heart beats about 1,200 times per minute when flying — that's 20 beats every second!",
+    "learn_more_text": "Hummingbirds have the highest metabolism of all animals, which is why they need to eat almost constantly and visit hundreds of flowers each day to fuel their tiny bodies.",
+    "learn_more_url": "https://www.audubon.org/news/10-fun-facts-about-hummingbirds",
+    "learn_more_label": "Audubon Society"
   },
   "puzzle_2": {
-    "question": "Which Hungarian word means 'hello' or 'goodbye'?",
+    "question": "Which Hungarian word means 'butterfly'?",
     "options": [
-      "Köszönöm",
-      "Szia",
-      "Szeretlek",
-      "Viszlát"
+      "Madár",
+      "Pillangó",
+      "Virág",
+      "Méhecske"
     ],
     "correct_index": 1,
-    "correct_response": "Perfect! Szia (pronounced 'see-ah') is such a friendly, casual way to greet someone or say goodbye in Hungarian!",
-    "wrong_response": "The answer is 'Szia' (pronounced 'see-ah')! It's a casual, warm way to say both hello and goodbye. Köszönöm means 'thank you,' Szeretlek means 'I love you,' and Viszlát is a more formal 'goodbye.'",
-    "learn_more_text": "Hungarian is part of the Finno-Ugric language family, making it quite unique in Europe. It's most closely related to Finnish and Estonian, though even those languages are quite different!",
-    "learn_more_url": "https://www.bbc.com/travel/article/20200406-why-hungarian-is-so-hard-to-learn",
-    "learn_more_label": "Hungarian language — BBC"
+    "correct_response": "Wonderful, Ildikó! Pillangó is such a beautiful word for such a beautiful creature!",
+    "wrong_response": "The answer is 'pillangó'! Such a lovely word. (Madár means bird, virág means flower, and méhecske means little bee.)",
+    "learn_more_text": "The Hungarian word 'pillangó' comes from an older form meaning 'fluttering one.' Hungary is home to over 200 species of butterflies, including the beautiful Scarce Swallowtail.",
+    "learn_more_url": "https://www.hungarytoday.hu/hungarian-butterflies-biodiversity-nature/",
+    "learn_more_label": "Hungary Today"
   },
   "puzzle_3": {
-    "question": "What amazing ability do hummingbirds have that no other birds can do?",
+    "question": "What is the Olympic National Park's most famous temperate rainforest valley?",
     "options": [
-      "Sleep while flying",
-      "Fly backwards",
-      "Change color instantly",
-      "Hold their breath for 10 minutes"
+      "Hurricane Ridge",
+      "Hoh Rain Forest",
+      "Sol Duc Valley",
+      "Elwha Valley"
     ],
     "correct_index": 1,
-    "correct_response": "Yes! Hummingbirds are the only birds that can fly backwards—and they can also hover in place like tiny helicopters. Their wings beat up to 80 times per second!",
-    "wrong_response": "The answer is fly backwards! Hummingbirds are the only birds with this special ability. Their unique wing structure lets them fly backwards, forwards, and even hover perfectly still in the air.",
-    "learn_more_text": "Hummingbirds have incredible metabolism—their hearts can beat over 1,200 times per minute! Anna's hummingbirds are common visitors to gardens in Port Angeles year-round.",
-    "learn_more_url": "https://www.audubon.org/news/the-hummingbirds-superpowers",
-    "learn_more_label": "Hummingbird facts — Audubon Society"
+    "correct_response": "Yes! The Hoh Rain Forest is absolutely magical, with its moss-draped trees and lush green beauty. It receives over 12 feet of rain each year!",
+    "wrong_response": "It's the Hoh Rain Forest! This enchanted valley gets over 140 inches of rain yearly, creating one of the most lush temperate rainforests in the world, right in your backyard.",
+    "learn_more_text": "The Hoh Rain Forest is home to some of the largest Sitka spruce, western red cedar, and Douglas fir trees in the world. The Hall of Mosses trail is one of the most stunning short walks in all of Olympic National Park.",
+    "learn_more_url": "https://www.nps.gov/olym/planyourvisit/visiting-the-hoh.htm",
+    "learn_more_label": "Olympic National Park Service"
   },
   "game": {
     "icon": "🫧",
@@ -81,7 +81,7 @@
     "description": "A relaxing bubble puzzle game — aim and pop matching colored bubbles. Easy to pick up, fun to play!",
     "url": "https://www.bubbleshooter.net"
   },
-  "generated_at": "2026-09-16T11:44:43.211747-07:00",
-  "date": "2026-09-16",
+  "generated_at": "2026-09-17T11:52:07.892410-07:00",
+  "date": "2026-09-17",
   "is_laundry_day": false
 }
